@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-labelledby="title">
+  <title id="title">Animated star divider</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7f2" stop-opacity="0"/>
+      <stop offset=".28" stop-color="#6ee7f2" stop-opacity=".72"/>
+      <stop offset=".5" stop-color="#ffe59d"/>
+      <stop offset=".72" stop-color="#f493b7" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#f493b7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M92 35H525M675 35H1108" stroke="url(#line)" stroke-width="2"/>
+  <g transform="translate(600 35)" fill="none" stroke="#f5c6d7" filter="url(#glow)">
+    <path d="M0-18L18 0L0 18L-18 0Z" stroke-width="1.8">
+      <animateTransform attributeName="transform" type="rotate" values="0;180;360" dur="14s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#ffe6a5" stroke="none">
+      <animate attributeName="r" values="4;6;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#d9fbff" filter="url(#glow)">
+    <path d="M470 22l2.5 6 6 2.5-6 2.5-2.5 6-2.5-6-6-2.5 6-2.5z">
+      <animate attributeName="opacity" values=".15;1;.15" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M730 27l2 5 5 2-5 2-2 5-2-5-5-2 5-2z" fill="#ffd7e6">
+      <animate attributeName="opacity" values="1;.12;1" dur="3.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

@@ -1,12 +1,6 @@
 <div align="center">
 
-# 🐾 Codex Anime Pets
-
-### Your favorite characters, reimagined as lively companions for Codex.
-
-**Character art → polished Codex v2 animated pets**
-
-`6 characters` · `7 downloadable editions` · `2D + 3D-rendered styles` · `9 animation states` · `16 look directions`
+<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets — animated midnight character select">
 
 <p>
   <a href="README.md"><kbd><b>English</b></kbd></a>
@@ -14,50 +8,81 @@
   <a href="README.zh-CN.md"><kbd>中文</kbd></a>
 </p>
 
+<p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
+
+<p>
+  <code>✦ 6 CHARACTERS</code>
+  <code>✦ 7 EDITIONS</code>
+  <code>✦ 9 ANIMATIONS</code>
+  <code>✦ 16 LOOK DIRECTIONS</code>
+</p>
+
+<sub>🌙 Pick a character · Unzip the package · Let them keep you company</sub>
+
+</div>
+
+<div align="center">
+
+## ✦ Select Your Companion ✦
+
+<sub>Each portrait below is already alive. Hover, watch, and choose your favorite.</sub>
+
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 01 · ADEPTUS ✦</sub><br>
       <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="Xiao idle animation"><br>
-      <b>Xiao · 魈</b><br>
-      <sub>Watchful, restrained, unmistakably adeptal</sub>
+      <b>「 Xiao · 魈 」</b><br>
+      <sub>◇ Watchful · Restrained · Adeptal ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 02 · VIDYADHARA ✦</sub><br>
       <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="Dan Heng Imbibitor Lunae idle animation"><br>
-      <b>Dan Heng · Imbibitor Lunae · 丹恒·饮月</b><br>
-      <sub>Cool elegance, flowing hair, quiet presence</sub>
+      <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
+      <sub>◇ Cool elegance · Quiet presence ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 03 · GENERAL ✦</sub><br>
       <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="Jing Yuan idle animation"><br>
-      <b>Jing Yuan · 景元</b><br>
-      <sub>Relaxed confidence with a keen eye</sub>
+      <b>「 Jing Yuan · 景元 」</b><br>
+      <sub>◇ Relaxed confidence · Keen eye ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 04 · CONSULTANT ✦</sub><br>
       <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="Zhongli idle animation"><br>
-      <b>Zhongli · 钟离</b><br>
-      <sub>Measured, dependable, quietly commanding</sub>
+      <b>「 Zhongli · 钟离 」</b><br>
+      <sub>◇ Measured · Dependable · Dignified ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 05 · SERPENT HASHIRA ✦</sub><br>
       <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="Obanai idle animation"><br>
-      <b>Obanai · 伊黑小芭内</b><br>
-      <sub>Reserved, alert, always beside Kaburamaru</sub>
+      <b>「 Obanai · 伊黑小芭内 」</b><br>
+      <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ CHARACTER 06 · VALKYRIE ✦</sub><br>
       <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="Raiden Mei idle animation"><br>
-      <b>Raiden Mei · 雷电芽衣</b><br>
-      <sub>Composed, curious, ready for action</sub>
+      <b>「 Raiden Mei · 雷电芽衣 」</b><br>
+      <sub>◇ Composed · Curious · Ready ◇</sub>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## ✨ More than a portrait
+<div align="center">
 
-Each release is a complete animated companion. The characters breathe, run, wave, jump, react to setbacks, wait for your input, focus while a task is running, and look over the finished result.
+## ✦ Motion Reel ✦
+
+<sub>Breathing, leaping, greeting, thinking — small moments that make the character feel present.</sub>
+
+</div>
 
 <table>
   <tr>
@@ -89,11 +114,22 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## 🎭 Meet the cast
+<div align="center">
 
-### Xiao · 魈
+## ✦ Character Archives ✦
+
+<sub>Open a file to see the character details, animation sheet, and download.</sub>
+
+</div>
+
+<details open>
+<summary><b>🌙 FILE 01 — Xiao · 魈</b>　<sub>Guardian Yaksha / 2D edition</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -109,7 +145,12 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
-### Dan Heng · Imbibitor Lunae · 丹恒·饮月
+</details>
+
+<details>
+<summary><b>🐉 FILE 02 — Dan Heng · Imbibitor Lunae · 丹恒·饮月</b>　<sub>Vidyadhara / 2D edition</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -125,7 +166,12 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
-### Jing Yuan · 景元
+</details>
+
+<details>
+<summary><b>🦁 FILE 03 — Jing Yuan · 景元</b>　<sub>Cloud Knight General / 2D edition</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -141,7 +187,12 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
-### Zhongli · 钟离
+</details>
+
+<details>
+<summary><b>🔶 FILE 04 — Zhongli · 钟离</b>　<sub>Consultant / 2D edition</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -157,7 +208,12 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
-### Obanai · 伊黑小芭内
+</details>
+
+<details>
+<summary><b>🐍 FILE 05 — Obanai · 伊黑小芭内</b>　<sub>Serpent Hashira / 2D edition</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -173,7 +229,12 @@ Each release is a complete animated companion. The characters breathe, run, wave
   </tr>
 </table>
 
-### Raiden Mei · 雷电芽衣
+</details>
+
+<details>
+<summary><b>⚡ FILE 06 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / two visual editions</sub></summary>
+
+<br>
 
 One character, two distinct visual editions:
 
@@ -202,7 +263,11 @@ One character, two distinct visual editions:
 
 The 3D edition describes the rendered look. Like every pet here, it is delivered as a lightweight 2D spritesheet.
 
----
+</details>
+
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 📦 Downloads
 
@@ -224,7 +289,9 @@ spritesheet.webp
 README.md
 ```
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⚡ Install a pet
 
@@ -246,7 +313,9 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🧪 What makes a pet feel alive
 
@@ -264,7 +333,9 @@ A good desktop companion reads clearly at a glance, moves smoothly, and carries 
 
 The technical checks support the part that matters most: every animation should still feel like the same character.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🎨 Start with character art
 
@@ -286,7 +357,9 @@ A downloadable Codex v2 pet
 
 To build your own collection, begin with the [Codex Pet Dual Style production guide](codex-pet-dual-style/SKILL.md). It covers paired 2D/3D styles, identity consistency, motion design, direction review, packaging, and batch production.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🤝 Contributing
 
@@ -300,7 +373,9 @@ New pets, animation repairs, presentation improvements, and workflow refinements
 
 If you would like a character featured in the animated gallery, include a contact sheet or a few `192×208` GIF previews.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⭐ A little more character beside the code
 
@@ -314,6 +389,8 @@ If this collection made you smile, leave a Star, make a Fork, or bring the next 
 
 </div>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 <sub>Character rights remain with their respective owners. This repository is an unofficial technical and animation showcase; please confirm the licensing scope of any character and source material before public distribution or commercial use.</sub>

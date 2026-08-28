@@ -1,12 +1,6 @@
 <div align="center">
 
-# 🐾 Codex Anime Pets
-
-### Vos personnages préférés deviennent de petits compagnons animés pour Codex.
-
-**Illustration de personnage → compagnon animé Codex v2 prêt à l’emploi**
-
-`6 personnages` · `7 éditions à télécharger` · `styles 2D et rendu 3D` · `9 animations` · `16 directions du regard`
+<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets — sélection de personnages sous un ciel nocturne animé">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -14,50 +8,81 @@
   <a href="README.zh-CN.md"><kbd>中文</kbd></a>
 </p>
 
+<p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
+
+<p>
+  <code>✦ 6 PERSONNAGES</code>
+  <code>✦ 7 ÉDITIONS</code>
+  <code>✦ 9 ANIMATIONS</code>
+  <code>✦ 16 DIRECTIONS</code>
+</p>
+
+<sub>🌙 Choisissez un personnage · Décompressez l’archive · Laissez-le vous accompagner</sub>
+
+</div>
+
+<div align="center">
+
+## ✦ Choisissez votre compagnon ✦
+
+<sub>Chaque portrait est déjà animé. Prenez un instant, regardez et choisissez votre favori.</sub>
+
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 01 · ADEPTE ✦</sub><br>
       <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente de Xiao"><br>
-      <b>Xiao · 魈</b><br>
-      <sub>Vigilant, discret, empreint de la grâce des adeptes</sub>
+      <b>「 Xiao · 魈 」</b><br>
+      <sub>◇ Vigilant · Discret · Adepte ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 02 · VIDYADHARA ✦</sub><br>
       <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente de Dan Heng Imbibitor Lunae"><br>
-      <b>Dan Heng · Imbibitor Lunae · 丹恒·饮月</b><br>
-      <sub>Élégance froide, longue chevelure et présence paisible</sub>
+      <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
+      <sub>◇ Élégance froide · Présence paisible ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 03 · GÉNÉRAL ✦</sub><br>
       <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente de Jing Yuan"><br>
-      <b>Jing Yuan · 景元</b><br>
-      <sub>Une assurance tranquille et un regard toujours attentif</sub>
+      <b>「 Jing Yuan · 景元 」</b><br>
+      <sub>◇ Assurance tranquille · Regard attentif ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 04 · CONSEILLER ✦</sub><br>
       <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente de Zhongli"><br>
-      <b>Zhongli · 钟离</b><br>
-      <sub>Calme, fiable et naturellement imposant</sub>
+      <b>「 Zhongli · 钟离 」</b><br>
+      <sub>◇ Calme · Fiable · Digne ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 05 · PILIER DU SERPENT ✦</sub><br>
       <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente d'Obanai"><br>
-      <b>Obanai · 伊黑小芭内</b><br>
-      <sub>Réservé et alerte, toujours accompagné de Kaburamaru</sub>
+      <b>「 Obanai · 伊黑小芭内 」</b><br>
+      <sub>◇ Réservé · Alerte · Avec Kaburamaru ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 06 · VALKYRIE ✦</sub><br>
       <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="Animation d'attente de Raiden Mei"><br>
-      <b>Raiden Mei · 雷电芽衣</b><br>
-      <sub>Posée, curieuse et prête à agir</sub>
+      <b>「 Raiden Mei · 雷电芽衣 」</b><br>
+      <sub>◇ Posée · Curieuse · Prête ◇</sub>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## ✨ Bien plus qu’un portrait
+<div align="center">
 
-Chaque édition est un véritable petit compagnon animé. Les personnages respirent, courent, saluent, sautent, réagissent à un échec, attendent votre réponse, se concentrent pendant une tâche et examinent le résultat obtenu.
+## ✦ Instants animés ✦
+
+<sub>Respirer, bondir, saluer, réfléchir — de petits gestes qui donnent une vraie présence au personnage.</sub>
+
+</div>
 
 <table>
   <tr>
@@ -89,11 +114,22 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## 🎭 Les personnages
+<div align="center">
 
-### Xiao · 魈
+## ✦ Archives des personnages ✦
+
+<sub>Ouvrez une fiche pour découvrir le personnage, sa planche d’animations et son téléchargement.</sub>
+
+</div>
+
+<details open>
+<summary><b>🌙 DOSSIER 01 — Xiao · 魈</b>　<sub>Yaksha gardien / édition 2D</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -109,7 +145,12 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
-### Dan Heng · Imbibitor Lunae · 丹恒·饮月
+</details>
+
+<details>
+<summary><b>🐉 DOSSIER 02 — Dan Heng · Imbibitor Lunae · 丹恒·饮月</b>　<sub>Vidyadhara / édition 2D</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -125,7 +166,12 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
-### Jing Yuan · 景元
+</details>
+
+<details>
+<summary><b>🦁 DOSSIER 03 — Jing Yuan · 景元</b>　<sub>Général des Chevaliers des Nuages / édition 2D</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -141,7 +187,12 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
-### Zhongli · 钟离
+</details>
+
+<details>
+<summary><b>🔶 DOSSIER 04 — Zhongli · 钟离</b>　<sub>Conseiller / édition 2D</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -157,7 +208,12 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
-### Obanai · 伊黑小芭内
+</details>
+
+<details>
+<summary><b>🐍 DOSSIER 05 — Obanai · 伊黑小芭内</b>　<sub>Pilier du Serpent / édition 2D</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -173,7 +229,12 @@ Chaque édition est un véritable petit compagnon animé. Les personnages respir
   </tr>
 </table>
 
-### Raiden Mei · 雷电芽衣
+</details>
+
+<details>
+<summary><b>⚡ DOSSIER 06 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / deux éditions visuelles</sub></summary>
+
+<br>
 
 Un même personnage, deux interprétations visuelles :
 
@@ -202,7 +263,11 @@ Un même personnage, deux interprétations visuelles :
 
 L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une planche de sprites 2D légère.
 
----
+</details>
+
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 📦 Téléchargements
 
@@ -224,7 +289,9 @@ spritesheet.webp
 README.md
 ```
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⚡ Installer un compagnon
 
@@ -246,7 +313,9 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🧪 Ce qui donne vie à un compagnon
 
@@ -264,7 +333,9 @@ Un bon compagnon de bureau reste lisible au premier coup d’œil, bouge avec fl
 
 La technique reste au service d’une idée simple : chaque mouvement doit encore ressembler au même personnage.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🎨 Partir d’une illustration
 
@@ -286,7 +357,9 @@ Un compagnon Codex v2 à télécharger
 
 Pour créer votre propre collection, consultez le [guide de production Codex Pet Dual Style](codex-pet-dual-style/SKILL.md). Il aborde les styles 2D/3D associés, la cohérence visuelle, la conception du mouvement, l’examen des directions, le packaging et la production en série.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🤝 Contribuer
 
@@ -300,7 +373,9 @@ Les nouveaux compagnons, corrections d’animation, améliorations de présentat
 
 Pour faire apparaître un personnage dans la galerie animée, ajoutez une planche de contact ou quelques aperçus GIF en `192×208`.
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⭐ Un peu plus de vie à côté du code
 
@@ -314,6 +389,8 @@ Si cette collection vous a plu, laissez une Star, créez un Fork ou proposez le 
 
 </div>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 <sub>Les droits sur les personnages appartiennent à leurs détenteurs respectifs. Ce dépôt est une présentation technique et animée non officielle ; vérifiez les licences des personnages et des sources avant toute diffusion publique ou utilisation commerciale.</sub>

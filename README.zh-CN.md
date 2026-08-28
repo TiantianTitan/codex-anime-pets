@@ -1,12 +1,6 @@
 <div align="center">
 
-# 🐾 Codex Anime Pets
-
-### 把喜欢的角色，变成陪在 Codex 身边的动画伙伴。
-
-**角色立绘 → 精致、完整、可直接使用的 Codex v2 宠物**
-
-`6 个角色` · `7 个可下载版本` · `2D 与 3D 渲染风格` · `9 组状态动画` · `16 向视线`
+<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets 动态夜色角色选择页眉">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -14,50 +8,81 @@
   <a href="README.zh-CN.md"><kbd><b>中文</b></kbd></a>
 </p>
 
+<p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
+
+<p>
+  <code>✦ 6 个角色</code>
+  <code>✦ 7 个版本</code>
+  <code>✦ 9 组动画</code>
+  <code>✦ 16 向视线</code>
+</p>
+
+<sub>🌙 选择角色 · 解压成品 · 让 TA 陪你一起工作</sub>
+
+</div>
+
+<div align="center">
+
+## ✦ 选择你的伙伴 ✦
+
+<sub>这里的每张角色卡都已经动了起来。看一会儿，再选出最喜欢的那位。</sub>
+
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
+      <sub>✦ 角色 01 · 仙人 ✦</sub><br>
       <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="魈的待机动画"><br>
-      <b>魈 · Xiao</b><br>
-      <sub>警觉、克制，带着仙人的清冷气息</sub>
+      <b>「 魈 · Xiao 」</b><br>
+      <sub>◇ 警觉 · 克制 · 仙家气息 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 角色 02 · 持明龙尊 ✦</sub><br>
       <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="丹恒饮月的待机动画"><br>
-      <b>丹恒·饮月 · Dan Heng · Imbibitor Lunae</b><br>
-      <sub>清冷优雅，长发与衣摆轻轻流动</sub>
+      <b>「 丹恒·饮月 · Imbibitor Lunae 」</b><br>
+      <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 角色 03 · 神策将军 ✦</sub><br>
       <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="景元的待机动画"><br>
-      <b>景元 · Jing Yuan</b><br>
-      <sub>从容自信，慵懒中始终保持敏锐</sub>
+      <b>「 景元 · Jing Yuan 」</b><br>
+      <sub>◇ 松弛从容 · 始终敏锐 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
+      <sub>✦ 角色 04 · 往生堂客卿 ✦</sub><br>
       <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="钟离的待机动画"><br>
-      <b>钟离 · Zhongli</b><br>
-      <sub>沉稳可靠，自有一份不动声色的威严</sub>
+      <b>「 钟离 · Zhongli 」</b><br>
+      <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 角色 05 · 蛇柱 ✦</sub><br>
       <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="伊黑小芭内的待机动画"><br>
-      <b>伊黑小芭内 · Obanai</b><br>
-      <sub>安静而警觉，镝丸始终陪在身边</sub>
+      <b>「 伊黑小芭内 · Obanai 」</b><br>
+      <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 角色 06 · 女武神 ✦</sub><br>
       <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="雷电芽衣的待机动画"><br>
-      <b>雷电芽衣 · Raiden Mei</b><br>
-      <sub>冷静、好奇，随时准备投入行动</sub>
+      <b>「 雷电芽衣 · Raiden Mei 」</b><br>
+      <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## ✨ 不只是一张立绘
+<div align="center">
 
-每个版本都是完整的动画伙伴。它们会呼吸、奔跑、挥手和跳跃；任务受阻时会流露情绪，需要回复时会耐心等候，工作中会专注投入，完成后也会认真看看结果。
+## ✦ 动起来的小瞬间 ✦
+
+<sub>呼吸、跳跃、招呼、思考——正是这些小动作，让角色真正陪在桌面旁。</sub>
+
+</div>
 
 <table>
   <tr>
@@ -89,11 +114,22 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
-## 🎭 角色阵容
+<div align="center">
 
-### 魈 · Xiao
+## ✦ 角色档案 ✦
+
+<sub>展开档案，即可查看角色细节、完整动作表和下载入口。</sub>
+
+</div>
+
+<details open>
+<summary><b>🌙 档案 01 — 魈 · Xiao</b>　<sub>护法夜叉 / 2D 版本</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -109,7 +145,12 @@
   </tr>
 </table>
 
-### 丹恒·饮月 · Dan Heng · Imbibitor Lunae
+</details>
+
+<details>
+<summary><b>🐉 档案 02 — 丹恒·饮月 · Dan Heng · Imbibitor Lunae</b>　<sub>持明龙尊 / 2D 版本</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -125,7 +166,12 @@
   </tr>
 </table>
 
-### 景元 · Jing Yuan
+</details>
+
+<details>
+<summary><b>🦁 档案 03 — 景元 · Jing Yuan</b>　<sub>神策将军 / 2D 版本</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -141,7 +187,12 @@
   </tr>
 </table>
 
-### 钟离 · Zhongli
+</details>
+
+<details>
+<summary><b>🔶 档案 04 — 钟离 · Zhongli</b>　<sub>往生堂客卿 / 2D 版本</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -157,7 +208,12 @@
   </tr>
 </table>
 
-### 伊黑小芭内 · Obanai
+</details>
+
+<details>
+<summary><b>🐍 档案 05 — 伊黑小芭内 · Obanai</b>　<sub>蛇柱 / 2D 版本</sub></summary>
+
+<br>
 
 <table>
   <tr>
@@ -173,7 +229,12 @@
   </tr>
 </table>
 
-### 雷电芽衣 · Raiden Mei
+</details>
+
+<details>
+<summary><b>⚡ 档案 06 — 雷电芽衣 · Raiden Mei</b>　<sub>女武神 / 两种视觉版本</sub></summary>
+
+<br>
 
 同一个角色，两种不同的视觉演绎：
 
@@ -202,7 +263,11 @@
 
 这里的 3D 指视觉上的渲染风格；和其他宠物一样，它最终仍是轻量的 2D 精灵图集。
 
----
+</details>
+
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 📦 成品下载
 
@@ -224,7 +289,9 @@ spritesheet.webp
 README.md
 ```
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⚡ 安装一个宠物
 
@@ -246,7 +313,9 @@ unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🧪 动起来之后，仍然要像这个角色
 
@@ -264,7 +333,9 @@ unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 这些技术检查最终只服务于一件事：每一段动画看起来都还是同一个角色。
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🎨 从角色图开始
 
@@ -286,7 +357,9 @@ unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果你也想制作自己的角色系列，可以从 [Codex Pet Dual Style 制作指南](codex-pet-dual-style/SKILL.md) 开始。里面整理了 2D/3D 配对风格、角色一致性、动作设计、方向检查、打包方式和批量生产思路。
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## 🤝 贡献角色
 
@@ -300,7 +373,9 @@ unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果希望角色出现在上面的动态展示区，请再附上一张完整动作表，或者几张 `192×208` 的 GIF 预览。
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 ## ⭐ 让代码旁边多一点角色感
 
@@ -314,6 +389,8 @@ Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，�
 
 </div>
 
----
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
 
 <sub>角色形象的相关权利归各自权利人所有。本仓库是非官方的技术与动画展示；公开分发或商业使用前，请确认角色与原始素材的授权范围。</sub>
