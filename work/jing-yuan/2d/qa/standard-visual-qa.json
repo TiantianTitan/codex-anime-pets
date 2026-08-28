@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-08-28T12:01:00Z",
+  "reviewer": "independent visual QA worker",
+  "rows": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "note": "All nine rows preserve Jing Yuan's identity and pass every gate; repaired running-left retains the image-left fringe and image-right gold eye, jumping has a stable vertical arc, and failed slumps without enlargement."
+}
+

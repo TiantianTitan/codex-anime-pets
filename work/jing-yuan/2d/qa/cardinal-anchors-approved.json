@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-08-28T12:06:00Z",
+  "viewer_coordinates": true,
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "evidence": "Golden eye and eyelid aim upward, chin is lifted, and more lower face is exposed."
+    },
+    "090": {
+      "verdict": "pass",
+      "evidence": "Nose tip, chin, visible eye aperture, and front face plane project toward the image-right edge."
+    },
+    "180": {
+      "verdict": "pass",
+      "evidence": "Golden eye and eyelid aim downward, chin is tucked, and the fringe occupies more of the lowered face."
+    },
+    "270": {
+      "verdict": "pass",
+      "evidence": "Nose tip, chin, visible eye aperture, and front face plane project toward the image-left edge, opposite 090."
+    }
+  }
+}
+

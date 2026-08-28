@@ -13,12 +13,12 @@
     {
       "state": "waiting",
       "frames": [
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/00.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/01.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/02.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/03.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/04.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waiting/frames/waiting/05.png"
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waiting/frames/waiting/05.png"
       ],
       "method": "components"
     }

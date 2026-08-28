@@ -13,12 +13,12 @@
     {
       "state": "idle",
       "frames": [
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/00.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/01.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/02.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/03.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/04.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/idle/frames/idle/05.png"
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/idle/frames/idle/05.png"
       ],
       "method": "components"
     }

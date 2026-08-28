@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "strip": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors-approved.png",
+  "strip": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/decoded/look-anchors-approved.png",
   "directions": [
     "000",
     "090",
@@ -19,7 +19,7 @@
       ],
       "used_pixels": 15990,
       "edge_pixels": 0,
-      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/000.png"
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/cardinal-approved-cells/000.png"
     },
     {
       "direction": "090",
@@ -31,7 +31,7 @@
       ],
       "used_pixels": 15463,
       "edge_pixels": 0,
-      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/090.png"
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/cardinal-approved-cells/090.png"
     },
     {
       "direction": "180",
@@ -43,7 +43,7 @@
       ],
       "used_pixels": 15513,
       "edge_pixels": 0,
-      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/180.png"
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/cardinal-approved-cells/180.png"
     },
     {
       "direction": "270",
@@ -55,7 +55,7 @@
       ],
       "used_pixels": 15664,
       "edge_pixels": 0,
-      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/270.png"
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/cardinal-approved-cells/270.png"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames",
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames",
   "states": [
     "idle",
     "running-right",
@@ -28,7 +28,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13561,
@@ -43,7 +43,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13494,
@@ -58,7 +58,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13395,
@@ -73,7 +73,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13495,
@@ -88,7 +88,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13358,
@@ -103,7 +103,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/idle/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13345,
@@ -129,7 +129,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12796,
@@ -144,7 +144,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12858,
@@ -159,7 +159,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12733,
@@ -174,7 +174,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12607,
@@ -189,7 +189,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12519,
@@ -204,7 +204,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13188,
@@ -219,7 +219,7 @@
         },
         {
           "index": 6,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/06.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12479,
@@ -234,7 +234,7 @@
         },
         {
           "index": 7,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-right/07.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12748,
@@ -260,7 +260,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12708,
@@ -275,7 +275,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12726,
@@ -290,7 +290,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 11891,
@@ -305,7 +305,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12228,
@@ -320,7 +320,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12490,
@@ -335,7 +335,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13457,
@@ -350,7 +350,7 @@
         },
         {
           "index": 6,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/06.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12507,
@@ -365,7 +365,7 @@
         },
         {
           "index": 7,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running-left/07.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13112,
@@ -391,7 +391,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waving/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13592,
@@ -406,7 +406,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waving/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13648,
@@ -421,7 +421,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waving/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13745,
@@ -436,7 +436,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waving/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13579,
@@ -464,7 +464,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/jumping/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12222,
@@ -479,7 +479,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/jumping/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10275,
@@ -494,7 +494,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/jumping/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 10004,
@@ -509,7 +509,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/jumping/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 11608,
@@ -524,7 +524,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/jumping/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12308,
@@ -550,7 +550,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13279,
@@ -565,7 +565,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13037,
@@ -580,7 +580,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13075,
@@ -595,7 +595,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14078,
@@ -610,7 +610,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15141,
@@ -625,7 +625,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13316,
@@ -640,7 +640,7 @@
         },
         {
           "index": 6,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/06.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13136,
@@ -655,7 +655,7 @@
         },
         {
           "index": 7,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/failed/07.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13249,
@@ -681,7 +681,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12570,
@@ -696,7 +696,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13034,
@@ -711,7 +711,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12477,
@@ -726,7 +726,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12545,
@@ -741,7 +741,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12417,
@@ -756,7 +756,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/waiting/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12968,
@@ -782,7 +782,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12534,
@@ -797,7 +797,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12636,
@@ -812,7 +812,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12711,
@@ -827,7 +827,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12293,
@@ -842,7 +842,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12947,
@@ -857,7 +857,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/running/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13001,
@@ -883,7 +883,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13580,
@@ -898,7 +898,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13339,
@@ -913,7 +913,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13310,
@@ -928,7 +928,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13230,
@@ -943,7 +943,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14179,
@@ -958,7 +958,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/frames/review/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13350,

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waving/frames",
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waving/frames",
   "states": [
     "waving"
   ],
@@ -18,7 +18,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waving/frames/waving/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waving/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14989,
@@ -33,7 +33,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waving/frames/waving/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waving/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15377,
@@ -48,7 +48,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waving/frames/waving/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waving/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15551,
@@ -63,7 +63,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/waving/frames/waving/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/qa/rows/waving/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15001,

@@ -13,10 +13,10 @@
     {
       "state": "waving",
       "frames": [
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/frames/waving/00.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/frames/waving/01.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/frames/waving/02.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/frames/waving/03.png"
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/frames/waving/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/frames/waving/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/frames/waving/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/frames/waving/03.png"
       ],
       "method": "stable-slots"
     }

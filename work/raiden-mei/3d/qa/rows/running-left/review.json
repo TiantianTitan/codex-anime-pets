@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames",
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames",
   "states": [
     "running-left"
   ],
@@ -18,7 +18,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14903,
@@ -33,7 +33,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14408,
@@ -48,7 +48,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15858,
@@ -63,7 +63,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15698,
@@ -78,7 +78,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15063,
@@ -93,7 +93,7 @@
         },
         {
           "index": 5,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/05.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14799,
@@ -108,7 +108,7 @@
         },
         {
           "index": 6,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/06.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15142,
@@ -123,7 +123,7 @@
         },
         {
           "index": 7,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/07.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/rows/running-left/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15266,

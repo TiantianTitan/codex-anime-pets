@@ -248,40 +248,40 @@
   ],
   "references": [
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-01.jpeg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-01.jpeg",
       "width": 387,
       "height": 516,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/zhongli/zhongli.jpeg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-01.jpeg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zhongli/zhongli.jpeg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-01.jpeg"
     },
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-02.jpeg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-02.jpeg",
       "width": 400,
       "height": 533,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/zhongli/zhongli2.jpeg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-02.jpeg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zhongli/zhongli2.jpeg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-02.jpeg"
     },
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-03.jpeg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-03.jpeg",
       "width": 398,
       "height": 448,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/zhongli/zhongli3.jpeg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-03.jpeg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zhongli/zhongli3.jpeg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-03.jpeg"
     },
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-04.jpeg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-04.jpeg",
       "width": 404,
       "height": 511,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/zhongli/zhongli4.jpeg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/zhongli/2d/references/reference-04.jpeg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zhongli/zhongli4.jpeg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/zhongli/2d/references/reference-04.jpeg"
     }
   ],
   "chroma_key": {

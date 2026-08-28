@@ -13,12 +13,12 @@
     {
       "state": "idle",
       "frames": [
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/00.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/01.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/02.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/03.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/04.png",
-        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/slot-tests/idle/idle/05.png"
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/3d/qa/slot-tests/idle/idle/05.png"
       ],
       "method": "slots"
     }

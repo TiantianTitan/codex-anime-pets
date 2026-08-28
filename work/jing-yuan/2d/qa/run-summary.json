@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "pet_id": "jing-yuan",
+  "display_name": "Jing Yuan 景元",
+  "scope": "2D only; local package; not installed or published",
+  "spriteVersionNumber": 2,
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d",
+  "spritesheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/final/spritesheet-extended.webp",
+  "validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/final/validation-extended.json",
+  "packaged_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/packaged-atlas-validation.json",
+  "chroma_despill": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/look-directions.png",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/blind-review-resolution.json",
+  "continuity": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/look-continuity.json",
+  "review": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/review.json",
+  "final_visual_qa": "/home/ubuntu23/Bureau/codex-anime-pets/work/jing-yuan/2d/qa/final-visual-qa.json",
+  "package": "/home/ubuntu23/Bureau/codex-anime-pets/jingyuan/jing-yuan-2d",
+  "archive": "/home/ubuntu23/Bureau/codex-anime-pets/jingyuan/jing-yuan-2d-codex-pet-v2.zip",
+  "sha256": {
+    "archive": "ba4214addd02251875262174449cfd884cb872c119affc9f9781569b979420f1",
+    "spritesheet": "0d5ea2ea8e12f22ec27b65538601ef9aaca293a150b73bdd60d5f6164e02540e"
+  },
+  "reviewed_warnings": [
+    "Subtle intermediate direction axes at 067.5, 292.5, 315 and 337.5 were accepted after labeled-loop review; all cardinal hard gates pass.",
+    "Continuity metric warnings at 157.5->180, 292.5->315 and 337.5->000 have no visible snap, scale pop, reversal or identity break in independent final visual QA."
+  ]
+}

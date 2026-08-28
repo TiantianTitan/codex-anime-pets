@@ -248,22 +248,22 @@
   ],
   "references": [
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/references/reference-01.jpg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/references/reference-01.jpg",
       "width": 236,
       "height": 378,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/obanai/22f9b6db34364385b09c727bb5ea5911.jpg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/references/reference-01.jpg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/obanai/22f9b6db34364385b09c727bb5ea5911.jpg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/references/reference-01.jpg"
     },
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/references/reference-02.jpg",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/references/reference-02.jpg",
       "width": 736,
       "height": 980,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/obanai/a720e90c1a7304f4c618f0ec20ef216a.jpg",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/references/reference-02.jpg"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/obanai/a720e90c1a7304f4c618f0ec20ef216a.jpg",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/references/reference-02.jpg"
     }
   ],
   "chroma_key": {

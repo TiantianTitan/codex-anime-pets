@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-08-28T12:10:00Z",
+  "registered_row": "qa/look-row-9-registered.png",
+  "registration_scale": 0.495,
+  "edge_check": "pass",
+  "continuity": "pass",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "observed": "up", "reason": "Visible gold eye and chin lift vertically with no horizontal turn."},
+    {"degree": "022.5", "verdict": "pass", "observed": "up-right", "reason": "Eye remains high while face projection begins moving screen-right."},
+    {"degree": "045", "verdict": "pass", "observed": "up-right", "reason": "Raised eye/chin combine with a clearer screen-right cheek and nose shift."},
+    {"degree": "067.5", "verdict": "pass", "observed": "up-right", "reason": "Strong screen-right head turn retains a smaller upward pitch."},
+    {"degree": "090", "verdict": "pass", "observed": "right", "reason": "Nose tip, chin and face plane project unmistakably toward screen-right."},
+    {"degree": "112.5", "verdict": "pass", "observed": "down-right", "reason": "Rightward face projection remains while eyelid and chin begin lowering."},
+    {"degree": "135", "verdict": "pass", "observed": "down-right", "reason": "Tucked chin and lowered eye combine with a still-readable rightward turn."},
+    {"degree": "157.5", "verdict": "pass", "observed": "down-right", "reason": "Pose approaches down while preserving the final residual screen-right axis for the 180 boundary."}
+  ]
+}
+

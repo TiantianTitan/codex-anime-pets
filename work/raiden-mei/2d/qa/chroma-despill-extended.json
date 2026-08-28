@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "input": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/final/spritesheet-extended.png",
-  "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/final/spritesheet-extended.png",
+  "input": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/final/spritesheet-extended.png",
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/final/spritesheet-extended.png",
   "chroma_key": "#00FF00",
   "algorithm": "edge-local-chroma-spill-suppression",
   "strength": 1,

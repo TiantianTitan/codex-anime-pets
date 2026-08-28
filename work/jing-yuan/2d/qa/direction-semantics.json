@@ -1,0 +1,24 @@
+{
+  "reviewed_by": "independent final visual QA worker",
+  "reviewed_at": "2026-08-28T12:27:00Z",
+  "ok": true,
+  "directions": [
+    {"degree":"000","verdict":"pass","expected":"up","observed":"up","reason":"Amber eye and chin lift unmistakably upward."},
+    {"degree":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal nose and visible eye shift right; vertical eye and chin remain raised."},
+    {"degree":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal face plane projects right; vertical eye and chin are clearly lifted."},
+    {"degree":"067.5","verdict":"warning","expected":"up-right","observed":"up-right with subtle vertical cue","reason":"Horizontal right profile is clear; vertical lift is blind-ambiguous but coherent in the labeled sequence."},
+    {"degree":"090","verdict":"pass","expected":"right","observed":"right","reason":"Nose, chin and face plane project unmistakably right."},
+    {"degree":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal right profile remains; vertical eye and chin begin lowering."},
+    {"degree":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal nose and face plane point right; vertical bowed head and eye point down."},
+    {"degree":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal residual right cheek/nose axis remains; vertical downward pitch is strong."},
+    {"degree":"180","verdict":"pass","expected":"down","observed":"down","reason":"Lowered eye, chin and bowed head read unmistakably down."},
+    {"degree":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Horizontal face begins projecting left; vertical eye and chin remain lowered."},
+    {"degree":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Horizontal profile is clearly left; vertical head and eye remain down."},
+    {"degree":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Horizontal profile is strongly left; vertical residual downward eye/chin cue remains."},
+    {"degree":"270","verdict":"pass","expected":"left","observed":"left","reason":"Nose, chin and face plane project unmistakably left."},
+    {"degree":"292.5","verdict":"warning","expected":"up-left","observed":"up-left with nascent vertical cue","reason":"Horizontal left profile is clear; vertical lift is nascent and blind-read down, but labeled progression does not reverse."},
+    {"degree":"315","verdict":"warning","expected":"up-left","observed":"up-left with subtle horizontal cue","reason":"Horizontal residual left cue is subtle and blind-read right; vertical raised eye/chin clearly read up within the coherent loop."},
+    {"degree":"337.5","verdict":"warning","expected":"up-left","observed":"up-left with very slight horizontal cue","reason":"Horizontal left residual is very slight and blind-read right; vertical up gaze/chin is clear one step before 000."}
+  ]
+}
+

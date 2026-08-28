@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames",
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames",
   "states": [
     "jumping"
   ],
@@ -18,7 +18,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/00.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20476,
@@ -33,7 +33,7 @@
         },
         {
           "index": 1,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/01.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17226,
@@ -48,7 +48,7 @@
         },
         {
           "index": 2,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/02.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17892,
@@ -63,7 +63,7 @@
         },
         {
           "index": 3,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/03.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17620,
@@ -78,7 +78,7 @@
         },
         {
           "index": 4,
-          "file": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/04.png",
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/qa/rows/jumping/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20591,

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_at": "2026-08-27T15:37:50.586213+00:00",
-  "run_dir": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d",
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d",
   "primary_generation_skill": "$imagegen",
   "jobs": [
     {
@@ -24,7 +24,7 @@
       "generation_skill": "$imagegen",
       "requires_grounded_generation": true,
       "allow_prompt_only_generation": false,
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/base-selected.png",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/obanai/2d/base-selected.png",
       "completed_at": "2026-08-27T17:10:00Z"
     },
     {

@@ -248,22 +248,22 @@
   ],
   "references": [
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/references/reference-01.png",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/references/reference-01.png",
       "width": 352,
       "height": 300,
       "mode": "P",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/reference-primary.png",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/references/reference-01.png"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/reference-primary.png",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/references/reference-01.png"
     },
     {
-      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/references/reference-02.png",
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/references/reference-02.png",
       "width": 93,
       "height": 100,
       "mode": "P",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/reference-supporting.png",
-      "copied_path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/references/reference-02.png"
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/reference-supporting.png",
+      "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/raiden-mei/2d/references/reference-02.png"
     }
   ],
   "chroma_key": {

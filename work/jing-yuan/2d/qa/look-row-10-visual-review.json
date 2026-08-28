@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-08-28T12:18:00Z",
+  "registered_atlas": "final/spritesheet-extended.webp",
+  "edge_check": "pass",
+  "continuity": "pass_with_warning",
+  "directions": [
+    {"degree": "180", "verdict": "pass", "observed": "down", "reason": "Gold eye and eyelid are lowered and chin is tucked in a compact front-readable pose."},
+    {"degree": "202.5", "verdict": "pass", "observed": "down-left", "reason": "Downward face pitch combines with an initial screen-left nose and cheek shift."},
+    {"degree": "225", "verdict": "pass", "observed": "down-left", "reason": "Both tucked chin and a stronger leftward face projection remain visible."},
+    {"degree": "247.5", "verdict": "pass", "observed": "down-left", "reason": "Strong screen-left yaw retains a smaller but readable downward axis."},
+    {"degree": "270", "verdict": "pass", "observed": "left", "reason": "Nose tip, chin and face plane form an unmistakable screen-left profile."},
+    {"degree": "292.5", "verdict": "warning", "observed": "left with subtle up cue", "reason": "Face remains readable and screen-left while the eye and chin begin lifting; the vertical cue is subtle at normal size but the ordered loop advances correctly."},
+    {"degree": "315", "verdict": "pass", "observed": "up-left", "reason": "Face opens toward front while retaining left projection and a clearly higher eye/chin position."},
+    {"degree": "337.5", "verdict": "pass", "observed": "up-left", "reason": "Front-readable face keeps a residual left axis and raised eye/chin one step before 000 up."}
+  ]
+}
+
