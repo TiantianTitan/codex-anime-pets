@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Canonical purple-haired Acheron remains consistent across all rows, with clean state semantics, attached katana, stable animation, and a cohesive direction loop.",
+  "direction_summary": {
+    "pass": ["000", "022.5", "045", "067.5", "090", "180", "270", "292.5", "315", "337.5"],
+    "warning": ["112.5", "135", "157.5", "202.5", "225", "247.5"],
+    "fail": []
+  },
+  "review_warnings": [
+    "Accepted blind horizontal uncertainty for 112.5, 135, and 157.5 versus 247.5, 225, and 202.5 because labeled normal-size poses remain in their intended quadrants with no loop reversal.",
+    "The 022.5 alpha-hole candidate is intentional negative space between separated boots.",
+    "The 157.5 to 180 and 337.5 to 000 center/area metrics plus the 225 to 247.5 diff are not visible snaps, scale pops, seams, or attachment breaks."
+  ],
+  "repair_rows": [],
+  "repair_notes": null,
+  "reviewed_independently": true
+}

@@ -1,0 +1,6 @@
+{
+  "standard_qa": "pass",
+  "qa_note": "All nine rows retain the canonical Acheron identity and read with the required motion semantics, complete uncropped frames, coherent directional gaits, and no detached artifacts.",
+  "repair_rows": [],
+  "repair_notes": null
+}

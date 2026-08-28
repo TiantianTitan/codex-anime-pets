@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"direction": "000", "verdict": "pass", "reason": "Pupil sits high in the original eye aperture with centered nose and lifted chin."},
+    {"direction": "022.5", "verdict": "pass", "reason": "High pupil combines with a slight screen-right nose and head shift."},
+    {"direction": "045", "verdict": "pass", "reason": "Pupil, nose, and head turn progress farther screen-right while remaining up."},
+    {"direction": "067.5", "verdict": "pass", "reason": "The elevated gaze remains clear and the facial plane continues toward screen-right."},
+    {"direction": "090", "verdict": "pass", "reason": "Visible eye, nose tip, chin, and head profile unmistakably face screen-right."},
+    {"direction": "112.5", "verdict": "pass", "reason": "Screen-right head turn is retained while pupil and eyelid begin lowering."},
+    {"direction": "135", "verdict": "pass", "reason": "Lowered pupil and eyelid combine with a stronger screen-right facial turn."},
+    {"direction": "157.5", "verdict": "pass", "reason": "The lowest gaze remains in the screen-right half one step before down."}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Identity, front-facing body anchor, baseline, scale, and katana attachment remain stable; adjacent eye and head turns progress smoothly without clipping or overlap."
+  },
+  "reviewed_independently": true
+}

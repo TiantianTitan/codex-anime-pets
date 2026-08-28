@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "directions": [
+    {"direction": "180", "verdict": "pass", "reason": "Closed/downcast eye aperture, centered nose, and lowered chin clearly read down."},
+    {"direction": "202.5", "verdict": "pass", "reason": "Pupil and nose shift screen-left while lids and chin remain lowered."},
+    {"direction": "225", "verdict": "pass", "reason": "Clearer screen-left eye and nose placement combines with downward head pitch."},
+    {"direction": "247.5", "verdict": "pass", "reason": "The leftward head and gaze turn continues without reversal."},
+    {"direction": "270", "verdict": "pass", "reason": "Nose and visible pupil point decisively screen-left and visibly oppose 090."},
+    {"direction": "292.5", "verdict": "pass", "reason": "The screen-left turn is retained while the pupil and chin begin rising."},
+    {"direction": "315", "verdict": "pass", "reason": "Pupil, eyelid, and chin continue upward-left in the same pose family."},
+    {"direction": "337.5", "verdict": "pass", "reason": "Up-left gaze begins recentering one even step before 000 without reversal."}
+  ],
+  "boundaries": {
+    "verdict": "pass",
+    "reason": "157.5 to 180 resolves smoothly into centered down; 337.5 to 000 smoothly recenters the pupil, nose, and head pitch."
+  },
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Identity, front-facing body anchor, baseline, scale, canonical asymmetry, and katana attachment remain stable with no clipping or overlap."
+  },
+  "reviewed_independently": true
+}

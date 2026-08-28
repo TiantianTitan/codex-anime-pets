@@ -11,8 +11,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 8 PERSONNAGES</code>
-  <code>✦ 9 ÉDITIONS</code>
+  <code>✦ 9 PERSONNAGES</code>
+  <code>✦ 10 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -74,17 +74,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <sub>✦ PERSONNAGE 07 · GUUJI ✦</sub><br>
       <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente de Yae Miko"><br>
       <b>「 Yae Miko · 八重神子 」</b><br>
       <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <sub>✦ PERSONNAGE 08 · ÉTOILE DE FONTAINE ✦</sub><br>
       <img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente de Furina"><br>
       <b>「 Furina · 芙宁娜 」</b><br>
       <sub>◇ Charme théâtral · Élégance aquatique · Malice lumineuse ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 09 · RANGER GALACTIQUE ✦</sub><br>
+      <img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente d'Acheron"><br>
+      <b>「 Acheron · 黄泉 」</b><br>
+      <sub>◇ Calme insondable · Orage violet · Regard lointain ◇</sub>
     </td>
   </tr>
 </table>
@@ -324,6 +330,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details>
+<summary><b>🌌 DOSSIER 09 — Acheron · 黄泉</b>　<sub>Ranger galactique / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="Acheron au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> chevelure indigo-violet profond, mèche asymétrique voilant un œil, regard violet-magenta, tenue blanche, lilas et noire aux motifs de flamme, et katana gardé près du corps<br>
+      <b>Tempérament :</b> silencieuse et insaisissable, comme un orage encore lointain<br><br>
+      <a href="acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/acheron/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/acheron/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -341,6 +368,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Raiden Mei · 雷电芽衣 | rendu 3D | `raiden-mei-3d` | [Télécharger](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
 | Yae Miko · 八重神子 | 2D | `yae-miko` | [Télécharger](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
 | Furina · 芙宁娜 | 2D | `furina` | [Télécharger](furina/furina-2d-codex-pet-v2.zip) |
+| Acheron · 黄泉 | 2D | `acheron` | [Télécharger](acheron/acheron-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

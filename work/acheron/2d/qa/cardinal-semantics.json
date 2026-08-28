@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "evidence": "Visible iris and pupil sit high in the original eye aperture; chin and face pitch upward while feet remain anchored."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "evidence": "Visible pupil, nose tip, and chin bias toward screen-right in a restrained right three-quarter turn."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "evidence": "Upper eyelid lowers, pupil drops, and chin tucks toward the collar without changing body scale."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "evidence": "Visible pupil, nose tip, and chin bias toward screen-left in an opposing left three-quarter turn."
+    }
+  ],
+  "identity_note": "The covered-eye fringe, shoulder armor, hair mass, and katana remain on their canonical sides in all four anchors."
+}

@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "coordinate_system": "viewer/screen coordinates",
+  "directions": [
+    {"direction": "000", "verdict": "pass", "expected": "up", "observed": "up", "reason": "Visible pupil sits high in the original eye aperture; centered nose and lifted chin provide the vertical cue."},
+    {"direction": "022.5", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Horizontal: pupil, nose, and head begin shifting screen-right. Vertical: pupil remains high and chin stays lifted."},
+    {"direction": "045", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Horizontal: facial plane progresses farther screen-right. Vertical: raised pupil and eyelid retain the up axis."},
+    {"direction": "067.5", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Horizontal: nose, eye, and head retain a clear screen-right bias. Vertical: gaze remains visibly elevated."},
+    {"direction": "090", "verdict": "pass", "expected": "right", "observed": "right", "reason": "Visible eye, nose tip, chin, and head profile unmistakably face the screen-right edge."},
+    {"direction": "112.5", "verdict": "warning", "expected": "down-right", "observed": "down-right", "reason": "Horizontal: original-aperture pupil, nose, and head remain screen-right despite blind uncertainty. Vertical: lowered lid, pupil, and chin tuck read down in the labeled loop."},
+    {"direction": "135", "verdict": "warning", "expected": "down-right", "observed": "down-right", "reason": "Horizontal: the screen-right facial turn remains visible despite blind uncertainty. Vertical: pupil, lid, and chin continue lower toward down."},
+    {"direction": "157.5", "verdict": "warning", "expected": "down-right", "observed": "down-right", "reason": "Horizontal: a rightward nose and head bias remains immediately before 180 despite blind uncertainty. Vertical: the deepest lowered pupil, lid, and tucked chin clearly read down."},
+    {"direction": "180", "verdict": "pass", "expected": "down", "observed": "down", "reason": "Downcast eye aperture, centered nose, and tucked chin form an unmistakable down pose."},
+    {"direction": "202.5", "verdict": "warning", "expected": "down-left", "observed": "down-left", "reason": "Horizontal: pupil, nose, and head begin screen-left despite blind uncertainty. Vertical: lowered lid, pupil, and chin retain down."},
+    {"direction": "225", "verdict": "warning", "expected": "down-left", "observed": "down-left", "reason": "Horizontal: face and nose continue screen-left despite blind uncertainty. Vertical: downcast pupil, lid, and chin remain clear."},
+    {"direction": "247.5", "verdict": "warning", "expected": "down-left", "observed": "down-left", "reason": "Horizontal: screen-left pupil, nose, and head remain in the correct quadrant despite blind uncertainty. Vertical: lowered pupil and chin retain down."},
+    {"direction": "270", "verdict": "pass", "expected": "left", "observed": "left", "reason": "Nose tip, visible pupil, chin, and facial plane decisively face screen-left and visibly oppose 090."},
+    {"direction": "292.5", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "Horizontal: the screen-left turn is retained. Vertical: pupil and chin begin rising."},
+    {"direction": "315", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "Horizontal: eye and facial plane remain screen-left. Vertical: raised pupil, eyelid, and chin strengthen the up axis."},
+    {"direction": "337.5", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "Horizontal: a final screen-left bias remains. Vertical: gaze is raised and smoothly recenters toward 000."}
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "reason": "The labeled normal-size loop has stable feet, identity, frontal torso, canonical asymmetry, and attached katana. Metric warnings at the two row boundaries reflect pose-family area changes but no visible reversal or broken attachment. The 022.5 alpha-hole candidate occurs in intentional negative space around the separated boots, not through a filled body region."
+  },
+  "review_warnings": [
+    "Blind horizontal uncertainty for 112.5, 135, and 157.5 versus 247.5, 225, and 202.5 is accepted because labeled normal-size poses remain in their intended quadrants with no loop reversal.",
+    "The 022.5 alpha-hole candidate is intentional negative space between separated boots.",
+    "Continuity metric warnings at 157.5 to 180, 225 to 247.5, and 337.5 to 000 do not correspond to visible snaps, scale pops, seams, or attachment breaks."
+  ],
+  "reviewed_independently": true
+}
