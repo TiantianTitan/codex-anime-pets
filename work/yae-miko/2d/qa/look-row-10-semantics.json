@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Normal-size review shows no conspicuous scale pop or registration jump; planted feet, body centers, identity, and attachments remain visually stable at both row boundaries."
+  },
+  "alpha_holes": {
+    "verdict": "pass",
+    "reason": "All reported candidates are intentional lower-silhouette gaps between legs, robe panels, hair, or sleeves, with no seam through the filled head, torso, or outfit."
+  },
+  "directions": [
+    {"direction": "180", "expected": "down", "verdict": "pass", "observed": "Frontal face, lowered irises, and a tucked chin."},
+    {"direction": "202.5", "expected": "down-left", "verdict": "pass", "observed": "Slight screen-left nose and pupil offset with a lowered gaze."},
+    {"direction": "225", "expected": "down-left", "verdict": "pass", "observed": "Clear screen-left three-quarter face with lowered irises and chin."},
+    {"direction": "247.5", "expected": "down-left", "verdict": "pass", "observed": "Near-left profile retaining a visible downward eye angle."},
+    {"direction": "270", "expected": "left", "verdict": "pass", "observed": "Nose, face plane, and pupil unmistakably point screen-left."},
+    {"direction": "292.5", "expected": "up-left", "verdict": "pass", "observed": "Screen-left profile with iris and chin beginning to lift."},
+    {"direction": "315", "expected": "up-left", "verdict": "pass", "observed": "Re-centered three-quarter face with screen-left placement and raised gaze."},
+    {"direction": "337.5", "expected": "up-left", "verdict": "warning", "observed": "Raised irises and lifted chin clearly read up; the remaining screen-left cue is subtle but coherent before 000."}
+  ],
+  "review_warnings": [
+    "337.5 has a subtle horizontal cue.",
+    "337.5 to 000 retains a modest area and center metric warning without a conspicuous normal-size defect."
+  ]
+}

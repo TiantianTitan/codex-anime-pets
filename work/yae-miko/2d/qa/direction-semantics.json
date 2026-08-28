@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"direction":"000","expected":"up","verdict":"pass","observed":"Centered frontal face; raised irises and lifted chin.","reason":"Both vertical landmarks unmistakably indicate up."},
+    {"direction":"022.5","expected":"up-right","verdict":"pass","observed":"Slight screen-right face and pupil offset; raised gaze.","reason":"Horizontal and vertical cues both occupy the up-right quadrant."},
+    {"direction":"045","expected":"up-right","verdict":"pass","observed":"Clear screen-right three-quarter turn; elevated pupils.","reason":"Both axes are readable at normal size."},
+    {"direction":"067.5","expected":"up-right","verdict":"pass","observed":"Strong screen-right nose and face plane; gaze remains raised.","reason":"The pose advances naturally toward right without losing the upward axis."},
+    {"direction":"090","expected":"right","verdict":"pass","observed":"Unmistakable screen-right profile with level gaze.","reason":"Nose, face plane, and pupils confirm the cardinal."},
+    {"direction":"112.5","expected":"down-right","verdict":"pass","observed":"Right-facing nose and pupils; lowered gaze.","reason":"Both axes are readable and the pose begins the downward return."},
+    {"direction":"135","expected":"down-right","verdict":"pass","observed":"Screen-right three-quarter face; lowered pupils and chin.","reason":"Balanced horizontal and vertical cues preserve the intended quadrant."},
+    {"direction":"157.5","expected":"down-right","verdict":"warning","observed":"Nearly frontal with a subtle right cue; strong lowered gaze.","reason":"Blind horizontal reading was ambiguous, but labeled loop review confirms a coherent final step into 180 without reversal."},
+    {"direction":"180","expected":"down","verdict":"pass","observed":"Centered frontal face; lowered irises and tucked chin.","reason":"Both vertical landmarks unmistakably indicate down."},
+    {"direction":"202.5","expected":"down-left","verdict":"pass","observed":"Slight screen-left nose and pupil offset; lowered gaze.","reason":"Both axes occupy the down-left quadrant."},
+    {"direction":"225","expected":"down-left","verdict":"warning","observed":"Clear screen-left three-quarter turn; subtle downward cue.","reason":"Blind vertical classification inverted, but labeled normal-size review confirms the continuous lower-left arc."},
+    {"direction":"247.5","expected":"down-left","verdict":"pass","observed":"Near-left profile with a visible downward eye angle.","reason":"Both axes remain legible before the left cardinal."},
+    {"direction":"270","expected":"left","verdict":"pass","observed":"Unmistakable screen-left profile with level gaze.","reason":"Nose, face plane, and pupil confirm the cardinal."},
+    {"direction":"292.5","expected":"up-left","verdict":"pass","observed":"Screen-left profile; iris and chin begin lifting.","reason":"Both axes are visible as the loop leaves the left cardinal."},
+    {"direction":"315","expected":"up-left","verdict":"warning","observed":"Clear screen-left three-quarter placement; subtle upward cue.","reason":"Blind vertical classification inverted, but labeled normal-size review confirms the continuous upper-left arc."},
+    {"direction":"337.5","expected":"up-left","verdict":"warning","observed":"Slight remaining screen-left offset; raised irises and lifted chin.","reason":"The horizontal cue is subtle but coherent one step before 000, with no visible loop reversal."}
+  ],
+  "review_warnings": [
+    "157.5 blind horizontal ambiguity accepted from labeled loop evidence.",
+    "225 blind vertical inversion accepted because the labeled pose remains in the continuous down-left arc.",
+    "315 blind vertical inversion accepted because the labeled pose remains in the continuous up-left arc.",
+    "337.5 has a subtle left cue without a conspicuous boundary snap.",
+    "Lower-silhouette alpha-hole candidates are intentional gaps between legs, robe panels, hair, and sleeves.",
+    "Jumping uses stable-slots extraction; playback is smooth, airborne, stable-scale, and unclipped."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All 11 rows and nine previews preserve Yae Miko's clean identity and state semantics; the stable-slots jump has a smooth airborne apex without scale pop, and validation, despill, blind-cardinal, and labeled-direction gates pass.",
+  "repair_rows": [],
+  "repair_notes": null,
+  "accepted_warnings": [
+    "Subtle intermediate direction cues are accepted only where the labeled ordered loop remains coherent.",
+    "Jumping stable-slots extraction is accepted after independent playback review."
+  ]
+}

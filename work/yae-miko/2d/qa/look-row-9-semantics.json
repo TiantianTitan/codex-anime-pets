@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Identity, scale, baseline, and attachments remain stable; 112.5 through 157.5 progressively re-centers without reversal or a snap into the approved frontal-down 180 family."
+  },
+  "directions": [
+    {"direction": "000", "expected": "up", "verdict": "pass", "observed": "Raised violet irises and a lifted chin."},
+    {"direction": "022.5", "expected": "up-right", "verdict": "pass", "observed": "Raised gaze with a slight screen-right pupil and face offset."},
+    {"direction": "045", "expected": "up-right", "verdict": "pass", "observed": "Clear screen-right three-quarter turn with elevated pupils."},
+    {"direction": "067.5", "expected": "up-right", "verdict": "pass", "observed": "Stronger screen-right nose and face plane with an upward gaze."},
+    {"direction": "090", "expected": "right", "verdict": "pass", "observed": "Unmistakable screen-right profile with nose and pupils beyond head center."},
+    {"direction": "112.5", "expected": "down-right", "verdict": "pass", "observed": "Right-facing nose and pupils with a lowered gaze beginning to re-center."},
+    {"direction": "135", "expected": "down-right", "verdict": "pass", "observed": "Balanced down-right three-quarter pose with both eyes visible and lowered pupils."},
+    {"direction": "157.5", "expected": "down-right", "verdict": "warning", "observed": "Strong frontal-down cue with a subtle but coherent remaining screen-right offset."}
+  ]
+}
