@@ -1,0 +1,12 @@
+{
+  "verdict": "pass",
+  "hard_failures": [],
+  "accepted_warnings": [
+    "022.5 up-right has a blind-horizontal ambiguous majority, accepted as a subtle near-up intermediate because the labeled normal-size face, pupil/nose shift, and 000→022.5→045 sequence progress monotonically into screen-right while retaining the required up axis.",
+    "157.5 down-right has a blind-horizontal ambiguous majority, accepted as a subtle near-down intermediate because the labeled normal-size pupil/nose bias and 135→157.5→180 sequence progress monotonically into frontal down while retaining the required down axis.",
+    "270→292.5 reports a 1.15 sprite-area ratio, accepted because normal-size review shows a natural left-profile to up-left three-quarter exposure change with stable head size, planted baseline, lower-body anchor, coat geometry, attached ponytail and earring, and no visible scale pop, snap, seam, clipping, or reversal."
+  ],
+  "standard_rows": "Pass. All nine standard states preserve the same Zhongli identity, chibi proportions, amber eyes, dark brown hair, black-brown-gold costume, earring and attached ponytail. Idle has visible micro-motion; directional runs face the correct screen direction with alternating gait; waving, jumping, failed, waiting, active-running and review have distinct correct semantics. Frame sequences keep stable scale and baseline with no clipping, overlap, guide marks, detached effects, new props, shadows, glows, dust, trails, or inert loops.",
+  "look_directions": "Pass. The 16 poses form a coherent clockwise humanoid head/eye/upper-body turn with exact cardinals: 000 unmistakably up, 090 screen-right, 180 down, and 270 screen-left. Every diagonal stays in its labeled quadrant; both row boundaries and the 337.5→000 closure remain continuous. Facial proportions, body registration, coat silhouette, earring and ponytail attachment remain stable, with no wrong-quadrant pose, reversal, seam, whole-sprite tilt, visible scale pop, or identity drift. The two permitted blind ambiguities and the 270→292.5 metric warning are review-class only and are resolved by the labeled normal-size loop evidence.",
+  "package_readiness": "Ready for v2 packaging: the authoritative despill report is ok with alpha preserved, and v2 validation passes at 1536×2288 with an 8×11 grid, all required cells populated, unused cells transparent, zero transparent-RGB residue, no validation errors or warnings, and no visible package-blocking defect."
+}

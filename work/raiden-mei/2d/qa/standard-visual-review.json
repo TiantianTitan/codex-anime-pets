@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "independent_verdict": "fail",
+  "resolution": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "finding": "The white lightning-shaped hair mark is not visible in running-right frames 0-7.",
+  "evidence": "The mark is fixed to one side of the frontal hair lock. In the screen-right profile that lock is on the occluded far side, while the opposite running-left profile consistently reveals the mark. The paired profile rows therefore preserve physical handedness instead of flipping the mark onto the visible side.",
+  "other_checks": "All nine row meanings, left/right travel directions, outfit, paired crimson ornaments, idle blink, framing, and contamination checks passed."
+}

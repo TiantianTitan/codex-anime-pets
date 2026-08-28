@@ -1,0 +1,91 @@
+{
+  "reviewer": "blind3-3",
+  "source": "direction-blind-pairs.png",
+  "review_basis": "Thumbnail-size visual reading of eyes, eyelids, chin, face plane, and overall head aim only.",
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both heads read nearly frontal; neither pupils nor chin/face plane show a dependable lateral aim at thumbnail size."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible face plane and chin project left, while B's eye line, chin, and three-quarter head turn project right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A turns the mask/chin and gaze toward the left edge; B exposes the opposite face plane and aims toward the right edge."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The strong opposing profiles are unmistakable: A's nose/chin silhouette points left and B's points right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's head and face surface are turned left; B's chin, visible eyes, and head aim are turned right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's subtle eye/chin alignment leans right of head center, whereas B's face and lowered gaze lean left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both poses remain close to frontal and the tiny pupil, eyelid, and chin offsets do not establish a reliable horizontal side."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A has lowered eyes and a tucked chin under the bangs; B opens the eyes and lifts the face/chin clearly upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes are wider with a raised face plane, while B's upper lids and tucked chin make the gaze read downward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye line sits low beneath the lids with the chin tucked; B raises the visible eye and face along the three-quarter turn."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts the chin and visible eye line; B lowers the eyelids and face aim despite sharing a similar rightward turn."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both near-frontal faces keep similar eyelid height and chin posture, leaving the vertical axis unreadable without guessing."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's face and eye line lift along the leftward turn; B's eyelid line and chin angle settle downward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's profile eye and chin angle downward, while B's eye opening and raised head plane give a clearer upward aim."
+    }
+  ]
+}

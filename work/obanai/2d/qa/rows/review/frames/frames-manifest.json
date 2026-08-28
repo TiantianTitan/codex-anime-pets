@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "review",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/00.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/01.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/02.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/03.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/04.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/review/frames/review/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

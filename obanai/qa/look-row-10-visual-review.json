@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "source": "/home/ubuntu23/.codex/generated_images/01a04349-ebdd-7860-8baf-031aa1208c66/exec-34f8b1fb-9120-441e-acf9-ff5056aaa4cb.png",
+  "final_atlas": "final/spritesheet-final.webp",
+  "checks": {
+    "eight_separated_groups": "pass",
+    "identity_and_single_snake": "pass",
+    "scale_baseline_registration": "pass",
+    "180_to_270_arc": "pass: frontal down gaze advances monotonically into viewer-left yaw",
+    "270_to_337_5_arc": "pass: left yaw decreases while pupils, eyelids, and chin transition upward",
+    "337_5_to_000_boundary": "pass: final pose is near-frontal upward with a residual left cue",
+    "wrong_turnaround_or_back_view": "absent",
+    "edge_contact_or_overlap": "absent"
+  },
+  "verdict": "approved"
+}

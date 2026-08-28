@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "verdict": "PASS",
+  "checks": {
+    "identity": {
+      "ok": true,
+      "details": "All used cells preserve black hair, anatomical yellow/teal heterochromia when the eyes are visible, white lower-face bandages, striped haori, navy uniform, and exactly one attached white red-eyed snake."
+    },
+    "standard_states": {
+      "ok": true,
+      "details": "All nine standard states are present with the expected used-frame counts and readable, state-correct motion."
+    },
+    "jumping_trajectory": {
+      "ok": true,
+      "details": "The five-frame loop reads as crouch, rise, feet-tucked apex, descent, and landing without a shadow, impact effect, or trajectory reversal."
+    },
+    "motion_previews": {
+      "ok": true,
+      "details": "Idle is visibly animated; directional running faces the correct way with alternating gait; waving, failed, waiting, active-running, and review remain distinct and loop cleanly."
+    },
+    "direction_loop": {
+      "ok": true,
+      "details": "All four cardinals are unmistakable, all 16 poses form a coherent clockwise loop, and the neutral pose is distinct from every direction cell."
+    },
+    "scale_baseline_and_cropping": {
+      "ok": true,
+      "details": "Body scale and baseline remain practical and stable; no used cell is cropped, overlaps a slot, floats, or shows a conspicuous registration pop."
+    },
+    "transparency_and_artifacts": {
+      "ok": true,
+      "details": "The cleaned final sheet has transparent unused cells, no visible chroma panels, interior holes, seams, detached effects, shadows, guide marks, or stray fragments."
+    },
+    "mechanical_validation": {
+      "ok": true,
+      "details": "The v2 atlas validates at 1536x2288 with 192x208 cells, no structural errors or validator warnings, and no transparent-RGB residue."
+    }
+  },
+  "warnings": [
+    "Blind review swapped only the subtle horizontal components of near-vertical 157.5 and 202.5; labeled normal-size review confirms residual right/left cues and a smooth 157.5->180->202.5 boundary, so this remains review-only.",
+    "Continuity metrics flag 225->247.5 and 315->337.5 as local pixel-difference outliers; focused review shows stable feet, baseline, scale, attachment, and silhouette with no visible snap or identity change."
+  ],
+  "rationale": "Packaging-quality PASS: identity and single-snake attachment are locked across all used cells, the nine standard animations and jump mechanics are correct, the 16-direction loop preserves cardinal meaning and continuity, and deterministic geometry/transparency validation passes."
+}

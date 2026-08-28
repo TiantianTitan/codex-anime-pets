@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "failed",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/00.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/01.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/02.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/03.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/04.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/05.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/06.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/failed/frames/failed/07.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes and face opening sit slightly toward screen-right; B's gaze and face opening bias screen-left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A turns the visible face toward the right side of the head, while B turns it toward the left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "The eye line and exposed face angle right in A and left in B."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "The near-profile face points clearly to screen-right in A and clearly to screen-left in B."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible eye and face are aimed left beneath the fringe; B's are aimed right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The lowered face angles toward screen-left in A and toward screen-right in B."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's downcast eye line retains a leftward bias, while B's retains a rightward bias."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes and face are lifted; B's chin and eye line are lowered."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A visibly bows the head and eyes, while B lifts the face and gaze."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyelids and face aim downward; B's eye line and head angle rise."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A carries the eye line above level, whereas B tucks the gaze and face downward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's face is lowered beneath the fringe; B looks upward with a raised head."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a clearly downcast head and eyes, while B's face and eyes are lifted."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "The face tilts and looks down in A, versus an upward head and eye aim in B."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "override_required": false,
+  "hard_gates": {
+    "horizontal_090_vs_270": "pass",
+    "vertical_000_vs_180": "pass"
+  },
+  "final_blind_validation": "Three fresh isolated reviewers were combined by strict majority after the accepted atlas rebuild. All 14 A/B pairs pass; there are no errors, warnings, or unconfirmed classifications.",
+  "historical_note": "An earlier randomized blind sheet produced a documented near-up 022.5/337.5 ambiguity. That sheet and its verdicts were superseded when the atlas was rebuilt after the unrelated waving-row color repair. The accepted final build received a new randomized sheet and three fresh isolated reviews, all of which pass.",
+  "conclusion": "The accepted 16-direction loop requires no semantic override and is packaging-eligible."
+}

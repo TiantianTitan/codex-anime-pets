@@ -1,0 +1,5 @@
+{
+  "verdict": "pass",
+  "reviewer": "independent visual worker",
+  "note": "All 9 states show appropriate motion with stable identity and outfit. The 16 directions form a clockwise loop with correct cardinals and no reversal. Blind intermediate horizontal warnings are minor and explicitly resolved by labeled continuity. No clipping, seams, interior damage, fragments, or green panels are visible; v2 validation passes at 1536x2288 with zero chroma residue."
+}

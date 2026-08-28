@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "source": "/home/ubuntu23/.codex/generated_images/01a04349-ebdd-7860-8baf-031aa1208c66/exec-f3997777-5cd8-408b-aaba-69ea1fe0afe1.png",
+  "approved_strip": "decoded/look-anchors-approved.png",
+  "checks": {
+    "identity_consistency": "pass",
+    "scale_and_baseline": "pass",
+    "one_attached_snake": "pass",
+    "anatomical_heterochromia": "pass",
+    "000_up": "pass: frontal face with both pupils and chin clearly raised",
+    "090_screen_right": "pass: nose, pupils, and face plane aim toward viewer-right",
+    "180_down": "pass: frontal face with lowered pupils, eyelids, and tucked chin",
+    "270_screen_left": "pass: clear inverse of 090 with face plane toward viewer-left",
+    "edge_contact": "pass: zero used pixels on slot edges"
+  },
+  "verdict": "approved"
+}

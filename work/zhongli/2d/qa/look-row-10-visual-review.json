@@ -1,0 +1,20 @@
+{
+  "verdict": "pass",
+  "order": ["180", "202.5", "225", "247.5", "270", "292.5", "315", "337.5"],
+  "pose_groups": 8,
+  "identity": "pass",
+  "scale_and_baseline": "pass",
+  "edge_clipping": "pass",
+  "continuity": "pass",
+  "semantics": {
+    "180": "pass: broadly frontal face with pupils low, lowered lids and tucked chin",
+    "202.5": "pass: downward gaze gains a subtle screen-left face and pupil shift",
+    "225": "pass: clear down-left pupils, nose, cheek and head yaw",
+    "247.5": "pass: leftward yaw strengthens while eyes remain below center",
+    "270": "pass: pupils, nose tip and face plane point unmistakably screen-left",
+    "292.5": "pass: screen-left yaw continues while gaze and chin begin lifting",
+    "315": "pass: clear up-left eyes, head pitch and face plane",
+    "337.5": "pass: nearly-up pose retains a small screen-left cue and flows toward 000"
+  },
+  "notes": "Registered extended atlas shows a coherent left-half arc, stable lower-body anchor, attached ponytail and earring, and smooth 157.5→180 plus 337.5→000 boundaries with no reversal, replacement eyes, whole-sprite rotation, clipping, shadow, or detached effect."
+}

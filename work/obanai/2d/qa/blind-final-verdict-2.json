@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A: Near-frontal head and centered gaze provide no clear lateral cue. B: The face reads essentially frontal, without a decisive left/right turn."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "A: The face opening and hair mass make the head read turned to screen-right. B: The visible facial plane and three-quarter silhouette point screen-right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "A: The head is visibly angled in a screen-right three-quarter view. B: The face and gaze both read toward screen-right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: The exposed facial side and profile contour turn toward screen-right. B: The mirrored three-quarter head shape clearly turns screen-left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "A: The strong side profile and face opening point screen-left. B: The head silhouette and visible facial plane read screen-left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "A: Hair coverage and facial asymmetry create a screen-left three-quarter turn. B: The face is angled toward screen-left despite the mild turn."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A: The lowered but frontal face lacks a reliable horizontal direction. B: The face reads front-on with balanced lateral cues."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A: The frontal face and centered eyes do not show a clear pitch. B: Head position and gaze appear neutral rather than distinctly up or down."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A: The open, elevated gaze makes the face read upward. B: Lowered eyelids and a dipped face give a clear downward read."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A: The visible eye and lifted facial plane suggest an upward gaze. B: The narrowed, lowered eyes make the head read downward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A: The eye line is lowered and the face appears slightly dipped. B: The more open, elevated eye line gives an upward impression."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A: Closed or strongly lowered eyes make the gaze clearly downward. B: Wide, elevated eyes and the raised facial presentation read upward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A: The mild three-quarter pose shows no dependable up/down pitch at this size. B: The visible eye and head plane appear vertically neutral."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "A: The side turn dominates, leaving vertical gaze unclear. B: The profile silhouette does not communicate a decisive upward or downward tilt."
+    }
+  ]
+}

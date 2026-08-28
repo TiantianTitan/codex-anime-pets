@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes and face plane aim subtly right; B's eye balance and chin shift subtly left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "Both heads expose the rightward face plane, with nose and chin aimed toward screen-right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "Both show a clear right-facing three-quarter head turn and rightward eye aim."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A is a strong right profile, while B reverses the visible face and chin into a left profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose and visible face point left; B's head and exposed eye side point right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "Both place the face, pupils, and chin subtly toward the left side of the head."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-left",
+      "reason": "Both lowered faces retain a leftward pupil and face-plane bias."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "up",
+      "reason": "Both faces are lifted, with open eyes sitting toward the upper lids."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the eyes and chin; B bows the head with lowered eyelids."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visible eye and face tilt upward, while B's narrowed eyes and chin pitch downward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered gaze and dipped face; B opens the eye upward with a raised head angle."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyelids and chin are lowered; B's wide eyes and face are visibly lifted."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A reads as a downward head pitch, while B's pupils and face aim above center."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "down",
+      "reason": "Both profiles show low eyelids and a chin/head aim below the horizontal."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "policy": "Use no more than five local reference paths per built-in imagegen call.",
+  "identity_priority": [
+    "references/reference-02.jpeg",
+    "references/reference-04.jpeg",
+    "references/reference-03.jpeg"
+  ],
+  "base_job": {
+    "included": [
+      "references/reference-02.jpeg",
+      "references/reference-04.jpeg",
+      "references/reference-03.jpeg"
+    ],
+    "omitted": [
+      "references/reference-01.jpeg"
+    ],
+    "reason": "The omitted image is a four-pose collage with situational props; the selected three references cover full body, face, hair, earring, outfit, and style more cleanly."
+  },
+  "row_jobs": {
+    "included_roles": [
+      "canonical identity reference",
+      "state layout guide",
+      "primary full-body reference",
+      "primary face reference"
+    ],
+    "optional_support": "reference-03.jpeg may be the fifth input only when no generated trajectory or cardinal anchor reference is required.",
+    "reason": "Canonical identity and state geometry take priority while remaining grounded in the two strongest user references."
+  }
+}

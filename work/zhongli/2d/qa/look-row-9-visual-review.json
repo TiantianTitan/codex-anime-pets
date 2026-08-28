@@ -1,0 +1,20 @@
+{
+  "verdict": "pass",
+  "order": ["000", "022.5", "045", "067.5", "090", "112.5", "135", "157.5"],
+  "pose_groups": 8,
+  "identity": "pass",
+  "scale_and_baseline": "pass",
+  "edge_clipping": "pass",
+  "continuity": "pass",
+  "semantics": {
+    "000": "pass: amber pupils sit high with a raised chin and broadly frontal face",
+    "022.5": "pass: upward gaze gains a subtle screen-right face and pupil shift",
+    "045": "pass: clear up-right pupil, nose, cheek and head yaw",
+    "067.5": "pass: rightward yaw strengthens while the eyes remain above center",
+    "090": "pass: pupils, nose tip and face plane point unmistakably screen-right",
+    "112.5": "pass: screen-right yaw continues while gaze and chin begin lowering",
+    "135": "pass: clear down-right eyes, head pitch and face plane",
+    "157.5": "pass: nearly-down pose retains a small screen-right cue and flows toward 180"
+  },
+  "notes": "Registered row is a coherent right-half arc with stable feet, attached ponytail and earring, no reversal, replacement eyes, whole-sprite rotation, clipping, shadow, or detached effect."
+}

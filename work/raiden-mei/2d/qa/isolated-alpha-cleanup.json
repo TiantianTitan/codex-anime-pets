@@ -1,0 +1,347 @@
+{
+  "ok": true,
+  "frames": [
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/00.png",
+      "components_before": 4,
+      "kept_pixels": 16941,
+      "removed_pixels": 12
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/01.png",
+      "components_before": 5,
+      "kept_pixels": 16503,
+      "removed_pixels": 15
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/02.png",
+      "components_before": 5,
+      "kept_pixels": 14975,
+      "removed_pixels": 26
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/03.png",
+      "components_before": 8,
+      "kept_pixels": 13558,
+      "removed_pixels": 96
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/04.png",
+      "components_before": 7,
+      "kept_pixels": 14769,
+      "removed_pixels": 276
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/05.png",
+      "components_before": 5,
+      "kept_pixels": 16298,
+      "removed_pixels": 13
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/06.png",
+      "components_before": 5,
+      "kept_pixels": 16227,
+      "removed_pixels": 12
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/failed/07.png",
+      "components_before": 3,
+      "kept_pixels": 16588,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/00.png",
+      "components_before": 3,
+      "kept_pixels": 18658,
+      "removed_pixels": 7
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/01.png",
+      "components_before": 2,
+      "kept_pixels": 18611,
+      "removed_pixels": 4
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/02.png",
+      "components_before": 2,
+      "kept_pixels": 18622,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/03.png",
+      "components_before": 2,
+      "kept_pixels": 18640,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/04.png",
+      "components_before": 5,
+      "kept_pixels": 18457,
+      "removed_pixels": 13
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/idle/05.png",
+      "components_before": 2,
+      "kept_pixels": 18490,
+      "removed_pixels": 1
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/jumping/00.png",
+      "components_before": 1,
+      "kept_pixels": 20476,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/jumping/01.png",
+      "components_before": 3,
+      "kept_pixels": 17220,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/jumping/02.png",
+      "components_before": 2,
+      "kept_pixels": 17881,
+      "removed_pixels": 11
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/jumping/03.png",
+      "components_before": 2,
+      "kept_pixels": 17618,
+      "removed_pixels": 2
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/jumping/04.png",
+      "components_before": 3,
+      "kept_pixels": 20585,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/00.png",
+      "components_before": 1,
+      "kept_pixels": 17149,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/01.png",
+      "components_before": 4,
+      "kept_pixels": 15925,
+      "removed_pixels": 9
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/02.png",
+      "components_before": 3,
+      "kept_pixels": 15568,
+      "removed_pixels": 9
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/03.png",
+      "components_before": 5,
+      "kept_pixels": 16184,
+      "removed_pixels": 9
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/04.png",
+      "components_before": 2,
+      "kept_pixels": 16234,
+      "removed_pixels": 1
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/review/05.png",
+      "components_before": 3,
+      "kept_pixels": 16645,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/00.png",
+      "components_before": 1,
+      "kept_pixels": 17900,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/01.png",
+      "components_before": 3,
+      "kept_pixels": 17928,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/02.png",
+      "components_before": 1,
+      "kept_pixels": 17962,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/03.png",
+      "components_before": 2,
+      "kept_pixels": 17944,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/04.png",
+      "components_before": 2,
+      "kept_pixels": 17931,
+      "removed_pixels": 4
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running/05.png",
+      "components_before": 2,
+      "kept_pixels": 17899,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/00.png",
+      "components_before": 3,
+      "kept_pixels": 17062,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/01.png",
+      "components_before": 1,
+      "kept_pixels": 15919,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/02.png",
+      "components_before": 4,
+      "kept_pixels": 16615,
+      "removed_pixels": 17
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/03.png",
+      "components_before": 2,
+      "kept_pixels": 16506,
+      "removed_pixels": 1
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/04.png",
+      "components_before": 4,
+      "kept_pixels": 16285,
+      "removed_pixels": 9
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/05.png",
+      "components_before": 4,
+      "kept_pixels": 16112,
+      "removed_pixels": 8
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/06.png",
+      "components_before": 7,
+      "kept_pixels": 15229,
+      "removed_pixels": 13
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-left/07.png",
+      "components_before": 2,
+      "kept_pixels": 15428,
+      "removed_pixels": 5
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/00.png",
+      "components_before": 1,
+      "kept_pixels": 15113,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/01.png",
+      "components_before": 3,
+      "kept_pixels": 15832,
+      "removed_pixels": 5
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/02.png",
+      "components_before": 5,
+      "kept_pixels": 15437,
+      "removed_pixels": 13
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/03.png",
+      "components_before": 1,
+      "kept_pixels": 17968,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/04.png",
+      "components_before": 2,
+      "kept_pixels": 14711,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/05.png",
+      "components_before": 1,
+      "kept_pixels": 15231,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/06.png",
+      "components_before": 2,
+      "kept_pixels": 16445,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/running-right/07.png",
+      "components_before": 2,
+      "kept_pixels": 14941,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/00.png",
+      "components_before": 2,
+      "kept_pixels": 16772,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/01.png",
+      "components_before": 4,
+      "kept_pixels": 17426,
+      "removed_pixels": 9
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/02.png",
+      "components_before": 5,
+      "kept_pixels": 17222,
+      "removed_pixels": 10
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/03.png",
+      "components_before": 3,
+      "kept_pixels": 17156,
+      "removed_pixels": 7
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/04.png",
+      "components_before": 6,
+      "kept_pixels": 16449,
+      "removed_pixels": 112
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waiting/05.png",
+      "components_before": 1,
+      "kept_pixels": 16323,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waving/00.png",
+      "components_before": 2,
+      "kept_pixels": 17955,
+      "removed_pixels": 3
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waving/01.png",
+      "components_before": 2,
+      "kept_pixels": 17815,
+      "removed_pixels": 4
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waving/02.png",
+      "components_before": 1,
+      "kept_pixels": 17898,
+      "removed_pixels": 0
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/frames/waving/03.png",
+      "components_before": 4,
+      "kept_pixels": 17517,
+      "removed_pixels": 6
+    }
+  ]
+}

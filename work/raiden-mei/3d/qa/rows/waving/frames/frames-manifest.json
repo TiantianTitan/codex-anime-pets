@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "waving",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/waving/frames/waving/00.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/waving/frames/waving/01.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/waving/frames/waving/02.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/rows/waving/frames/waving/03.png"
+      ],
+      "method": "stable-slots"
+    }
+  ]
+}

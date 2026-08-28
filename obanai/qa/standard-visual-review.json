@@ -1,0 +1,7 @@
+{
+  "verdict": "pass",
+  "reviewer": "fresh independent visual worker",
+  "note": "All nine loops preserve identity and scale, show meaningful state-correct motion and alternating directional gait, and the redesigned jump clearly progresses through crouch, rise, feet-tucked apex above the trailing haori edge, descent, and landing without forbidden artifacts.",
+  "repair_rows": [],
+  "jumping_resolution": "The final whole-row source uses similar connected silhouette bounds in all five poses. Auto component extraction preserves standard size while the attached striped haori supplies a stable connected lower edge and the feet visibly tuck upward at the apex."
+}

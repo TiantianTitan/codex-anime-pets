@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "source": "/home/ubuntu23/.codex/generated_images/01a04349-ebdd-7860-8baf-031aa1208c66/exec-4b26b490-ff34-40f8-8450-885ea089b451.png",
+  "registered_row": "qa/look-row-9-registered.png",
+  "registration_scale": 0.4593967517401392,
+  "checks": {
+    "eight_separated_groups": "pass",
+    "identity_and_single_snake": "pass",
+    "scale_baseline_registration": "pass",
+    "000_to_090_arc": "pass: frontal up gaze advances monotonically into viewer-right yaw",
+    "090_to_157_5_arc": "pass: right yaw decreases while pupils, eyelids, and chin transition downward",
+    "row_boundary_to_180": "pass: final pose is near-frontal downward with a subtle residual right cue",
+    "wrong_turnaround_or_back_view": "absent",
+    "edge_contact_or_overlap": "absent"
+  },
+  "verdict": "approved"
+}

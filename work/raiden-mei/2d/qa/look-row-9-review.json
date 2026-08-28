@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "registration_chroma_threshold": 128,
+  "baseline": "pass",
+  "identity": "pass",
+  "adjacent_continuity": "pass",
+  "directions": [
+    {"direction": "000", "verdict": "pass", "evidence": "Both violet eyes and chin angle read upward."},
+    {"direction": "022.5", "verdict": "pass", "evidence": "Upward gaze gains a small screen-right eye and head shift."},
+    {"direction": "045", "verdict": "pass", "evidence": "Eyes and face clearly occupy the up-right quadrant."},
+    {"direction": "067.5", "verdict": "pass", "evidence": "Head and pupils advance toward the right anchor while retaining an upward cue."},
+    {"direction": "090", "verdict": "pass", "evidence": "Pupils, nose, and face point screen-right with no vertical cue."},
+    {"direction": "112.5", "verdict": "pass", "evidence": "Rightward head pose begins a restrained downward tilt."},
+    {"direction": "135", "verdict": "pass", "evidence": "Eyes and lowered head clearly read down-right."},
+    {"direction": "157.5", "verdict": "pass", "evidence": "Downward gaze dominates while a small rightward cue remains for the next 180 anchor."}
+  ],
+  "notes": "Feet, lower body, scale, white hair mark, crimson ornaments, and outfit remain stable; no labels, effects, props, or source-slot fragments are visible after registration."
+}

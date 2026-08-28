@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "constraint": "imagegen accepts at most five reference images per job",
+  "affected_jobs": ["look-row-9", "look-row-10"],
+  "omitted_inputs": {
+    "look-row-9": ["references/reference-02.png"],
+    "look-row-10": ["references/reference-01.png", "references/reference-02.png"]
+  },
+  "reason": "Row 9 omits only the low-resolution supporting expression reference, which depicts an alternate pale outfit. Row 10 prioritizes its layout guide, canonical base, approved standard contact sheet, approved cardinal strip, and completed row 9 for cross-row continuity; those five inputs already retain stronger identity evidence than the two raw frames."
+}

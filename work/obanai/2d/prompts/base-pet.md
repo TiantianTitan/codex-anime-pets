@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Obanai.
+
+Pet identity: Humanoid chibi swordsman: straight layered black shoulder-length hair; viewer-left eye golden yellow and viewer-right eye teal-green in front view; white cloth bandages cover mouth and lower face; black-and-white vertically striped haori over a dark navy uniform with gold buttons and a white belt; white calf bandages and dark indigo sandals; one small white snake with red eyes stays physically wrapped around the neck and shoulders, never detached. No sword, parasol, tablet, scenery, text, watermark, or extra snake.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Crisp polished 2D chibi sticker illustration, clean bold dark outlines, restrained cel shading, compact full-body silhouette, readable at 192x208, faithful black-white-navy palette with yellow and teal eye accents.
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's exposed face and eye line bias right; B's fringe, cheek opening, and gaze bias left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A presents the face and visible eye toward the left edge, while B's head and face opening turn right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's eye line and exposed cheek aim left; B's corresponding facial landmarks shift to the right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The head profiles oppose clearly: A's face projects left and B's projects right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a strong left-facing profile and B has a strong right-facing profile."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's eyes and facial opening sit toward screen-right; B's visible eye, cheek, and head angle favor screen-left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a subtle rightward eye-and-face bias, whereas B's exposed face and gaze shift left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A's head is bowed with lowered eyes; B raises the face and opens the eyes upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eye line and chin lift, while B's eyes sit under the fringe with the face pitched down."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible eye and face angle dip downward; B's exposed eye and head angle rise."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A tips the eye line and face upward, whereas B lowers both beneath the hair."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes sit low beneath the fringe with a slight bow; B shows a more raised, open eye line."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the visible eye and face plane; B's eye line and chin angle are lowered."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's narrowed eye and face axis point down, while B's more open eye and lifted face point up."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "atlas": "final/spritesheet-final.webp",
+  "neutral_check": "pass: neutral frame is distinct from every direction cell",
+  "directions": [
+    {"degrees": 0, "expected": {"horizontal": "none", "vertical": "up"}, "observed": "frontal face, raised pupils and chin", "verdict": "pass"},
+    {"degrees": 22.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "raised eyes with subtle viewer-right face cue", "verdict": "pass"},
+    {"degrees": 45, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "clear upper-right gaze and restrained right yaw", "verdict": "pass"},
+    {"degrees": 67.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "strong viewer-right aim retaining raised eyes", "verdict": "pass"},
+    {"degrees": 90, "expected": {"horizontal": "screen-right", "vertical": "none"}, "observed": "unmistakable viewer-right face profile and pupils", "verdict": "pass"},
+    {"degrees": 112.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "viewer-right aim with lowered pupils and chin", "verdict": "pass"},
+    {"degrees": 135, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "front-returning down-right gaze", "verdict": "pass"},
+    {"degrees": 157.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "near-frontal downward gaze; vertical component passes, blind majority read the intentionally subtle horizontal component as screen-left", "verdict": "review-pass"},
+    {"degrees": 180, "expected": {"horizontal": "none", "vertical": "down"}, "observed": "frontal face, lowered pupils, eyelids and chin", "verdict": "pass"},
+    {"degrees": 202.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "near-frontal downward gaze; vertical component passes, blind majority read the intentionally subtle horizontal component as screen-right", "verdict": "review-pass"},
+    {"degrees": 225, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "clear lower-left gaze and restrained left yaw", "verdict": "pass"},
+    {"degrees": 247.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "strong viewer-left aim retaining lowered eyes", "verdict": "pass"},
+    {"degrees": 270, "expected": {"horizontal": "screen-left", "vertical": "none"}, "observed": "unmistakable viewer-left face profile and pupils", "verdict": "pass"},
+    {"degrees": 292.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "viewer-left aim with raised pupils and chin", "verdict": "pass"},
+    {"degrees": 315, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "front-returning upper-left gaze", "verdict": "pass"},
+    {"degrees": 337.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "near-frontal upward gaze with residual left cue", "verdict": "pass"}
+  ]
+}

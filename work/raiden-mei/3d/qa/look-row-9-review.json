@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "registration_chroma_threshold": 128,
+  "baseline": "pass",
+  "identity": "pass",
+  "adjacent_continuity": "pass",
+  "directions": [
+    {"direction": "000", "verdict": "pass", "evidence": "Both violet eyes and raised chin clearly read upward."},
+    {"direction": "022.5", "verdict": "pass", "evidence": "Upward gaze gains a small screen-right head and eye shift."},
+    {"direction": "045", "verdict": "pass", "evidence": "Eyes and face occupy the up-right quadrant."},
+    {"direction": "067.5", "verdict": "pass", "evidence": "Head yaw advances toward the right anchor while retaining the upward cue."},
+    {"direction": "090", "verdict": "pass", "evidence": "Pupils, nose, and three-quarter face point unmistakably screen-right."},
+    {"direction": "112.5", "verdict": "pass", "evidence": "The strong rightward pose begins a visible downward eye and chin shift."},
+    {"direction": "135", "verdict": "pass", "evidence": "The head returns toward front while lowered pupils and chin read down-right."},
+    {"direction": "157.5", "verdict": "pass", "evidence": "Near-front lowered gaze is dominated by down with only a small rightward cue."}
+  ],
+  "notes": "Feet, lower body, scale, 3D materials, white hair mark, crimson ornaments, and outfit remain stable; no labels, effects, props, or source-slot fragments are visible after registration."
+}

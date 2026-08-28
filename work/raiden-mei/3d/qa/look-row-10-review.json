@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "assembly_chroma_threshold": 128,
+  "baseline": "pass",
+  "identity": "pass",
+  "adjacent_continuity": "pass",
+  "scale_match_to_row_9": "pass",
+  "directions": [
+    {"direction": "180", "verdict": "pass", "evidence": "Centered face, lowered pupils, upper eyelids, and chin clearly read down."},
+    {"direction": "202.5", "verdict": "pass", "evidence": "The downward gaze begins a small screen-left head and eye shift."},
+    {"direction": "225", "verdict": "pass", "evidence": "Eyes, nose, and face occupy the down-left quadrant."},
+    {"direction": "247.5", "verdict": "pass", "evidence": "Head yaw advances toward the left anchor while retaining a downward cue."},
+    {"direction": "270", "verdict": "pass", "evidence": "Pupils, nose, and three-quarter face point unmistakably screen-left and oppose 090."},
+    {"direction": "292.5", "verdict": "pass", "evidence": "The strong left pose begins a visible upward eye and chin shift."},
+    {"direction": "315", "verdict": "pass", "evidence": "The head returns toward front while raised pupils and chin read up-left."},
+    {"direction": "337.5", "verdict": "pass", "evidence": "Near-front raised gaze is dominated by up with a small leftward cue."}
+  ],
+  "notes": "Rejected attempts included a repeated rightward 270 pose, a failed 180 edge cell, and a coherent but underscaled strip. The accepted whole-row regeneration preserves the corrected clockwise down-to-left-to-up sequence and uniformly matches row 9 height, head scale, foot baseline, compact hair silhouette, outfit, white hair mark, and crimson ornaments. No individual direction cell was patched. Continuity metric warnings correspond to intentional pose-family transitions; labeled normal-size review shows no reversal, clipping, transparent damage, or scale pop."
+}

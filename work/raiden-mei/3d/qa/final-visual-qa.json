@@ -1,0 +1,5 @@
+{
+  "verdict": "pass",
+  "reviewer": "fresh independent visual worker after waving-row repair",
+  "note": "All 9 states show coherent motion with stable identity and style; waving frame 0 is visibly clean. No clipping, fragments, seams, alpha damage, residue, or panels are visible. All 16 directions form the correct clockwise loop with clear cardinals and acceptable row-boundary scale. V2 RGBA validation passes at 1536x2288."
+}

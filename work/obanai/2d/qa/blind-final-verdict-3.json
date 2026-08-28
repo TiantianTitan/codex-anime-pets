@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both faces are nearly frontal, with centered irises and no definite lateral head or mask turn."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "Both heads and mask profiles turn toward screen-right, with the face displaced toward that edge."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "Both show a right-facing three-quarter profile; the visible face and eye line aim screen-right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a clear right-facing profile, while B has the opposed left-facing profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face and mask project screen-left; B's three-quarter face and eye line project screen-right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "ambiguous",
+      "reason": "A's face is shifted into a slight screen-left turn; B remains nearly frontal with no definite lateral eye or head cue."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both heads are bowed almost straight ahead and their irises do not show a reliable horizontal offset."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the face with round, open eyes; B dips the face and places the eyes lower beneath the brow."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a raised chin and wide upward gaze, while B has a pronounced bowed head and narrowed downward gaze."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eye opening and lifted head read upward; B's lowered lids and bowed face read downward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A pitches the face downward toward the mask, whereas B lifts the face with more open eye area."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A has strongly lowered eyelids and a bowed head; B has a raised chin and fully open eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "The lateral turns dominate both poses, while the pupils and lids remain vertically centered without a definite pitch cue."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both are near side profiles with round, vertically neutral eyes and no readable up/down head pitch."
+    }
+  ]
+}

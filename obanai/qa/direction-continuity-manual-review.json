@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "source": "qa/direction-continuity.json",
+  "reviewed_warning": "225->247.5 and 315->337.5 local silhouette-difference outliers",
+  "finding": "Both flagged pairs retain planted feet, belt, lower torso, body scale, and baseline. Their center deltas stay within the review range, with no alpha holes or boundary jump. The larger pixel differences come from normal hair, face, and attached-snake occlusion changes while entering and leaving the viewer-left pose family.",
+  "boundary_checks": {
+    "157.5_to_180": "pass",
+    "180_to_202.5": "pass",
+    "337.5_to_000": "pass"
+  },
+  "blind_review": "All hard cardinal and vertical gates pass. The only majority warning is the horizontal component of the near-vertical 157.5/202.5 pair; this review-class cue is intentionally subtle so the 157.5->180->202.5 boundary remains smooth.",
+  "verdict": "accepted after focused visual review"
+}

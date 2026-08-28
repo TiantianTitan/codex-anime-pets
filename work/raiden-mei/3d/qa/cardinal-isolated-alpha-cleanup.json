@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "frames": [
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors/000.png",
+      "components_before": 4,
+      "kept_pixels": 16075,
+      "removed_pixels": 6
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors/090.png",
+      "components_before": 7,
+      "kept_pixels": 15543,
+      "removed_pixels": 73
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors/180.png",
+      "components_before": 3,
+      "kept_pixels": 15577,
+      "removed_pixels": 62
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors/270.png",
+      "components_before": 3,
+      "kept_pixels": 15730,
+      "removed_pixels": 9
+    }
+  ]
+}

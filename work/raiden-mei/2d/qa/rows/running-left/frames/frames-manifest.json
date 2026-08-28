@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-left",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/00.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/01.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/02.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/03.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/04.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/05.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/06.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/2d/qa/rows/running-left/frames/running-left/07.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

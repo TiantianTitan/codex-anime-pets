@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's pupils and face angle pull toward screen-right; B's eye placement and slight head turn pull toward screen-left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A aims the visible eyes and front of the face rightward, while B exposes and aims the opposite side leftward."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's gaze and face projection sit to screen-right; B's pupils and head presentation favor screen-left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "The opposing profiles are explicit: A's face projects right and B's face projects left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A exposes the left-aiming side of the face and eye, whereas B exposes the right-aiming side."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Despite the downward pitch, A's visible eye and head cant left while B's shift to the right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's lowered gaze is displaced toward screen-left; B's lowered gaze and face aim toward screen-right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the pupils and face, while B lowers both eyes beneath the fringe."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's chin and pupils are visibly lowered; B's pupils and head angle lift upward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A looks from under lowered lids with a dipped head, while B's eyes and face tilt upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A's pupils sit high with a raised face; B's pupils and face line sit lower."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A dips the head and eyes, whereas B faces upward with both pupils visibly raised."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible eye and head pitch point down; B lifts the eye line and face."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's gaze sits low under the hair, while B's visible eye and head angle rise."
+    }
+  ]
+}

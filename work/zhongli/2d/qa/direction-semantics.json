@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "atlas": "final/spritesheet-extended.webp",
+  "neutral_check": "pass: neutral idle is distinct from every directional cell",
+  "directions": [
+    {"degrees": 0, "expected": {"horizontal": "none", "vertical": "up"}, "observed": "both amber pupils high, chin raised, broadly frontal face", "verdict": "pass"},
+    {"degrees": 22.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "raised pupils with subtle screen-right nose and face shift; blind majority found the near-vertical horizontal cue ambiguous, while labeled loop review confirms the first monotonic step toward 045", "verdict": "review-pass"},
+    {"degrees": 45, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "clear up-right pupil placement, cheek exposure and head yaw", "verdict": "pass"},
+    {"degrees": 67.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "stronger screen-right face yaw while eyes remain above center", "verdict": "pass"},
+    {"degrees": 90, "expected": {"horizontal": "screen-right", "vertical": "none"}, "observed": "unmistakable screen-right pupils, nose tip, chin and face plane", "verdict": "pass"},
+    {"degrees": 112.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "screen-right face plane with pupils and chin beginning downward", "verdict": "pass"},
+    {"degrees": 135, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "clear down-right eyes, head pitch and cheek orientation", "verdict": "pass"},
+    {"degrees": 157.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "near-down pose retaining a subtle screen-right pupil and nose cue; blind majority found the near-vertical horizontal cue ambiguous, while labeled loop review confirms the final monotonic step into 180", "verdict": "review-pass"},
+    {"degrees": 180, "expected": {"horizontal": "none", "vertical": "down"}, "observed": "both pupils low under lowered lids with tucked chin and frontal face", "verdict": "pass"},
+    {"degrees": 202.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "lowered gaze gains a subtle screen-left nose and face shift", "verdict": "pass"},
+    {"degrees": 225, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "clear down-left pupil placement, cheek exposure and head yaw", "verdict": "pass"},
+    {"degrees": 247.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "stronger screen-left face yaw while eyes remain below center", "verdict": "pass"},
+    {"degrees": 270, "expected": {"horizontal": "screen-left", "vertical": "none"}, "observed": "unmistakable screen-left pupils, nose tip, chin and face plane", "verdict": "pass"},
+    {"degrees": 292.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "screen-left face plane with pupils and chin beginning upward", "verdict": "pass"},
+    {"degrees": 315, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "clear up-left eyes, head pitch and cheek orientation", "verdict": "pass"},
+    {"degrees": 337.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "near-up pose retaining a visible screen-left pupil and nose cue", "verdict": "pass"}
+  ]
+}

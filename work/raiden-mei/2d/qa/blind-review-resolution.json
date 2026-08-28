@@ -1,0 +1,11 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "horizontal-3: blind majority reversed the horizontal cue for 067.5 and 292.5",
+    "horizontal-7: blind majority reversed the subtle horizontal cue for 157.5 and 202.5"
+  ],
+  "evidence": "Both hard cardinal pairs pass. At labeled normal size, 067.5 retains the row-9 screen-right head family and advances continuously from 045 to 090; 292.5 retains the row-10 screen-left head family and advances continuously from 270 to 315. Likewise 157.5 is the final right-down step before 180, while 202.5 is the first left-down step after 180. The ordered loop has no reversal or wrong-quadrant pose, and all vertical pairs pass.",
+  "continuity": "Reported numerical outliers coincide with stronger cardinal-family transitions; the focused direction sheet shows stable feet, scale, silhouette, identity, and attachments."
+}

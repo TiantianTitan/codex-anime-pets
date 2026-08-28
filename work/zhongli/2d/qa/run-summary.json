@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "pet_id": "zhongli",
+  "scope": "2D only",
+  "sprite_version_number": 2,
+  "atlas": {
+    "path": "final/spritesheet-extended.webp",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208
+  },
+  "standard_rows": 9,
+  "look_directions": 16,
+  "deterministic_validation": "pass",
+  "transparent_rgb_residue_pixels": 0,
+  "blind_direction_validation": "pass with review warnings for horizontal cues at 022.5 and 157.5 only",
+  "continuity_review": "pass with accepted 270->292.5 silhouette-area warning",
+  "final_visual_qa": "pass",
+  "package_scope": "local folder and zip only; not installed or published; no 3D"
+}

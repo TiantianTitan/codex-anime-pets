@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "display_size": "192x208",
+  "order": ["000", "090", "180", "270"],
+  "verdicts": {
+    "000": {
+      "verdict": "pass",
+      "expected": "up",
+      "evidence": "Broadly frontal face; both amber pupils sit high in the eye apertures and the chin is raised."
+    },
+    "090": {
+      "verdict": "pass",
+      "expected": "screen-right",
+      "evidence": "Pupils, nose tip, chin, mouth, and front facial contour visibly project toward the viewer's screen-right edge; the profile directly opposes 270."
+    },
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "evidence": "Broadly frontal face; pupils sit low under lowered upper lids and the chin tucks into the collar."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "screen-left",
+      "evidence": "Pupils, nose tip, chin, mouth, and front facial contour visibly project toward the viewer's screen-left edge; the profile directly opposes 090."
+    }
+  },
+  "identity": "pass",
+  "scale_and_baseline": "pass",
+  "clipping": "pass",
+  "forbidden_effects": "pass"
+}

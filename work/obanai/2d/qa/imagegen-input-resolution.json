@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "tool_reference_limit": 5,
+  "look_cardinals": {
+    "attached": ["reference-01.jpg", "reference-02.jpg", "look-cardinals layout guide", "canonical-base.png", "contact-sheet.png"],
+    "reason": "Exactly five inputs; both raw identity references remain available for cardinal construction."
+  },
+  "look_row_9": {
+    "attached": ["reference-01.jpg", "look-row-9 layout guide", "canonical-base.png", "contact-sheet.png", "look-anchors-approved.png"],
+    "omitted": ["reference-02.jpg"],
+    "reason": "The supporting seated reference adds no identity cue not already captured by the canonical base, primary full-body reference, approved standard contact sheet, and cardinal strip."
+  },
+  "look_row_10": {
+    "attached": ["look-row-10 layout guide", "canonical-base.png", "contact-sheet.png", "look-anchors-approved.png", "look-row-9.png"],
+    "omitted": ["reference-01.jpg", "reference-02.jpg"],
+    "reason": "The five strongest downstream continuity references are mandatory; canonical base and approved contact sheet fully carry source identity."
+  }
+}

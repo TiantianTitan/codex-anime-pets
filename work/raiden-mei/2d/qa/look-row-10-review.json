@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "assembly_chroma_threshold": 128,
+  "baseline": "pass",
+  "identity": "pass",
+  "adjacent_continuity": "pass",
+  "directions": [
+    {"direction": "180", "verdict": "pass", "evidence": "Near-front lowered pupils, upper eyelids, and chin clearly read down."},
+    {"direction": "202.5", "verdict": "pass", "evidence": "Downward gaze begins a small screen-left head and eye shift."},
+    {"direction": "225", "verdict": "pass", "evidence": "Eyes, nose, and face occupy the down-left quadrant."},
+    {"direction": "247.5", "verdict": "pass", "evidence": "Head yaw advances toward the left anchor while retaining a downward cue."},
+    {"direction": "270", "verdict": "pass", "evidence": "Pupils, nose, and three-quarter face point unmistakably screen-left and oppose 090."},
+    {"direction": "292.5", "verdict": "pass", "evidence": "The strong left pose begins a visible upward eye and chin shift."},
+    {"direction": "315", "verdict": "pass", "evidence": "The head returns toward front while raised pupils and chin read up-left."},
+    {"direction": "337.5", "verdict": "pass", "evidence": "Near-front raised gaze is dominated by up with a small leftward cue."}
+  ],
+  "notes": "The first generated row 10 was rejected because 270 repeated the 090 screen-right direction. A later coherent row corrected 270 but failed blind vertical cardinal review because 180 read as up. This final coherent replacement makes 180 unmistakably down while preserving the corrected 270 left pose and a strong up-left return. Feet, scale, white hair mark, crimson ornaments, and outfit remain stable. Continuity metric warnings are visually explained by intentional ornament and hair gaps or by stronger cardinal-family transitions; no snap, reversal, clipping, or wrong quadrant remains."
+}

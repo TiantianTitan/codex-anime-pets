@@ -1,0 +1,43 @@
+{
+  "verdict": "pass",
+  "rows": {
+    "idle": {
+      "verdict": "pass",
+      "notes": "Six-frame calm loop preserves identity, scale, and baseline; blink and small facial/body changes provide readable micro-variation without unrelated action."
+    },
+    "running-right": {
+      "verdict": "pass",
+      "notes": "All eight frames unmistakably face screen-right and cycle between extended and tucked stride phases; scale and baseline remain stable with no speed lines, dust, shadows, overlap, or clipping."
+    },
+    "running-left": {
+      "verdict": "pass",
+      "notes": "All eight frames unmistakably face screen-left and cycle between extended and tucked stride phases; identity, scale, baseline, and costume details remain coherent with no forbidden effects."
+    },
+    "waving": {
+      "verdict": "pass",
+      "notes": "Four frames form a clear attached-hand wave and return; there are no detached wave marks, symbols, props, shadows, or visual pops."
+    },
+    "jumping": {
+      "verdict": "pass",
+      "notes": "The repaired five-frame loop keeps the standard head and body scale and clearly progresses through standing takeoff, tucked ascent, a visibly elevated apex, extended-leg descent, and a stable settle; registration is continuous and all poses remain safely inside the cell."
+    },
+    "failed": {
+      "verdict": "pass",
+      "notes": "The eight-frame droop, closed eyes, and bowed-head cycle clearly conveys failure while preserving identity and baseline, without detached tears, symbols, smoke, or other forbidden effects."
+    },
+    "waiting": {
+      "verdict": "pass",
+      "notes": "The six-frame expectant hand-to-chin and open-hand asking gestures clearly request input and remain distinct from idle, active running, and review."
+    },
+    "running": {
+      "verdict": "pass",
+      "notes": "The six-frame upright hand, eye, and thinking cycle reads as active mental work rather than directional foot-running; no new props, detached effects, scale pops, or baseline jumps are visible."
+    },
+    "review": {
+      "verdict": "pass",
+      "notes": "The six-frame forward lean, narrowed gaze, blink, and restrained hand movement read as focused review and remain visually distinct from the more open asking gestures in waiting and the upright processing loop in running."
+    }
+  },
+  "issues": [],
+  "notes": "Independent re-review covered the repaired standard contact sheet and every frame of all nine updated preview GIFs. All rows now preserve Zhongli's identity, palette, costume, scale, baseline, attachment continuity, direction, cadence, clipping safety, state semantics, and distinction without forbidden props or effects. The repaired jumping row resolves the former scale pop and now presents a clear stable-slot takeoff-apex-descent-settle arc. Pre-cleanup chroma fringe was not treated as a visual failure, per the hatch-pet rubric."
+}

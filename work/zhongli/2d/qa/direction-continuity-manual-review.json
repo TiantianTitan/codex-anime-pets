@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "source": "qa/look-continuity.json",
+  "reviewed_warnings": [
+    "270->292.5 sprite area ratio 1.15"
+  ],
+  "finding": "At normal pet size, 270 and 292.5 preserve the same head size, body scale, planted feet, lower-body anchor, coat geometry, attached ponytail, and earring. The measured area change comes from the transition between full screen-left profile and up-left three-quarter exposure; there is no visible snap, scale pop, seam, alpha hole, clipping, or reversal.",
+  "boundary_checks": {
+    "157.5_to_180": "pass: down-right smoothly becomes frontal down",
+    "180_to_202.5": "pass: frontal down smoothly gains a screen-left cue",
+    "337.5_to_000": "pass: near-up-left smoothly becomes frontal up"
+  },
+  "alpha_holes": "none",
+  "verdict": "accepted after focused normal-size visual review"
+}

@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "source": "qa/direction-blind-validation.json",
+  "hard_gates": {
+    "000_up": "pass",
+    "090_screen_right": "pass",
+    "180_down": "pass",
+    "270_screen_left": "pass"
+  },
+  "review_warnings": [
+    {
+      "direction": "022.5",
+      "axis": "horizontal",
+      "blind_majority": "ambiguous",
+      "labeled_review": "accepted: the face remains mostly upward by design, while the right pupil/nose/cheek shift is the first subtle step into the screen-right half; vertical up passed and the 000→022.5→045 loop is monotonic."
+    },
+    {
+      "direction": "157.5",
+      "axis": "horizontal",
+      "blind_majority": "ambiguous",
+      "labeled_review": "accepted: the face is intentionally near-down, while a small right pupil/nose bias remains; vertical down passed and the 135→157.5→180 loop is monotonic."
+    }
+  ],
+  "verdict": "accepted under intermediate-direction review policy; no cardinal or wrong-quadrant failure"
+}

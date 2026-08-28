@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "screen-right",
+      "reason": "A remains nearly frontal with no dependable lateral aim; B's face opening and head aim shift toward screen-right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's eyes and face turn left, while B's visible face plane and gaze turn right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The head and eye line angle left in A and clearly oppose toward the right in B."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both are strong side aims: A presents a left-facing profile and B a right-facing profile."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face projects to the left of the head center; B's face and eyes project to the right."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The visible eye/face surface is biased left in A and right in B."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both thumbnails read almost straight-on; the small pupil and face offsets do not establish a reliable horizontal aim."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes/head lift above the frontal line, while B's gaze and chin settle downward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a tucked, lowered gaze; B lifts the eyes and face noticeably upward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eye line and head pitch drop toward the collar, while B's visible eye and face lift."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the face and visible eye; B lowers the eye line into a more tucked pose."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "Both faces remain level and frontal at thumbnail size, with too little readable pitch to call up or down."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "ambiguous",
+      "B": "ambiguous",
+      "reason": "The eyes are partly obscured and the head pitch is nearly level in both cells, so the vertical axis is not definite."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's face and eye line tip downward, whereas B's visible eye and head aim lift upward."
+    }
+  ]
+}

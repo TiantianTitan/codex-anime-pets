@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/decoded/look-anchors-approved.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "used_pixels": 15990,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "used_pixels": 15463,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "used_pixels": 15513,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "used_pixels": 15664,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/raiden-mei/3d/qa/cardinal-approved-cells/270.png"
+    }
+  ]
+}

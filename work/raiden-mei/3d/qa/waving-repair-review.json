@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "trigger": "Independent final visual QA detected a conspicuous green patch blended into the screen-right hair of waving frame 0.",
+  "repair": "A coherent whole-row image edit restored the affected hair to deep indigo-purple while preserving all four poses, spacing, scale, identity, outfit, and green-screen layout.",
+  "source_path": "/home/ubuntu23/.codex/generated_images/01a04349-ebdd-7860-8baf-031aa1208c66/exec-b99cc260-a68a-49e6-b2b3-fabd7d752ccb.png",
+  "frame_review": "pass",
+  "atlas_reassembly": "pass",
+  "notes": "No direction cell was changed. The rejected pre-repair extended atlas was rebuilt from source rows; the accepted build then received exactly one despill pass."
+}

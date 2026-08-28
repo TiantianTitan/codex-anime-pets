@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","horizontal_evidence":"Near-centered face and pupils carry no principal horizontal cue.","vertical_evidence":"Pupils sit high and the chin lifts."},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"Pupils and nose begin moving screen-right.","vertical_evidence":"Raised pupils and chin retain the up cue."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"Face and pupils occupy the screen-right side of the head center.","vertical_evidence":"Eyes remain visibly raised."},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"Three-quarter face and nose advance toward screen-right.","vertical_evidence":"A smaller upward eye cue remains."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","horizontal_evidence":"Pupils, nose, and face point unmistakably screen-right.","vertical_evidence":"Eyes are vertically neutral."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"Right-facing head family remains clear.","vertical_evidence":"Pupils and chin start lowering."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"Face remains right of center while returning toward front.","vertical_evidence":"Lowered pupils and eyelids make down clear."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"A small residual screen-right pupil and face cue remains.","vertical_evidence":"Near-front lowered gaze is dominated by down."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","horizontal_evidence":"Face is centered without a principal horizontal cue.","vertical_evidence":"Pupils, upper eyelids, and chin all point down."},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"Pupils and nose begin moving screen-left.","vertical_evidence":"Lowered gaze retains the down cue."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"Face and pupils occupy the screen-left side of head center.","vertical_evidence":"Eyes and chin remain lowered."},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"Three-quarter face advances toward the strong left anchor.","vertical_evidence":"A smaller downward cue remains."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","horizontal_evidence":"Pupils, nose, and profile point unmistakably screen-left and visibly oppose 090.","vertical_evidence":"Eyes are vertically neutral."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"Strong left-facing head family remains clear.","vertical_evidence":"Pupils and chin begin lifting."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"Face remains left of center while returning toward front.","vertical_evidence":"Raised pupils and chin make up clear."},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"A small residual screen-left eye and face cue remains.","vertical_evidence":"Near-front raised gaze is dominated by up."}
+  ],
+  "continuity_resolution": "Metric warnings correspond to intentional gaps between the bun, paired ornaments, and hair or to stronger cardinal-family transitions. Normal-size labeled review shows no transparent interior damage, wrong quadrant, reversal, clipping, scale pop, or registration jump."
+}

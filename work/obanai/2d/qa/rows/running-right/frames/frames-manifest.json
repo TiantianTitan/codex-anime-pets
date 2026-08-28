@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-right",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/00.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/01.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/02.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/03.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/04.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/05.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/06.png",
+        "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/qa/rows/running-right/frames/running-right/07.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

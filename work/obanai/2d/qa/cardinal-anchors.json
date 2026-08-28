@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        543,
+        724
+      ],
+      "used_pixels": 150608,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        543,
+        0,
+        1086,
+        724
+      ],
+      "used_pixels": 142056,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1086,
+        0,
+        1629,
+        724
+      ],
+      "used_pixels": 148045,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1629,
+        0,
+        2172,
+        724
+      ],
+      "used_pixels": 142537,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-pet/work/obanai/2d/decoded/look-anchors/270.png"
+    }
+  ]
+}
