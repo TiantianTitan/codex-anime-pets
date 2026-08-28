@@ -1,0 +1,18 @@
+{
+  "000": "pass — clear up",
+  "022.5": "warning accepted — up-right with subtle right cue",
+  "045": "pass — clear up-right",
+  "067.5": "pass — right-dominant up-right",
+  "090": "pass — unmistakable viewer-right profile",
+  "112.5": "pass — clear down-right",
+  "135": "warning accepted — down-right with subtle right cue",
+  "157.5": "warning accepted — near-down with retained right cue",
+  "180": "pass — clear bowed down",
+  "202.5": "pass — clear down-left",
+  "225": "pass — clear down-left",
+  "247.5": "pass — left-dominant down-left",
+  "270": "pass — unmistakable viewer-left profile",
+  "292.5": "pass — clear up-left",
+  "315": "warning accepted — up-left remains coherent despite isolated right blind-read",
+  "337.5": "warning accepted — near-up with subtle left cue"
+}

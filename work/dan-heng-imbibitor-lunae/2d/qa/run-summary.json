@@ -1,0 +1,32 @@
+{
+  "pet_id": "dan-heng-imbibitor-lunae",
+  "display_name": "Dan Heng · Imbibitor Lunae 丹恒·饮月",
+  "scope": "2D only; local package and ZIP; not installed, uploaded, or published",
+  "package_dir": "/home/ubuntu23/Bureau/codex-anime-pets/hongkai/dan-heng-imbibitor-lunae-2d",
+  "zip_path": "/home/ubuntu23/Bureau/codex-anime-pets/hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip",
+  "contract": {
+    "sprite_version_number": 2,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "qa": {
+    "standard_rows": "pass after waiting-artifact repair and locomotion short-outfit repair",
+    "look_cardinals": "pass",
+    "look_rows": "pass after row-10 direction and shared-scale synthesis",
+    "blind_direction_validation": "ok; all hard gates pass; review-only intermediate warnings accepted by independent final visual QA",
+    "continuity": "pass after visual review; no visible snap or scale pop; 337.5→000 area ratio 1.04 and center shift 3.2 px",
+    "despill": "pass; one final edge-local chroma-spill suppression pass; alpha preserved",
+    "atlas_validation": "pass; zero errors and zero warnings",
+    "zip_test": "pass; all three archive members tested OK"
+  },
+  "sha256": {
+    "pet.json": "71efe5cac464f8893493cf5c468a24c80a8e84ce540738d5d78a54053b5b53a3",
+    "spritesheet.webp": "12ff878a2462fab5bac103e0ec3fa4ef9f311aaab2d4e5520782f3f1ca6efd72",
+    "README.md": "00674a5cc8ad6a42ec869cbd20f5f233d9091df92ec9988f34e066716b70570a",
+    "zip": "ac441014a51e6ef0c5a087a5aef05bd3915a8a0d075e2d37b6ab232d11fb9327"
+  }
+}

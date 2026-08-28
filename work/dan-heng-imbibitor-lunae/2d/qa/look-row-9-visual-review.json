@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "order": ["000", "022.5", "045", "067.5", "090", "112.5", "135", "157.5"],
+  "direction_semantics": {
+    "000": "pass — unmistakable lifted frontal up gaze",
+    "022.5": "pass — lifted gaze gains a subtle viewer-right face projection",
+    "045": "pass — clear up-right face plane, eyes, fringe, ears, and antlers",
+    "067.5": "pass — rightward projection dominates while chin remains raised",
+    "090": "pass — unmistakable viewer-right profile/face projection",
+    "112.5": "pass — rightward projection with lowered eye and chin",
+    "135": "pass — clear down-right quadrant",
+    "157.5": "pass — near-down pose retains a subtle right cue and approaches 180 evenly"
+  },
+  "identity": "pass",
+  "registration": "pass — deterministic registration produced a 1536×208 RGBA row with consistent scale, baseline, and complete silhouettes",
+  "hard_issues": []
+}

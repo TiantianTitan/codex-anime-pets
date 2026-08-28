@@ -6,28 +6,33 @@
 
 **Character art → production-ready Codex v2 animated pets**
 
-`4 个角色` · `5 个可下载成品` · `2D + 3D 风格` · `9 组状态动画` · `16 向视线`
+`5 个角色` · `6 个可下载成品` · `2D + 3D 风格` · `9 组状态动画` · `16 向视线`
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="156" alt="Dan Heng Imbibitor Lunae idle animation"><br>
+      <b>丹恒·饮月 · Imbibitor Lunae</b><br>
+      <sub>清冷、优雅、龙角与长发轻动</sub>
+    </td>
+    <td align="center" width="20%">
       <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="156" alt="Jing Yuan idle animation"><br>
       <b>景元 · Jing Yuan</b><br>
       <sub>从容、敏锐、长发与发带微动</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="work/zhongli/2d/qa/previews/idle.gif" width="156" alt="Zhongli idle animation"><br>
       <b>钟离 · Zhongli</b><br>
       <sub>沉稳、克制、契约守护者</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="work/obanai/2d/qa/previews/idle.gif" width="156" alt="Obanai idle animation"><br>
       <b>伊黑小芭内 · Obanai</b><br>
       <sub>安静、警觉、白蛇相伴</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="156" alt="Raiden Mei idle animation"><br>
       <b>雷电芽衣 · Raiden Mei</b><br>
       <sub>冷静、好奇、战斗少女</sub>
@@ -63,12 +68,33 @@
       <b>处理中 · Processing</b><br>
       <sub>专注思考，不是字面意义上的跑步</sub>
     </td>
+    <td align="center">
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/waiting.gif" width="180" alt="Dan Heng Imbibitor Lunae waiting"><br>
+      <b>等待 · Waiting</b><br>
+      <sub>安静等待用户输入与确认</sub>
+    </td>
   </tr>
 </table>
 
 ---
 
 ## 🎭 角色阵容
+
+### 丹恒·饮月 · Dan Heng · Imbibitor Lunae
+
+<table>
+  <tr>
+    <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="190" alt="Dan Heng Imbibitor Lunae idle"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>特征：</b>青色龙角、尖耳、青黑长发、白色披袖、玉色与金色纹样<br>
+      <b>气质：</b>清冷、克制、优雅，带有持明龙尊的水色气息<br><br>
+      <a href="hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 成品</b></a> ·
+      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
 
 ### 景元 · Jing Yuan
 
@@ -153,6 +179,7 @@
 
 | 角色 | 风格 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
+| 丹恒·饮月 Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
 | 景元 Jing Yuan | 2D | `jing-yuan` | [下载 ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
 | 钟离 Zhongli | 2D | `zhongli` | [下载 ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
 | 伊黑小芭内 Obanai | 2D | `obanai` | [下载 ZIP](obanai/obanai-2d-codex-pet-v2.zip) |

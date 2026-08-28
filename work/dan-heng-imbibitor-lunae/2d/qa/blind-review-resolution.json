@@ -1,0 +1,11 @@
+{
+  "status": "accepted",
+  "validation_ok": true,
+  "hard_gates": "pass — horizontal 090 vs 270 and vertical 000 vs 180 were classified correctly by strict majority",
+  "review_warnings": [
+    "022.5 and 337.5 have intentionally subtle horizontal cues near the vertical cardinal",
+    "135 and 157.5 retain coherent right-half progression but their horizontal cues are subtle in isolated crops",
+    "315 was blind-read screen-right in isolation; full-sheet review confirms a coherent up-left interpolation between 292.5 and 337.5 without a quadrant jump"
+  ],
+  "resolution": "Accepted by independent final visual QA because all hard cardinals and every vertical comparison pass; the labeled 16-step loop advances clockwise without visible reversal, snap, scale pop, or identity break."
+}

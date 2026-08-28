@@ -1,0 +1,4 @@
+# Extraction decisions
+
+- `jumping`: intentionally extracted with `stable-slots`. Component normalization would recenter each figure and erase the authored grounded → rising → apex → descending → grounded foot trajectory. The source row has five clean equal slots, stable apparent character scale, and safe padding. `inspect_frames.py --allow-stable-slots` passed with no errors; the expected method warning is accepted pending visual animation QA.
+- `failed`: intentionally extracted with `stable-slots`. The animation's semantic content is a continuous upright → deep slump/seated low point → recovery deformation at stable head scale. Component normalization would enlarge and recenter the low frames, destroying that body-height progression. The eight equal source slots have safe padding; inspection passed with no errors and only the expected method warning.

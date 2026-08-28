@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "order": ["000", "090", "180", "270"],
+  "anchors": {
+    "000": "pass — broadly frontal face with lifted chin, pupils, and face plane unmistakably aimed at the top edge",
+    "090": "pass — nose tip, face plane, pupils, ears, antlers, and hair project toward viewer screen-right",
+    "180": "pass — broadly frontal bowed head with tucked chin and covered/lowered eye line unmistakably aimed down",
+    "270": "pass — nose tip, face plane, pupils, ears, antlers, and hair project toward viewer screen-left"
+  },
+  "identity": "pass — palette, horns, hair, pointed ears, white sleeves, short outfit, pale legs, boots, waist ornament, earring, and attached aqua accent remain coherent",
+  "registration": "pass — all four poses are complete, centered, baseline-stable, and similarly scaled",
+  "approved_strip": "decoded/look-anchors-approved.png"
+}

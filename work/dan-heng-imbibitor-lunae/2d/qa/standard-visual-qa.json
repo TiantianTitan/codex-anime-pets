@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine rows preserve identity, correct counts, semantics, stable readable loops, complete silhouettes, and clean backgrounds; no clipping, detached fragments, or unintended residue was found.",
+  "rows": {
+    "idle": "pass — 6-frame subtle breath/blink loop",
+    "running-right": "pass — all 8 frames show above-knee black shorts, pale leg gaps, dark ankle boots, clear rightward facing/travel, alternating gait, and stable scale",
+    "running-left": "pass — all 8 frames preserve the same leg construction with unmistakable leftward facing/travel, alternating gait, and stable scale",
+    "waving": "pass — 4-frame restrained hand wave",
+    "jumping": "pass — 5-frame crouch, launch, apex, descent, and landing",
+    "failed": "pass — 8-frame coherent slump/collapse/recovery",
+    "waiting": "pass — 6-frame patient asking gesture distinct from idle",
+    "running": "pass — 6-frame stationary focused processing gesture, not locomotion",
+    "review": "pass — 6-frame chin-touch inspection loop distinct from waiting and processing"
+  },
+  "repair_rows": [],
+  "repair_notes": "none"
+}

@@ -1,0 +1,19 @@
+{
+  "visual_qa": "pass",
+  "order": ["180", "202.5", "225", "247.5", "270", "292.5", "315", "337.5"],
+  "direction_semantics": {
+    "180": "pass — broad-frontal deeply bowed down pose",
+    "202.5": "pass — down-left pose with image-left face projection",
+    "225": "pass — clear down-left quadrant",
+    "247.5": "pass — near-left pose retains a downward cue",
+    "270": "pass — unmistakable viewer-left profile with rear hair and aqua accent trailing image-right",
+    "292.5": "pass — viewer-left profile begins a clear upward lift",
+    "315": "pass — up-left with substantial frontalization",
+    "337.5": "pass — near-up broad-frontal pose retains a subtle left cue and joins 000 smoothly"
+  },
+  "identity": "pass",
+  "scale_and_registration": "pass — raw figure heights 416–429 px and foot baseline y=584–585 match row 9 closely; shared registration yields stable areas and centers, including 337.5→000 area ratio 1.04 and center shift 3.2 px",
+  "continuity_review": "pass with accepted metric warning — 180→202.5 has a local pixel-diff outlier because the first visible left face plane and asymmetric hair/ear geometry appear between the frontal down cardinal and first down-left intermediate; scale ratio is 1.002, center shift is 7.65 px, and visual review shows no snap, reversal, or identity break",
+  "alpha_hole_review": "accepted — reported top holes are natural gaps between antlers/hair; lower holes are natural spaces between legs, boots, hair, and attached aqua tail, not accidental transparency inside painted body regions",
+  "hard_issues": []
+}
