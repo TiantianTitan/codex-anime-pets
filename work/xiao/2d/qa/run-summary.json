@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "scope": "2D only; not installed, uploaded, or published",
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d",
+  "spritesheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/final/spritesheet-extended.webp",
+  "validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/final/validation-extended.json",
+  "package_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/package-validation.json",
+  "chroma_despill": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/look-directions.png",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/look-continuity.json",
+  "review": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/review.json",
+  "final_visual_qa": "/home/ubuntu23/Bureau/codex-anime-pets/work/xiao/2d/qa/final-visual-qa.json",
+  "package": "/home/ubuntu23/Bureau/codex-anime-pets/xiao/xiao-2d",
+  "archive": "/home/ubuntu23/Bureau/codex-anime-pets/xiao/xiao-2d.zip",
+  "spritesheet_sha256": "c8ca8fae218e3f0e30e0620a67921d4a15df75437e425c5556055b75cffee90a",
+  "archive_sha256": "423a4bd82d497a33969802982e6247ce1e205900aff213cb7b1a62e91988cb24"
+}

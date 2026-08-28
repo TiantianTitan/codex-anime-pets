@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All 11 rows preserve Xiao's locked 2D chibi identity, palette, golden eyes, forehead diamond, asymmetric tattoo/glove costume, attached mask and accessories, stable scale and baseline, with correct state motion and a coherent 16-direction loop; deterministic review, blind cardinal validation, despill, and v2 validation all pass.",
+  "direction_warnings": [
+    "247.5 down-left has a subtle vertical cue that was ambiguous in blind review but reads correctly in the labeled loop.",
+    "292.5 up-left has a subtle vertical cue that was ambiguous in blind review but reads correctly in the labeled loop.",
+    "337.5 up-left has a subtle horizontal cue that was ambiguous in blind review but reads correctly in the labeled loop."
+  ],
+  "continuity_resolution": "Metric outliers reflect natural profile/three-quarter silhouette changes; normal-size visual review shows no snap, scale pop, registration jump, reversal, identity change, or broken attachment.",
+  "repair_rows": []
+}

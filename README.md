@@ -2,156 +2,185 @@
 
 # 🐾 Codex Anime Pets
 
-### 把你喜欢的角色，变成会在 Codex 旁边呼吸、奔跑、思考和回应的桌面伙伴。
+### Your favorite characters, reimagined as lively companions for Codex.
 
-**Character art → production-ready Codex v2 animated pets**
+**Character art → polished Codex v2 animated pets**
 
-`5 个角色` · `6 个可下载成品` · `2D + 3D 风格` · `9 组状态动画` · `16 向视线`
+`6 characters` · `7 downloadable editions` · `2D + 3D-rendered styles` · `9 animation states` · `16 look directions`
+
+<p>
+  <a href="README.md"><kbd><b>English</b></kbd></a>
+  <a href="README.fr.md"><kbd>Français</kbd></a>
+  <a href="README.zh-CN.md"><kbd>中文</kbd></a>
+</p>
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="20%">
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="156" alt="Dan Heng Imbibitor Lunae idle animation"><br>
-      <b>丹恒·饮月 · Imbibitor Lunae</b><br>
-      <sub>清冷、优雅、龙角与长发轻动</sub>
+    <td align="center" width="33%">
+      <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="Xiao idle animation"><br>
+      <b>Xiao · 魈</b><br>
+      <sub>Watchful, restrained, unmistakably adeptal</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="156" alt="Jing Yuan idle animation"><br>
-      <b>景元 · Jing Yuan</b><br>
-      <sub>从容、敏锐、长发与发带微动</sub>
+    <td align="center" width="33%">
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="Dan Heng Imbibitor Lunae idle animation"><br>
+      <b>Dan Heng · Imbibitor Lunae · 丹恒·饮月</b><br>
+      <sub>Cool elegance, flowing hair, quiet presence</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="work/zhongli/2d/qa/previews/idle.gif" width="156" alt="Zhongli idle animation"><br>
-      <b>钟离 · Zhongli</b><br>
-      <sub>沉稳、克制、契约守护者</sub>
+    <td align="center" width="33%">
+      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="Jing Yuan idle animation"><br>
+      <b>Jing Yuan · 景元</b><br>
+      <sub>Relaxed confidence with a keen eye</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="work/obanai/2d/qa/previews/idle.gif" width="156" alt="Obanai idle animation"><br>
-      <b>伊黑小芭内 · Obanai</b><br>
-      <sub>安静、警觉、白蛇相伴</sub>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="Zhongli idle animation"><br>
+      <b>Zhongli · 钟离</b><br>
+      <sub>Measured, dependable, quietly commanding</sub>
     </td>
-    <td align="center" width="20%">
-      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="156" alt="Raiden Mei idle animation"><br>
-      <b>雷电芽衣 · Raiden Mei</b><br>
-      <sub>冷静、好奇、战斗少女</sub>
+    <td align="center" width="33%">
+      <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="Obanai idle animation"><br>
+      <b>Obanai · 伊黑小芭内</b><br>
+      <sub>Reserved, alert, always beside Kaburamaru</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="Raiden Mei idle animation"><br>
+      <b>Raiden Mei · 雷电芽衣</b><br>
+      <sub>Composed, curious, ready for action</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✨ 这些不是一张静态立绘
+## ✨ More than a portrait
 
-每个成品都是完整的 **Codex v2 动画宠物**：它们会待机、移动、挥手、跳跃，也会在任务失败、等待用户、处理任务和审阅结果时做出不同反应。
+Each release is a complete animated companion. The characters breathe, run, wave, jump, react to setbacks, wait for your input, focus while a task is running, and look over the finished result.
 
 <table>
   <tr>
     <td align="center">
       <img src="work/jing-yuan/2d/qa/previews/jumping.gif" width="180" alt="Jing Yuan jumping"><br>
-      <b>跳跃 · Jumping</b><br>
-      <sub>压低 → 起跳 → 峰值 → 落地</sub>
+      <b>Jumping</b><br>
+      <sub>A compact leap with a soft landing</sub>
     </td>
     <td align="center">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="180" alt="Zhongli reviewing"><br>
-      <b>审阅 · Review</b><br>
-      <sub>专注检查已完成的结果</sub>
+      <b>Reviewing</b><br>
+      <sub>A thoughtful look at the finished work</sub>
     </td>
     <td align="center">
       <img src="work/obanai/2d/qa/previews/waving.gif" width="180" alt="Obanai waving"><br>
-      <b>挥手 · Waving</b><br>
-      <sub>没有动作线，只用角色本身表达</sub>
+      <b>Waving</b><br>
+      <sub>A small greeting that suits his reserved nature</sub>
     </td>
     <td align="center">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="180" alt="Raiden Mei processing"><br>
-      <b>处理中 · Processing</b><br>
-      <sub>专注思考，不是字面意义上的跑步</sub>
+      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="180" alt="Raiden Mei focusing on a task"><br>
+      <b>Working</b><br>
+      <sub>Quiet concentration while a task is underway</sub>
     </td>
     <td align="center">
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/waiting.gif" width="180" alt="Dan Heng Imbibitor Lunae waiting"><br>
-      <b>等待 · Waiting</b><br>
-      <sub>安静等待用户输入与确认</sub>
+      <img src="work/xiao/2d/qa/previews/waiting.gif" width="180" alt="Xiao waiting for input"><br>
+      <b>Waiting</b><br>
+      <sub>An attentive pause for your next decision</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎭 角色阵容
+## 🎭 Meet the cast
 
-### 丹恒·饮月 · Dan Heng · Imbibitor Lunae
+### Xiao · 魈
+
+<table>
+  <tr>
+    <td align="center"><img src="work/xiao/2d/qa/previews/idle.gif" width="190" alt="Xiao idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> golden eyes, purple forehead mark, teal-tipped hair, adeptal tattoo, jade ornaments, and Yaksha mask<br>
+      <b>Mood:</b> vigilant and restrained, with a softer presence at desktop scale<br><br>
+      <a href="xiao/xiao-2d.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/xiao/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/xiao/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+### Dan Heng · Imbibitor Lunae · 丹恒·饮月
 
 <table>
   <tr>
     <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="190" alt="Dan Heng Imbibitor Lunae idle"></td>
     <td>
-      <b>风格：</b>2D 动漫贴纸<br>
-      <b>特征：</b>青色龙角、尖耳、青黑长发、白色披袖、玉色与金色纹样<br>
-      <b>气质：</b>清冷、克制、优雅，带有持明龙尊的水色气息<br><br>
-      <a href="hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 成品</b></a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 向视线</a>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> cyan dragon horns, pointed ears, long dark hair, white draped sleeves, and jade-gold ornaments<br>
+      <b>Mood:</b> cool, composed, and quietly elegant<br><br>
+      <a href="hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
-### 景元 · Jing Yuan
+### Jing Yuan · 景元
 
 <table>
   <tr>
     <td align="center"><img src="work/jing-yuan/2d/qa/previews/idle.gif" width="190" alt="Jing Yuan idle"></td>
     <td>
-      <b>风格：</b>2D 动漫贴纸<br>
-      <b>特征：</b>银白长发、金色眼睛、红色发带、黑白红金制服<br>
-      <b>气质：</b>从容、观察力强、带一点慢条斯理<br><br>
-      <a href="jingyuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 成品</b></a> ·
-      <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/jing-yuan/2d/qa/look-directions.png">16 向视线</a>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> long silver hair, golden eyes, red ribbon, and a black-white-red-gold uniform<br>
+      <b>Mood:</b> unhurried, observant, and confidently at ease<br><br>
+      <a href="jingyuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/jing-yuan/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
-### 钟离 · Zhongli
+### Zhongli · 钟离
 
 <table>
   <tr>
     <td align="center"><img src="work/zhongli/2d/qa/previews/idle.gif" width="190" alt="Zhongli idle"></td>
     <td>
-      <b>风格：</b>2D 动漫贴纸<br>
-      <b>特征：</b>琥珀色眼睛、古典长袍、棕金色系<br>
-      <b>气质：</b>沉稳、从容、可靠<br><br>
-      <a href="zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 成品</b></a> ·
-      <a href="work/zhongli/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/zhongli/2d/qa/look-directions.png">16 向视线</a>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> amber eyes, formal long coat, and a warm brown-and-gold palette<br>
+      <b>Mood:</b> steady, reassuring, and effortlessly dignified<br><br>
+      <a href="zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/zhongli/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/zhongli/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
-### 伊黑小芭内 · Obanai
+### Obanai · 伊黑小芭内
 
 <table>
   <tr>
     <td align="center"><img src="work/obanai/2d/qa/previews/idle.gif" width="190" alt="Obanai idle"></td>
     <td>
-      <b>风格：</b>2D 动漫贴纸<br>
-      <b>特征：</b>异色瞳、黑白条纹羽织、白蛇伴生角色<br>
-      <b>气质：</b>安静、警觉、克制<br><br>
-      <a href="obanai/obanai-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 成品</b></a> ·
-      <a href="obanai/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="obanai/qa/direction-qa.png">16 向视线</a>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> heterochromia, striped haori, and Kaburamaru curled close by<br>
+      <b>Mood:</b> reserved, watchful, and sharply attentive<br><br>
+      <a href="obanai/obanai-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="obanai/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="obanai/qa/direction-qa.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
-### 雷电芽衣 · Raiden Mei
+### Raiden Mei · 雷电芽衣
 
-同一个角色，两种可独立安装的视觉语言：
+One character, two distinct visual editions:
 
 <table>
   <tr>
-    <th align="center">2D 动漫贴纸</th>
-    <th align="center">3D Q 版游戏手办风</th>
+    <th align="center">2D anime sticker</th>
+    <th align="center">3D-rendered chibi figure</th>
   </tr>
   <tr>
     <td align="center"><img src="work/raiden-mei/2d/qa/previews/idle.gif" width="220" alt="Raiden Mei 2D idle"></td>
@@ -159,107 +188,109 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-contact-sheet.png">完整动作表</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-look-directions.png">16 向视线</a>
+      <a href="Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D</b></a><br>
+      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-contact-sheet.png">Animation sheet</a> ·
+      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-look-directions.png">16 look directions</a>
     </td>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ 下载 3D</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-contact-sheet.png">完整动作表</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-look-directions.png">16 向视线</a>
+      <a href="Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Download 3D style</b></a><br>
+      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-contact-sheet.png">Animation sheet</a> ·
+      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
-> 这里的“3D”是精致 Q 版 3D 渲染风格的二维精灵图，不是 GLB、FBX 或实时骨骼模型。
+The 3D edition describes the rendered look. Like every pet here, it is delivered as a lightweight 2D spritesheet.
 
 ---
 
-## 📦 成品一览
+## 📦 Downloads
 
-| 角色 | 风格 | Pet ID | 成品包 |
+| Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
-| 丹恒·饮月 Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| 景元 Jing Yuan | 2D | `jing-yuan` | [下载 ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
-| 钟离 Zhongli | 2D | `zhongli` | [下载 ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
-| 伊黑小芭内 Obanai | 2D | `obanai` | [下载 ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
-| 雷电芽衣 Raiden Mei | 2D | `raiden-mei` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
-| 雷电芽衣 Raiden Mei | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
+| Xiao · 魈 | 2D | `xiao` | [Download ZIP](xiao/xiao-2d.zip) |
+| Dan Heng · Imbibitor Lunae · 丹恒·饮月 | 2D | `dan-heng-imbibitor-lunae` | [Download ZIP](hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| Jing Yuan · 景元 | 2D | `jing-yuan` | [Download ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
+| Zhongli · 钟离 | 2D | `zhongli` | [Download ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
+| Obanai · 伊黑小芭内 | 2D | `obanai` | [Download ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
+| Raiden Mei · 雷电芽衣 | 2D | `raiden-mei` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
+| Raiden Mei · 雷电芽衣 | 3D-rendered | `raiden-mei-3d` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
 
-每个 ZIP 内都只有直接使用所需的内容：
+Each archive is ready to unpack:
 
 ```text
 pet.json
 spritesheet.webp
-README.md       # 部分早期包为可选说明文件
+README.md
 ```
 
 ---
 
-## ⚡ 手动安装
+## ⚡ Install a pet
 
-以景元为例：
+Using Xiao as an example:
 
 ```bash
-mkdir -p ~/.codex/pets/jing-yuan
-unzip jingyuan/jing-yuan-2d-codex-pet-v2.zip -d ~/.codex/pets/jing-yuan
+mkdir -p ~/.codex/pets/xiao
+unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ```
 
-或者直接复制已解压的两个核心文件：
+The resulting folder should look like this:
 
 ```text
-~/.codex/pets/jing-yuan/
+~/.codex/pets/xiao/
 ├── pet.json
-└── spritesheet.webp
+├── spritesheet.webp
+└── README.md
 ```
 
-要同时保留雷电芽衣 2D 和 3D，请分别放入 `raiden-mei/` 与 `raiden-mei-3d/`，两者的 ID 不会互相覆盖。
+To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
 ---
 
-## 🧪 我们如何保证动画质量
+## 🧪 What makes a pet feel alive
 
-每个宠物都是一个完整的 Codex v2 图集，而不是几张看起来相似的图片：
+A good desktop companion reads clearly at a glance, moves smoothly, and carries the character's personality from one state to the next.
 
-| 项目 | 规格 |
+| Detail | Codex v2 format |
 | --- | --- |
-| 图集 | 8 列 × 11 行，`1536×2288` |
-| 单格 | `192×208` |
-| 基础状态 | 待机、右移、左移、挥手、跳跃、失败、等待、处理中、审阅 |
-| 视线 | 16 个顺时针方向，上、右、下、左为硬性验收点 |
-| 透明度 | RGBA WebP，未使用单元格完全透明 |
-| 版本 | `spriteVersionNumber: 2` |
-| QA | 逐行动画检查、GIF 回放、边界检查、视线语义、连续性、方向盲测与最终视觉复核 |
+| Atlas | 8 columns × 11 rows, `1536×2288` |
+| Cell | `192×208` |
+| Character states | idle, move right, move left, wave, jump, failed, waiting, working, review |
+| Look loop | 16 clockwise directions with clear up, right, down, and left anchors |
+| Transparency | RGBA WebP with clean unused cells |
+| Version | `spriteVersionNumber: 2` |
+| Review | frame inspection, GIF playback, edge checks, direction semantics, continuity review, blind direction checks, and a final visual pass |
 
-核心原则很简单：**小尺寸下仍要看得清，动起来不能跳，每一行都必须像同一个角色。**
+The technical checks support the part that matters most: every animation should still feel like the same character.
 
 ---
 
-## 🎨 从一张角色图开始
+## 🎨 Start with character art
 
-这些成品来自同一条可复用的生产线：
+The collection follows a reusable production flow:
 
 ```text
-角色参考图
-   ↓
-身份锁定 + 风格样板
-   ↓
-9 组标准动画
-   ↓
-4 个主方向 + 16 向连续视线
-   ↓
-确定性组装 + 独立 QA
-   ↓
-可下载的 Codex v2 宠物包
+Character references
+        ↓
+Identity and style study
+        ↓
+Nine character animation states
+        ↓
+Four anchors and a 16-direction look loop
+        ↓
+Assembly and visual review
+        ↓
+A downloadable Codex v2 pet
 ```
 
-如果你也想批量制作角色，可以从 [Codex Pet Dual Style 生产规范](codex-pet-dual-style/SKILL.md) 开始。它记录了 2D/3D 风格配对、角色身份锁、动作语义、方向验收、打包和批量质量门槛。
+To build your own collection, begin with the [Codex Pet Dual Style production guide](codex-pet-dual-style/SKILL.md). It covers paired 2D/3D styles, identity consistency, motion design, direction review, packaging, and batch production.
 
 ---
 
-## 🤝 贡献新角色
+## 🤝 Contributing
 
-欢迎提交新宠物、动画修复、视觉 QA 改进和生产流程优化。一个可分发的宠物至少应当包含：
+New pets, animation repairs, presentation improvements, and workflow refinements are welcome. A distributable pet begins with:
 
 ```text
 <pet-id>/
@@ -267,24 +298,22 @@ unzip jingyuan/jing-yuan-2d-codex-pet-v2.zip -d ~/.codex/pets/jing-yuan
 └── spritesheet.webp
 ```
 
-如果你希望角色出现在上面的动态阵容中，请同时附上一张联系表或几个 `192×208` GIF 预览。
+If you would like a character featured in the animated gallery, include a contact sheet or a few `192×208` GIF previews.
 
 ---
 
-## ⭐ 为什么值得收藏
+## ⭐ A little more character beside the code
 
-因为有一天，你的编程助手可能不再只是一个输入框。
-
-它会在你思考时安静等待，在任务失败时陪你沉默一下，在你终于修好那个 bug 时挥挥手。
+Codex may live in a text box, but its companion does not have to. These pets wait with you, react with you, and make the quiet moments between tasks feel a little less empty.
 
 <div align="center">
 
 **Give your Codex a character worth coming back to.**
 
-如果你喜欢这些宠物，欢迎 Star、Fork，或带来下一个角色。
+If this collection made you smile, leave a Star, make a Fork, or bring the next character.
 
 </div>
 
 ---
 
-<sub>角色形象的相关权利归原权利人所有。本仓库为非官方技术与动画工作流展示；在公开分发或商业使用前，请确认所使用角色与原始素材的授权范围。</sub>
+<sub>Character rights remain with their respective owners. This repository is an unofficial technical and animation showcase; please confirm the licensing scope of any character and source material before public distribution or commercial use.</sub>

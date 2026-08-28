@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "directions": [
+    {"degree":"000","verdict":"pass","expected":"up","observed":"up","horizontal_evidence":"broadly frontal with centered nose","vertical_evidence":"golden irises rise and chin lifts","reason":"unmistakable up cardinal"},
+    {"degree":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"nose and face begin shifting screen-right","vertical_evidence":"raised irises and chin retain strong up cue","reason":"even first clockwise step"},
+    {"degree":"045","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"nose, iris, and face plane sit screen-right","vertical_evidence":"chin and gaze remain visibly raised","reason":"clear up-right diagonal"},
+    {"degree":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal_evidence":"rightward profile is dominant","vertical_evidence":"head and eye line retain a smaller up cue","reason":"continuous approach to right"},
+    {"degree":"090","verdict":"pass","expected":"right","observed":"right","horizontal_evidence":"nose, chin, and visible face point screen-right","vertical_evidence":"head is vertically level","reason":"unmistakable right cardinal"},
+    {"degree":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"rightward face turn remains clear","vertical_evidence":"golden irises lower and chin begins to tuck","reason":"first even step toward down"},
+    {"degree":"135","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"nose and face remain screen-right","vertical_evidence":"bow and lowered gaze deepen","reason":"clear down-right diagonal"},
+    {"degree":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal_evidence":"subtle but readable rightward facial offset","vertical_evidence":"near-down bowed head is dominant","reason":"one coherent step before 180"},
+    {"degree":"180","verdict":"pass","expected":"down","observed":"down","horizontal_evidence":"broadly frontal with centered nose","vertical_evidence":"golden irises lower and chin tucks deeply","reason":"unmistakable down cardinal"},
+    {"degree":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"nose and face begin shifting screen-left","vertical_evidence":"bowed head and lowered gaze remain strong","reason":"even first step from down"},
+    {"degree":"225","verdict":"pass","expected":"down-left","observed":"down-left","horizontal_evidence":"nose, iris, and face plane sit screen-left","vertical_evidence":"chin and gaze remain visibly lowered","reason":"clear down-left diagonal"},
+    {"degree":"247.5","verdict":"warning","expected":"down-left","observed":"down-left with subtle vertical cue","horizontal_evidence":"strong left-facing profile","vertical_evidence":"chin remains slightly tucked though blind vertical majority was ambiguous","reason":"labeled loop confirms down-left; intermediate blind ambiguity is minor"},
+    {"degree":"270","verdict":"pass","expected":"left","observed":"left","horizontal_evidence":"nose, chin, and visible face point screen-left","vertical_evidence":"head is vertically level","reason":"unmistakable left cardinal"},
+    {"degree":"292.5","verdict":"warning","expected":"up-left","observed":"up-left with subtle vertical cue","horizontal_evidence":"leftward face turn remains clear","vertical_evidence":"chin begins lifting though blind vertical majority was ambiguous","reason":"labeled loop confirms up-left; intermediate blind ambiguity is minor"},
+    {"degree":"315","verdict":"pass","expected":"up-left","observed":"up-left","horizontal_evidence":"nose and face remain screen-left","vertical_evidence":"raised gaze and chin are clear","reason":"clear up-left diagonal"},
+    {"degree":"337.5","verdict":"warning","expected":"up-left","observed":"near-up with subtle left cue","horizontal_evidence":"small leftward iris and facial offset; blind horizontal majority was ambiguous","vertical_evidence":"raised chin and gaze are unmistakably up","reason":"labeled loop confirms the final up-left step before 000"}
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "notes": "Alpha-hole candidates are the intended open gaps between boots, sash tails, arms, hair, and attached accessories. Diff/area warnings at 090→112.5, 225→247.5, and 270→292.5 reflect expected three-quarter/profile silhouette changes; the labeled normal-size loop shows no snap, scale pop, registration jump, broken attachment, or reversal."
+  },
+  "blind_review": {
+    "ok": true,
+    "cardinals": "all hard cardinal pairs pass",
+    "warnings": ["337.5 horizontal cue ambiguous", "247.5 vertical cue ambiguous", "292.5 vertical cue ambiguous"]
+  }
+}
