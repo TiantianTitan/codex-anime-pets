@@ -11,8 +11,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 6 PERSONNAGES</code>
-  <code>✦ 7 ÉDITIONS</code>
+  <code>✦ 7 PERSONNAGES</code>
+  <code>✦ 8 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -72,6 +72,17 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <sub>✦ PERSONNAGE 07 · GUUJI ✦</sub><br>
+      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente de Yae Miko"><br>
+      <b>「 Yae Miko · 八重神子 」</b><br>
+      <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -87,9 +98,9 @@
 <table>
   <tr>
     <td align="center">
-      <img src="work/jing-yuan/2d/qa/previews/jumping.gif" width="180" alt="Jing Yuan saute"><br>
+      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="180" alt="Yae Miko saute"><br>
       <b>Saut</b><br>
-      <sub>Un petit bond vif suivi d’un atterrissage léger</sub>
+      <sub>Une ascension légère avec un instant suspendu</sub>
     </td>
     <td align="center">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="180" alt="Zhongli examine le résultat"><br>
@@ -265,6 +276,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details>
+<summary><b>🌸 DOSSIER 07 — Yae Miko · 八重神子</b>　<sub>Guuji du sanctuaire de Narukami / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure rose sakura, yeux violets, ornements dorés, boucles serties et tenue de prêtresse rouge, blanche, noire et violette<br>
+      <b>Tempérament :</b> élégante, joueuse et discrètement malicieuse<br><br>
+      <a href="yae%20miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
+      <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="work/yae-miko/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -280,6 +312,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Obanai · 伊黑小芭内 | 2D | `obanai` | [Télécharger](obanai/obanai-2d-codex-pet-v2.zip) |
 | Raiden Mei · 雷电芽衣 | 2D | `raiden-mei` | [Télécharger](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
 | Raiden Mei · 雷电芽衣 | rendu 3D | `raiden-mei-3d` | [Télécharger](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
+| Yae Miko · 八重神子 | 2D | `yae-miko` | [Télécharger](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

@@ -11,8 +11,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 6 CHARACTERS</code>
-  <code>✦ 7 EDITIONS</code>
+  <code>✦ 7 CHARACTERS</code>
+  <code>✦ 8 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -72,6 +72,17 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <sub>✦ CHARACTER 07 · GUUJI ✦</sub><br>
+      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko idle animation"><br>
+      <b>「 Yae Miko · 八重神子 」</b><br>
+      <sub>◇ Playful poise · Shrine elegance · Quiet mischief ◇</sub>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -87,9 +98,9 @@
 <table>
   <tr>
     <td align="center">
-      <img src="work/jing-yuan/2d/qa/previews/jumping.gif" width="180" alt="Jing Yuan jumping"><br>
+      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="180" alt="Yae Miko jumping"><br>
       <b>Jumping</b><br>
-      <sub>A compact leap with a soft landing</sub>
+      <sub>A light shrine-maiden rise with a floating apex</sub>
     </td>
     <td align="center">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="180" alt="Zhongli reviewing"><br>
@@ -265,6 +276,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details>
+<summary><b>🌸 FILE 07 — Yae Miko · 八重神子</b>　<sub>Grand Narukami Shrine Guuji / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> flowing sakura-pink hair, violet eyes, golden crown ornaments, gemstone earrings, and a red-white-black-purple shrine-maiden outfit<br>
+      <b>Mood:</b> poised, playful, and quietly mischievous<br><br>
+      <a href="yae%20miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/yae-miko/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -280,6 +312,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Obanai · 伊黑小芭内 | 2D | `obanai` | [Download ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
 | Raiden Mei · 雷电芽衣 | 2D | `raiden-mei` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
 | Raiden Mei · 雷电芽衣 | 3D-rendered | `raiden-mei-3d` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
+| Yae Miko · 八重神子 | 2D | `yae-miko` | [Download ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 
