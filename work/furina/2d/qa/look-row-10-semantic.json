@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "repair": "Full coherent row regenerated after boundary-pop and final-cell edge failures; accepted after independent normal-size review.",
+  "directions": [
+    {"direction": "180", "expected": "down", "verdict": "pass", "observed": "lowered pupils and tucked chin", "reason": "unmistakably reads down"},
+    {"direction": "202.5", "expected": "down-left", "verdict": "pass", "observed": "downcast eyes combine with the first screen-left face turn", "reason": "first even step into the down-left quadrant"},
+    {"direction": "225", "expected": "down-left", "verdict": "pass", "observed": "lowered gaze with a clear three-quarter left head angle", "reason": "both axes are visible"},
+    {"direction": "247.5", "expected": "down-left", "verdict": "pass", "observed": "near-profile left pose retains a downward eye and chin cue", "reason": "continues smoothly toward the left cardinal"},
+    {"direction": "270", "expected": "left", "verdict": "pass", "observed": "nose tip, pupils, and face profile aim screen-left", "reason": "unmistakable screen-left cardinal"},
+    {"direction": "292.5", "expected": "up-left", "verdict": "pass", "observed": "left profile begins lifting its eyes and chin", "reason": "first even step into the up-left quadrant"},
+    {"direction": "315", "expected": "up-left", "verdict": "pass", "observed": "raised gaze with a three-quarter left head turn", "reason": "both axes are visible"},
+    {"direction": "337.5", "expected": "up-left", "verdict": "pass", "observed": "both eyes are visible in a near-frontal face with high pupils and a subtle canvas-left nose bias", "reason": "reads one smooth step before frontal up"}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "The warned 157.5-to-180 transition preserves the crouched down-facing family, and 337.5-to-000 advances from near-frontal up-left to frontal up without a visible snap. Feet, baseline, identity, and hat attachment remain stable. Reported alpha gaps at 270 and 292.5 are intentional spaces among the curled forelock, hat, and hair rather than broken silhouette seams."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "repair": "Full coherent row regenerated after independent blind QA rejected the previous 090 cardinal as screen-left.",
+  "registered_row": "qa/look-row-9-registered.png",
+  "directions": [
+    {"direction": "000", "expected": "up", "verdict": "pass", "observed": "raised pupils and lifted chin", "reason": "unmistakably reads up"},
+    {"direction": "022.5", "expected": "up-right", "verdict": "pass", "observed": "eyes remain raised while nose and face begin turning screen-right", "reason": "first even step into the up-right quadrant"},
+    {"direction": "045", "expected": "up-right", "verdict": "pass", "observed": "raised gaze with a clear three-quarter right head turn", "reason": "both axes are visible"},
+    {"direction": "067.5", "expected": "up-right", "verdict": "pass", "observed": "near-profile right turn retains an upward eye cue", "reason": "continues smoothly toward the right cardinal"},
+    {"direction": "090", "expected": "right", "verdict": "pass", "observed": "pupils, nose tip, and facial projection lie to the canvas-right of head center", "reason": "unmistakably opposes the approved 270 screen-left anchor"},
+    {"direction": "112.5", "expected": "down-right", "verdict": "pass", "observed": "right-facing profile adds a restrained downward eye and chin cue", "reason": "first even step into the down-right quadrant"},
+    {"direction": "135", "expected": "down-right", "verdict": "pass", "observed": "lowered gaze with three-quarter right head angle", "reason": "both axes are visible"},
+    {"direction": "157.5", "expected": "down-right", "verdict": "pass", "observed": "deeply lowered chin with retained rightward facial bias", "reason": "reads one step before down"}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Feet, scale, and baseline remain anchored while eyes, head, hat, and shoulders advance in even adjacent steps with stable identity and attached costume details."
+  }
+}

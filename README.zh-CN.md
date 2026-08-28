@@ -11,8 +11,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 7 个角色</code>
-  <code>✦ 8 个版本</code>
+  <code>✦ 8 个角色</code>
+  <code>✦ 9 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -74,11 +74,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <sub>✦ 角色 07 · 宫司大人 ✦</sub><br>
       <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="八重神子的待机动画"><br>
       <b>「 八重神子 · Yae Miko 」</b><br>
       <sub>◇ 从容优雅 · 狐系灵动 · 藏着一点坏心思 ◇</sub>
+    </td>
+    <td align="center" width="50%">
+      <sub>✦ 角色 08 · 枫丹之星 ✦</sub><br>
+      <img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="芙宁娜的待机动画"><br>
+      <b>「 芙宁娜 · Furina 」</b><br>
+      <sub>◇ 舞台魅力 · 水色雅意 · 灵动俏皮 ◇</sub>
     </td>
   </tr>
 </table>
@@ -297,6 +303,27 @@
 
 </details>
 
+<details>
+<summary><b>💧 档案 08 — 芙宁娜 · Furina</b>　<sub>枫丹之星 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="芙宁娜待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>泛着浅青色的白色短发、水滴般的蓝眼睛、冠冕造型的深蓝礼帽、白色荷叶边、蓝宝石与金边枫丹礼服<br>
+      <b>气质：</b>从容而富有舞台感，神态里始终闪着灵动俏皮的光<br><br>
+      <a href="furina/furina-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/furina/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/furina/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -313,6 +340,7 @@
 | 雷电芽衣 · Raiden Mei | 2D | `raiden-mei` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
 | 雷电芽衣 · Raiden Mei | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
 | 八重神子 · Yae Miko | 2D | `yae-miko` | [下载 ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
+| 芙宁娜 · Furina | 2D | `furina` | [下载 ZIP](furina/furina-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

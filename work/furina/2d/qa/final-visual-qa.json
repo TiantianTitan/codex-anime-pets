@@ -1,0 +1,12 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard loops preserve Furina's identity and correct semantics; the cleaned 16-direction loop is continuous and all hard cardinals pass.",
+  "standard_rows": "pass",
+  "direction_loop": "pass",
+  "repair_rows": [],
+  "accepted_warnings": [
+    "Jumping uses stable-slot extraction; playback visibly preserves anticipation, airborne apex, descent, and landing without clipping or size pop.",
+    "135 and 225 have one intermediate horizontal blind disagreement, accepted because labeled normal-size poses stay in their correct principal quadrants and the ordered loop does not reverse.",
+    "Continuity metric warnings are accepted because visual review shows natural pose progression with stable feet, identity, scale, and silhouette."
+  ]
+}

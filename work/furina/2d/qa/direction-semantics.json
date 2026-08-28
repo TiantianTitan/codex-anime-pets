@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "reviewed_by": "independent final visual QA worker",
+  "directions": [
+    {"direction": "000", "expected": "up", "verdict": "pass", "observed": "raised pupils and chin", "reason": "clearly reads up"},
+    {"direction": "022.5", "expected": "up-right", "verdict": "pass", "observed": "nose and pupils shift canvas-right while gaze and chin remain raised", "reason": "horizontal and vertical axes both read correctly"},
+    {"direction": "045", "expected": "up-right", "verdict": "pass", "observed": "clear three-quarter canvas-right face with raised pupils and chin", "reason": "both axes are visible"},
+    {"direction": "067.5", "expected": "up-right", "verdict": "pass", "observed": "right-facing profile and nose retain an upward eye cue", "reason": "continues the labeled up-right arc"},
+    {"direction": "090", "expected": "right", "verdict": "pass", "observed": "nose, pupil, and profile face canvas-right", "reason": "unmistakable screen-right cardinal"},
+    {"direction": "112.5", "expected": "down-right", "verdict": "pass", "observed": "face remains in the canvas-right pose family while pupils and chin lower", "reason": "horizontal and vertical axes both read correctly"},
+    {"direction": "135", "expected": "down-right", "verdict": "warning", "observed": "subtle three-quarter canvas-right progression with downcast eyes and lowered chin", "reason": "blind horizontal disagreement accepted because the labeled pose stays in the correct quadrant between 112.5 and 157.5 without reversal"},
+    {"direction": "157.5", "expected": "down-right", "verdict": "pass", "observed": "slight canvas-right facial bias remains while deep chin tuck and crouch read down", "reason": "both axes remain visible one step before down"},
+    {"direction": "180", "expected": "down", "verdict": "pass", "observed": "centered deep crouch with lowered pupils and tucked chin", "reason": "unmistakable down cardinal"},
+    {"direction": "202.5", "expected": "down-left", "verdict": "pass", "observed": "face begins turning canvas-left while eyes and chin remain lowered", "reason": "horizontal and vertical axes both read correctly"},
+    {"direction": "225", "expected": "down-left", "verdict": "warning", "observed": "subtle three-quarter canvas-left progression with downcast gaze and lowered chin", "reason": "blind horizontal disagreement accepted because the labeled pose stays in the correct quadrant between 202.5 and 247.5 without reversal"},
+    {"direction": "247.5", "expected": "down-left", "verdict": "pass", "observed": "left-facing profile and nose retain a lowered gaze", "reason": "both axes are visible and the prior reversal was repaired"},
+    {"direction": "270", "expected": "left", "verdict": "pass", "observed": "nose, pupil, and full profile face canvas-left", "reason": "unmistakable screen-left cardinal"},
+    {"direction": "292.5", "expected": "up-left", "verdict": "pass", "observed": "clear left profile with eyes and chin lifting", "reason": "horizontal and vertical axes both read correctly"},
+    {"direction": "315", "expected": "up-left", "verdict": "pass", "observed": "three-quarter canvas-left face with raised pupils and chin", "reason": "both axes are visible"},
+    {"direction": "337.5", "expected": "up-left", "verdict": "pass", "observed": "near-frontal face retains a subtle canvas-left bias with raised pupils and chin", "reason": "forms a smooth final step into 000 up"}
+  ],
+  "review_warnings": [
+    "135 and 225 horizontal blind disagreement accepted after labeled normal-size review confirmed the correct principal quadrants and no loop reversal.",
+    "Continuity metric warnings are accepted because normal-size playback shows natural pose progression with stable feet, identity, scale, and silhouette."
+  ]
+}
