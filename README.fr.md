@@ -11,8 +11,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 10 PERSONNAGES</code>
-  <code>✦ 11 ÉDITIONS</code>
+  <code>✦ 11 PERSONNAGES</code>
+  <code>✦ 12 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -97,6 +97,17 @@
       <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente d'Ellen Joe"><br>
       <b>「 Ellen Joe · 艾莲·乔 」</b><br>
       <sub>◇ Sang-froid · Regard somnolent · Répartie vive ◇</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 11 · 77E DIRECTRICE ✦</sub><br>
+      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente de Hu Tao"><br>
+      <b>「 Hu Tao · 胡桃 」</b><br>
+      <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
     </td>
   </tr>
 </table>
@@ -383,6 +394,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details>
+<summary><b>🔥 DOSSIER 11 — Hu Tao · 胡桃</b>　<sub>77e directrice / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Hu Tao au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> yeux cramoisis en forme de fleur, grand chapeau sombre orné d'un talisman et d'une branche de prunier, longue chevelure brun foncé aux pointes rouge assourdi, et uniforme brun-noir, rouge et or<br>
+      <b>Tempérament :</b> vive, taquine et intrépide, avec une étincelle malicieuse jusque dans les instants calmes<br><br>
+      <a href="hutao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/hu-tao/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -402,6 +434,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Furina · 芙宁娜 | 2D | `furina` | [Télécharger](furina/furina-2d-codex-pet-v2.zip) |
 | Acheron · 黄泉 | 2D | `acheron` | [Télécharger](acheron/acheron-2d-codex-pet-v2.zip) |
 | Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Télécharger](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
+| Hu Tao · 胡桃 | 2D | `hu-tao` | [Télécharger](hutao/hu-tao-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

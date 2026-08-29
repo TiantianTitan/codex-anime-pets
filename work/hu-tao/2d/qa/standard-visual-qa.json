@@ -1,0 +1,5 @@
+{
+  "standard_qa": "pass",
+  "qa_note": "All nine rows preserve Hu Tao's identity, style, and hat-flower handedness with correct semantics and motion, while the stable-slots jump cleanly shows anticipation, lift, peak, descent, and settle without clipping or scale pop.",
+  "repair_rows": []
+}

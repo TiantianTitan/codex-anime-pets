@@ -1,0 +1,25 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All states preserve Hu Tao's identity, handed details, palette, proportions, and clean transparent silhouette while showing distinct, readable animation without clipping, detached effects, gait reversal, or scale popping.",
+  "standard_rows": {
+    "idle": {"verdict":"pass","reason":"Six-frame calm low-distraction loop remains visibly animated."},
+    "running-right": {"verdict":"pass","reason":"Eight-frame right-facing travel loop has alternating gait."},
+    "running-left": {"verdict":"pass","reason":"Eight-frame left-facing travel loop has alternating gait and preserved asymmetric accessories."},
+    "waving": {"verdict":"pass","reason":"Four-frame greeting has a clear raise, wave, and return."},
+    "jumping": {"verdict":"pass","reason":"Five-frame stable-slots loop clearly shows anticipation, lift, peak, descent, and settle."},
+    "failed": {"verdict":"pass","reason":"Eight-frame slump and recovery clearly communicate failure without detached symbols."},
+    "waiting": {"verdict":"pass","reason":"Six-frame asking gesture is distinct from idle, processing, and review."},
+    "running": {"verdict":"pass","reason":"Six-frame planted hand-motion loop reads as active task processing rather than locomotion."},
+    "review": {"verdict":"pass","reason":"Six-frame narrowed-eye and head-pose loop reads as focused rechecking."}
+  },
+  "identity_style": {"verdict":"pass","reason":"Flower pupils, talisman hat, plum-blossom branch, tassel, gradient hair, costume, palette, proportions, outline, and handedness remain consistent across all rows."},
+  "geometry_clipping": {"verdict":"pass","reason":"No used cell is blank, clipped, overlapping, or contaminated; unused standard cells remain transparent and v2 validation passes at 1536x2288."},
+  "warning_resolution": {
+    "blind_validation": "Blind validation is ok:true and both cardinal hard gates pass; only 337.5 and 022.5 have accepted near-axis horizontal ambiguity resolved by the labeled ordered loop.",
+    "continuity": "The 000/180 lower-body alpha holes are natural gaps between legs and hanging garment details. The 157.5→180 and 180→202.5 area changes are perspective changes around the centered down pose with fixed feet and no visible pop or identity break.",
+    "jumping": "Stable-slots extraction is accepted because it preserves the intended vertical trajectory and the GIF is complete, centered, and artifact-free."
+  },
+  "repair_rows": [],
+  "repair_notes": "none",
+  "major_issues": []
+}

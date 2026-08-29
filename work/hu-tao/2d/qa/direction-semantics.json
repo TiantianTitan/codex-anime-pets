@@ -1,0 +1,23 @@
+{
+  "visual_qa": "pass",
+  "coordinate_system": "viewer/screen coordinates",
+  "directions": {
+    "000": {"verdict":"pass","expected":"up","observed":"Centered frontal head with high flower pupils and lifted chin.","reason":"The up cardinal is unmistakable and passed the blind hard gate."},
+    "022.5": {"verdict":"warning","expected":"up-right","observed":"Strong upward pitch with a subtle screen-right pupil, nose, and cheek shift.","reason":"The labeled 000→022.5→045 arc confirms the intended rightward step despite blind horizontal ambiguity."},
+    "045": {"verdict":"pass","expected":"up-right","observed":"Moderate screen-right head and eye turn with elevated chin.","reason":"Both horizontal and vertical components read clearly."},
+    "067.5": {"verdict":"pass","expected":"up-right","observed":"Strong screen-right turn retains high pupils and a raised chin.","reason":"The near-right diagonal stays visibly above level."},
+    "090": {"verdict":"pass","expected":"right","observed":"Pupils, nose, cheek plane, head, and upper torso point screen-right at level pitch.","reason":"The right cardinal is unmistakable and passed the blind hard gate."},
+    "112.5": {"verdict":"pass","expected":"down-right","observed":"The screen-right face turn is retained while pupils and chin begin lowering.","reason":"Both axes are visible in the ordered transition."},
+    "135": {"verdict":"pass","expected":"down-right","observed":"A screen-right three-quarter face combines with lowered pupils and tucked chin.","reason":"Both axes read clearly in the down-right quadrant."},
+    "157.5": {"verdict":"pass","expected":"down-right","observed":"Deep downward pitch retains a small but visible screen-right facial bias.","reason":"The near-down diagonal remains semantically distinct from 180."},
+    "180": {"verdict":"pass","expected":"down","observed":"Frontal head is deeply bowed with low pupils and tucked chin.","reason":"The down cardinal is unmistakable and passed the blind hard gate."},
+    "202.5": {"verdict":"pass","expected":"down-left","observed":"Lowered gaze and chin begin turning screen-left from cardinal down.","reason":"Both axes are clear in the first down-left step."},
+    "225": {"verdict":"pass","expected":"down-left","observed":"A balanced screen-left facial turn combines with pronounced downward pitch.","reason":"Both axes read unmistakably."},
+    "247.5": {"verdict":"pass","expected":"down-left","observed":"Strong screen-left profile retains low pupils and a lowered chin.","reason":"The near-left diagonal stays visibly below level."},
+    "270": {"verdict":"pass","expected":"left","observed":"Pupils, nose, cheek plane, head, and upper torso point screen-left at level pitch.","reason":"The left cardinal is unmistakable and passed the blind hard gate."},
+    "292.5": {"verdict":"pass","expected":"up-left","observed":"The screen-left profile remains clear while pupils and chin begin lifting.","reason":"Both axes are visible in the ordered transition."},
+    "315": {"verdict":"pass","expected":"up-left","observed":"Moderate screen-left head and eye turn combines with clearly elevated chin.","reason":"Both axes read clearly in the up-left quadrant."},
+    "337.5": {"verdict":"warning","expected":"up-left","observed":"Strong upward pitch returns near frontal while retaining a subtle screen-left pupil, nose, and cheek bias.","reason":"The labeled 315→337.5→000 arc confirms the intended leftward step despite blind horizontal ambiguity."}
+  },
+  "major_issues": []
+}

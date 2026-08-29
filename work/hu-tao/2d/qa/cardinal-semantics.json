@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "observed": "Pupils sit high beneath the upper lids, with the chin lifted and face centered.",
+      "reason": "The upward gaze is unmistakable at 192x208."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "observed": "Pupils, chin, cheek plane, and head turn all point toward screen-right.",
+      "reason": "The rightward orientation is clear and internally consistent."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "observed": "Pupils sit low, upper lids press downward, and the chin tucks toward the chest.",
+      "reason": "The bowed head and lowered gaze clearly communicate down."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "observed": "The nose, visible cheek plane, pupils, head, and upper torso turn toward screen-left.",
+      "reason": "The leftward orientation is unmistakable."
+    }
+  ],
+  "qa_note": "Identity and hat-blossom handedness remain consistent across all cells, with feet and pelvis fixed while only the intended upper-body gaze changes.",
+  "repair_directions": []
+}
