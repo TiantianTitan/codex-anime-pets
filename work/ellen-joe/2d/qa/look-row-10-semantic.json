@@ -1,0 +1,71 @@
+{
+  "visual_qa": "pass",
+  "row10_verdict": "pass",
+  "directions": {
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "Frontal head is clearly bowed; eyes and face angle downward.",
+      "reason": "The down cardinal is unmistakable and shows no horizontal reversal."
+    },
+    "202.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Head remains pitched down while beginning a subtle turn toward screen-left.",
+      "reason": "Both axes are present in the labeled loop, with a natural first step away from 180."
+    },
+    "225": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Face and nose turn screen-left with a clear downward head pitch.",
+      "reason": "The pose occupies the correct lower-left quadrant."
+    },
+    "247.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Strong screen-left profile retains a modest downward angle before reaching the left cardinal.",
+      "reason": "It advances coherently toward 270 without backtracking or reversing."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "Unmistakable screen-left profile with nose and face directed toward the left edge.",
+      "reason": "The left cardinal is clear and not ambiguous."
+    },
+    "292.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Screen-left profile begins lifting through the eyes, chin, and head angle.",
+      "reason": "It is a coherent first step from left toward up-left."
+    },
+    "315": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Head and face remain screen-left while tilting distinctly upward.",
+      "reason": "Both required axes are visually readable in the correct quadrant."
+    },
+    "337.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Pose is predominantly upward with a subtle residual screen-left turn and no screen-right cue.",
+      "reason": "The weaker horizontal component is appropriate one step before 000 and the loop does not reverse."
+    }
+  },
+  "identity_scale": {
+    "verdict": "pass",
+    "observed": "Character identity, facial construction, costume, proportions, practical scale, and foot baseline remain consistent across all eight cells."
+  },
+  "tail_side": {
+    "verdict": "pass",
+    "observed": "The tail remains on screen-left in every reviewed direction and does not flip sides."
+  },
+  "clipping": {
+    "verdict": "pass",
+    "observed": "No head, body, feet, costume, or tail clipping is visible in the full-body cells."
+  },
+  "boundary_review": {
+    "verdict": "pass",
+    "observed": "157.5 to 180 resolves from down-right into frontal down, while 337.5 to 000 removes the remaining left turn into frontal up; the measured boundary differences are explained by the tail foreshortening and head profile change, with no direction reversal or clipping."
+  },
+  "major_issues": []
+}

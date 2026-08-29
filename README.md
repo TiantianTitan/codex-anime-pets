@@ -11,8 +11,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 9 CHARACTERS</code>
-  <code>✦ 10 EDITIONS</code>
+  <code>✦ 10 CHARACTERS</code>
+  <code>✦ 11 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -74,23 +74,29 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <sub>✦ CHARACTER 07 · GUUJI ✦</sub><br>
       <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko idle animation"><br>
       <b>「 Yae Miko · 八重神子 」</b><br>
       <sub>◇ Playful poise · Shrine elegance · Quiet mischief ◇</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <sub>✦ CHARACTER 08 · STAR OF FONTAINE ✦</sub><br>
       <img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="Furina idle animation"><br>
       <b>「 Furina · 芙宁娜 」</b><br>
       <sub>◇ Theatrical charm · Aquatic elegance · Bright mischief ◇</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <sub>✦ CHARACTER 09 · GALAXY RANGER ✦</sub><br>
       <img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="Acheron idle animation"><br>
       <b>「 Acheron · 黄泉 」</b><br>
       <sub>◇ Quiet resolve · Violet storm · Distant gaze ◇</sub>
+    </td>
+    <td align="center" width="25%">
+      <sub>✦ CHARACTER 10 · SHARK THIREN ✦</sub><br>
+      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="Ellen Joe idle animation"><br>
+      <b>「 Ellen Joe · 艾莲·乔 」</b><br>
+      <sub>◇ Cool composure · Sleepy gaze · Razor-sharp wit ◇</sub>
     </td>
   </tr>
 </table>
@@ -133,6 +139,11 @@
       <img src="work/xiao/2d/qa/previews/waiting.gif" width="180" alt="Xiao waiting for input"><br>
       <b>Waiting</b><br>
       <sub>An attentive pause for your next decision</sub>
+    </td>
+    <td align="center">
+      <img src="work/ellen-joe/2d/qa/previews/running.gif" width="180" alt="Ellen Joe working"><br>
+      <b>On the job</b><br>
+      <sub>Sleepy eyes, quick hands, and a tail that never quite sits still</sub>
     </td>
   </tr>
 </table>
@@ -351,6 +362,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details>
+<summary><b>🦈 FILE 10 — Ellen Joe · 艾莲·乔</b>　<sub>Shark Thiren maid / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="Ellen Joe idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> charcoal-black bob with red inner layers, sleepy red eyes, a spiked maid headdress, monochrome industrial maidwear, and her unmistakable attached shark tail<br>
+      <b>Mood:</b> laid-back and cool, with a quick, mischievous edge when the work starts moving<br><br>
+      <a href="ellen%20joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/ellen-joe/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -369,6 +401,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Yae Miko · 八重神子 | 2D | `yae-miko` | [Download ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
 | Furina · 芙宁娜 | 2D | `furina` | [Download ZIP](furina/furina-2d-codex-pet-v2.zip) |
 | Acheron · 黄泉 | 2D | `acheron` | [Download ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
+| Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Download ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

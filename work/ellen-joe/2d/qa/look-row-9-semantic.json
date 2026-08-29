@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction": "000", "verdict": "pass", "expected": "up", "observed": "front/up-facing with symmetrical red eyes and lifted face", "reason": "Unmistakable up cardinal."},
+    {"direction": "022.5", "verdict": "pass", "expected": "up-right", "observed": "subtle rightward three-quarter turn", "reason": "Head and facial axis begin progressing rightward."},
+    {"direction": "045", "verdict": "pass", "expected": "up-right", "observed": "clear intermediate right three-quarter view", "reason": "Horizontal turn increases smoothly while retaining upward cues."},
+    {"direction": "067.5", "verdict": "pass", "expected": "up-right", "observed": "near-right three-quarter view", "reason": "Continues toward the screen-right cardinal without reversal."},
+    {"direction": "090", "verdict": "pass", "expected": "screen-right", "observed": "full screen-right profile", "reason": "Unmistakable right cardinal with coherent profile silhouette."},
+    {"direction": "112.5", "verdict": "pass", "expected": "down-right", "observed": "right and slightly downward three-quarter view", "reason": "Downward cues begin smoothly after the right cardinal."},
+    {"direction": "135", "verdict": "pass", "expected": "down-right", "observed": "clear down-right three-quarter view", "reason": "Head, hair, body, and tail root continue consistently toward down."},
+    {"direction": "157.5", "verdict": "pass", "expected": "down-right", "observed": "near-down view with residual rightward cue", "reason": "Strong downward orientation retains the expected right axis."}
+  ],
+  "continuity": "pass",
+  "qa_note": "All eight registered cells preserve scale, feet and tail-root placement, black-red hair identity, and coherent head/eye participation with no clipping or whole-sprite tilt.",
+  "repair": "none"
+}

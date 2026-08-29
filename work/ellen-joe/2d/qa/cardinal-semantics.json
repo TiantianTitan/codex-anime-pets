@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-08-29T21:08:00Z",
+  "repair": {
+    "direction": "270",
+    "reason": "the original extracted anchor faced screen-right, and the first repair moved Ellen's shark tail to the wrong side; the final replacement locks both face and tail to screen-left while preserving the canonical character family",
+    "replacement_source": "/home/ubuntu23/.codex/generated_images/01a04349-ebdd-7860-8baf-031aa1208c66/exec-13285614-afa4-4097-9e07-7a3da1210385.png",
+    "replacement_verdict": "pass"
+  },
+  "coordinate_system": "viewer/screen coordinates",
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "observed": "red irises sit high in the eye openings, chin is lifted, and the face remains centered while looking upward"
+    },
+    "090": {
+      "verdict": "pass",
+      "observed": "nose tip, pupils, and three-quarter facial profile point unmistakably toward screen-right"
+    },
+    "180": {
+      "verdict": "pass",
+      "observed": "irises and eyelids lower, chin tucks toward the collar, and more crown/headdress is visible"
+    },
+    "270": {
+      "verdict": "pass",
+      "observed": "replacement anchor has a full left profile: nose protrudes toward the left image edge, the visible red eye sits on the left side of the hair mass, and the shark tail remains behind the body on screen-left, visibly opposing 090 without mirroring the tail"
+    }
+  },
+  "registration": "feet, pelvis, lower torso, and shark-tail root remain stable across all four anchors"
+}

@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "pet_id": "ellen-joe",
+  "display_name": "Ellen Joe · 艾莲·乔",
+  "scope": "2D only",
+  "sprite_version_number": 2,
+  "standard_rows": 9,
+  "look_directions": 16,
+  "atlas_dimensions": "1536x2288",
+  "cell_dimensions": "192x208",
+  "chroma_despill_passes": 1,
+  "deterministic_validation": "pass",
+  "independent_standard_visual_qa": "pass",
+  "blind_direction_validation": "pass",
+  "independent_final_visual_qa": "pass",
+  "installed": true,
+  "packaged": true,
+  "three_d_generated": false,
+  "completed_at": "2026-08-29T21:48:00Z"
+}

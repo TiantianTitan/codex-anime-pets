@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"Eye visibility and cheek angle shift oppositely from the near-frontal pose."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"The visible facial profiles and noses point right in A and left in B."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"The exposed eye, cheek, and face outline point left in A and right in B."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"The facial profiles point left in A and right in B."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"The visible eyes and projecting face outlines point right in A and left in B."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite the lowered heads, the exposed cheek and face area sit to the right in A and to the left in B."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"The bowed faces retain slight opposing offsets: rightward in A and leftward in B."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has a raised chin and exposed eyes; B has a tucked face obscured by the bangs."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's chin is tucked and eyes lowered, while B's face and chin are raised."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A's eye and face angle rise; B's head is bowed with the face tucked."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's face is slightly lowered under the bangs, while B's eye and chin angle upward."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A is visibly bowed; B shows a lifted chin and fully exposed face."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's profile tilts slightly upward, while B's profile and gaze angle downward."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's profile is slightly tucked downward; B's nose and chin sit at a subtly higher angle."}
+  ]
+}

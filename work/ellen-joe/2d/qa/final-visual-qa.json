@@ -1,0 +1,29 @@
+{
+  "visual_qa": "pass",
+  "standard_rows": {
+    "idle": {"verdict":"pass","reason":"Six-frame calm breathing, posture, and tail micro-motion loop."},
+    "running-right": {"verdict":"pass","reason":"Eight-frame right-facing travel loop with alternating leg cadence and tail follow-through."},
+    "running-left": {"verdict":"pass","reason":"Eight-frame left-facing travel loop with an opposing gait and stable identity."},
+    "waving": {"verdict":"pass","reason":"Four-frame arm raise, open-hand wave, and return."},
+    "jumping": {"verdict":"pass","reason":"Five-frame anticipation, lift, tucked apex, descent, and recovery form a recognizable jump."},
+    "failed": {"verdict":"pass","reason":"Eight-frame slump, crouch, and recovery clearly communicate failure."},
+    "waiting": {"verdict":"pass","reason":"Six-frame expectant palm, questioning posture, and clasped-hands motion remain distinct from idle, running, and review."},
+    "running": {"verdict":"pass","reason":"Six-frame focused hand and arm activity reads as active task processing rather than locomotion."},
+    "review": {"verdict":"pass","reason":"Six-frame lean, head tilt, and contemplative hand positions communicate inspection."}
+  },
+  "identity_style": {
+    "verdict": "pass",
+    "reason": "Black hair with red accents, red eyes, maid cap and dress, palette, face, proportions, lighting, and attached shark-tail identity remain recognizable across all rows."
+  },
+  "geometry_clipping": {
+    "verdict": "pass",
+    "reason": "No foreground is visibly clipped or overlaps slots; used cells are populated, unused standard cells are transparent, and final v2 validation passes with zero transparent RGB residue."
+  },
+  "warning_resolution": {
+    "verdict": "pass",
+    "blind_validation": "Blind validation is ok:true and both horizontal and vertical cardinal hard gates pass. Near-axis warnings are resolved by the labeled ordered loop.",
+    "continuity": "The 157.5→180 and 337.5→000 metric outliers are explained by shark-tail and head foreshortening across near-front poses; the lower body remains anchored with no clipping or identity break."
+  },
+  "directions_summary": "See qa/direction-semantics.json for all sixteen labeled direction verdicts.",
+  "major_issues": []
+}

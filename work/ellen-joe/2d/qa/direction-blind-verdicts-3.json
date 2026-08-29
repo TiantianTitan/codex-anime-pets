@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's face and chin shift slightly left; B's visible face and chin angle slightly right."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A shows a clear right-facing profile, while B's visible eye and facial edge point left."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's facial profile points left; B's visible face is presented on the right side of the head."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's eye, nose, and chin orient left; B mirrors this toward the right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A presents the face toward the right edge, while B presents it toward the left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"Despite the lowered gaze, A's chin and facial opening angle right and B's angle left."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"Both heads are bowed, but A's visible face shifts right and B's shifts left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has a raised chin and upward-tilted face; B bows the head with the eyes directed downward."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's face is lowered beneath the fringe, while B lifts the chin and exposes more of the face."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A's profile and chin tilt upward; B's head and gaze are visibly lowered."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A carries the face slightly lower, while B's chin and visible eye line angle upward."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A is distinctly bowed with the eyes low; B faces upward with the chin raised."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's profile is lifted and open, whereas B's chin and gaze dip downward."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's left-facing profile tilts slightly downward; B's corresponding profile has a higher chin and eye line."}
+  ]
+}

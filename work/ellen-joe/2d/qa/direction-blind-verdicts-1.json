@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"ambiguous","B":"screen-left","reason":"A is essentially frontal with no clear lateral turn; B's face and chin angle toward screen-left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A has a clear right-facing profile, while B has a clear left-facing profile."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"The visible nose and facial plane point left in A and right in B."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's profile projects to the right; B's three-quarter face turns left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's face is angled right, while B's nose and face are directed left."},
+    {"pair":"horizontal-6","A":"ambiguous","B":"screen-left","reason":"A is lowered and nearly frontal without a dependable horizontal cue; B is subtly turned left."},
+    {"pair":"horizontal-7","A":"ambiguous","B":"ambiguous","reason":"Both faces are lowered and near-frontal, with no reliable visible left/right orientation."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has a raised chin and upward head tilt; B's chin is tucked and face lowered."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A looks downward with the face tucked; B clearly raises the face and chin."},
+    {"pair":"vertical-3","A":"ambiguous","B":"down","reason":"A's profile is vertically level; B's head and gaze are visibly lowered."},
+    {"pair":"vertical-4","A":"ambiguous","B":"ambiguous","reason":"Both heads appear roughly level, without a strong upward or downward facial tilt."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A's face is bowed beneath the bangs; B's face and chin are lifted."},
+    {"pair":"vertical-6","A":"ambiguous","B":"down","reason":"A's left-facing profile is vertically level; B has a visibly lowered face and chin."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's left-facing profile tilts slightly downward, while B's chin and facial line tilt upward."}
+  ]
+}

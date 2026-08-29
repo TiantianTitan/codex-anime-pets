@@ -1,0 +1,103 @@
+{
+  "visual_qa": "pass",
+  "coordinate_system": "viewer/screen coordinates",
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "Frontal head and chin are lifted with the eyes directed upward.",
+      "reason": "The vertical up cardinal is unmistakable and has no competing horizontal turn."
+    },
+    "022.5": {
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "Strong upward head pitch with a subtle beginning screen-right face and gaze shift.",
+      "reason": "Up is clear and the right axis is subtle near the vertical cardinal; the labeled 000→022.5→045 arc advances coherently toward screen-right."
+    },
+    "045": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Face and nose turn screen-right while the chin and gaze remain elevated.",
+      "reason": "Both the rightward horizontal axis and upward vertical axis are plainly visible."
+    },
+    "067.5": {
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "Strong screen-right three-quarter turn with a restrained upward head and eye pitch.",
+      "reason": "The right axis is unmistakable; the subtler up axis remains coherent in the labeled 045→067.5→090 progression."
+    },
+    "090": {
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "Head, facial plane, and nose form a clear screen-right profile.",
+      "reason": "The right cardinal is unmistakable and passed the blind hard gate."
+    },
+    "112.5": {
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "Screen-right profile is retained while the eyelids, gaze, and head begin pitching downward.",
+      "reason": "The right axis is clear; the subtler down axis progresses coherently through the labeled 090→112.5→135 arc."
+    },
+    "135": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Head remains turned screen-right with lowered eyes and chin.",
+      "reason": "Both the rightward horizontal axis and downward vertical axis read clearly."
+    },
+    "157.5": {
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "Deep downward head and eye pitch retains a slight screen-right yaw.",
+      "reason": "Both axes remain readable; the continuity warning into 180 is tail and head foreshortening rather than a semantic reversal."
+    },
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "Frontal head is bowed with the eyes directed down.",
+      "reason": "The down cardinal is unmistakable and passed the blind hard gate."
+    },
+    "202.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Lowered head and gaze begin turning screen-left from the down cardinal.",
+      "reason": "Both the leftward horizontal axis and downward vertical axis are visible."
+    },
+    "225": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Face turns screen-left in three-quarter view while the eyes and chin remain lowered.",
+      "reason": "Both required axes are clear in the down-left quadrant."
+    },
+    "247.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Strong screen-left orientation retains a restrained downward head and eye pitch.",
+      "reason": "The left axis is dominant and the down axis remains visible before 270."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "Head, facial plane, and nose form a clear screen-left profile.",
+      "reason": "The left cardinal is unmistakable and passed the blind hard gate."
+    },
+    "292.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Screen-left profile is retained while the chin and gaze begin lifting.",
+      "reason": "Both the leftward horizontal axis and upward vertical axis are visible."
+    },
+    "315": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Face remains distinctly screen-left with a clearly elevated head and gaze.",
+      "reason": "Both required axes read strongly in the up-left quadrant."
+    },
+    "337.5": {
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "Strong upward pitch returns near frontal while retaining a subtle screen-left face and gaze cue.",
+      "reason": "Up is clear and the left axis is appropriately subtle one step before 000; the labeled loop resolves the blind ambiguity without reversal."
+    }
+  },
+  "major_issues": []
+}

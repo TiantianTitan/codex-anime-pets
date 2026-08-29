@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "pet_id": "ellen-joe",
+  "sprite_version_number": 2,
+  "project_package": "/home/ubuntu23/Bureau/codex-anime-pets/ellen joe/ellen-joe-2d",
+  "installed_package": "/home/ubuntu23/.codex/pets/ellen-joe",
+  "zip_package": "/home/ubuntu23/Bureau/codex-anime-pets/ellen joe/ellen-joe-2d-codex-pet-v2.zip",
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "format": "WEBP",
+    "mode": "RGBA",
+    "transparent_rgb_residue_pixels": 0,
+    "sha256": "44616e85bbca7914a57917d5b1fabbb65b1a17d664255fafc3a26a0460ca012e"
+  },
+  "project_atlas_validation": "pass",
+  "installed_atlas_validation": "pass",
+  "project_and_installed_hashes_match": true,
+  "project_and_installed_manifests_match": true,
+  "zip_integrity": "pass",
+  "qa": {
+    "deterministic_review": "pass",
+    "blind_direction_consensus": "pass",
+    "final_visual_qa": "pass"
+  }
+}
