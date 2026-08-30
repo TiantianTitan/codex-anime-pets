@@ -11,8 +11,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 12 个角色</code>
-  <code>✦ 13 个版本</code>
+  <code>✦ 13 个角色</code>
+  <code>✦ 14 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -104,10 +104,18 @@
       <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ 新角色登场 · 角色 12 · 天环族歌者 ✦</sub><br>
+      <sub>✦ 角色 12 · 天环族歌者 ✦</sub><br>
       <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="知更鸟的待机动画"><br>
       <b>「 知更鸟 · Robin 」</b><br>
       <sub>◇ 宁静优雅 · 天籁歌声 · 羽翼轻盈 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ 新角色登场 · 角色 13 · 骑兵队长 ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="凯亚的待机动画"><br>
+      <b>「 凯亚 · Kaeya 」</b><br>
+      <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
   </tr>
 </table>
@@ -445,6 +453,27 @@
 
 </details>
 
+<details open>
+<summary><b>❄️ 档案 13 — 凯亚 · Kaeya</b>　<sub>骑兵队长 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="190" alt="凯亚待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>带冷蓝挑染的深海军蓝短发、暖棕肤色、浅紫色眼眸与黑色眼罩、白色毛领、蓝紫双色披风，以及带金色细节的深色骑兵制服<br>
+      <b>气质：</b>松弛而自信，谈笑间带着一点狡黠，也始终留意着周围的动静<br><br>
+      <a href="kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kaeya/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -466,6 +495,7 @@
 | 艾莲·乔 · Ellen Joe | 2D | `ellen-joe` | [下载 ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 | 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](robin/robin-2d-codex-pet-v2.zip) |
+| 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

@@ -11,8 +11,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 12 PERSONNAGES</code>
-  <code>✦ 13 ÉDITIONS</code>
+  <code>✦ 13 PERSONNAGES</code>
+  <code>✦ 14 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -104,10 +104,18 @@
       <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 12 · CHANTEUSE HALOVIENNE ✦</sub><br>
+      <sub>✦ PERSONNAGE 12 · CHANTEUSE HALOVIENNE ✦</sub><br>
       <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Robin"><br>
       <b>「 Robin · 知更鸟 」</b><br>
       <sub>◇ Grâce sereine · Voix céleste · Élégance ailée ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="Animation d'attente de Kaeya"><br>
+      <b>「 Kaeya · 凯亚 」</b><br>
+      <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
     </td>
   </tr>
 </table>
@@ -445,6 +453,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>❄️ DOSSIER 13 — Kaeya · 凯亚</b>　<sub>Capitaine de cavalerie / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="190" alt="Kaeya au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> chevelure bleu nuit balayée d'une mèche froide, peau hâlée, œil visible lilas pâle, cache-œil noir, mantelet de fourrure blanche, cape fendue bleu-violet et uniforme sombre rehaussé d'or<br>
+      <b>Tempérament :</b> détendu et sûr de lui, avec une malice légère et un regard qui ne perd rien de ce qui l'entoure<br><br>
+      <a href="kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/kaeya/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -466,6 +495,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Télécharger](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 | Hu Tao · 胡桃 | 2D | `hu-tao` | [Télécharger](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | Robin · 知更鸟 | 2D | `robin` | [Télécharger](robin/robin-2d-codex-pet-v2.zip) |
+| Kaeya · 凯亚 | 2D | `kaeya` | [Télécharger](kaeya/kaeya-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

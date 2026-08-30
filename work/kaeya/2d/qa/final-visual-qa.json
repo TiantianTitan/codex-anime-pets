@@ -1,0 +1,13 @@
+{
+  "overall": "pass",
+  "standard_rows_overall": "pass",
+  "directions_overall": "pass",
+  "validation": "pass",
+  "repaired_row": {
+    "state": "failed",
+    "verdict": "pass",
+    "reason": "Detached purple particles are gone. The eight-frame sadness loop preserves Kaeya's identity, scale, baseline and costume, with coherent head-and-expression cadence and no clipping, detached effects or unintended size pop."
+  },
+  "repair_note": "none",
+  "reviewed_by": "independent final visual QA worker"
+}

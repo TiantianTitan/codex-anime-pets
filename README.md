@@ -11,8 +11,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 12 CHARACTERS</code>
-  <code>✦ 13 EDITIONS</code>
+  <code>✦ 13 CHARACTERS</code>
+  <code>✦ 14 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -104,10 +104,18 @@
       <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 12 · HALOVIAN SINGER ✦</sub><br>
+      <sub>✦ CHARACTER 12 · HALOVIAN SINGER ✦</sub><br>
       <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="Robin idle animation"><br>
       <b>「 Robin · 知更鸟 」</b><br>
       <sub>◇ Serene grace · Celestial voice · Feather-light poise ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ NEW ARRIVAL · CHARACTER 13 · CAVALRY CAPTAIN ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="Kaeya idle animation"><br>
+      <b>「 Kaeya · 凯亚 」</b><br>
+      <sub>◇ Cool confidence · Playful charm · A watchful eye ◇</sub>
     </td>
   </tr>
 </table>
@@ -445,6 +453,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>❄️ FILE 13 — Kaeya · 凯亚</b>　<sub>Cavalry Captain / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="190" alt="Kaeya idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> swept navy hair with a cool blue streak, warm tan skin, a pale-lilac visible eye, black eyepatch, white fur mantle, blue-violet split cape, and a dark cavalry uniform finished with gold details<br>
+      <b>Mood:</b> relaxed and self-assured, with a playful edge that never loses sight of the room<br><br>
+      <a href="kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kaeya/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -466,6 +495,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Download ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 | Hu Tao · 胡桃 | 2D | `hu-tao` | [Download ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | Robin · 知更鸟 | 2D | `robin` | [Download ZIP](robin/robin-2d-codex-pet-v2.zip) |
+| Kaeya · 凯亚 | 2D | `kaeya` | [Download ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 
