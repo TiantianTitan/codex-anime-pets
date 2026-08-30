@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "qa_note": "All nine loops preserve Robin's identity and state semantics with stable, unclipped motion, while blind, chroma, review, and v2 validation pass.",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/robin/2d/qa/direction-semantics.json",
+  "review_warnings": [
+    "Blind horizontal ambiguity at 315 and 337.5 is accepted because the labeled ordered loop confirms up-left.",
+    "The 337.5-to-000 diff and area warning is accepted because normal-size playback has no conspicuous snap, scale pop, identity change, broken silhouette, or reversal.",
+    "Stable-slots warnings are accepted because every standard GIF remains stable and unclipped."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}

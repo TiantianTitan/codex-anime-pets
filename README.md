@@ -11,8 +11,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 11 CHARACTERS</code>
-  <code>✦ 12 EDITIONS</code>
+  <code>✦ 12 CHARACTERS</code>
+  <code>✦ 13 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -25,7 +25,7 @@
 
 ## ✦ Select Your Companion ✦
 
-<sub>Each portrait below is already alive. Hover, watch, and choose your favorite.</sub>
+<sub>Each portrait is already moving. Take your time, watch the little gestures, and see who feels at home beside your code.</sub>
 
 </div>
 
@@ -33,19 +33,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 01 · ADEPTUS ✦</sub><br>
-      <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="Xiao idle animation"><br>
+      <img src="work/xiao/2d/qa/previews/idle.gif" width="155" alt="Xiao idle animation"><br>
       <b>「 Xiao · 魈 」</b><br>
       <sub>◇ Watchful · Restrained · Adeptal ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 02 · VIDYADHARA ✦</sub><br>
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="Dan Heng Imbibitor Lunae idle animation"><br>
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="155" alt="Dan Heng Imbibitor Lunae idle animation"><br>
       <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
       <sub>◇ Cool elegance · Quiet presence ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 03 · GENERAL ✦</sub><br>
-      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="Jing Yuan idle animation"><br>
+      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="155" alt="Jing Yuan idle animation"><br>
       <b>「 Jing Yuan · 景元 」</b><br>
       <sub>◇ Relaxed confidence · Keen eye ◇</sub>
     </td>
@@ -53,70 +53,71 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 04 · CONSULTANT ✦</sub><br>
-      <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="Zhongli idle animation"><br>
+      <img src="work/zhongli/2d/qa/previews/idle.gif" width="155" alt="Zhongli idle animation"><br>
       <b>「 Zhongli · 钟离 」</b><br>
       <sub>◇ Measured · Dependable · Dignified ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 05 · SERPENT HASHIRA ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="Obanai idle animation"><br>
+      <img src="work/obanai/2d/qa/previews/idle.gif" width="155" alt="Obanai idle animation"><br>
       <b>「 Obanai · 伊黑小芭内 」</b><br>
       <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ CHARACTER 06 · VALKYRIE ✦</sub><br>
-      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="Raiden Mei idle animation"><br>
+      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="155" alt="Raiden Mei idle animation"><br>
       <b>「 Raiden Mei · 雷电芽衣 」</b><br>
       <sub>◇ Composed · Curious · Ready ◇</sub>
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ CHARACTER 07 · GUUJI ✦</sub><br>
-      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko idle animation"><br>
+      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="155" alt="Yae Miko idle animation"><br>
       <b>「 Yae Miko · 八重神子 」</b><br>
       <sub>◇ Playful poise · Shrine elegance · Quiet mischief ◇</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ CHARACTER 08 · STAR OF FONTAINE ✦</sub><br>
-      <img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="Furina idle animation"><br>
+      <img src="work/furina/2d/qa/previews/idle.gif" width="155" alt="Furina idle animation"><br>
       <b>「 Furina · 芙宁娜 」</b><br>
       <sub>◇ Theatrical charm · Aquatic elegance · Bright mischief ◇</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ CHARACTER 09 · GALAXY RANGER ✦</sub><br>
-      <img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="Acheron idle animation"><br>
+      <img src="work/acheron/2d/qa/previews/idle.gif" width="155" alt="Acheron idle animation"><br>
       <b>「 Acheron · 黄泉 」</b><br>
       <sub>◇ Quiet resolve · Violet storm · Distant gaze ◇</sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <sub>✦ CHARACTER 10 · SHARK THIREN ✦</sub><br>
-      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="Ellen Joe idle animation"><br>
+      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="155" alt="Ellen Joe idle animation"><br>
       <b>「 Ellen Joe · 艾莲·乔 」</b><br>
       <sub>◇ Cool composure · Sleepy gaze · Razor-sharp wit ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 11 · 77TH DIRECTOR ✦</sub><br>
+      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="155" alt="Hu Tao idle animation"><br>
+      <b>「 Hu Tao · 胡桃 」</b><br>
+      <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 12 · HALOVIAN SINGER ✦</sub><br>
+      <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="Robin idle animation"><br>
+      <b>「 Robin · 知更鸟 」</b><br>
+      <sub>◇ Serene grace · Celestial voice · Feather-light poise ◇</sub>
     </td>
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 11 · 77TH DIRECTOR ✦</sub><br>
-      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Hu Tao idle animation"><br>
-      <b>「 Hu Tao · 胡桃 」</b><br>
-      <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
-    </td>
-    <td align="center" width="50%">
-      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="190" alt="Animated mystery companion portal"></a><br>
-      <b>「 Who joins next? 」</b><br>
-      <sub>◇ Bring a reference · Hatch a companion ◇</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="150" alt="Animated mystery companion portal"></a><br>
+  <b>「 Who joins next? 」</b><br>
+  <sub>◇ Bring a reference · Hatch a companion ◇</sub>
+</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -130,37 +131,39 @@
 
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="180" alt="Yae Miko jumping"><br>
+    <td align="center" width="33%">
+      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="170" alt="Yae Miko jumping"><br>
       <b>Jumping</b><br>
       <sub>A light shrine-maiden rise with a floating apex</sub>
     </td>
-    <td align="center">
-      <img src="work/zhongli/2d/qa/previews/review.gif" width="180" alt="Zhongli reviewing"><br>
+    <td align="center" width="33%">
+      <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="Zhongli reviewing"><br>
       <b>Reviewing</b><br>
       <sub>A thoughtful look at the finished work</sub>
     </td>
-    <td align="center">
-      <img src="work/obanai/2d/qa/previews/waving.gif" width="180" alt="Obanai waving"><br>
+    <td align="center" width="33%">
+      <img src="work/obanai/2d/qa/previews/waving.gif" width="170" alt="Obanai waving"><br>
       <b>Waving</b><br>
       <sub>A small greeting that suits his reserved nature</sub>
     </td>
-    <td align="center">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="180" alt="Raiden Mei focusing on a task"><br>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="170" alt="Raiden Mei focusing on a task"><br>
       <b>Working</b><br>
       <sub>Quiet concentration while a task is underway</sub>
     </td>
-    <td align="center">
-      <img src="work/xiao/2d/qa/previews/waiting.gif" width="180" alt="Xiao waiting for input"><br>
+    <td align="center" width="33%">
+      <img src="work/xiao/2d/qa/previews/waiting.gif" width="170" alt="Xiao waiting for input"><br>
       <b>Waiting</b><br>
       <sub>An attentive pause for your next decision</sub>
     </td>
-    <td align="center">
-      <img src="work/ellen-joe/2d/qa/previews/running.gif" width="180" alt="Ellen Joe working"><br>
-      <b>On the job</b><br>
-      <sub>Sleepy eyes, quick hands, and a tail that never quite sits still</sub>
+    <td align="center" width="33%">
+      <img src="work/robin/2d/qa/previews/waving.gif" width="170" alt="Robin waving"><br>
+      <b>Greeting</b><br>
+      <sub>A gentle, stage-ready welcome with feather-light poise</sub>
     </td>
   </tr>
 </table>
@@ -177,7 +180,7 @@
 
 </div>
 
-<details open>
+<details>
 <summary><b>🌙 FILE 01 — Xiao · 魈</b>　<sub>Guardian Yaksha / 2D edition</sub></summary>
 
 <br>
@@ -421,6 +424,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🎶 FILE 12 — Robin · 知更鸟</b>　<sub>Halovian singer / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/robin/2d/qa/previews/idle.gif" width="190" alt="Robin idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> silver-blue hair and a rear rosette bun, turquoise-to-violet eyes, a gold flower-tip halo, white feathered ear-wings, and a layered white, deep-indigo, lilac, and gold stage dress<br>
+      <b>Mood:</b> serene and graceful, with the poised warmth of a singer ready to brighten the room<br><br>
+      <a href="robin/robin-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/robin/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/robin/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -441,6 +465,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Acheron · 黄泉 | 2D | `acheron` | [Download ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
 | Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Download ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 | Hu Tao · 胡桃 | 2D | `hu-tao` | [Download ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
+| Robin · 知更鸟 | 2D | `robin` | [Download ZIP](robin/robin-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "registered_strip": "/home/ubuntu23/Bureau/codex-anime-pets/work/robin/2d/qa/look-row-9-registered.png",
+  "directions": [
+    {"direction": "000", "expected": "up", "observed": "Elevated pupils, raised chin, frontal head", "verdict": "pass", "reason": "Matches the approved up cardinal family."},
+    {"direction": "022.5", "expected": "up-right", "observed": "High gaze with slight screen-right head yaw", "verdict": "pass", "reason": "Both axes are readable."},
+    {"direction": "045", "expected": "up-right", "observed": "Stronger screen-right nose and eye displacement with upward pitch", "verdict": "pass", "reason": "Clear diagonal interpolation."},
+    {"direction": "067.5", "expected": "up-right", "observed": "Pronounced three-quarter screen-right turn with chin still raised", "verdict": "pass", "reason": "Continues toward the right cardinal without reversal."},
+    {"direction": "090", "expected": "right", "observed": "Pupils, nose profile, head turn, and upper-body follow point screen-right", "verdict": "pass", "reason": "Matches the approved right cardinal family."},
+    {"direction": "112.5", "expected": "down-right", "observed": "Screen-right yaw with eyelids and chin beginning to lower", "verdict": "pass", "reason": "Both axes are readable."},
+    {"direction": "135", "expected": "down-right", "observed": "Lowered gaze and chin with persistent screen-right profile", "verdict": "pass", "reason": "Clear diagonal interpolation."},
+    {"direction": "157.5", "expected": "down-right", "observed": "Strong downward cue with a subtle remaining screen-right axis", "verdict": "warning", "reason": "Residual horizontal cue is subtle but consistent with the ordered approach to 180."}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Head and pupils advance without backtracking, chin lowers progressively after 090, feet share one baseline, and there is no visible tilt, scale pop, clipping, overlap, interior hole, or broken halo/hair."
+  },
+  "repair_notes": "none"
+}

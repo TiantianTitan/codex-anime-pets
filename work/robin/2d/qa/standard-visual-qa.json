@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "contact_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/robin/2d/qa/contact-sheet.png",
+  "preview_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/robin/2d/qa/previews",
+  "qa_note": "All nine non-static loops preserve Robin's identity and row semantics with stable scale, baseline, direction, gait, and unclipped silhouettes and no forbidden effects or props.",
+  "repair_rows": []
+}

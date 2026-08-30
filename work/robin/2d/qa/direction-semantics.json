@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "atlas": "final/spritesheet-extended.webp",
+  "neutral_check": "pass: neutral idle is visually distinct from every look-direction cell",
+  "directions": [
+    {"degrees": 0, "expected": {"horizontal": "none", "vertical": "up"}, "observed": "Elevated pupils, raised chin, and frontal head", "verdict": "pass", "reason": "Matches the approved up cardinal family."},
+    {"degrees": 22.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "High gaze with slight screen-right head yaw", "verdict": "pass", "reason": "Both axes are readable."},
+    {"degrees": 45, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "Stronger screen-right nose and eye displacement with upward pitch", "verdict": "pass", "reason": "Clear up-right interpolation."},
+    {"degrees": 67.5, "expected": {"horizontal": "screen-right", "vertical": "up"}, "observed": "Pronounced three-quarter screen-right turn with chin still raised", "verdict": "pass", "reason": "Continues toward 090 without reversal."},
+    {"degrees": 90, "expected": {"horizontal": "screen-right", "vertical": "none"}, "observed": "Pupils, nose profile, head turn, and upper-body follow point screen-right", "verdict": "pass", "reason": "Matches the approved right cardinal family."},
+    {"degrees": 112.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "Screen-right yaw with eyelids and chin beginning to lower", "verdict": "pass", "reason": "Both axes are readable."},
+    {"degrees": 135, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "Lowered gaze and chin with persistent screen-right profile", "verdict": "pass", "reason": "Clear down-right interpolation."},
+    {"degrees": 157.5, "expected": {"horizontal": "screen-right", "vertical": "down"}, "observed": "Strong downward cue with a subtle remaining screen-right pupil and nose offset", "verdict": "pass", "reason": "Both axes remain readable and the ordered loop approaches 180 monotonically."},
+    {"degrees": 180, "expected": {"horizontal": "none", "vertical": "down"}, "observed": "Centered pupils, lowered eyelids and chin, and forward upper-body dip", "verdict": "pass", "reason": "Matches the approved down cardinal family."},
+    {"degrees": 202.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "Down cues persist while pupils, nose and head begin turning screen-left", "verdict": "pass", "reason": "Both axes are readable."},
+    {"degrees": 225, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "Stronger screen-left yaw with lowered gaze and chin", "verdict": "pass", "reason": "Clear down-left interpolation."},
+    {"degrees": 247.5, "expected": {"horizontal": "screen-left", "vertical": "down"}, "observed": "Pronounced screen-left profile with a readable downward eyelid and chin cue", "verdict": "pass", "reason": "Continues toward 270 without reversal."},
+    {"degrees": 270, "expected": {"horizontal": "screen-left", "vertical": "none"}, "observed": "Pupils, nose profile, head turn, and upper body point screen-left", "verdict": "pass", "reason": "Matches the approved left cardinal family."},
+    {"degrees": 292.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "Screen-left profile with pupils, eyelids, and chin beginning to lift", "verdict": "pass", "reason": "Both axes are readable."},
+    {"degrees": 315, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "Raised gaze with labeled screen-left yaw", "verdict": "warning", "reason": "The labeled loop confirms up-left, while blind horizontal classification was ambiguous."},
+    {"degrees": 337.5, "expected": {"horizontal": "screen-left", "vertical": "up"}, "observed": "Strong upward gaze with a subtle remaining screen-left axis", "verdict": "warning", "reason": "Residual horizontal cue is subtle but the labeled ordered loop approaches 000 monotonically."}
+  ]
+}

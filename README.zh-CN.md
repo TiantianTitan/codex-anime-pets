@@ -11,8 +11,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 11 个角色</code>
-  <code>✦ 12 个版本</code>
+  <code>✦ 12 个角色</code>
+  <code>✦ 13 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -25,7 +25,7 @@
 
 ## ✦ 选择你的伙伴 ✦
 
-<sub>这里的每张角色卡都已经动了起来。看一会儿，再选出最喜欢的那位。</sub>
+<sub>每张角色卡都已经动了起来。慢慢看一会儿，看看谁最适合陪在你的代码旁。</sub>
 
 </div>
 
@@ -33,19 +33,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ 角色 01 · 仙人 ✦</sub><br>
-      <img src="work/xiao/2d/qa/previews/idle.gif" width="170" alt="魈的待机动画"><br>
+      <img src="work/xiao/2d/qa/previews/idle.gif" width="155" alt="魈的待机动画"><br>
       <b>「 魈 · Xiao 」</b><br>
       <sub>◇ 警觉 · 克制 · 仙家气息 ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ 角色 02 · 持明龙尊 ✦</sub><br>
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="170" alt="丹恒饮月的待机动画"><br>
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="155" alt="丹恒饮月的待机动画"><br>
       <b>「 丹恒·饮月 · Imbibitor Lunae 」</b><br>
       <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ 角色 03 · 神策将军 ✦</sub><br>
-      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="170" alt="景元的待机动画"><br>
+      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="155" alt="景元的待机动画"><br>
       <b>「 景元 · Jing Yuan 」</b><br>
       <sub>◇ 松弛从容 · 始终敏锐 ◇</sub>
     </td>
@@ -53,70 +53,71 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ 角色 04 · 往生堂客卿 ✦</sub><br>
-      <img src="work/zhongli/2d/qa/previews/idle.gif" width="170" alt="钟离的待机动画"><br>
+      <img src="work/zhongli/2d/qa/previews/idle.gif" width="155" alt="钟离的待机动画"><br>
       <b>「 钟离 · Zhongli 」</b><br>
       <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ 角色 05 · 蛇柱 ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews/idle.gif" width="170" alt="伊黑小芭内的待机动画"><br>
+      <img src="work/obanai/2d/qa/previews/idle.gif" width="155" alt="伊黑小芭内的待机动画"><br>
       <b>「 伊黑小芭内 · Obanai 」</b><br>
       <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ 角色 06 · 女武神 ✦</sub><br>
-      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="170" alt="雷电芽衣的待机动画"><br>
+      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="155" alt="雷电芽衣的待机动画"><br>
       <b>「 雷电芽衣 · Raiden Mei 」</b><br>
       <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ 角色 07 · 宫司大人 ✦</sub><br>
-      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="八重神子的待机动画"><br>
+      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="155" alt="八重神子的待机动画"><br>
       <b>「 八重神子 · Yae Miko 」</b><br>
       <sub>◇ 从容优雅 · 狐系灵动 · 藏着一点坏心思 ◇</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ 角色 08 · 枫丹之星 ✦</sub><br>
-      <img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="芙宁娜的待机动画"><br>
+      <img src="work/furina/2d/qa/previews/idle.gif" width="155" alt="芙宁娜的待机动画"><br>
       <b>「 芙宁娜 · Furina 」</b><br>
       <sub>◇ 舞台魅力 · 水色雅意 · 灵动俏皮 ◇</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <sub>✦ 角色 09 · 巡海游侠 ✦</sub><br>
-      <img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="黄泉的待机动画"><br>
+      <img src="work/acheron/2d/qa/previews/idle.gif" width="155" alt="黄泉的待机动画"><br>
       <b>「 黄泉 · Acheron 」</b><br>
       <sub>◇ 沉静克制 · 紫色风暴 · 遥远目光 ◇</sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <sub>✦ 角色 10 · 鲨希人女仆 ✦</sub><br>
-      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="艾莲·乔的待机动画"><br>
+      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="155" alt="艾莲·乔的待机动画"><br>
       <b>「 艾莲·乔 · Ellen Joe 」</b><br>
       <sub>◇ 慵懒从容 · 目光锐利 · 行动迅捷 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 角色 11 · 第七十七代堂主 ✦</sub><br>
+      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="155" alt="胡桃的待机动画"><br>
+      <b>「 胡桃 · Hu Tao 」</b><br>
+      <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 12 · 天环族歌者 ✦</sub><br>
+      <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="知更鸟的待机动画"><br>
+      <b>「 知更鸟 · Robin 」</b><br>
+      <sub>◇ 宁静优雅 · 天籁歌声 · 羽翼轻盈 ◇</sub>
     </td>
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <sub>✦ 新角色登场 · 角色 11 · 第七十七代堂主 ✦</sub><br>
-      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="胡桃的待机动画"><br>
-      <b>「 胡桃 · Hu Tao 」</b><br>
-      <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
-    </td>
-    <td align="center" width="50%">
-      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="190" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>「 下一位会是谁？ 」</b><br>
-      <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="150" alt="下一位神秘伙伴的动态召唤门"></a><br>
+  <b>「 下一位会是谁？ 」</b><br>
+  <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
+</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -130,37 +131,39 @@
 
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="180" alt="八重神子跳跃"><br>
+    <td align="center" width="33%">
+      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="170" alt="八重神子跳跃"><br>
       <b>跳跃</b><br>
       <sub>轻盈升起，在最高处短暂停留</sub>
     </td>
-    <td align="center">
-      <img src="work/zhongli/2d/qa/previews/review.gif" width="180" alt="钟离审阅结果"><br>
+    <td align="center" width="33%">
+      <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="钟离审阅结果"><br>
       <b>审阅</b><br>
       <sub>从容地看看刚刚完成的工作</sub>
     </td>
-    <td align="center">
-      <img src="work/obanai/2d/qa/previews/waving.gif" width="180" alt="伊黑小芭内挥手"><br>
+    <td align="center" width="33%">
+      <img src="work/obanai/2d/qa/previews/waving.gif" width="170" alt="伊黑小芭内挥手"><br>
       <b>挥手</b><br>
       <sub>一个很轻、却很符合他性格的招呼</sub>
     </td>
-    <td align="center">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="180" alt="雷电芽衣专注工作"><br>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="170" alt="雷电芽衣专注工作"><br>
       <b>处理中</b><br>
       <sub>任务进行时的安静专注</sub>
     </td>
-    <td align="center">
-      <img src="work/xiao/2d/qa/previews/waiting.gif" width="180" alt="魈等待输入"><br>
+    <td align="center" width="33%">
+      <img src="work/xiao/2d/qa/previews/waiting.gif" width="170" alt="魈等待输入"><br>
       <b>等待</b><br>
       <sub>认真等你做出下一步决定</sub>
     </td>
-    <td align="center">
-      <img src="work/ellen-joe/2d/qa/previews/running.gif" width="180" alt="艾莲·乔专注工作"><br>
-      <b>开工</b><br>
-      <sub>看起来有点困，手上却快得一点都不含糊</sub>
+    <td align="center" width="33%">
+      <img src="work/robin/2d/qa/previews/waving.gif" width="170" alt="知更鸟挥手"><br>
+      <b>招呼</b><br>
+      <sub>轻盈而从容的舞台式问候</sub>
     </td>
   </tr>
 </table>
@@ -177,7 +180,7 @@
 
 </div>
 
-<details open>
+<details>
 <summary><b>🌙 档案 01 — 魈 · Xiao</b>　<sub>护法夜叉 / 2D 版本</sub></summary>
 
 <br>
@@ -421,6 +424,27 @@
 
 </details>
 
+<details open>
+<summary><b>🎶 档案 12 — 知更鸟 · Robin</b>　<sub>天环族歌者 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/robin/2d/qa/previews/idle.gif" width="190" alt="知更鸟待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>银蓝长发与后方玫瑰发髻、青绿渐紫的眼眸、花枝状金色光环、耳侧白色羽翼，以及白色、深靛紫、浅紫与金色交叠的舞台礼服<br>
+      <b>气质：</b>宁静优雅，带着歌者从容而温暖的舞台光芒<br><br>
+      <a href="robin/robin-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/robin/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/robin/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -441,6 +465,7 @@
 | 黄泉 · Acheron | 2D | `acheron` | [下载 ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
 | 艾莲·乔 · Ellen Joe | 2D | `ellen-joe` | [下载 ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
 | 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
+| 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](robin/robin-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 
