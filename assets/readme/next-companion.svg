@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mystery companion summoning portal</title>
+  <desc id="desc">An animated midnight portal with a small mystery companion silhouette, drifting petals, and orbiting stars.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d28"/>
+      <stop offset=".55" stop-color="#1e173a"/>
+      <stop offset="1" stop-color="#3b1934"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79edf0"/>
+      <stop offset=".48" stop-color="#ffe8a1"/>
+      <stop offset="1" stop-color="#ff91ba"/>
+    </linearGradient>
+    <radialGradient id="portal" cx="50%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#fff7d2" stop-opacity=".27"/>
+      <stop offset=".42" stop-color="#d7b6ff" stop-opacity=".2"/>
+      <stop offset=".72" stop-color="#66e7ef" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#66e7ef" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="spark" d="M0-8L2.4-2.4L8 0L2.4 2.4L0 8L-2.4 2.4L-8 0L-2.4-2.4Z"/>
+    <path id="petal" d="M0 0C8-7 15-4 16 2C11 9 5 10 0 0Z"/>
+  </defs>
+
+  <rect x="5" y="5" width="350" height="350" rx="34" fill="url(#card)"/>
+  <rect x="9" y="9" width="342" height="342" rx="30" fill="none" stroke="url(#rim)" stroke-width="2" opacity=".72"/>
+  <path d="M45 68H315M45 292H315" stroke="url(#rim)" stroke-width="1" opacity=".26"/>
+
+  <circle cx="180" cy="176" r="119" fill="url(#portal)">
+    <animate attributeName="r" values="112;124;112" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".72;1;.72" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse cx="180" cy="176" rx="91" ry="121" fill="none" stroke="url(#rim)" stroke-width="3" stroke-dasharray="4 11" opacity=".78" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 180 176" to="360 180 176" dur="24s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="180" cy="176" rx="75" ry="104" fill="none" stroke="#dec4ff" stroke-width="1.5" stroke-dasharray="2 9" opacity=".55">
+    <animateTransform attributeName="transform" type="rotate" from="360 180 176" to="0 180 176" dur="17s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g transform="translate(180 180)" fill="#090b1f" stroke="#f6d9e6" stroke-opacity=".4" stroke-width="2">
+    <path d="M-45-58L-62-88L-28-73C-12-84 12-84 28-73L62-88L45-58C60-44 67-24 64-2C61 24 45 41 27 49L35 81C24 88 12 91 0 91C-12 91-24 88-35 81L-27 49C-45 41-61 24-64-2C-67-24-60-44-45-58Z"/>
+    <ellipse cy="-13" rx="50" ry="48" fill="#11152f"/>
+    <path d="M-21-18Q-13-27-5-18M5-18Q13-27 21-18" fill="none" stroke="#ffe9a7" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+    <path d="M-8 1Q0 8 8 1" fill="none" stroke="#f6b6cf" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+    <path d="M0-8C14-20 23-8 18 5C13 18 0 26 0 40" fill="none" stroke="#fff0ba" stroke-width="8" stroke-linecap="round" filter="url(#glow)"/>
+    <circle cy="57" r="5" fill="#fff0ba" stroke="none" filter="url(#glow)"/>
+    <animateTransform attributeName="transform" type="translate" values="180 182;180 174;180 182" dur="3.8s" repeatCount="indefinite"/>
+  </g>
+
+  <g fill="#d9fbff" filter="url(#glow)">
+    <use href="#spark" transform="translate(71 111) scale(.8)">
+      <animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(291 134) scale(.55)" fill="#ffe5a2">
+      <animate attributeName="opacity" values="1;.15;1" dur="4.2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" transform="translate(268 254) scale(.7)" fill="#ffb4d0">
+      <animate attributeName="opacity" values=".15;1;.15" dur="3.7s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <g fill="#ff9fc4" opacity=".72">
+    <g>
+      <use href="#petal" transform="translate(62 20) rotate(22) scale(.65)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 -25;88 370" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;.55;0" dur="9s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <use href="#petal" transform="translate(279 1) rotate(-28) scale(.48)"/>
+      <animateTransform attributeName="transform" type="translate" values="0 -35;-62 390" dur="12s" begin="-5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.72;.45;0" dur="12s" begin="-5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(180 319)" fill="#ffe8a1" filter="url(#glow)">
+    <circle cx="-28" r="2.5"/><circle r="4"/><circle cx="28" r="2.5"/>
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+</svg>

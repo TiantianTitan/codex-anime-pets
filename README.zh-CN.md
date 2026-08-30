@@ -103,11 +103,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <sub>✦ 新角色登场 · 角色 11 · 第七十七代堂主 ✦</sub><br>
       <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="胡桃的待机动画"><br>
       <b>「 胡桃 · Hu Tao 」</b><br>
       <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
+    </td>
+    <td align="center" width="50%">
+      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="190" alt="下一位神秘伙伴的动态召唤门"></a><br>
+      <b>「 下一位会是谁？ 」</b><br>
+      <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
     </td>
   </tr>
 </table>
@@ -515,6 +521,8 @@ unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
+
+<a id="contribute-a-character"></a>
 
 ## 🤝 贡献角色
 

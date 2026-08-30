@@ -103,11 +103,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 11 · 77E DIRECTRICE ✦</sub><br>
       <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Animation d'attente de Hu Tao"><br>
       <b>「 Hu Tao · 胡桃 」</b><br>
       <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
+    </td>
+    <td align="center" width="50%">
+      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="190" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>「 Qui nous rejoindra ? 」</b><br>
+      <sub>◇ Apportez une référence · Faites éclore un compagnon ◇</sub>
     </td>
   </tr>
 </table>
@@ -515,6 +521,8 @@ Pour créer votre propre collection, consultez le [guide de production Codex Pet
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
+
+<a id="contribute-a-character"></a>
 
 ## 🤝 Contribuer
 

@@ -103,11 +103,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <sub>✦ NEW ARRIVAL · CHARACTER 11 · 77TH DIRECTOR ✦</sub><br>
       <img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Hu Tao idle animation"><br>
       <b>「 Hu Tao · 胡桃 」</b><br>
       <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
+    </td>
+    <td align="center" width="50%">
+      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="190" alt="Animated mystery companion portal"></a><br>
+      <b>「 Who joins next? 」</b><br>
+      <sub>◇ Bring a reference · Hatch a companion ◇</sub>
     </td>
   </tr>
 </table>
@@ -515,6 +521,8 @@ To build your own collection, begin with the [Codex Pet Dual Style production gu
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
+
+<a id="contribute-a-character"></a>
 
 ## 🤝 Contributing
 
