@@ -11,8 +11,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 13 PERSONNAGES</code>
-  <code>✦ 14 ÉDITIONS</code>
+  <code>✦ 14 PERSONNAGES</code>
+  <code>✦ 15 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -111,21 +111,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="Animation d'attente de Kaeya"><br>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Kaeya"><br>
       <b>「 Kaeya · 凯亚 」</b><br>
       <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 14 · CHASSEUSE DE STELLARON ✦</sub><br>
+      <img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Firefly"><br>
+      <b>「 Firefly · 流萤 」</b><br>
+      <sub>◇ Douce espérance · Courage tranquille · Une vie à elle ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>「 Qui nous rejoindra ? 」</b><br>
+      <sub>◇ Apportez une référence · Faites éclore un compagnon ◇</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="150" alt="Portail animé du prochain compagnon mystère"></a><br>
-  <b>「 Qui nous rejoindra ? 」</b><br>
-  <sub>◇ Apportez une référence · Faites éclore un compagnon ◇</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -142,9 +147,9 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="170" alt="Yae Miko saute"><br>
+      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="Firefly saute"><br>
       <b>Saut</b><br>
-      <sub>Une ascension légère avec un instant suspendu</sub>
+      <sub>Un petit bond plein d'espoir, les cheveux argentés soulevés au sommet</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="Zhongli examine le résultat"><br>
@@ -474,6 +479,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🌠 DOSSIER 14 — Firefly · 流萤</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="190" alt="Firefly au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure argent nacré aux pointes gris froid, yeux roses et turquoise, serre-tête noir, ornement en feuille menthe et nœud bleu nuit, courte cape charbon et or, nœud de poitrine orange doré, robe menthe à plusieurs pans et bottines blanches aux accents turquoise<br>
+      <b>Tempérament :</b> douce et lumineuse, portée par un courage tranquille et l'espoir de tracer sa propre voie<br><br>
+      <a href="Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/firefly/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/firefly/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -496,6 +522,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Hu Tao · 胡桃 | 2D | `hu-tao` | [Télécharger](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | Robin · 知更鸟 | 2D | `robin` | [Télécharger](robin/robin-2d-codex-pet-v2.zip) |
 | Kaeya · 凯亚 | 2D | `kaeya` | [Télécharger](kaeya/kaeya-2d-codex-pet-v2.zip) |
+| Firefly · 流萤 | 2D | `firefly` | [Télécharger](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

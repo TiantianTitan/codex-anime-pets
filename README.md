@@ -11,8 +11,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 13 CHARACTERS</code>
-  <code>✦ 14 EDITIONS</code>
+  <code>✦ 14 CHARACTERS</code>
+  <code>✦ 15 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -111,21 +111,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-      <sub>✦ NEW ARRIVAL · CHARACTER 13 · CAVALRY CAPTAIN ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="Kaeya idle animation"><br>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 13 · CAVALRY CAPTAIN ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="Kaeya idle animation"><br>
       <b>「 Kaeya · 凯亚 」</b><br>
       <sub>◇ Cool confidence · Playful charm · A watchful eye ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 14 · STELLARON HUNTER ✦</sub><br>
+      <img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="Firefly idle animation"><br>
+      <b>「 Firefly · 流萤 」</b><br>
+      <sub>◇ Gentle hope · Quiet courage · A life of her own ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Animated mystery companion portal"></a><br>
+      <b>「 Who joins next? 」</b><br>
+      <sub>◇ Bring a reference · Hatch a companion ◇</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="150" alt="Animated mystery companion portal"></a><br>
-  <b>「 Who joins next? 」</b><br>
-  <sub>◇ Bring a reference · Hatch a companion ◇</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -142,9 +147,9 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="170" alt="Yae Miko jumping"><br>
+      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="Firefly jumping"><br>
       <b>Jumping</b><br>
-      <sub>A light shrine-maiden rise with a floating apex</sub>
+      <sub>A hopeful little leap, with silver hair lifting at the apex</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="Zhongli reviewing"><br>
@@ -474,6 +479,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🌠 FILE 14 — Firefly · 流萤</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="190" alt="Firefly idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> long pearly-silver hair with cool gray ends, pink-to-aqua eyes, a black headband, pale mint leaf ornament and navy bow, charcoal-and-gold cropped cape, orange-gold chest bow, mint layered dress, and white boots with teal accents<br>
+      <b>Mood:</b> gentle and hopeful, with quiet courage beneath every small gesture<br><br>
+      <a href="Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/firefly/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/firefly/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -496,6 +522,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Hu Tao · 胡桃 | 2D | `hu-tao` | [Download ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | Robin · 知更鸟 | 2D | `robin` | [Download ZIP](robin/robin-2d-codex-pet-v2.zip) |
 | Kaeya · 凯亚 | 2D | `kaeya` | [Download ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
+| Firefly · 流萤 | 2D | `firefly` | [Download ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

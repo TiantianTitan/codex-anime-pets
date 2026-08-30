@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "reviewed_at_normal_pet_size": true,
+  "overall": "pass",
+  "directions": [
+    {"degrees": 0, "expected": "up", "verdict": "pass", "horizontal_evidence": "Frontal cardinal; no horizontal axis required.", "vertical_evidence": "Irises sit high in the eye apertures, lower sclera is visible, and the chin is clearly raised."},
+    {"degrees": 22.5, "expected": "up-right", "verdict": "pass", "horizontal_evidence": "Eyes, cheek, and face begin moving toward screen-right.", "vertical_evidence": "Raised eye line and chin retain the up cue."},
+    {"degrees": 45, "expected": "up-right", "verdict": "pass", "horizontal_evidence": "Nose, pupils, and visible cheek are displaced toward screen-right.", "vertical_evidence": "Head and eye line remain lifted."},
+    {"degrees": 67.5, "expected": "up-right", "verdict": "pass", "horizontal_evidence": "Clear rightward three-quarter face with hair trailing screen-left.", "vertical_evidence": "The chin is still slightly raised before the right cardinal."},
+    {"degrees": 90, "expected": "right", "verdict": "pass", "horizontal_evidence": "Unmistakable screen-right profile; nose tip and visible eye are right of head center.", "vertical_evidence": "Near-level pitch appropriate for the horizontal cardinal."},
+    {"degrees": 112.5, "expected": "down-right", "verdict": "pass", "horizontal_evidence": "Right-facing profile remains clear.", "vertical_evidence": "Eye line and chin begin pitching downward."},
+    {"degrees": 135, "expected": "down-right", "verdict": "pass", "horizontal_evidence": "Face remains on the screen-right side of the head.", "vertical_evidence": "Lowered eyelids and chin clearly increase the down cue."},
+    {"degrees": 157.5, "expected": "down-right", "verdict": "pass", "horizontal_evidence": "Bowed profile still points screen-right.", "vertical_evidence": "Downward gaze and head pitch are one step before the down cardinal."},
+    {"degrees": 180, "expected": "down", "verdict": "pass", "horizontal_evidence": "Frontal cardinal; no horizontal axis required.", "vertical_evidence": "Chin is tucked and eyes are visibly lowered."},
+    {"degrees": 202.5, "expected": "down-left", "verdict": "pass", "horizontal_evidence": "Face begins moving toward screen-left with hair trailing screen-right.", "vertical_evidence": "Downward eye line and chin remain pronounced."},
+    {"degrees": 225, "expected": "down-left", "verdict": "pass", "horizontal_evidence": "Nose and visible eye are clearly on the screen-left side.", "vertical_evidence": "Head remains pitched down."},
+    {"degrees": 247.5, "expected": "down-left", "verdict": "pass", "horizontal_evidence": "Strong leftward three-quarter profile.", "vertical_evidence": "Lowered gaze persists one step before the left cardinal."},
+    {"degrees": 270, "expected": "left", "verdict": "pass", "horizontal_evidence": "Unmistakable screen-left profile; nose tip and visible eye are left of head center.", "vertical_evidence": "Near-level pitch appropriate for the horizontal cardinal."},
+    {"degrees": 292.5, "expected": "up-left", "verdict": "pass", "horizontal_evidence": "Face remains distinctly screen-left.", "vertical_evidence": "Eye line and chin begin lifting."},
+    {"degrees": 315, "expected": "up-left", "verdict": "pass", "horizontal_evidence": "Leftward three-quarter face remains readable.", "vertical_evidence": "Raised chin and pupils strengthen the up cue."},
+    {"degrees": 337.5, "expected": "up-left", "verdict": "warning", "horizontal_evidence": "The pose is intentionally front-biased and the blind horizontal cue was ambiguous, but labeled loop review shows it follows 315 and remains the final left-biased step before 000.", "vertical_evidence": "All blind reviewers confirmed the up axis; chin and irises are visibly raised."}
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "evidence": "The ordered normal-size loop shows no reversal, clipping, scale pop, identity change, or broken ornament attachment. Metric warnings at 000->022.5, 157.5->180, 180->202.5, and 315->337.5 correspond to visible pose-family transitions rather than discontinuities; 337.5->000 closes with a 1.008 area ratio and 1.5px center delta."
+  }
+}

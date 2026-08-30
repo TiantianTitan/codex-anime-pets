@@ -11,8 +11,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 13 个角色</code>
-  <code>✦ 14 个版本</code>
+  <code>✦ 14 个角色</code>
+  <code>✦ 15 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -111,21 +111,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-      <sub>✦ 新角色登场 · 角色 13 · 骑兵队长 ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews/idle.gif" width="165" alt="凯亚的待机动画"><br>
+    <td align="center" width="33%">
+      <sub>✦ 角色 13 · 骑兵队长 ✦</sub><br>
+      <img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="凯亚的待机动画"><br>
       <b>「 凯亚 · Kaeya 」</b><br>
       <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 14 · 星核猎手 ✦</sub><br>
+      <img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="流萤的待机动画"><br>
+      <b>「 流萤 · Firefly 」</b><br>
+      <sub>◇ 温柔希望 · 安静勇气 · 自己选择的人生 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="下一位神秘伙伴的动态召唤门"></a><br>
+      <b>「 下一位会是谁？ 」</b><br>
+      <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="150" alt="下一位神秘伙伴的动态召唤门"></a><br>
-  <b>「 下一位会是谁？ 」</b><br>
-  <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -142,9 +147,9 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/yae-miko/2d/qa/previews/jumping.gif" width="170" alt="八重神子跳跃"><br>
+      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="流萤跳跃"><br>
       <b>跳跃</b><br>
-      <sub>轻盈升起，在最高处短暂停留</sub>
+      <sub>满怀希望地轻轻跃起，银发也在最高处扬起</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="钟离审阅结果"><br>
@@ -474,6 +479,27 @@
 
 </details>
 
+<details open>
+<summary><b>🌠 档案 14 — 流萤 · Firefly</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="190" alt="流萤待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>末端泛着冷灰的珍珠银长发、粉青渐变眼睛、黑色发带、薄荷色叶形发饰与深蓝蝴蝶结、黑金短披肩、橙金胸饰、薄荷渐变短裙，以及带青色点缀的白色短靴<br>
+      <b>气质：</b>温柔而明亮，安静的勇气藏在每个小动作里，也始终向往能够选择自己的道路<br><br>
+      <a href="Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/firefly/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/firefly/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -496,6 +522,7 @@
 | 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
 | 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](robin/robin-2d-codex-pet-v2.zip) |
 | 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
+| 流萤 · Firefly | 2D | `firefly` | [下载 ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 
