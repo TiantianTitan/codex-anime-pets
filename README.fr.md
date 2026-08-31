@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 18 PERSONNAGES</code>
-  <code>✦ 19 ÉDITIONS</code>
+  <code>✦ 20 PERSONNAGES</code>
+  <code>✦ 21 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -152,7 +152,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 19 · SAMOURAÏ ERRANT ✦</sub><br>
+      <img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaedehara Kazuha"><br>
+      <b>「 Kaedehara Kazuha · 枫原万叶 」</b><br>
+      <sub>◇ Silence d'érable · Grâce vagabonde · Résolution portée par le vent ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 20 · BRETTEUSE AUX OREILLES DE RENARD ✦</sub><br>
+      <img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hoshimi Miyabi"><br>
+      <b>「 Hoshimi Miyabi · 星见雅 」</b><br>
+      <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -613,6 +625,48 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🍁 DOSSIER 19 — Kaedehara Kazuha · 枫原万叶</b>　<sub>Samouraï errant / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="190" alt="Kaedehara Kazuha au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> chevelure blanc ivoire traversée d'une mèche rouge, yeux rouge-orangé, écharpe courte, tenue de samouraï asymétrique noire, rouge et crème, hakama court bordeaux, sandales et sabre rengainé solidement attaché au côté<br>
+      <b>Tempérament :</b> calme et attentif, avec la légèreté d'un voyageur et la résolution tranquille d'un bretteur à l'écoute du vent<br><br>
+      <a href="Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🦊 DOSSIER 20 — Hoshimi Miyabi · 星见雅</b>　<sub>Bretteuse aux oreilles de renard / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="190" alt="Hoshimi Miyabi au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> de hautes oreilles de renard sombres, des cheveux bleu nuit, des yeux rouges, un uniforme vert sarcelle, blanc et noir, un bras mécanique asymétrique entouré d'un cordon rouge et un katana rengainé près de la hanche<br>
+      <b>Présence :</b> immobile et parfaitement attentive, avec l'assurance contenue d'une bretteuse qui n'a jamais besoin de se presser<br><br>
+      <a href="Miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/miyabi/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -640,6 +694,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Télécharger](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | Blade · 刃 | 2D | `blade` | [Télécharger](blade/blade-2d-codex-pet-v2.zip) |
 | Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Télécharger](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
+| Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Télécharger](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
+| Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Télécharger](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

@@ -1,0 +1,26 @@
+{
+  "verdict": "pass",
+  "checked": [
+    "contact-sheet-extended",
+    "look-directions",
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping-all-5-frames",
+    "failed",
+    "waiting",
+    "running",
+    "review",
+    "157.5-to-180-boundary",
+    "337.5-to-000-boundary",
+    "identity/asymmetry",
+    "ears/hair/katana attachment",
+    "padding/cropping",
+    "transparent-edge fringe",
+    "16-direction clockwise semantics",
+    "fixed lower-body registration"
+  ],
+  "issues": [],
+  "notes": "The rebuilt jumping loop maintains consistent character height and perceived scale; width changes follow the tuck pose and hair spread without a visible pop. Both 157.5→180 and 337.5→000 now transition plausibly with stable feet and no conspicuous snap. Identity, asymmetry, attachments, motion meanings, padding, transparency, direction semantics, and registration pass, with no visible magenta/green fringe."
+}

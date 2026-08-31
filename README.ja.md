@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 18 キャラクター</code>
-  <code>✦ 19 エディション</code>
+  <code>✦ 20 キャラクター</code>
+  <code>✦ 21 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -64,7 +64,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" width="33%"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ · Ruan Mei 」</b><br><sub>◇ 静かな知性 · 花の気品 · 穏やかな旋律 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
+    <td align="center" width="33%"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 楓原万葉 · Kaedehara Kazuha 」</b><br><sub>◇ 楓の静けさ · 旅の風雅 · 風に宿る決意 ◇</sub></td>
+    <td align="center" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 星見雅 · Hoshimi Miyabi 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
+    <td align="center" width="33%"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
   </tr>
 </table>
 
@@ -96,6 +98,8 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | 神里綾華 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | 刃 · Blade | 2D | `blade` | [ZIP](blade/blade-2d-codex-pet-v2.zip) |
 | ルアン・メェイ · Ruan Mei | 2D | `ruan-mei` | [ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
+| 楓原万葉 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

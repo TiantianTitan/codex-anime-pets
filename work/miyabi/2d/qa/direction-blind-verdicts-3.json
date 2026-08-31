@@ -1,0 +1,16 @@
+{"pairs":[
+{"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A的鼻尖、瞳孔与面部投影偏右；B偏左。"},
+{"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A明确朝左；B朝右。"},
+{"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A的侧脸朝左；B朝右。"},
+{"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A偏右；B清晰朝左。"},
+{"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A低头偏右；B偏左。"},
+{"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A朝左；B低头偏右。"},
+{"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"A低头偏右；B朝左。"},
+{"pair":"vertical-1","A":"down","B":"up","reason":"A低眼收颏；B高眼抬颏。"},
+{"pair":"vertical-2","A":"down","B":"up","reason":"A俯下；B上扬。"},
+{"pair":"vertical-3","A":"down","B":"up","reason":"A低垂；B抬起。"},
+{"pair":"vertical-4","A":"down","B":"up","reason":"A前俯；B向上。"},
+{"pair":"vertical-5","A":"down","B":"up","reason":"A略向下；B瞳孔高、下巴抬起。"},
+{"pair":"vertical-6","A":"up","B":"down","reason":"A向上；B低眼收颏。"},
+{"pair":"vertical-7","A":"down","B":"up","reason":"A较低；B鼻尖和视线上扬。"}
+]}

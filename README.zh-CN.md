@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 18 个角色</code>
-  <code>✦ 19 个版本</code>
+  <code>✦ 20 个角色</code>
+  <code>✦ 21 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -152,7 +152,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 19 · 浪人武士 ✦</sub><br>
+      <img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"><br>
+      <b>「 枫原万叶 · Kaedehara Kazuha 」</b><br>
+      <sub>◇ 枫意清寂 · 行旅从容 · 风中坚韧 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 20 · 狐耳剑士 ✦</sub><br>
+      <img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"><br>
+      <b>「 星见雅 · Hoshimi Miyabi 」</b><br>
+      <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -613,6 +625,48 @@
 
 </details>
 
+<details open>
+<summary><b>🍁 档案 19 — 枫原万叶 · Kaedehara Kazuha</b>　<sub>浪人武士 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="190" alt="枫原万叶的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>象牙白短发与鲜明红色挑染、赤橙色眼眸、短围巾、黑红米白相间的不对称武士装束、暗红袴裤、草履，以及稳固系在腰侧的入鞘佩刀<br>
+      <b>气质：</b>安静而敏锐，既有旅人随风而行的从容，也有剑士不动声色的坚定<br><br>
+      <a href="Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🦊 档案 20 — 星见雅 · Hoshimi Miyabi</b>　<sub>狐耳剑士 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="190" alt="星见雅的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>高挑的深色狐耳、藏青黑长发、赤红双眼、青绿白黑制服、缠有红绳的非对称机械臂，以及贴近腰侧收好的佩刀<br>
+      <b>气质：</b>安静而专注，有种无需急着出手也足以让人屏息的剑士锋芒<br><br>
+      <a href="Miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/miyabi/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -640,6 +694,8 @@
 | 神里绫华 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [下载 ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | 刃 · Blade | 2D | `blade` | [下载 ZIP](blade/blade-2d-codex-pet-v2.zip) |
 | 阮·梅 · Ruan Mei | 2D | `ruan-mei` | [下载 ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
+| 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

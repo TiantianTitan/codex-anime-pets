@@ -1,0 +1,15 @@
+{
+  "verdict": "pass",
+  "checked": [
+    "9-row contact sheet",
+    "all 9 preview GIFs",
+    "identity and palette",
+    "frame labels and counts",
+    "padding and cropping",
+    "motion readability",
+    "cross-cell debris",
+    "left/right facing and asymmetric costume continuity"
+  ],
+  "issues": [],
+  "notes": "All rows preserve Miyabi's navy-black hair, tall fox ears, red eyes, teal/white/black outfit, mechanical arm with red cord, and katana. Running-left and running-right face correctly and retain anatomical costume asymmetry without simple mirroring. Failed uses intentional ear droop; running reads as subtle focused scanning. Pre-cleanup magenta fringe was not treated as a failure."
+}

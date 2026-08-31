@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 18 CHARACTERS</code>
-  <code>✦ 19 EDITIONS</code>
+  <code>✦ 20 CHARACTERS</code>
+  <code>✦ 21 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -152,7 +152,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 19 · WANDERING SAMURAI ✦</sub><br>
+      <img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Kaedehara Kazuha idle animation"><br>
+      <b>「 Kaedehara Kazuha · 枫原万叶 」</b><br>
+      <sub>◇ Maple hush · Wandering grace · Windborne resolve ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 20 · FOX-EARED SWORDMASTER ✦</sub><br>
+      <img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Hoshimi Miyabi idle animation"><br>
+      <b>「 Hoshimi Miyabi · 星见雅 」</b><br>
+      <sub>◇ Still focus · Scarlet gaze · Quiet swordcraft ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -613,6 +625,48 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🍁 FILE 19 — Kaedehara Kazuha · 枫原万叶</b>　<sub>Wandering Samurai / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="190" alt="Kaedehara Kazuha idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> ivory-white hair with a vivid red streak, red-orange eyes, a compact scarf, an asymmetric black-red-cream samurai outfit, dark red hakama shorts, sandals, and a sheathed sword secured at his side<br>
+      <b>Mood:</b> calm and attentive, carrying the quiet ease of a traveler and the steady resolve of a swordsman who listens to the wind<br><br>
+      <a href="Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🦊 FILE 20 — Hoshimi Miyabi · 星见雅</b>　<sub>Fox-eared swordmaster / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="190" alt="Hoshimi Miyabi idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> tall dark fox ears, navy-black hair, red eyes, a teal-white-black uniform, an asymmetric mechanical arm wrapped with a red cord, and a sheathed katana kept close at the hip<br>
+      <b>Mood:</b> still and sharply attentive, with the contained presence of a swordmaster who never needs to hurry<br><br>
+      <a href="Miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/miyabi/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -640,6 +694,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Download ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | Blade · 刃 | 2D | `blade` | [Download ZIP](blade/blade-2d-codex-pet-v2.zip) |
 | Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Download ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
+| Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Download ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
+| Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Download ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

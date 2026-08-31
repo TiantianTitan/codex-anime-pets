@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/waving/frames",
+  "states": [
+    "waving"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/waving/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11957,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/waving/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12374,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/waving/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12267,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/waving/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11922,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        }
+      ]
+    }
+  ]
+}

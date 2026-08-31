@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames",
+  "states": [
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9795,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9403,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9397,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9471,
+          "bbox": [
+            61,
+            5,
+            130,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9615,
+          "bbox": [
+            60,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/review/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9613,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A的鼻尖与瞳孔偏向画面右侧；B的侧脸鼻尖明确朝向画面左侧。"},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A的鼻尖、瞳孔和面部投影在头部中心右侧；B对应落在左侧。"},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A的三分之四侧脸朝向画面右侧；B的鼻尖和视线朝向画面左侧。"},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A呈清晰左向侧脸，B呈清晰右向侧脸，鼻尖方向相反。"},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A低头时鼻尖与可见面部偏左；B的鼻尖、瞳孔和面部偏右。"},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A的鼻尖位于头部中心右侧；B的鼻尖与面部投影位于中心左侧。"},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A低头正面中的鼻尖与视线略偏左；B的头部与鼻尖明显转向右侧。"},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A抬颏且瞳孔位置较高；B收颏、上眼睑压低并朝向衣领。"},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A眼神与下巴向上；B头颈俯下、眼睛朝下。"},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A收颏并低垂视线；B抬颏、眼睛和面部朝上。"},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A头部前俯且眼神较低；B颈部伸展、瞳孔与鼻尖位置较高。"},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A侧脸鼻尖上扬并抬颏；B刘海压低、眼睛下垂且下巴贴近衣领。"},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A正面收颏且视线向下；B侧脸抬起、鼻尖与眼睛朝上。"},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A侧脸下巴与鼻尖上抬；B头部下俯、瞳孔和眼睑位置较低。"}
+  ]
+}

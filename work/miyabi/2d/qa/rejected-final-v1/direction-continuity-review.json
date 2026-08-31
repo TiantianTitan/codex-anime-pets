@@ -1,0 +1,23 @@
+{
+  "verdict": "pass_after_visual_review",
+  "source": "qa/direction-continuity.json",
+  "reviewed_warnings": [
+    {
+      "pair": "090->112.5",
+      "resolution": "pass",
+      "reason": "The larger silhouette change comes from moving off the pure image-right profile into a downward three-quarter head. Nose, eye, chin and hair remain on the correct screen-right trajectory, with fixed feet and no identity jump."
+    },
+    {
+      "pair": "247.5->270",
+      "resolution": "pass",
+      "reason": "The local difference increase is the expected tightening from a left-down three-quarter view into the pure image-left profile. Direction remains monotonic and the lower body stays registered."
+    },
+    {
+      "pair": "337.5->000",
+      "resolution": "pass",
+      "reason": "The loop boundary changes from a narrow near-profile up-left silhouette to the broader frontal up endpoint. The measured area and center change follow that perspective change; the visible eyes, chin, ears, hair, costume sides and ground contact close the loop coherently without reversal."
+    }
+  ],
+  "alpha_holes": [],
+  "conclusion": "The numeric warnings are explainable perspective transitions rather than broken continuity, costume swapping, or registration failure."
+}

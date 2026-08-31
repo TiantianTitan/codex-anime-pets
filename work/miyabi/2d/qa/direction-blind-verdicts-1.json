@@ -1,0 +1,16 @@
+{"pairs":[
+{"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's pupils and subtle nose/chin bias sit left of head center; B's facial landmarks bias right."},
+{"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A has a left-projecting nose and facial plane; B projects right."},
+{"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's profile points left; B's nose, pupil and exposed face point right."},
+{"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A shows a right-facing face; B is a clear left-facing profile."},
+{"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's lowered nose and chin angle right; B extends left."},
+{"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A projects left; B's bowed face angles right."},
+{"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"A retains rightward bias; B's profile nose points left."},
+{"pair":"vertical-1","A":"down","B":"up","reason":"A has lowered eyelids and tucked chin; B has high pupils and lifted chin."},
+{"pair":"vertical-2","A":"down","B":"up","reason":"A angles down; B's irises and chin are raised."},
+{"pair":"vertical-3","A":"down","B":"up","reason":"A has low gaze and compressed chin-neck angle; B is raised."},
+{"pair":"vertical-4","A":"down","B":"up","reason":"A slopes downward; B's profile gaze tilts upward."},
+{"pair":"vertical-5","A":"down","B":"up","reason":"A has a low iris and tucked chin; B's pupils sit high."},
+{"pair":"vertical-6","A":"up","B":"down","reason":"A's profile rises; B's gaze and chin angle downward."},
+{"pair":"vertical-7","A":"down","B":"up","reason":"A's eye line and chin sit low; B angles upward."}
+]}

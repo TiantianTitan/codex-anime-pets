@@ -1,0 +1,11 @@
+{
+  "verdict": "pass_after_visual_review",
+  "source": "qa/direction-continuity.json",
+  "reviewed_warnings": [
+    {"pair":"090->112.5","resolution":"pass","reason":"The larger difference is the expected transition from a pure right profile into a downward three-quarter head; screen-right landmarks remain monotonic and feet stay fixed."},
+    {"pair":"157.5->180","resolution":"pass","reason":"The three-quarter down-right face returns to the frontal down cardinal at matching visible scale. Independent final playback found no conspicuous snap, ground shift, attachment break, or identity change."},
+    {"pair":"247.5->270","resolution":"pass","reason":"The local change is the tightening from a left-down three-quarter view into the pure left profile; direction remains monotonic and the lower body remains registered."}
+  ],
+  "alpha_holes": [],
+  "conclusion": "Metric outliers are explained by the intended profile/cardinal perspective changes and pass labeled and independent visual review."
+}

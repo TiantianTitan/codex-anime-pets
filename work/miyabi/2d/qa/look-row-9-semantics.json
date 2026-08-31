@@ -1,0 +1,16 @@
+{
+  "row": 9,
+  "verdict": "pass",
+  "registration_scale": 0.41164241164241167,
+  "directions": {
+    "000": {"expected": "up", "observed": "frontal face, high irises, lifted chin and visible neck", "verdict": "pass"},
+    "022.5": {"expected": "up-right", "observed": "high gaze with the face beginning to project toward screen-right", "verdict": "pass"},
+    "045": {"expected": "up-right", "observed": "clear screen-right three-quarter turn with elevated gaze", "verdict": "pass"},
+    "067.5": {"expected": "right-up", "observed": "stronger screen-right facial projection while the eyes remain above neutral", "verdict": "pass"},
+    "090": {"expected": "screen-right", "observed": "nose, pupils, chin and face surface clearly project to screen-right", "verdict": "pass"},
+    "112.5": {"expected": "right-down", "observed": "screen-right profile retained while eyelids and chin begin descending", "verdict": "pass"},
+    "135": {"expected": "down-right", "observed": "chin tucks and gaze lowers while retaining screen-right bias", "verdict": "pass"},
+    "157.5": {"expected": "near-down with slight right bias", "observed": "low eyes and tucked chin read near-down; facial projection remains subtly screen-right", "verdict": "pass"}
+  },
+  "continuity": "Clockwise progression is monotonic from up through screen-right toward down; no neighboring reversal, foot shift, or costume-side swap is visible at registered size."
+}

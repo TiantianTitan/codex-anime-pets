@@ -1,0 +1,34 @@
+{
+  "verdict": "pass",
+  "axis_evidence": {
+    "vertical": {
+      "up": "000 keeps a broad frontal face with high irises, lifted chin, and more visible neck/collar underside.",
+      "down": "180 keeps a broad frontal face with low irises, lowered lids, a tucked chin, and less visible neck.",
+      "independence": "The vertical endpoints remain broadly frontal, so the up/down evidence is not borrowed from a horizontal profile turn."
+    },
+    "horizontal": {
+      "right": "090 places nose, pupil, chin, and facial surface on the image-right side of the head center, with rear hair mass behind them.",
+      "left": "270 places the same landmarks on the image-left side of the head center and is visibly opposite to 090.",
+      "independence": "The left/right endpoints retain comparable height while reversing facial projection, so the horizontal evidence is distinct from chin elevation."
+    }
+  },
+  "directions": {
+    "000": {"verdict": "pass", "expected": "up", "observed": "frontal face, high irises, lifted chin, visible neck", "reason": "multiple vertical facial landmarks point upward"},
+    "022.5": {"verdict": "pass", "expected": "up-right", "observed": "high gaze with a slight image-right facial projection", "reason": "first clockwise step combines upward elevation with a small right turn"},
+    "045": {"verdict": "pass", "expected": "up-right", "observed": "clear image-right three-quarter face and elevated eyes", "reason": "horizontal turn increases while the gaze remains above neutral"},
+    "067.5": {"verdict": "pass", "expected": "right-up", "observed": "strong image-right projection with mildly high gaze", "reason": "smooth approach to the right cardinal without reversal"},
+    "090": {"verdict": "pass", "expected": "right", "observed": "nose, pupil, chin and face surface project to image-right", "reason": "unmistakable screen-right profile landmark"},
+    "112.5": {"verdict": "pass", "expected": "down-right", "observed": "image-right profile retained as eyelids and chin begin to descend", "reason": "continues clockwise below the horizontal axis"},
+    "135": {"verdict": "pass", "expected": "down-right", "observed": "lower gaze and tucked chin with a reduced image-right bias", "reason": "interpolates smoothly between right and down"},
+    "157.5": {"verdict": "pass", "expected": "near-down with slight right bias", "observed": "low eyes and tucked chin with only a subtle image-right projection", "reason": "one step before 180 and no direction reversal"},
+    "180": {"verdict": "pass", "expected": "down", "observed": "broadly frontal head, low eyes, hidden upper face, and deeply tucked chin", "reason": "multiple vertical facial landmarks point downward"},
+    "202.5": {"verdict": "pass", "expected": "down-left", "observed": "downward gaze begins acquiring image-left facial projection", "reason": "first clockwise step after down moves toward screen-left"},
+    "225": {"verdict": "pass", "expected": "down-left", "observed": "clearer image-left three-quarter turn while chin remains low", "reason": "left projection increases monotonically"},
+    "247.5": {"verdict": "pass", "expected": "left-down", "observed": "nose, pupil and chin sit image-left of head center with a lowered gaze", "reason": "approaches the left cardinal without flipping right"},
+    "270": {"verdict": "pass", "expected": "left", "observed": "nose, pupil, chin and face surface project to image-left", "reason": "unmistakable screen-left profile and opposite of 090"},
+    "292.5": {"verdict": "pass", "expected": "up-left", "observed": "image-left profile is retained while the eyes and chin begin rising", "reason": "continues clockwise above the horizontal axis"},
+    "315": {"verdict": "pass", "expected": "up-left", "observed": "raised gaze and chin with a reduced but clear image-left bias", "reason": "interpolates smoothly between left and up"},
+    "337.5": {"verdict": "pass", "expected": "near-up with slight left bias", "observed": "high eyes and lifted chin retain a subtle image-left facial projection", "reason": "one step before 000 and no neighboring reversal"}
+  },
+  "continuity": "All 16 frames form a clockwise loop: up to image-right to down to image-left and back toward up. Feet and lower body remain registered, while ears, long hair, mechanical arm with red cord, teal sleeve, and katana remain attached and on their established sides."
+}

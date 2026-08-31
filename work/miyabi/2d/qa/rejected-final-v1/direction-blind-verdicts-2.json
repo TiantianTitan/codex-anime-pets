@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's nose and pupils shift right of head center; B's profile and nose project left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's face projects toward the right edge; B's nose and gaze project left."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A's nose and visible eye sit rightward; B presents a clear left-facing profile."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A's profile projects left with hair trailing right; B's face projects right with hair trailing left."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A's lowered face remains left-biased; B's nose and visible eye clearly aim right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's nose projects right despite the downward tilt; B's face and pupils bias left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's tucked face is left-biased; B's nose and facial projection remain right-biased."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A lifts the chin with eyes high; B tucks the chin beneath the fringe."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's eyes and chin angle upward; B's head and gaze pitch down."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A lowers the eyes and chin; B raises the face and gaze."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's chin is tucked and eyes lowered; B's chin and eyes are elevated."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's profile has a raised chin and upward gaze; B's face is bowed downward."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A dips the head with low eyes; B visibly lifts the chin and gaze."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's profile angles slightly upward; B's head and eyes are directed downward."}
+  ]
+}

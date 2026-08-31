@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A has a slight rightward nose and pupil bias; B shows a clear left-projecting nose and facial plane."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A's nose, chin, and visible cheek project right; B's profile landmarks project left."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A shows rightward nose and pupil placement; B has a left-facing nose and chin silhouette."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A is a left-facing profile with the nose extending left; B's nose and face surface extend right."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A has a subtle leftward pupil and chin bias; B clearly projects the nose and facial plane right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's nose and exposed facial surface point right; B's lowered face retains a leftward pupil and chin bias."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's lowered nose and chin angle toward the left; B's corresponding landmarks angle right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has raised pupils and an exposed lower face; B has lowered eyelids, a tucked chin, and compressed neck space."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's iris placement and lifted chin indicate up; B's low gaze and tucked chin indicate down."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A shows lowered eyes and chin compression; B shows elevated irises and a raised chin."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's eyelids and chin angle descend toward the chest; B's pupils and facial plane lift upward."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's profile has a raised nose and open neck angle; B has closed-low eyelids and a tucked chin."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's eyes sit low beneath the lids with the chin tucked; B's profile nose and gaze tilt upward."},
+    {"pair":"vertical-7","A":"up","B":"down","reason":"A's nose, iris, and chin line rise; B's eyelids and chin settle downward toward the neck."}
+  ]
+}

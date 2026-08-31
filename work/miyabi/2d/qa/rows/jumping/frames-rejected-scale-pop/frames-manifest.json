@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/jumping/frames/jumping/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/jumping/frames/jumping/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/jumping/frames/jumping/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/jumping/frames/jumping/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/miyabi/2d/qa/rows/jumping/frames/jumping/04.png"
+      ],
+      "method": "components"
+    }
+  ]
+}
