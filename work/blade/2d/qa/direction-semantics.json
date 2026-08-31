@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"direction":"000","expected":"up","observed":"up","verdict":"pass","reason":"Horizontal: face centered. Vertical: chin and head are clearly raised with an open high gaze."},
+    {"direction":"022.5","expected":"up-right","observed":"up-right","verdict":"pass","reason":"Horizontal: face turns screen-right. Vertical: chin remains raised."},
+    {"direction":"045","expected":"up-right","observed":"up-right","verdict":"pass","reason":"Horizontal: clear rightward three-quarter face. Vertical: upward pitch remains visible."},
+    {"direction":"067.5","expected":"up-right","observed":"up-right","verdict":"warning","reason":"Horizontal: rightward progression is clear. Vertical: upward cue is subtle in isolation but correct in the labeled ordered loop."},
+    {"direction":"090","expected":"right","observed":"right","verdict":"pass","reason":"Horizontal: unmistakable screen-right profile. Vertical: approximately neutral pitch."},
+    {"direction":"112.5","expected":"down-right","observed":"down-right","verdict":"warning","reason":"Horizontal: rightward profile is clear. Vertical: downward cue is subtle in isolation but correct in the labeled ordered loop."},
+    {"direction":"135","expected":"down-right","observed":"down-right","verdict":"pass","reason":"Horizontal: rightward head turn persists. Vertical: head and gaze are visibly lowered."},
+    {"direction":"157.5","expected":"down-right","observed":"down-right","verdict":"pass","reason":"Horizontal: rightward silhouette remains readable. Vertical: strong downward bow approaches 180."},
+    {"direction":"180","expected":"down","observed":"down","verdict":"pass","reason":"Horizontal: face is centered. Vertical: head and chin are unmistakably bowed down with an open low gaze."},
+    {"direction":"202.5","expected":"down-left","observed":"down-left","verdict":"pass","reason":"Horizontal: first screen-left face bias is clear. Vertical: downward pitch remains visible."},
+    {"direction":"225","expected":"down-left","observed":"down-left","verdict":"pass","reason":"Horizontal: left three-quarter face. Vertical: head remains lowered."},
+    {"direction":"247.5","expected":"down-left","observed":"down-left","verdict":"pass","reason":"Horizontal: strong leftward profile. Vertical: strong down cue remains before 270."},
+    {"direction":"270","expected":"left","observed":"left","verdict":"pass","reason":"Horizontal: unmistakable screen-left profile with face/nose leading left. Vertical: approximately neutral pitch."},
+    {"direction":"292.5","expected":"up-left","observed":"up-left","verdict":"warning","reason":"Horizontal: leftward turn remains clear while returning toward front. Vertical: upward cue is subtle in isolation but correct in the labeled loop."},
+    {"direction":"315","expected":"up-left","observed":"up-left","verdict":"pass","reason":"Horizontal: front-left three-quarter face. Vertical: raised chin is readable."},
+    {"direction":"337.5","expected":"up-left","observed":"up-left","verdict":"pass","reason":"Horizontal: slight image-left bias remains in a near-front pose. Vertical: head and gaze are raised, closing smoothly into 000."}
+  ],
+  "accepted_warnings": [
+    "Blind vertical ambiguity at 067.5, 112.5, and 292.5 is intermediate-only; labeled normal-size review confirms the intended quadrants with no reversal.",
+    "Continuity metrics flag 157.5→180, 270→292.5, and 337.5→000, but independent normal-size loop review found no conspicuous snap, scale pop, identity change, or reversal."
+  ]
+}

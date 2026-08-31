@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 16 キャラクター</code>
-  <code>✦ 17 エディション</code>
+  <code>✦ 17 キャラクター</code>
+  <code>✦ 18 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -60,7 +60,8 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   </tr>
   <tr>
     <td align="center" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 神里綾華 · Kamisato Ayaka 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
-    <td align="center" colspan="2"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
+    <td align="center" width="33%"><img src="work/blade/2d/qa/previews/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 · Blade 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
+    <td align="center" width="33%"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
   </tr>
 </table>
 
@@ -90,6 +91,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | ホタル · Firefly | 2D | `firefly` | [ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 | ケビン・カスラナ · Kevin Kaslana | 2D | `kevin-kaslana` | [ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | 神里綾華 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| 刃 · Blade | 2D | `blade` | [ZIP](blade/blade-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

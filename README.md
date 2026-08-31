@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 16 CHARACTERS</code>
-  <code>✦ 17 EDITIONS</code>
+  <code>✦ 17 CHARACTERS</code>
+  <code>✦ 18 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -138,7 +138,13 @@
       <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
       <sub>◇ Poised grace · Frost-blue elegance · Quiet warmth ◇</sub>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 17 · STELLARON HUNTER ✦</sub><br>
+      <img src="work/blade/2d/qa/previews/idle.gif" width="155" alt="Blade idle animation"><br>
+      <b>「 Blade · 刃 」</b><br>
+      <sub>◇ Restrained fury · Crimson edge · Deathless resolve ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -557,6 +563,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🗡️ FILE 17 — Blade · 刃</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/blade/2d/qa/previews/idle.gif" width="190" alt="Blade idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> deep navy hair fading into violet-red tips, a single crimson eye beneath the fringe, a long black coat with gold fastenings and red lining, silver armor accents, bandaged hands, and a dark sword carried at his side<br>
+      <b>Mood:</b> quiet and dangerous, with every restrained movement hinting at a will that refuses to break<br><br>
+      <a href="blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/blade/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/blade/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -582,6 +609,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Firefly · 流萤 | 2D | `firefly` | [Download ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 | Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Download ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Download ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| Blade · 刃 | 2D | `blade` | [Download ZIP](blade/blade-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

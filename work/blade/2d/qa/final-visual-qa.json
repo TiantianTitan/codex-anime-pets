@@ -1,0 +1,10 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine state loops and 16 look poses retain Blade's identity and clean sprite presentation, with correct state actions and no visible crop, overlap, guide, effect, or motion defects.",
+  "review_warnings": [
+    "Accepted blind vertical ambiguity at 067.5, 112.5, and 292.5.",
+    "Accepted continuity metric flags at 157.5→180, 270→292.5, and 337.5→000 because the normal-size loop has no conspicuous snap, pop, or reversal."
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

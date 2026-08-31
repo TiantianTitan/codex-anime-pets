@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 16 PERSONNAGES</code>
-  <code>✦ 17 ÉDITIONS</code>
+  <code>✦ 17 PERSONNAGES</code>
+  <code>✦ 18 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -138,7 +138,13 @@
       <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
       <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 17 · CHASSEUR DE STELLARON ✦</sub><br>
+      <img src="work/blade/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Blade"><br>
+      <b>「 Blade · 刃 」</b><br>
+      <sub>◇ Fureur contenue · Lame écarlate · Volonté immortelle ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -557,6 +563,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🗡️ DOSSIER 17 — Blade · 刃</b>　<sub>Chasseur de Stellaron / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/blade/2d/qa/previews/idle.gif" width="190" alt="Blade au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure bleu nuit aux pointes violet-rouge, œil cramoisi sous la frange, manteau noir à attaches dorées et doublure rouge, accents d'armure argentés, mains bandées et lame sombre portée au côté<br>
+      <b>Tempérament :</b> silencieux et dangereux, chaque geste contenu laissant deviner une volonté qui refuse de céder<br><br>
+      <a href="blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/blade/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/blade/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -582,6 +609,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Firefly · 流萤 | 2D | `firefly` | [Télécharger](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 | Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Télécharger](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Télécharger](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| Blade · 刃 | 2D | `blade` | [Télécharger](blade/blade-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 
