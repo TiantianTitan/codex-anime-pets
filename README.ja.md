@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 14 キャラクター</code>
-  <code>✦ 15 エディション</code>
+  <code>✦ 15 キャラクター</code>
+  <code>✦ 16 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -56,7 +56,10 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   <tr>
     <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア · Kaeya 」</b></td>
     <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル · Firefly 」</b></td>
-    <td align="center"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b></td>
+    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン・カスラナ · Kevin Kaslana 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
   </tr>
 </table>
 
@@ -84,6 +87,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | ロビン · Robin | 2D | `robin` | [ZIP](robin/robin-2d-codex-pet-v2.zip) |
 | ガイア · Kaeya | 2D | `kaeya` | [ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
 | ホタル · Firefly | 2D | `firefly` | [ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
+| ケビン・カスラナ · Kevin Kaslana | 2D | `kevin-kaslana` | [ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

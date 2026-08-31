@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "order": ["180", "202.5", "225", "247.5", "270", "292.5", "315", "337.5"],
+  "directions": [
+    {"degree": "180", "verdict": "pass", "observed": "centered downward gaze", "reason": "low blue irises, lowered lids, and a clearly tucked chin"},
+    {"degree": "202.5", "verdict": "pass", "observed": "down-left", "reason": "downward gaze is retained while the face begins moving image-left"},
+    {"degree": "225", "verdict": "pass", "observed": "down-left", "reason": "nose and face turn progress image-left with eyes still low"},
+    {"degree": "247.5", "verdict": "pass", "observed": "down-left", "reason": "strong left turn retains the downward eye and chin cue"},
+    {"degree": "270", "verdict": "pass", "observed": "screen-left", "reason": "nose, visible eye, and face opening are image-left while rear hair remains image-right"},
+    {"degree": "292.5", "verdict": "pass", "observed": "up-left", "reason": "left profile remains stable as the irises and chin begin lifting"},
+    {"degree": "315", "verdict": "pass", "observed": "up-left", "reason": "lifted eyes and chin advance evenly without horizontal reversal"},
+    {"degree": "337.5", "verdict": "pass", "observed": "near-up with residual left turn", "reason": "high irises and raised chin remain subtly image-left, one coherent step before 000 up"}
+  ],
+  "continuity": {"verdict": "pass", "reason": "The row continues from 157.5 through down into left and up-left with stable scale, boots, costume asymmetry, and no visible snap or reversal."},
+  "reviewed_by": "parent"
+}

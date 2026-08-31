@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"degree":"000","expected":"up","observed":"up","verdict":"pass","horizontal":"centered","vertical":"high irises and raised chin","reason":"Unmistakable upward gaze."},
+    {"degree":"022.5","expected":"up-right","observed":"up-right","verdict":"pass","horizontal":"rightward eye and head bias","vertical":"high gaze","reason":"Both diagonal axes are visible."},
+    {"degree":"045","expected":"up-right","observed":"up-right","verdict":"pass","horizontal":"right three-quarter face","vertical":"upward gaze","reason":"Clear up-right diagonal."},
+    {"degree":"067.5","expected":"up-right","observed":"up-right","verdict":"pass","horizontal":"strong right profile bias","vertical":"upward gaze retained","reason":"Advances naturally toward 090."},
+    {"degree":"090","expected":"right","observed":"screen-right","verdict":"pass","horizontal":"nose and face point image-right","vertical":"level","reason":"Unmistakable screen-right cardinal."},
+    {"degree":"112.5","expected":"down-right","observed":"down-right","verdict":"pass","horizontal":"right profile","vertical":"lowered gaze","reason":"Both diagonal axes are visible."},
+    {"degree":"135","expected":"down-right","observed":"down-right","verdict":"pass","horizontal":"right face turn","vertical":"downward head pitch","reason":"Clear down-right diagonal."},
+    {"degree":"157.5","expected":"down-right","observed":"down-right","verdict":"pass","horizontal":"residual right profile","vertical":"low eyes and tucked chin","reason":"Coherent step before 180."},
+    {"degree":"180","expected":"down","observed":"down","verdict":"pass","horizontal":"centered","vertical":"bowed head and low gaze","reason":"Unmistakable downward cardinal."},
+    {"degree":"202.5","expected":"down-left","observed":"down-left","verdict":"warning","horizontal":"subtle left three-quarter turn","vertical":"clear downward gaze","reason":"Left cue is subtle in blind isolation but correct in the labeled ordered loop."},
+    {"degree":"225","expected":"down-left","observed":"down-left","verdict":"pass","horizontal":"left three-quarter face","vertical":"downward head pitch","reason":"Clear down-left diagonal."},
+    {"degree":"247.5","expected":"down-left","observed":"down-left","verdict":"pass","horizontal":"strong left profile bias","vertical":"lowered gaze","reason":"Advances naturally toward 270."},
+    {"degree":"270","expected":"left","observed":"screen-left","verdict":"pass","horizontal":"nose and face point image-left","vertical":"level","reason":"Unmistakable screen-left cardinal."},
+    {"degree":"292.5","expected":"up-left","observed":"up-left","verdict":"warning","horizontal":"clear left profile bias","vertical":"subtle upward eye and chin cue","reason":"Up cue is subtle in blind isolation but correct in the labeled ordered loop."},
+    {"degree":"315","expected":"up-left","observed":"up-left","verdict":"pass","horizontal":"left three-quarter face","vertical":"upward gaze","reason":"Clear up-left diagonal."},
+    {"degree":"337.5","expected":"up-left","observed":"up-left","verdict":"pass","horizontal":"residual leftward eye and head bias","vertical":"high gaze and raised chin","reason":"Coherent step before 000."}
+  ],
+  "review_warnings": [
+    "202.5 horizontal cue is subtle in the unlabeled normal-size pair but reads left-down in the labeled ordered loop.",
+    "292.5 vertical cue is subtle in the unlabeled normal-size pair but reads left-up in the labeled ordered loop."
+  ]
+}

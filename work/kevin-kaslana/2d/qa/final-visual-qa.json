@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All 11 rows preserve Kevin's chibi identity, costume asymmetry, clear state actions, stable motion, and clean final transparency.",
+  "repair_rows": [],
+  "review_warnings": [
+    "Blind 202.5 horizontal ambiguity accepted from labeled loop evidence.",
+    "Blind 292.5 vertical ambiguity accepted from labeled loop evidence.",
+    "Continuity alpha-hole candidates are visible negative spaces between coat tails, legs, and boots.",
+    "Continuity metric outliers show no visible snap or scale pop."
+  ]
+}

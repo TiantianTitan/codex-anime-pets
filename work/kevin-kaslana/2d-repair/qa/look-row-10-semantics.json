@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "directions": [
+    {"degree":"180","verdict":"pass","observed":"down","reason":"broad frontal-down pose continues from 157.5"},
+    {"degree":"202.5","verdict":"pass","observed":"down-left","reason":"slight image-left turn with low gaze"},
+    {"degree":"225","verdict":"pass","observed":"down-left","reason":"left three-quarter face with low gaze"},
+    {"degree":"247.5","verdict":"pass","observed":"down-left","reason":"strong left turn retains the downward axis"},
+    {"degree":"270","verdict":"pass","observed":"screen-left","reason":"unmistakable left profile"},
+    {"degree":"292.5","verdict":"pass","observed":"up-left","reason":"strong left turn with rising gaze"},
+    {"degree":"315","verdict":"pass","observed":"up-left","reason":"left three-quarter face opens toward frontal while looking up"},
+    {"degree":"337.5","verdict":"pass","observed":"up-left","reason":"broad near-frontal up-left pose one small step before 000"}
+  ],
+  "continuity": {"verdict":"pass","reason":"Both row boundaries are visually continuous; repaired area ratios are 1.036 at 157.5 to 180 and 1.002 at 337.5 to 000."},
+  "reviewed_by": "parent and focused-boundary-qa"
+}

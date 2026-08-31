@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 14 个角色</code>
-  <code>✦ 15 个版本</code>
+  <code>✦ 15 个角色</code>
+  <code>✦ 16 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -119,12 +119,20 @@
       <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ 新角色登场 · 角色 14 · 星核猎手 ✦</sub><br>
+      <sub>✦ 角色 14 · 星核猎手 ✦</sub><br>
       <img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="流萤的待机动画"><br>
       <b>「 流萤 · Firefly 」</b><br>
       <sub>◇ 温柔希望 · 安静勇气 · 自己选择的人生 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 15 · 世界蛇领袖 ✦</sub><br>
+      <img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"><br>
+      <b>「 凯文·卡斯兰娜 · Kevin Kaslana 」</b><br>
+      <sub>◇ 冰冷决意 · 沉静力量 · 意志不移 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -501,6 +509,27 @@
 
 </details>
 
+<details open>
+<summary><b>🧊 档案 15 — 凯文·卡斯兰娜 · Kevin Kaslana</b>　<sub>世界蛇领袖 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="190" alt="凯文·卡斯兰娜待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志特征：</b>凌乱白色短发、冰蓝眼眸、带金色滚边与扣件的黑白高领长战斗服、胸口与腰间的青色光点，以及不对称的黑色装甲袖<br>
+      <b>气质：</b>沉静而极具压迫感，仿佛庞大的力量始终被收束在近乎静止的从容之中<br><br>
+      <a href="kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -524,6 +553,7 @@
 | 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](robin/robin-2d-codex-pet-v2.zip) |
 | 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
 | 流萤 · Firefly | 2D | `firefly` | [下载 ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
+| 凯文·卡斯兰娜 · Kevin Kaslana | 2D | `kevin-kaslana` | [下载 ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

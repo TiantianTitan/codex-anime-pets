@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "order": ["000", "022.5", "045", "067.5", "090", "112.5", "135", "157.5"],
+  "directions": [
+    {"degree": "000", "verdict": "pass", "observed": "centered upward gaze", "reason": "high blue irises and subtly raised chin"},
+    {"degree": "022.5", "verdict": "pass", "observed": "up-right", "reason": "high eyes begin shifting image-right while the face remains near front"},
+    {"degree": "045", "verdict": "pass", "observed": "up-right", "reason": "eyes and nose advance image-right with a restrained head turn"},
+    {"degree": "067.5", "verdict": "pass", "observed": "up-right", "reason": "stronger image-right face turn preserves the elevated gaze"},
+    {"degree": "090", "verdict": "pass", "observed": "screen-right", "reason": "nose, pupils, and face opening are image-right while rear hair remains image-left"},
+    {"degree": "112.5", "verdict": "pass", "observed": "down-right", "reason": "screen-right profile is retained as eyes begin lowering"},
+    {"degree": "135", "verdict": "pass", "observed": "down-right", "reason": "lowered eyes and chin progress evenly with no horizontal reversal"},
+    {"degree": "157.5", "verdict": "pass", "observed": "near-down with residual right turn", "reason": "chin is tucked and gaze is low, one coherent step before 180 down"}
+  ],
+  "continuity": {"verdict": "pass", "reason": "Head turn, eye height, body scale, boot baseline, and costume asymmetry progress without visible snap, reversal, or registration jump."},
+  "reviewed_by": "parent"
+}

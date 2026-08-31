@@ -1,0 +1,705 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-31T07:52:11.435895+00:00",
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d",
+  "primary_generation_skill": "$imagegen",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-04.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-05.jpeg",
+          "role": "pet reference"
+        }
+      ],
+      "output_path": "decoded/base.png",
+      "depends_on": [],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056ce-fd24-7d70-b59b-4390b0b35ee9/exec-5fd2a794-a731-4f82-8ed4-d2e08629000d.png",
+      "completed_at": "2026-08-31T07:55:44Z"
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/idle.md",
+      "retry_prompt_file": "prompts/row-retries/idle.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for idle frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/idle.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d1-73d4-7603-8df4-9ac7f7c0e513/exec-556ae795-17d5-41a2-8516-3a3ae6ae7276.png",
+      "completed_at": "2026-08-31T07:59:54Z"
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-right.md",
+      "retry_prompt_file": "prompts/row-retries/running-right.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for running-right frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running-right.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d1-b68c-7a82-9e2e-01ecfd0ab014/exec-4c10843f-0bef-429d-afb1-4b7db3d7c23a.png",
+      "completed_at": "2026-08-31T07:58:20Z"
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-left.md",
+      "retry_prompt_file": "prompts/row-retries/running-left.md",
+      "input_images": [
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "approved rightward gait family; create the physical opposite direction without flipping costume asymmetry"
+        }
+      ],
+      "output_path": "decoded/running-left.png",
+      "depends_on": [
+        "base",
+        "running-right"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base",
+        "running-right"
+      ],
+      "derivation_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "mirror_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d3-d8e7-7251-b076-52d68a49529d/exec-8373125b-a8e1-41d3-aea0-e8f37898a4d7.png",
+      "completed_at": "2026-08-31T08:01:01Z"
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waving.md",
+      "retry_prompt_file": "prompts/row-retries/waving.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for waving frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waving.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d5-4c57-7033-9c02-7e362a9701ab/exec-1769fc8a-faa4-4396-9231-577f8fe38ab4.png",
+      "completed_at": "2026-08-31T08:01:52Z"
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/jumping.md",
+      "retry_prompt_file": "prompts/row-retries/jumping.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for jumping frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/jumping.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d5-9206-7072-8490-5fcdcf2a4a81/exec-e78f3f9a-7e01-47a4-94da-cd6587697913.png",
+      "completed_at": "2026-08-31T08:02:26Z"
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/failed.md",
+      "retry_prompt_file": "prompts/row-retries/failed.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for failed frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/failed.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d6-46e1-74f3-ae96-a2fe47107f88/exec-3c0eeddf-5ef6-4300-9746-6b7259ff3409.png",
+      "completed_at": "2026-08-31T08:03:01Z"
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waiting.md",
+      "retry_prompt_file": "prompts/row-retries/waiting.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for waiting frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waiting.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d7-0bb4-78f3-aa33-5abd73bf8d44/exec-36239781-0a03-4d78-b0e2-70bd91e058e9.png",
+      "completed_at": "2026-08-31T08:03:45Z"
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running.md",
+      "retry_prompt_file": "prompts/row-retries/running.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for running frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d7-8ae8-7850-b73f-10abca2fb5a1/exec-26268f43-5dbd-4f1c-a4c7-90ed6b1a45af.png",
+      "completed_at": "2026-08-31T08:04:28Z"
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/review.md",
+      "retry_prompt_file": "prompts/row-retries/review.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "primary full-body costume reference"
+        },
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for review frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/review.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056d8-1735-7ab2-a2ef-faf1532ab938/exec-c9a84087-7ae7-4429-b791-ee80a6b81fcc.png",
+      "completed_at": "2026-08-31T08:04:56Z"
+    },
+    {
+      "id": "look-cardinals",
+      "kind": "look-cardinal-strip",
+      "status": "complete",
+      "prompt_file": "prompts/look-cardinals.md",
+      "repair_prompt_files": {
+        "000": "prompts/look-anchor-repairs/000.md",
+        "090": "prompts/look-anchor-repairs/090.md",
+        "180": "prompts/look-anchor-repairs/180.md",
+        "270": "prompts/look-anchor-repairs/270.md"
+      },
+      "input_images": [
+        {
+          "path": "references/reference-02.jpeg",
+          "role": "front full-body costume and asymmetry reference"
+        },
+        {
+          "path": "references/reference-03.webp",
+          "role": "face, hair, eye, armor and upper-body detail reference"
+        },
+        {
+          "path": "references/layout-guides/look-cardinals.png",
+          "role": "layout guide for four cardinal slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        }
+      ],
+      "output_path": "decoded/look-cardinals.png",
+      "extracted_output_paths": [
+        "decoded/look-anchors/000.png",
+        "decoded/look-anchors/090.png",
+        "decoded/look-anchors/180.png",
+        "decoded/look-anchors/270.png"
+      ],
+      "approved_strip_path": "decoded/look-anchors-approved.png",
+      "depends_on": [
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "000",
+        "090",
+        "180",
+        "270"
+      ],
+      "packaging_eligible": false,
+      "parallelizable_after": [
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "cardinal directions require grounded pet-specific generation"
+      },
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056dc-4517-7591-8297-02b1347e2279/exec-df490ba4-37b1-4be7-a027-805312acfe56.png",
+      "completed_at": "2026-08-31T08:11:05Z"
+    },
+    {
+      "id": "look-row-9",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/look-row-9.md",
+      "retry_prompt_file": "prompts/row-retries/look-row-9.md",
+      "input_images": [
+        {
+          "path": "references/layout-guides/look-row-9.png",
+          "role": "layout guide for 8 direction slots; spacing only"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row scale and style"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved 000 up, 090 right, 180 down, 270 left cardinal basis"
+        },
+        {
+          "path": "qa/failed-look-directions-reference.png",
+          "role": "previous failed loop; use only to eliminate the documented boundary snaps, never copy it"
+        }
+      ],
+      "output_path": "decoded/look-row-9.png",
+      "depends_on": [
+        "look-cardinals"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "parallelizable_after": [
+        "look-cardinals"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "look directions require grounded pet-specific generation"
+      },
+      "coherent_synthesis_required": true,
+      "individual_cell_packaging_allowed": false,
+      "packaging_eligible": true,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056fb-638a-7472-9e42-f355f7cccd8f/exec-0d4067e3-4a5e-4961-b959-dd312f71c99c.png",
+      "completed_at": "2026-08-31T08:44:16Z"
+    },
+    {
+      "id": "look-row-10",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/look-row-10.md",
+      "retry_prompt_file": "prompts/row-retries/look-row-10.md",
+      "input_images": [
+        {
+          "path": "references/layout-guides/look-row-10.png",
+          "role": "layout guide for 8 direction slots; spacing only"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row scale and style"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved 000 up, 090 right, 180 down, 270 left cardinal basis"
+        },
+        {
+          "path": "decoded/look-row-9.png",
+          "role": "new repaired first-half loop; authoritative for 157.5 to 180 continuity"
+        }
+      ],
+      "output_path": "decoded/look-row-10.png",
+      "depends_on": [
+        "look-cardinals",
+        "look-row-9"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "parallelizable_after": [
+        "look-cardinals",
+        "look-row-9"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "look directions require grounded pet-specific generation"
+      },
+      "coherent_synthesis_required": true,
+      "individual_cell_packaging_allowed": false,
+      "packaging_eligible": true,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a056fe-1023-7373-91dc-a35e8b35a35a/exec-9594e643-a543-4e65-b338-0d5754af5ead.png",
+      "completed_at": "2026-08-31T08:51:57Z"
+    }
+  ]
+}

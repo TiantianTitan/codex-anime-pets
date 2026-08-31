@@ -1,0 +1,11 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": [
+    "horizontal-7 A: 202.5 horizontal axis ambiguous by blind majority",
+    "vertical-7 B: 292.5 vertical axis ambiguous by blind majority"
+  ],
+  "labeled_evidence": "202.5 visibly retains a subtle image-left three-quarter turn with a clear downward gaze; 292.5 visibly retains a screen-left profile while the eyes and chin begin lifting.",
+  "continuity_evidence": "The labeled clockwise loop advances continuously through both poses with no wrong quadrant, reversal, registration jump, identity change, or scale pop.",
+  "reviewed_by": "parent and independent-final-visual-qa"
+}

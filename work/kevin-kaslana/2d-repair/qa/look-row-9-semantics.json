@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "directions": [
+    {"degree":"000","verdict":"pass","observed":"up","reason":"front-facing high gaze and raised chin"},
+    {"degree":"022.5","verdict":"pass","observed":"up-right","reason":"slight image-right turn with high gaze"},
+    {"degree":"045","verdict":"pass","observed":"up-right","reason":"right three-quarter face with high gaze"},
+    {"degree":"067.5","verdict":"pass","observed":"up-right","reason":"strong right turn retains the upward axis"},
+    {"degree":"090","verdict":"pass","observed":"screen-right","reason":"unmistakable right profile"},
+    {"degree":"112.5","verdict":"pass","observed":"down-right","reason":"strong right turn with lowering gaze"},
+    {"degree":"135","verdict":"pass","observed":"down-right","reason":"right three-quarter face opens toward frontal while looking down"},
+    {"degree":"157.5","verdict":"pass","observed":"down-right","reason":"broad near-frontal down-right pose one small step before 180"}
+  ],
+  "continuity": {"verdict":"pass","reason":"The face opens progressively after 090; 157.5 has a broad near-frontal silhouette suitable for the 180 boundary."},
+  "reviewed_by": "parent and focused-boundary-qa"
+}

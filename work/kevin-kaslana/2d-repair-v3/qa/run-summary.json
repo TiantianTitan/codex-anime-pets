@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3",
+  "spritesheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/final/spritesheet-extended.webp",
+  "validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/final/validation-extended.json",
+  "chroma_despill": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/look-directions.png",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/look-continuity.json",
+  "review": "/home/ubuntu23/Bureau/codex-anime-pets/work/kevin-kaslana/2d-repair-v3/qa/review.json",
+  "delivery": "/home/ubuntu23/Bureau/codex-anime-pets/kevin kaslana/kevin-kaslana-2d",
+  "zip": "/home/ubuntu23/Bureau/codex-anime-pets/kevin kaslana/kevin-kaslana-2d-codex-pet-v2.zip",
+  "installed_package": "/home/ubuntu23/.codex/pets/kevin-kaslana",
+  "spritesheet_sha256": "6bfdbd5afe04bcdb281dda4409d8fbfa3e95459e53709b0ca6a1c5db95e22038",
+  "direction_verdicts": {"pass": 12, "warning": 4, "fail": 0},
+  "blind_cardinal_gates": {"horizontal": "pass", "vertical": "pass"}
+}
