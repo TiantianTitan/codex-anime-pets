@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction":"000","expected":"up","observed":"up","verdict":"pass","reason":"H: near-front and centered. V: raised chin, high turquoise irises, opened upper eyelids, and visible neck clearly read upward."},
+    {"direction":"022.5","expected":"up-right","observed":"up-right","verdict":"pass","reason":"H: face begins turning screen-right. V: raised chin and high eye line remain clearly above neutral."},
+    {"direction":"045","expected":"up-right","observed":"up-right","verdict":"pass","reason":"H: clear screen-right three-quarter face. V: lifted chin and high gaze preserve the upward axis."},
+    {"direction":"067.5","expected":"up-right","observed":"up-right","verdict":"warning","reason":"H: rightward facial plane is clear. V: labeled loop shows retained upward pitch, though blind normal-size vertical classification was ambiguous."},
+    {"direction":"090","expected":"right","observed":"right","verdict":"pass","reason":"H: unmistakable screen-right profile with image-right nose and visible eye plus far-side occlusion. V: neutral pitch as required."},
+    {"direction":"112.5","expected":"down-right","observed":"down-right","verdict":"warning","reason":"H: screen-right profile remains clear. V: chin and eye line begin lowering in the labeled loop, though blind vertical classification was ambiguous."},
+    {"direction":"135","expected":"down-right","observed":"down-right","verdict":"warning","reason":"H: labeled normal-size ordered loop retains the screen-right turn, while blind horizontal majority conflicted. V: lowered chin and eye line clearly read downward."},
+    {"direction":"157.5","expected":"down-right","observed":"down-right","verdict":"pass","reason":"H: rightward facial plane remains visible. V: strong bow, low eyes, and heavier bang occlusion read clearly down."},
+    {"direction":"180","expected":"down","observed":"down","verdict":"pass","reason":"H: near-front and centered. V: unmistakable tucked-chin bow with low eyes and lowered face."},
+    {"direction":"202.5","expected":"down-left","observed":"down-left","verdict":"pass","reason":"H: face begins turning screen-left. V: bowed head and lowered eye line remain clear."},
+    {"direction":"225","expected":"down-left","observed":"down-left","verdict":"warning","reason":"H: screen-left three-quarter face is clear. V: labeled loop preserves the down pitch, though blind vertical classification was ambiguous."},
+    {"direction":"247.5","expected":"down-left","observed":"down-left","verdict":"warning","reason":"H: leftward facial plane approaches profile. V: labeled progression remains below neutral, though blind vertical classification was ambiguous."},
+    {"direction":"270","expected":"left","observed":"left","verdict":"pass","reason":"H: unmistakable screen-left profile with image-left nose and visible eye plus occlusion opposite 090. V: neutral pitch as required."},
+    {"direction":"292.5","expected":"up-left","observed":"up-left","verdict":"warning","reason":"H: screen-left profile remains clear. V: labeled loop begins lifting the eye line and chin, though blind vertical classification was ambiguous."},
+    {"direction":"315","expected":"up-left","observed":"up-left","verdict":"warning","reason":"H: clear screen-left three-quarter face. V: labeled loop shows a raised gaze, though blind vertical classification was ambiguous."},
+    {"direction":"337.5","expected":"up-left","observed":"up-left","verdict":"pass","reason":"H: leftward facial plane remains visible. V: high gaze and raised chin lead naturally into 000 up."}
+  ],
+  "review_warnings": [
+    "Blind intermediate warning: 135 was classified screen-left by majority on the horizontal-only challenge; labeled normal-size loop confirms the intended down-right quadrant without reversal.",
+    "Blind vertical ambiguity at 067.5, 112.5, 225, 247.5, 292.5, and 315 is accepted as intermediate-only uncertainty; labeled loop context preserves the intended axes.",
+    "Continuity metrics flagged 135->157.5 and 337.5->000; final visual QA must confirm whether either transition contains a conspicuous snap or scale pop.",
+    "The 000 alpha-hole metric corresponds to intentional negative space between the separated legs and skirt panels, confirmed on a high-contrast alpha inspection."
+  ]
+}

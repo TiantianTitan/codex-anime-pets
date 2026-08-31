@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 17 PERSONNAGES</code>
-  <code>✦ 18 ÉDITIONS</code>
+  <code>✦ 18 PERSONNAGES</code>
+  <code>✦ 19 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -34,19 +34,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 01 · ADEPTE ✦</sub><br>
-      <img src="work/xiao/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Xiao"><br>
+      <img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Xiao"><br>
       <b>「 Xiao · 魈 」</b><br>
       <sub>◇ Vigilant · Discret · Adepte ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 02 · VIDYADHARA ✦</sub><br>
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"><br>
+      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"><br>
       <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
       <sub>◇ Élégance froide · Présence paisible ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 03 · GÉNÉRAL ✦</sub><br>
-      <img src="work/jing-yuan/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Jing Yuan"><br>
+      <img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jing Yuan"><br>
       <b>「 Jing Yuan · 景元 」</b><br>
       <sub>◇ Assurance tranquille · Regard attentif ◇</sub>
     </td>
@@ -54,19 +54,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 04 · CONSEILLER ✦</sub><br>
-      <img src="work/zhongli/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Zhongli"><br>
+      <img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Zhongli"><br>
       <b>「 Zhongli · 钟离 」</b><br>
       <sub>◇ Calme · Fiable · Digne ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 05 · PILIER DU SERPENT ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente d'Obanai"><br>
+      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Obanai"><br>
       <b>「 Obanai · 伊黑小芭内 」</b><br>
       <sub>◇ Réservé · Alerte · Avec Kaburamaru ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 06 · VALKYRIE ✦</sub><br>
-      <img src="work/raiden-mei/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Raiden Mei"><br>
+      <img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Raiden Mei"><br>
       <b>「 Raiden Mei · 雷电芽衣 」</b><br>
       <sub>◇ Posée · Curieuse · Prête ◇</sub>
     </td>
@@ -74,19 +74,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 07 · GUUJI ✦</sub><br>
-      <img src="work/yae-miko/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Yae Miko"><br>
+      <img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Yae Miko"><br>
       <b>「 Yae Miko · 八重神子 」</b><br>
       <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 08 · ÉTOILE DE FONTAINE ✦</sub><br>
-      <img src="work/furina/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Furina"><br>
+      <img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Furina"><br>
       <b>「 Furina · 芙宁娜 」</b><br>
       <sub>◇ Charme théâtral · Élégance aquatique · Malice lumineuse ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 09 · RANGER GALACTIQUE ✦</sub><br>
-      <img src="work/acheron/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente d'Acheron"><br>
+      <img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Acheron"><br>
       <b>「 Acheron · 黄泉 」</b><br>
       <sub>◇ Calme insondable · Orage violet · Regard lointain ◇</sub>
     </td>
@@ -94,19 +94,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 10 · THIRÈNE REQUIN ✦</sub><br>
-      <img src="work/ellen-joe/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente d'Ellen Joe"><br>
+      <img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Ellen Joe"><br>
       <b>「 Ellen Joe · 艾莲·乔 」</b><br>
       <sub>◇ Sang-froid · Regard somnolent · Répartie vive ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 11 · 77E DIRECTRICE ✦</sub><br>
-      <img src="work/hu-tao/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Hu Tao"><br>
+      <img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hu Tao"><br>
       <b>「 Hu Tao · 胡桃 」</b><br>
       <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 12 · CHANTEUSE HALOVIENNE ✦</sub><br>
-      <img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Robin"><br>
+      <img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Robin"><br>
       <b>「 Robin · 知更鸟 」</b><br>
       <sub>◇ Grâce sereine · Voix céleste · Élégance ailée ◇</sub>
     </td>
@@ -114,19 +114,19 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Kaeya"><br>
+      <img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaeya"><br>
       <b>「 Kaeya · 凯亚 」</b><br>
       <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ PERSONNAGE 14 · CHASSEUSE DE STELLARON ✦</sub><br>
-      <img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Firefly"><br>
+      <img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Firefly"><br>
       <b>「 Firefly · 流萤 」</b><br>
       <sub>◇ Douce espérance · Courage tranquille · Une vie à elle ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 15 · SERPENT MONDIAL ✦</sub><br>
-      <img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"><br>
+      <img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"><br>
       <b>「 Kevin Kaslana · 凯文·卡斯兰娜 」</b><br>
       <sub>◇ Résolution glaciale · Puissance silencieuse · Volonté inébranlable ◇</sub>
     </td>
@@ -134,17 +134,25 @@
   <tr>
     <td align="center" width="33%">
       <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 16 · PRINCESSE SHIRASAGI ✦</sub><br>
-      <img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"><br>
+      <img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"><br>
       <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
       <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
     </td>
     <td align="center" width="33%">
       <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 17 · CHASSEUR DE STELLARON ✦</sub><br>
-      <img src="work/blade/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Blade"><br>
+      <img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Blade"><br>
       <b>「 Blade · 刃 」</b><br>
       <sub>◇ Fureur contenue · Lame écarlate · Volonté immortelle ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 18 · SOCIÉTÉ DES GÉNIES ✦</sub><br>
+      <img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ruan Mei"><br>
+      <b>「 Ruan Mei · 阮·梅 」</b><br>
+      <sub>◇ Intuition sereine · Grâce florale · Mélodie discrète ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -221,7 +229,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/xiao/2d/qa/previews/idle.gif" width="190" alt="Xiao au repos"></td>
+    <td align="center"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="190" alt="Xiao au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux dorés, marque violette sur le front, cheveux aux pointes turquoise, tatouage d’adepte, ornements de jade et masque Yaksha<br>
@@ -242,7 +250,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="190" alt="Dan Heng Imbibitor Lunae au repos"></td>
+    <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="190" alt="Dan Heng Imbibitor Lunae au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> cornes de dragon cyan, oreilles pointues, longue chevelure sombre, manches blanches et ornements de jade et d’or<br>
@@ -263,7 +271,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/jing-yuan/2d/qa/previews/idle.gif" width="190" alt="Jing Yuan au repos"></td>
+    <td align="center"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="190" alt="Jing Yuan au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure argentée, yeux dorés, ruban rouge et uniforme noir, blanc, rouge et or<br>
@@ -284,7 +292,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/zhongli/2d/qa/previews/idle.gif" width="190" alt="Zhongli au repos"></td>
+    <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="190" alt="Zhongli au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux ambrés, long manteau raffiné et palette chaleureuse de brun et d’or<br>
@@ -305,7 +313,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/obanai/2d/qa/previews/idle.gif" width="190" alt="Obanai au repos"></td>
+    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="Obanai au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux vairons, haori rayé et Kaburamaru blotti contre lui<br>
@@ -332,8 +340,8 @@ Un même personnage, deux interprétations visuelles :
     <th align="center">Figurine chibi au rendu 3D</th>
   </tr>
   <tr>
-    <td align="center"><img src="work/raiden-mei/2d/qa/previews/idle.gif" width="220" alt="Raiden Mei 2D au repos"></td>
-    <td align="center"><img src="work/raiden-mei/3d/qa/previews/idle.gif" width="220" alt="Raiden Mei au rendu 3D au repos"></td>
+    <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="220" alt="Raiden Mei 2D au repos"></td>
+    <td align="center"><img src="work/raiden-mei/3d/qa/previews-final/idle.gif" width="220" alt="Raiden Mei au rendu 3D au repos"></td>
   </tr>
   <tr>
     <td align="center">
@@ -360,7 +368,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/yae-miko/2d/qa/previews/idle.gif" width="190" alt="Yae Miko au repos"></td>
+    <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="190" alt="Yae Miko au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure rose sakura, yeux violets, ornements dorés, boucles serties et tenue de prêtresse rouge, blanche, noire et violette<br>
@@ -381,7 +389,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/furina/2d/qa/previews/idle.gif" width="190" alt="Furina au repos"></td>
+    <td align="center"><img src="work/furina/2d/qa/previews-final/idle.gif" width="190" alt="Furina au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> carré blanc aux reflets cyan, yeux bleus en forme de goutte, chapeau bleu nuit en forme de couronne, volants blancs, gemmes bleues et tenue de Fontaine rehaussée d'or<br>
@@ -402,7 +410,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/acheron/2d/qa/previews/idle.gif" width="190" alt="Acheron au repos"></td>
+    <td align="center"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="190" alt="Acheron au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure indigo-violet profond, mèche asymétrique voilant un œil, regard violet-magenta, tenue blanche, lilas et noire aux motifs de flamme, et katana gardé près du corps<br>
@@ -423,7 +431,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/ellen-joe/2d/qa/previews/idle.gif" width="190" alt="Ellen Joe au repos"></td>
+    <td align="center"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="190" alt="Ellen Joe au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> carré noir anthracite aux mèches intérieures rouges, regard rouge assoupi, coiffe de domestique ornée de pointes, uniforme industriel noir et blanc, et imposante queue de requin attachée au corps<br>
@@ -444,7 +452,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/hu-tao/2d/qa/previews/idle.gif" width="190" alt="Hu Tao au repos"></td>
+    <td align="center"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="190" alt="Hu Tao au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux cramoisis en forme de fleur, grand chapeau sombre orné d'un talisman et d'une branche de prunier, longue chevelure brun foncé aux pointes rouge assourdi, et uniforme brun-noir, rouge et or<br>
@@ -465,7 +473,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/robin/2d/qa/previews/idle.gif" width="190" alt="Robin au repos"></td>
+    <td align="center"><img src="work/robin/2d/qa/previews-final/idle.gif" width="190" alt="Robin au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure bleu argent et chignon en rosette, yeux turquoise dégradés de violet, auréole dorée aux pointes florales, petites ailes blanches aux oreilles, et robe de scène superposant blanc, indigo profond, lilas et or<br>
@@ -486,7 +494,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="190" alt="Kaeya au repos"></td>
+    <td align="center"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="190" alt="Kaeya au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure bleu nuit balayée d'une mèche froide, peau hâlée, œil visible lilas pâle, cache-œil noir, mantelet de fourrure blanche, cape fendue bleu-violet et uniforme sombre rehaussé d'or<br>
@@ -507,7 +515,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="190" alt="Firefly au repos"></td>
+    <td align="center"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="190" alt="Firefly au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure argent nacré aux pointes gris froid, yeux roses et turquoise, serre-tête noir, ornement en feuille menthe et nœud bleu nuit, courte cape charbon et or, nœud de poitrine orange doré, robe menthe à plusieurs pans et bottines blanches aux accents turquoise<br>
@@ -528,7 +536,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="190" alt="Kevin Kaslana au repos"></td>
+    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="190" alt="Kevin Kaslana au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> cheveux blancs ébouriffés, yeux bleu glace, long manteau de combat noir et blanc à col haut souligné d'or et de boucles, accents cyan au torse et à la ceinture, et manche blindée asymétrique<br>
@@ -549,7 +557,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="190" alt="Kamisato Ayaka au repos"></td>
+    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="190" alt="Kamisato Ayaka au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> haute queue-de-cheval bleu glace et frange droite, ornement noir et or en forme de couronne, rubans roses, yeux bleu clair, robe-kimono bleu nuit aux pans bleu pâle, bordures dorées, motifs de sakura, cordon magenta, panneaux d'armure sur la jupe et éventail pliant élégant<br>
@@ -570,7 +578,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/blade/2d/qa/previews/idle.gif" width="190" alt="Blade au repos"></td>
+    <td align="center"><img src="work/blade/2d/qa/previews-final/idle.gif" width="190" alt="Blade au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure bleu nuit aux pointes violet-rouge, œil cramoisi sous la frange, manteau noir à attaches dorées et doublure rouge, accents d'armure argentés, mains bandées et lame sombre portée au côté<br>
@@ -578,6 +586,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <a href="blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
       <a href="work/blade/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
       <a href="work/blade/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>🌿 DOSSIER 18 — Ruan Mei · 阮·梅</b>　<sub>Savante de la Société des Génies / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="190" alt="Ruan Mei au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure brun profond, yeux turquoise, ornement floral d'or et de perles, étole blanche, robe bleu sarcelle et bleu nuit aux fins motifs dorés, fleur rose à la taille, longs gants et ruan bleu richement décoré<br>
+      <b>Tempérament :</b> sereine et attentive, avec l'assurance paisible d'une chercheuse et la grâce mesurée d'une musicienne<br><br>
+      <a href="Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/ruan-mei/2d/qa/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -610,6 +639,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Télécharger](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Télécharger](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | Blade · 刃 | 2D | `blade` | [Télécharger](blade/blade-2d-codex-pet-v2.zip) |
+| Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Télécharger](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

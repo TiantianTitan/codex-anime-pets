@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All 11 rows preserve Ruan Mei's identity, ornate teal-and-white costume, floral hair ornament, silhouette, proportions, and attached props, with complete state-appropriate motion and no visible forbidden effects or structural defects.",
+  "review_warnings": [
+    "Intermediate blind conflict at 135 and vertical ambiguity at 067.5, 112.5, 225, 247.5, 292.5, and 315 are accepted because the labeled clockwise loop remains coherent.",
+    "Continuity metrics flagged 135->157.5 and 337.5->000, but normal-size review shows no conspicuous snap or scale pop.",
+    "The 000 alpha-hole is intentional negative space between skirt panels and legs, not a body seam."
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

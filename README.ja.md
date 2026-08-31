@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 17 キャラクター</code>
-  <code>✦ 18 エディション</code>
+  <code>✦ 18 キャラクター</code>
+  <code>✦ 19 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -34,34 +34,37 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><img src="work/xiao/2d/qa/previews/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 · Xiao 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒・飲月 · Imbibitor Lunae 」</b><br><sub>◇ 冷静 · 優雅 · 静かな存在感 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/jing-yuan/2d/qa/previews/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 · Jing Yuan 」</b><br><sub>◇ 余裕 · 自信 · 鋭い眼差し ◇</sub></td>
+    <td align="center" width="33%"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 · Xiao 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>
+    <td align="center" width="33%"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒・飲月 · Imbibitor Lunae 」</b><br><sub>◇ 冷静 · 優雅 · 静かな存在感 ◇</sub></td>
+    <td align="center" width="33%"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 · Jing Yuan 」</b><br><sub>◇ 余裕 · 自信 · 鋭い眼差し ◇</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/zhongli/2d/qa/previews/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 · Zhongli 」</b></td>
-    <td align="center"><img src="work/obanai/2d/qa/previews/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 · Obanai 」</b></td>
-    <td align="center"><img src="work/raiden-mei/2d/qa/previews/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 · Raiden Mei 」</b></td>
+    <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 · Zhongli 」</b></td>
+    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 · Obanai 」</b></td>
+    <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 · Raiden Mei 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/yae-miko/2d/qa/previews/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 · Yae Miko 」</b></td>
-    <td align="center"><img src="work/furina/2d/qa/previews/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ · Furina 」</b></td>
-    <td align="center"><img src="work/acheron/2d/qa/previews/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 · Acheron 」</b></td>
+    <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 · Yae Miko 」</b></td>
+    <td align="center"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ · Furina 」</b></td>
+    <td align="center"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 · Acheron 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/ellen-joe/2d/qa/previews/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー · Ellen Joe 」</b></td>
-    <td align="center"><img src="work/hu-tao/2d/qa/previews/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 · Hu Tao 」</b></td>
-    <td align="center"><img src="work/robin/2d/qa/previews/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン · Robin 」</b></td>
+    <td align="center"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー · Ellen Joe 」</b></td>
+    <td align="center"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 · Hu Tao 」</b></td>
+    <td align="center"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン · Robin 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/kaeya/2d/qa/previews/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア · Kaeya 」</b></td>
-    <td align="center"><img src="work/firefly/2d/qa/previews/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル · Firefly 」</b></td>
-    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン・カスラナ · Kevin Kaslana 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
+    <td align="center"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア · Kaeya 」</b></td>
+    <td align="center"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル · Firefly 」</b></td>
+    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン・カスラナ · Kevin Kaslana 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 神里綾華 · Kamisato Ayaka 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
-    <td align="center" width="33%"><img src="work/blade/2d/qa/previews/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 · Blade 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
-    <td align="center" width="33%"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
+    <td align="center" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 神里綾華 · Kamisato Ayaka 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
+    <td align="center" width="33%"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 · Blade 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
+    <td align="center" width="33%"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ · Ruan Mei 」</b><br><sub>◇ 静かな知性 · 花の気品 · 穏やかな旋律 ◇</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
   </tr>
 </table>
 
@@ -92,6 +95,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | ケビン・カスラナ · Kevin Kaslana | 2D | `kevin-kaslana` | [ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | 神里綾華 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | 刃 · Blade | 2D | `blade` | [ZIP](blade/blade-2d-codex-pet-v2.zip) |
+| ルアン・メェイ · Ruan Mei | 2D | `ruan-mei` | [ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 
