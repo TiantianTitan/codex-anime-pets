@@ -6,6 +6,7 @@
   <a href="README.md"><kbd><b>English</b></kbd></a>
   <a href="README.fr.md"><kbd>Français</kbd></a>
   <a href="README.zh-CN.md"><kbd>中文</kbd></a>
+  <a href="README.ja.md"><kbd>日本語</kbd></a>
 </p>
 
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
@@ -638,4 +639,4 @@ If this collection made you smile, leave a Star, make a Fork, or bring the next 
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
 
-<sub>Character rights remain with their respective owners. This repository is an unofficial technical and animation showcase; please confirm the licensing scope of any character and source material before public distribution or commercial use.</sub>
+<sub>The original copyrights of miHoYo characters and related source material belong to miHoYo. Rights to characters from other works remain with their respective owners. This repository is an unofficial technical and animation showcase; please confirm the applicable licensing scope before public distribution or commercial use.</sub>

@@ -6,6 +6,7 @@
   <a href="README.md"><kbd>English</kbd></a>
   <a href="README.fr.md"><kbd>Français</kbd></a>
   <a href="README.zh-CN.md"><kbd><b>中文</b></kbd></a>
+  <a href="README.ja.md"><kbd>日本語</kbd></a>
 </p>
 
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
@@ -638,4 +639,4 @@ Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，�
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
 
-<sub>角色形象的相关权利归各自权利人所有。本仓库是非官方的技术与动画展示；公开分发或商业使用前，请确认角色与原始素材的授权范围。</sub>
+<sub>本项目所使用的米哈游角色及相关原始素材，其原版权归属于米哈游；其他作品角色的相关权利归各自权利人所有。本仓库是非官方的技术与动画展示；公开分发或商业使用前，请确认角色与原始素材的授权范围。</sub>
