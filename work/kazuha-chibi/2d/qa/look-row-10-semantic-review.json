@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "row": 10,
+  "reviewed_at_original_and_normal_pet_size": true,
+  "registration": "pass",
+  "continuity": "pass-with-reviewed-boundary-warnings",
+  "directions": [
+    {"degree": "180", "verdict": "pass", "horizontal": "face centered", "vertical": "irises low and chin tucked"},
+    {"degree": "202.5", "verdict": "pass", "horizontal": "nose and pupils begin moving image-left", "vertical": "downward gaze remains clear"},
+    {"degree": "225", "verdict": "pass", "horizontal": "nose stays image-left of head center", "vertical": "down-left diagonal remains visible"},
+    {"degree": "247.5", "verdict": "pass", "horizontal": "left-facing geometry advances without reversal", "vertical": "downward component softens toward level"},
+    {"degree": "270", "verdict": "pass", "horizontal": "unmistakable screen-left profile with rear hair image-right", "vertical": "level cardinal pose"},
+    {"degree": "292.5", "verdict": "pass", "horizontal": "nose and pupil remain image-left", "vertical": "eyes and chin begin rising"},
+    {"degree": "315", "verdict": "pass", "horizontal": "screen-left family is preserved", "vertical": "up-left angle advances smoothly"},
+    {"degree": "337.5", "verdict": "pass", "horizontal": "slight image-left gaze remains", "vertical": "raised eyes and chin land one step before 000"}
+  ],
+  "notes": "Original-resolution review confirms no horizontal reversal in slots 2-8. Feet and baseline stay stable; sword and scarf remain attached; costume-side identity is preserved. Continuity metrics flag the two cross-generation boundaries, but normal-size review shows natural silhouette-width change without a visible snap or broken attachment."
+}

@@ -1,0 +1,22 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows and final previews preserve Kazuha's clean chibi identity, costume, sword and scarf with coherent motion; accepted minor intermediate-direction and continuity warnings show no visible reversal or snap.",
+  "direction_semantics": [
+    {"degree":"000","verdict":"pass","reason":"centered face; high irises and raised chin"},
+    {"degree":"022.5","verdict":"pass","reason":"eyes right; raised gaze"},
+    {"degree":"045","verdict":"pass","reason":"head and pupils right; upward eye line"},
+    {"degree":"067.5","verdict":"pass","reason":"stronger right turn; upward cue"},
+    {"degree":"090","verdict":"pass","reason":"nose and pupils decisively screen-right; level eye line"},
+    {"degree":"112.5","verdict":"pass","reason":"right profile; irises and chin descend"},
+    {"degree":"135","verdict":"pass","reason":"right-facing face; downward angle"},
+    {"degree":"157.5","verdict":"warning","reason":"right profile and low gaze correct; accepted continuity-metric outlier into 180"},
+    {"degree":"180","verdict":"pass","reason":"centered face; low irises and tucked chin"},
+    {"degree":"202.5","verdict":"warning","reason":"nose and pupils screen-left and gaze down; accepted blind horizontal ambiguity"},
+    {"degree":"225","verdict":"warning","reason":"leftward head and down cue correct; accepted blind horizontal ambiguity"},
+    {"degree":"247.5","verdict":"pass","reason":"face screen-left; downward cue easing"},
+    {"degree":"270","verdict":"pass","reason":"unmistakable screen-left profile; level eye line"},
+    {"degree":"292.5","verdict":"pass","reason":"nose and pupil screen-left; eyes and chin rise"},
+    {"degree":"315","verdict":"pass","reason":"left-facing family; upward angle"},
+    {"degree":"337.5","verdict":"warning","reason":"left gaze and raised gaze correct; accepted continuity-metric outlier into 000"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "reviewed_at_normal_pet_size": true,
+  "ordered_loop": "pass",
+  "cardinals": "pass",
+  "directions": [
+    {"degree":"000","expected":"up","verdict":"pass","horizontal_evidence":"face centered","vertical_evidence":"high irises and raised chin"},
+    {"degree":"022.5","expected":"up-right","verdict":"pass","horizontal_evidence":"eyes begin image-right","vertical_evidence":"raised gaze retained"},
+    {"degree":"045","expected":"up-right","verdict":"pass","horizontal_evidence":"head and pupils advance image-right","vertical_evidence":"upward eye line visible"},
+    {"degree":"067.5","expected":"up-right","verdict":"pass","horizontal_evidence":"stronger image-right turn","vertical_evidence":"upward component softens evenly"},
+    {"degree":"090","expected":"right","verdict":"pass","horizontal_evidence":"nose and pupils decisively image-right of head center","vertical_evidence":"level eye line"},
+    {"degree":"112.5","expected":"down-right","verdict":"pass","horizontal_evidence":"right profile retained","vertical_evidence":"irises and chin begin descending"},
+    {"degree":"135","expected":"down-right","verdict":"pass","horizontal_evidence":"rightward face remains clear","vertical_evidence":"downward angle increases"},
+    {"degree":"157.5","expected":"down-right","verdict":"pass","horizontal_evidence":"narrow right-facing profile retained","vertical_evidence":"low gaze lands before 180"},
+    {"degree":"180","expected":"down","verdict":"pass","horizontal_evidence":"face centered","vertical_evidence":"low irises and tucked chin"},
+    {"degree":"202.5","expected":"down-left","verdict":"pass","horizontal_evidence":"nose and pupils begin image-left","vertical_evidence":"downward gaze retained"},
+    {"degree":"225","expected":"down-left","verdict":"pass","horizontal_evidence":"leftward head turn advances","vertical_evidence":"down-left diagonal visible"},
+    {"degree":"247.5","expected":"down-left","verdict":"pass","horizontal_evidence":"face remains image-left","vertical_evidence":"downward cue softens toward level"},
+    {"degree":"270","expected":"left","verdict":"pass","horizontal_evidence":"unmistakable image-left profile, rear hair image-right","vertical_evidence":"level eye line"},
+    {"degree":"292.5","expected":"up-left","verdict":"pass","horizontal_evidence":"nose and pupil stay image-left","vertical_evidence":"eyes and chin begin rising"},
+    {"degree":"315","expected":"up-left","verdict":"pass","horizontal_evidence":"left-facing family preserved","vertical_evidence":"up-left angle advances"},
+    {"degree":"337.5","expected":"up-left","verdict":"pass","horizontal_evidence":"slight image-left gaze retained","vertical_evidence":"raised gaze lands before 000"}
+  ],
+  "continuity_resolution": {
+    "verdict":"warning-accepted",
+    "warnings":["157.5->180 silhouette and center metric","337.5->000 silhouette and center metric"],
+    "evidence":"Normal-size ordered review shows the expected narrow three-quarter to centered silhouette change. Feet and baseline remain anchored, attachments remain connected, and neither boundary reverses direction or visibly snaps."
+  }
+}

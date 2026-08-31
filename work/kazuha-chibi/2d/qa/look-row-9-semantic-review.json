@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "row": 9,
+  "reviewed_at_normal_pet_size": true,
+  "registration_scale": 0.40824742268041236,
+  "registration": "pass",
+  "continuity": "pass",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "horizontal": "centered", "vertical": "raised irises and chin clearly read up"},
+    {"degree": "022.5", "verdict": "pass", "horizontal": "eyes begin moving screen-right", "vertical": "upward gaze remains visible"},
+    {"degree": "045", "verdict": "pass", "horizontal": "small screen-right head and eye turn", "vertical": "up-right diagonal is readable"},
+    {"degree": "067.5", "verdict": "pass", "horizontal": "head turn advances toward screen-right", "vertical": "upward component softens evenly"},
+    {"degree": "090", "verdict": "pass", "horizontal": "nose and pupils cross decisively to screen-right", "vertical": "level cardinal pose"},
+    {"degree": "112.5", "verdict": "pass", "horizontal": "screen-right profile is retained", "vertical": "eyes and chin begin descending"},
+    {"degree": "135", "verdict": "pass", "horizontal": "screen-right head orientation remains clear", "vertical": "downward eye and chin angle increase"},
+    {"degree": "157.5", "verdict": "pass", "horizontal": "rightward cue remains present", "vertical": "down-right pose lands one step before 180"}
+  ],
+  "notes": "Feet, lower body, scale, and baseline remain stable. The sword and scarf stay attached, costume sides do not swap, and no adjacent pose reverses or snaps."
+}

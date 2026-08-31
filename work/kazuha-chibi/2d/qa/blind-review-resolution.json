@@ -1,0 +1,12 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "horizontal-6 B: 225 classified ambiguous by strict majority",
+    "horizontal-7 A: 202.5 classified ambiguous by strict majority"
+  ],
+  "labeled_evidence": "At labeled normal size, both 202.5 and 225 keep the nose and pupil on the image-left side of the head center while retaining the downward eye and chin angle. They occupy the intended down-left quadrant.",
+  "continuity_evidence": "The ordered 180 -> 202.5 -> 225 -> 247.5 -> 270 sequence advances smoothly toward the unmistakable left cardinal with no reversal, side swap, attachment break, or registration jump.",
+  "cardinal_status": "000 up, 090 right, 180 down, and 270 left all passed the hard blind gates."
+}
