@@ -176,34 +176,34 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="Firefly saute"><br>
+      <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="Firefly saute"><br>
       <b>Saut</b><br>
       <sub>Un petit bond plein d'espoir, les cheveux argentés soulevés au sommet</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="Zhongli examine le résultat"><br>
+      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="Zhongli examine le résultat"><br>
       <b>Vérification</b><br>
       <sub>Un regard posé sur le travail terminé</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/obanai/2d/qa/previews/waving.gif" width="170" alt="Obanai salue"><br>
+      <img src="work/obanai/2d/qa/previews-final/waving.gif" width="170" alt="Obanai salue"><br>
       <b>Salut</b><br>
       <sub>Un geste discret, fidèle à son tempérament</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="170" alt="Raiden Mei se concentre sur une tâche"><br>
+      <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="Raiden Mei se concentre sur une tâche"><br>
       <b>Travail</b><br>
       <sub>Une concentration calme pendant l’exécution</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/xiao/2d/qa/previews/waiting.gif" width="170" alt="Xiao attend une réponse"><br>
+      <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="Xiao attend une réponse"><br>
       <b>Attente</b><br>
       <sub>Une pause attentive avant votre prochaine décision</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/robin/2d/qa/previews/waving.gif" width="170" alt="Robin salue"><br>
+      <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="Robin salue"><br>
       <b>Salut</b><br>
       <sub>Un accueil doux et élégant, digne de la scène</sub>
     </td>

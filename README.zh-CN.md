@@ -176,34 +176,34 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="流萤跳跃"><br>
+      <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="流萤跳跃"><br>
       <b>跳跃</b><br>
       <sub>满怀希望地轻轻跃起，银发也在最高处扬起</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="钟离审阅结果"><br>
+      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="钟离审阅结果"><br>
       <b>审阅</b><br>
       <sub>从容地看看刚刚完成的工作</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/obanai/2d/qa/previews/waving.gif" width="170" alt="伊黑小芭内挥手"><br>
+      <img src="work/obanai/2d/qa/previews-final/waving.gif" width="170" alt="伊黑小芭内挥手"><br>
       <b>挥手</b><br>
       <sub>一个很轻、却很符合他性格的招呼</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="170" alt="雷电芽衣专注工作"><br>
+      <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="雷电芽衣专注工作"><br>
       <b>处理中</b><br>
       <sub>任务进行时的安静专注</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/xiao/2d/qa/previews/waiting.gif" width="170" alt="魈等待输入"><br>
+      <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="魈等待输入"><br>
       <b>等待</b><br>
       <sub>认真等你做出下一步决定</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/robin/2d/qa/previews/waving.gif" width="170" alt="知更鸟挥手"><br>
+      <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="知更鸟挥手"><br>
       <b>招呼</b><br>
       <sub>轻盈而从容的舞台式问候</sub>
     </td>

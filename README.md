@@ -176,34 +176,34 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="work/firefly/2d/qa/previews/jumping.gif" width="170" alt="Firefly jumping"><br>
+      <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="Firefly jumping"><br>
       <b>Jumping</b><br>
       <sub>A hopeful little leap, with silver hair lifting at the apex</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews/review.gif" width="170" alt="Zhongli reviewing"><br>
+      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="Zhongli reviewing"><br>
       <b>Reviewing</b><br>
       <sub>A thoughtful look at the finished work</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/obanai/2d/qa/previews/waving.gif" width="170" alt="Obanai waving"><br>
+      <img src="work/obanai/2d/qa/previews-final/waving.gif" width="170" alt="Obanai waving"><br>
       <b>Waving</b><br>
       <sub>A small greeting that suits his reserved nature</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="work/raiden-mei/2d/qa/previews/running.gif" width="170" alt="Raiden Mei focusing on a task"><br>
+      <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="Raiden Mei focusing on a task"><br>
       <b>Working</b><br>
       <sub>Quiet concentration while a task is underway</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/xiao/2d/qa/previews/waiting.gif" width="170" alt="Xiao waiting for input"><br>
+      <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="Xiao waiting for input"><br>
       <b>Waiting</b><br>
       <sub>An attentive pause for your next decision</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/robin/2d/qa/previews/waving.gif" width="170" alt="Robin waving"><br>
+      <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="Robin waving"><br>
       <b>Greeting</b><br>
       <sub>A gentle, stage-ready welcome with feather-light poise</sub>
     </td>
