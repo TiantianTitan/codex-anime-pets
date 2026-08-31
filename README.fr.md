@@ -6,13 +6,14 @@
   <a href="README.md"><kbd>English</kbd></a>
   <a href="README.fr.md"><kbd><b>Français</b></kbd></a>
   <a href="README.zh-CN.md"><kbd>中文</kbd></a>
+  <a href="README.ja.md"><kbd>日本語</kbd></a>
 </p>
 
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 15 PERSONNAGES</code>
-  <code>✦ 16 ÉDITIONS</code>
+  <code>✦ 16 PERSONNAGES</code>
+  <code>✦ 17 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -131,7 +132,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 16 · PRINCESSE SHIRASAGI ✦</sub><br>
+      <img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"><br>
+      <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
+      <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
+    </td>
+    <td align="center" colspan="2">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -529,6 +536,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🌸 DOSSIER 16 — Kamisato Ayaka · 神里绫华</b>　<sub>Princesse Shirasagi / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="190" alt="Kamisato Ayaka au repos"></td>
+    <td>
+      <b>Style :</b> sticker anime 2D<br>
+      <b>Détails emblématiques :</b> haute queue-de-cheval bleu glace et frange droite, ornement noir et or en forme de couronne, rubans roses, yeux bleu clair, robe-kimono bleu nuit aux pans bleu pâle, bordures dorées, motifs de sakura, cordon magenta, panneaux d'armure sur la jupe et éventail pliant élégant<br>
+      <b>Tempérament :</b> digne et gracieuse, une élégance givrée adoucie par une chaleur discrète dans chaque geste<br><br>
+      <a href="Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -553,6 +581,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kaeya · 凯亚 | 2D | `kaeya` | [Télécharger](kaeya/kaeya-2d-codex-pet-v2.zip) |
 | Firefly · 流萤 | 2D | `firefly` | [Télécharger](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 | Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Télécharger](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Télécharger](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

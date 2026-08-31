@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 15 CHARACTERS</code>
-  <code>✦ 16 EDITIONS</code>
+  <code>✦ 16 CHARACTERS</code>
+  <code>✦ 17 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -132,7 +132,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 16 · SHIRASAGI HIMEGIMI ✦</sub><br>
+      <img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="155" alt="Kamisato Ayaka idle animation"><br>
+      <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
+      <sub>◇ Poised grace · Frost-blue elegance · Quiet warmth ◇</sub>
+    </td>
+    <td align="center" colspan="2">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -530,6 +536,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🌸 FILE 16 — Kamisato Ayaka · 神里绫华</b>　<sub>Shirasagi Himegimi / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews/idle.gif" width="190" alt="Kamisato Ayaka idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> pale icy-blue high ponytail and straight bangs, black-and-gold crown ornament, pink side ribbons, clear blue eyes, navy kimono dress with pale-blue layers, gold trim, sakura motifs, magenta waist cord, armored skirt panels, and an elegant folding fan<br>
+      <b>Mood:</b> poised and gracious, carrying frost-blue refinement with a gentle warmth in every small gesture<br><br>
+      <a href="Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -554,6 +581,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Kaeya · 凯亚 | 2D | `kaeya` | [Download ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
 | Firefly · 流萤 | 2D | `firefly` | [Download ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
 | Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Download ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Download ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

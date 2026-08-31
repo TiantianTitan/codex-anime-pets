@@ -1,0 +1,9 @@
+{
+  "worker_verdict": "fail",
+  "qa_note": "Direction loop, deterministic structure and animation actions pass; worker objected only to the optional fan being absent from the failed and waiting loops.",
+  "direction_semantics": "qa/direction-semantics.json",
+  "review_warnings": ["Accepted blind vertical-axis uncertainty for 202.5 and 337.5 after labeled ordered-loop review.","Continuity center-shift warnings are caused by ponytail and skirt-panel turn and are not visible snaps at pet size.","Transparent-hole warnings correspond to natural spaces between legs, skirt panels, hair, arms and fan."],
+  "repair_rows": ["failed", "waiting"],
+  "repair_note": "Worker requested a fan in every frame; parent reviewed this against the authoritative pet request, which explicitly makes the fan state-dependent.",
+  "resolution": "qa/blind-review-resolution.json"
+}

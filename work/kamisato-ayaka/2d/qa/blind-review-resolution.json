@@ -1,0 +1,9 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": ["Final visual QA worker expected the folding fan to remain visible in every failed and waiting frame."],
+  "evidence": ["pet_request.json states that the folding fan is used when the animation state naturally calls for it, so it is not an always-visible anatomical or identity feature.","The failed and waiting rows preserve Ayaka's face, hair, ornament orientation, costume, palette, proportions and baseline.","Neither row contains a floating, detached, cropped, swapped-side or broken fan; the hands and silhouettes remain coherent for their state semantics.","All nine row-level inspections, the combined standard review, v2 atlas validation, direction cardinals and blind hard gates pass."],
+  "direction_warning_resolution": ["202.5 and 337.5 are intermediate directions only; labeled normal-size review confirms their intended quadrants and the ordered loop does not reverse.","000, 090, 180 and 270 all pass the blind hard gates."],
+  "result": "Packaging may continue without regenerating rows."
+}

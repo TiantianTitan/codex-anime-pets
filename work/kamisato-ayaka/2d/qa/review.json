@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13851,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13780,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13796,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13684,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13693,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13701,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16635,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16529,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 420
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16701,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 460
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16605,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 449
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17689,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 516
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16609,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 416
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16401,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 408
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17628,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 478
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15263,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 478
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15420,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 485
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15809,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 532
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14774,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 441
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16261,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 495
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14201,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 462
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14544,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 436
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15141,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 506
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14036,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14018,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14236,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13954,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15887,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18122,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16354,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15274,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16103,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13774,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13584,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13561,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13494,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13589,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13483,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 86
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13474,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13410,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13504,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13410,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13470,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13367,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13301,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13374,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14904,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14582,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14819,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14301,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14604,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14652,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13895,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13786,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13716,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13645,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13850,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 59
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/kamisato-ayaka/2d/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13910,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        }
+      ]
+    }
+  ]
+}
