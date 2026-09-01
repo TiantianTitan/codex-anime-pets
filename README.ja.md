@@ -42,8 +42,8 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   </tr>
   <tr>
     <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 · Zhongli 」</b></td>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 · Obanai 」</b></td>
     <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 · Raiden Mei 」</b></td>
+    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 · Obanai 」</b></td>
   </tr>
   <tr>
     <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 · Yae Miko 」</b></td>
@@ -87,29 +87,29 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
-| 魈 · Xiao | 2D | `xiao` | [ZIP](xiao/xiao-2d.zip) |
-| 丹恒・飲月 · Dan Heng Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [ZIP](danheng/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| 景元 · Jing Yuan | 2D | `jing-yuan` | [ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
-| 鍾離 · Zhongli | 2D | `zhongli` | [ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
-| 伊黒小芭内 · Obanai | 2D | `obanai` | [ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
-| 雷電芽衣 · Raiden Mei | 2D | `raiden-mei` | [ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
-| 八重神子 · Yae Miko | 2D | `yae-miko` | [ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
-| フリーナ · Furina | 2D | `furina` | [ZIP](furina/furina-2d-codex-pet-v2.zip) |
-| 黄泉 · Acheron | 2D | `acheron` | [ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
-| エレン・ジョー · Ellen Joe | 2D | `ellen-joe` | [ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
-| 胡桃 · Hu Tao | 2D | `hu-tao` | [ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
-| ロビン · Robin | 2D | `robin` | [ZIP](robin/robin-2d-codex-pet-v2.zip) |
-| ガイア · Kaeya | 2D | `kaeya` | [ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
-| ホタル · Firefly | 2D | `firefly` | [ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
-| ケビン・カスラナ · Kevin Kaslana | 2D | `kevin-kaslana` | [ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
-| 神里綾華 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
-| 刃 · Blade | 2D | `blade` | [ZIP](blade/blade-2d-codex-pet-v2.zip) |
-| ルアン・メェイ · Ruan Mei | 2D | `ruan-mei` | [ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
-| 楓原万葉 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
-| 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
-| アベンチュリン · Aventurine | 2D | `aventurine` | [ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
-| 甘雨 · Ganyu | 2D | `ganyu` | [ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
-| サンデー · Sunday | 2D | `sunday` | [ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
+| 魈 · Xiao | 2D | `xiao` | [ZIP](genshin-impact/xiao/xiao-2d.zip) |
+| 丹恒・飲月 · Dan Heng Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| 景元 · Jing Yuan | 2D | `jing-yuan` | [ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| 鍾離 · Zhongli | 2D | `zhongli` | [ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
+| 雷電芽衣 · Raiden Mei | 2D | `raiden-mei` | [ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| 伊黒小芭内 · Obanai | 2D | `obanai` | [ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| 八重神子 · Yae Miko | 2D | `yae-miko` | [ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
+| フリーナ · Furina | 2D | `furina` | [ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
+| 黄泉 · Acheron | 2D | `acheron` | [ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| エレン・ジョー · Ellen Joe | 2D | `ellen-joe` | [ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| 胡桃 · Hu Tao | 2D | `hu-tao` | [ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
+| ロビン · Robin | 2D | `robin` | [ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| ガイア · Kaeya | 2D | `kaeya` | [ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
+| ホタル · Firefly | 2D | `firefly` | [ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
+| ケビン・カスラナ · Kevin Kaslana | 2D | `kevin-kaslana` | [ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| 神里綾華 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| 刃 · Blade | 2D | `blade` | [ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
+| ルアン・メェイ · Ruan Mei | 2D | `ruan-mei` | [ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
+| 楓原万葉 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
+| アベンチュリン · Aventurine | 2D | `aventurine` | [ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
+| 甘雨 · Ganyu | 2D | `ganyu` | [ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| サンデー · Sunday | 2D | `sunday` | [ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 
@@ -129,7 +129,7 @@ README.md
 
 ```bash
 mkdir -p ~/.codex/pets/xiao
-unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
+unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ```
 
 展開後のディレクトリ構成：

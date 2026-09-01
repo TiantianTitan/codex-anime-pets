@@ -61,16 +61,16 @@
       <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ 角色 05 · 蛇柱 ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"><br>
-      <b>「 伊黑小芭内 · Obanai 」</b><br>
-      <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 06 · 女武神 ✦</sub><br>
+      <sub>✦ 角色 05 · 女武神 ✦</sub><br>
       <img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷电芽衣的待机动画"><br>
       <b>「 雷电芽衣 · Raiden Mei 」</b><br>
       <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 角色 06 · 蛇柱 ✦</sub><br>
+      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"><br>
+      <b>「 伊黑小芭内 · Obanai 」</b><br>
+      <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
   </tr>
   <tr>
@@ -220,9 +220,9 @@
       <sub>从容地看看刚刚完成的工作</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/obanai/2d/qa/previews-final/waving.gif" width="170" alt="伊黑小芭内挥手"><br>
+      <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="星期日挥手"><br>
       <b>挥手</b><br>
-      <sub>一个很轻、却很符合他性格的招呼</sub>
+      <sub>星期日带着安静而庄重的从容，轻轻向你致意</sub>
     </td>
   </tr>
   <tr>
@@ -268,7 +268,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>金色眼睛、额心紫菱、青色发梢、仙人纹身、玉饰与夜叉面具<br>
       <b>气质：</b>警觉而克制，缩小到桌面尺寸后又多了一点柔和<br><br>
-      <a href="xiao/xiao-2d.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/xiao/xiao-2d.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/xiao/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/xiao/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -289,7 +289,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>青色龙角、尖耳、青黑长发、白色披袖与玉金饰件<br>
       <b>气质：</b>清冷、克制，带着不张扬的优雅<br><br>
-      <a href="hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -310,7 +310,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>银白长发、金色眼睛、红色发带与黑白红金制服<br>
       <b>气质：</b>从容、敏锐，总有一种游刃有余的松弛感<br><br>
-      <a href="jingyuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/jing-yuan/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -331,7 +331,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>琥珀色眼睛、古典长衣与温暖的棕金配色<br>
       <b>气质：</b>沉稳、可靠，自然而然带着端庄感<br><br>
-      <a href="zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/zhongli/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/zhongli/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -341,28 +341,7 @@
 </details>
 
 <details>
-<summary><b>🐍 档案 05 — 伊黑小芭内 · Obanai</b>　<sub>蛇柱 / 2D 版本</sub></summary>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="伊黑小芭内的待机动画"></td>
-    <td>
-      <b>风格：</b>2D 动漫贴纸<br>
-      <b>标志细节：</b>异色瞳、黑白条纹羽织，以及依偎在身旁的镝丸<br>
-      <b>气质：</b>安静、警觉，注意力始终很集中<br><br>
-      <a href="obanai/obanai-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="obanai/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="obanai/qa/direction-qa.png">16 向视线</a>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>⚡ 档案 06 — 雷电芽衣 · Raiden Mei</b>　<sub>女武神 / 两种视觉版本</sub></summary>
+<summary><b>⚡ 档案 05 — 雷电芽衣 · Raiden Mei</b>　<sub>女武神 / 两种视觉版本</sub></summary>
 
 <br>
 
@@ -379,19 +358,40 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-contact-sheet.png">完整动作表</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-look-directions.png">16 向视线</a>
+      <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D</b></a><br>
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-contact-sheet.png">完整动作表</a> ·
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-look-directions.png">16 向视线</a>
     </td>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ 下载 3D 风格</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-contact-sheet.png">完整动作表</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-look-directions.png">16 向视线</a>
+      <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ 下载 3D 风格</b></a><br>
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-contact-sheet.png">完整动作表</a> ·
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
 
 这里的 3D 指视觉上的渲染风格；和其他宠物一样，它最终仍是轻量的 2D 精灵图集。
+
+</details>
+
+<details>
+<summary><b>🐍 档案 06 — 伊黑小芭内 · Obanai</b>　<sub>蛇柱 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="伊黑小芭内的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>异色瞳、黑白条纹羽织，以及依偎在身旁的镝丸<br>
+      <b>气质：</b>安静、警觉，注意力始终很集中<br><br>
+      <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="others/obanai-iguro/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="others/obanai-iguro/qa/direction-qa.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -407,7 +407,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>樱粉色长发、紫色眼眸、金色发冠与宝石耳饰，以及红白黑紫相间的巫女服<br>
       <b>气质：</b>从容优雅、灵动狡黠，总像藏着一点小心思<br><br>
-      <a href="yae%20miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/yae-miko/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -428,7 +428,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>泛着浅青色的白色短发、水滴般的蓝眼睛、冠冕造型的深蓝礼帽、白色荷叶边、蓝宝石与金边枫丹礼服<br>
       <b>气质：</b>从容而富有舞台感，神态里始终闪着灵动俏皮的光<br><br>
-      <a href="furina/furina-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/furina/furina-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/furina/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/furina/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -449,7 +449,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深靛紫色长发、遮住一只眼睛的不对称刘海、紫红色眼眸、白紫黑火焰纹服饰，以及贴身携带的长刀<br>
       <b>气质：</b>沉静难测，像一场尚在远方的风暴<br><br>
-      <a href="acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/acheron/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/acheron/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -470,7 +470,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>带红色内层的炭黑短发、略显困倦的红色眼眸、带金属尖饰的女仆头饰、黑白工业风制服，以及极具辨识度的鲨鱼尾巴<br>
       <b>气质：</b>平时懒洋洋又很从容，真正开工时却利落得让人措手不及<br><br>
-      <a href="ellen%20joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/ellen-joe/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -491,7 +491,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>梅花形赤色眼眸、带符纹与梅枝装饰的深色高帽、由深棕渐向暗红的长发，以及棕黑、赤红与金色交织的制服<br>
       <b>气质：</b>灵动、爱逗人又无所畏惧，安静下来时也藏不住眼里的小小火花<br><br>
-      <a href="hutao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/hu-tao/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -512,7 +512,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>银蓝长发与后方玫瑰发髻、青绿渐紫的眼眸、花枝状金色光环、耳侧白色羽翼，以及白色、深靛紫、浅紫与金色交叠的舞台礼服<br>
       <b>气质：</b>宁静优雅，带着歌者从容而温暖的舞台光芒<br><br>
-      <a href="robin/robin-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/robin/robin-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/robin/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/robin/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -533,7 +533,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>带冷蓝挑染的深海军蓝短发、暖棕肤色、浅紫色眼眸与黑色眼罩、白色毛领、蓝紫双色披风，以及带金色细节的深色骑兵制服<br>
       <b>气质：</b>松弛而自信，谈笑间带着一点狡黠，也始终留意着周围的动静<br><br>
-      <a href="kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/kaeya/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/kaeya/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -554,7 +554,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>末端泛着冷灰的珍珠银长发、粉青渐变眼睛、黑色发带、薄荷色叶形发饰与深蓝蝴蝶结、黑金短披肩、橙金胸饰、薄荷渐变短裙，以及带青色点缀的白色短靴<br>
       <b>气质：</b>温柔而明亮，安静的勇气藏在每个小动作里，也始终向往能够选择自己的道路<br><br>
-      <a href="Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/firefly/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/firefly/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -575,7 +575,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>凌乱白色短发、冰蓝眼眸、带金色滚边与扣件的黑白高领长战斗服、胸口与腰间的青色光点，以及不对称的黑色装甲袖<br>
       <b>气质：</b>沉静而极具压迫感，仿佛庞大的力量始终被收束在近乎静止的从容之中<br><br>
-      <a href="kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 向视线</a>
     </td>
@@ -596,7 +596,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>冰蓝色高马尾与齐刘海、黑金冠形发饰、粉色侧结、清澈蓝眸、深蓝与浅蓝叠成的和服裙装、金色滚边与樱花纹样、品红腰绳、裙侧甲片，以及动作间自然收展的折扇<br>
       <b>气质：</b>端庄而从容，霜蓝色的清雅里始终带着温柔亲近的暖意<br><br>
-      <a href="Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -617,7 +617,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深蓝长发与紫红发梢、刘海下的赤色眼眸、带金色扣饰与暗红内衬的黑色长衣、银色甲片、缠着绷带的双手，以及始终随身的暗色长剑<br>
       <b>气质：</b>寡言而危险，克制的每一次呼吸与动作里，都藏着不肯折断的执念<br><br>
-      <a href="blade/blade-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/blade/blade-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/blade/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/blade/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -638,7 +638,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深棕长发与青色眼眸、金珠花形发饰、白色披帛、带精细金纹的青蓝与深蓝礼服、腰间粉花、深色长手套，以及纹饰华美的蓝色阮琴<br>
       <b>气质：</b>安静而敏锐，既有学者洞察万物的从容，也有乐者收放有度的清雅<br><br>
-      <a href="Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/ruan-mei/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -659,7 +659,7 @@
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>象牙白短发与鲜明红色挑染、赤橙色眼眸、短围巾、黑红米白相间的不对称武士装束、暗红袴裤、草履，以及稳固系在腰侧的入鞘佩刀<br>
       <b>气质：</b>安静而敏锐，既有旅人随风而行的从容，也有剑士不动声色的坚定<br><br>
-      <a href="Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -680,7 +680,7 @@
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>高挑的深色狐耳、藏青黑长发、赤红双眼、青绿白黑制服、缠有红绳的非对称机械臂，以及贴近腰侧收好的佩刀<br>
       <b>气质：</b>安静而专注，有种无需急着出手也足以让人屏息的剑士锋芒<br><br>
-      <a href="Miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/miyabi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/miyabi/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -701,7 +701,7 @@
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>层次分明的浅金短发、洋红到青蓝渐变的眼睛、青色水滴耳饰、白色毛领、黑青金修身外套、白色长裤、黑手套、紫色手链、腰侧饰件与连在衣摆上的蓝色流苏<br>
       <b>气质：</b>从容又带一点玩味，像是早已看清筹码与胜算，仍愿意微笑着等待下一局<br><br>
-      <a href="Aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/aventurine/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/aventurine/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -722,7 +722,7 @@
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>淡霜蓝色层次长发与翘起发梢、黑红相间的麒麟角、紫粉色双眼、颈前金铃、深棕色上衣、不对称白金前片、白蓝渐变袖套、蓝色后摆，以及带双流苏的红色编绳腰饰<br>
       <b>气质：</b>温柔而专注，带着仙家秘书特有的沉静耐心，也总能留意到那些容易被忽略的小细节<br><br>
-      <a href="Ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/ganyu/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/ganyu/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -743,7 +743,7 @@
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>层次分明的浅蓝灰色头发、金色双眼、耳侧羽翼状饰件、带菱形尖角的金色日轮，以及白色、钴蓝、深蓝与金色交织的不对称长外套，配以深色手套、修身长裤和长靴<br>
       <b>气质：</b>平静而一丝不乱，不必提高声音，也能像指挥家一样让周围的节奏自然落入他的掌控<br><br>
-      <a href="Sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/sunday/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/sunday/2d/qa/look-directions.png">16 向视线</a>
     </td>
@@ -760,30 +760,30 @@
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
-| 魈 · Xiao | 2D | `xiao` | [下载 ZIP](xiao/xiao-2d.zip) |
-| 丹恒·饮月 · Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| 景元 · Jing Yuan | 2D | `jing-yuan` | [下载 ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
-| 钟离 · Zhongli | 2D | `zhongli` | [下载 ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
-| 伊黑小芭内 · Obanai | 2D | `obanai` | [下载 ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
-| 雷电芽衣 · Raiden Mei | 2D | `raiden-mei` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
-| 雷电芽衣 · Raiden Mei | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
-| 八重神子 · Yae Miko | 2D | `yae-miko` | [下载 ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
-| 芙宁娜 · Furina | 2D | `furina` | [下载 ZIP](furina/furina-2d-codex-pet-v2.zip) |
-| 黄泉 · Acheron | 2D | `acheron` | [下载 ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
-| 艾莲·乔 · Ellen Joe | 2D | `ellen-joe` | [下载 ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
-| 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
-| 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](robin/robin-2d-codex-pet-v2.zip) |
-| 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
-| 流萤 · Firefly | 2D | `firefly` | [下载 ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
-| 凯文·卡斯兰娜 · Kevin Kaslana | 2D | `kevin-kaslana` | [下载 ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
-| 神里绫华 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [下载 ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
-| 刃 · Blade | 2D | `blade` | [下载 ZIP](blade/blade-2d-codex-pet-v2.zip) |
-| 阮·梅 · Ruan Mei | 2D | `ruan-mei` | [下载 ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
-| 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
-| 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
-| 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
-| 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
-| 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
+| 魈 · Xiao | 2D | `xiao` | [下载 ZIP](genshin-impact/xiao/xiao-2d.zip) |
+| 丹恒·饮月 · Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| 景元 · Jing Yuan | 2D | `jing-yuan` | [下载 ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| 钟离 · Zhongli | 2D | `zhongli` | [下载 ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
+| 雷电芽衣 · Raiden Mei | 2D | `raiden-mei` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| 雷电芽衣 · Raiden Mei | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
+| 伊黑小芭内 · Obanai | 2D | `obanai` | [下载 ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| 八重神子 · Yae Miko | 2D | `yae-miko` | [下载 ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
+| 芙宁娜 · Furina | 2D | `furina` | [下载 ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
+| 黄泉 · Acheron | 2D | `acheron` | [下载 ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| 艾莲·乔 · Ellen Joe | 2D | `ellen-joe` | [下载 ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
+| 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
+| 流萤 · Firefly | 2D | `firefly` | [下载 ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
+| 凯文·卡斯兰娜 · Kevin Kaslana | 2D | `kevin-kaslana` | [下载 ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| 神里绫华 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [下载 ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| 刃 · Blade | 2D | `blade` | [下载 ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
+| 阮·梅 · Ruan Mei | 2D | `ruan-mei` | [下载 ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
+| 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
+| 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
+| 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 
@@ -803,7 +803,7 @@ README.md
 
 ```bash
 mkdir -p ~/.codex/pets/xiao
-unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
+unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ```
 
 解压后的目录如下：

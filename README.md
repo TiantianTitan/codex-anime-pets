@@ -61,16 +61,16 @@
       <sub>◇ Measured · Dependable · Dignified ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ CHARACTER 05 · SERPENT HASHIRA ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Obanai idle animation"><br>
-      <b>「 Obanai · 伊黑小芭内 」</b><br>
-      <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 06 · VALKYRIE ✦</sub><br>
+      <sub>✦ CHARACTER 05 · VALKYRIE ✦</sub><br>
       <img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Mei idle animation"><br>
       <b>「 Raiden Mei · 雷电芽衣 」</b><br>
       <sub>◇ Composed · Curious · Ready ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 06 · SERPENT HASHIRA ✦</sub><br>
+      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Obanai idle animation"><br>
+      <b>「 Obanai · 伊黑小芭内 」</b><br>
+      <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
     </td>
   </tr>
   <tr>
@@ -220,9 +220,9 @@
       <sub>A thoughtful look at the finished work</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/obanai/2d/qa/previews-final/waving.gif" width="170" alt="Obanai waving"><br>
+      <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="Sunday waving"><br>
       <b>Waving</b><br>
-      <sub>A small greeting that suits his reserved nature</sub>
+      <sub>A graceful greeting with Sunday’s quiet, ceremonial poise</sub>
     </td>
   </tr>
   <tr>
@@ -268,7 +268,7 @@
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> golden eyes, purple forehead mark, teal-tipped hair, adeptal tattoo, jade ornaments, and Yaksha mask<br>
       <b>Mood:</b> vigilant and restrained, with a softer presence at desktop scale<br><br>
-      <a href="xiao/xiao-2d.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/xiao/xiao-2d.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/xiao/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/xiao/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -289,7 +289,7 @@
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> cyan dragon horns, pointed ears, long dark hair, white draped sleeves, and jade-gold ornaments<br>
       <b>Mood:</b> cool, composed, and quietly elegant<br><br>
-      <a href="hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -310,7 +310,7 @@
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> long silver hair, golden eyes, red ribbon, and a black-white-red-gold uniform<br>
       <b>Mood:</b> unhurried, observant, and confidently at ease<br><br>
-      <a href="jingyuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/jing-yuan/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -331,7 +331,7 @@
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> amber eyes, formal long coat, and a warm brown-and-gold palette<br>
       <b>Mood:</b> steady, reassuring, and effortlessly dignified<br><br>
-      <a href="zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/zhongli/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/zhongli/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -341,28 +341,7 @@
 </details>
 
 <details>
-<summary><b>🐍 FILE 05 — Obanai · 伊黑小芭内</b>　<sub>Serpent Hashira / 2D edition</sub></summary>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="Obanai idle"></td>
-    <td>
-      <b>Style:</b> 2D anime sticker<br>
-      <b>Signature details:</b> heterochromia, striped haori, and Kaburamaru curled close by<br>
-      <b>Mood:</b> reserved, watchful, and sharply attentive<br><br>
-      <a href="obanai/obanai-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="obanai/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="obanai/qa/direction-qa.png">16 look directions</a>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>⚡ FILE 06 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / two visual editions</sub></summary>
+<summary><b>⚡ FILE 05 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / two visual editions</sub></summary>
 
 <br>
 
@@ -379,19 +358,40 @@ One character, two distinct visual editions:
   </tr>
   <tr>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-contact-sheet.png">Animation sheet</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-2d-look-directions.png">16 look directions</a>
+      <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D</b></a><br>
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-look-directions.png">16 look directions</a>
     </td>
     <td align="center">
-      <a href="Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Download 3D style</b></a><br>
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-contact-sheet.png">Animation sheet</a> ·
-      <a href="Raiden-Mei雷电芽衣/qa/raiden-mei-3d-look-directions.png">16 look directions</a>
+      <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Download 3D style</b></a><br>
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
 
 The 3D edition describes the rendered look. Like every pet here, it is delivered as a lightweight 2D spritesheet.
+
+</details>
+
+<details>
+<summary><b>🐍 FILE 06 — Obanai · 伊黑小芭内</b>　<sub>Serpent Hashira / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="Obanai idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> heterochromia, striped haori, and Kaburamaru curled close by<br>
+      <b>Mood:</b> reserved, watchful, and sharply attentive<br><br>
+      <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="others/obanai-iguro/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="others/obanai-iguro/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -407,7 +407,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> flowing sakura-pink hair, violet eyes, golden crown ornaments, gemstone earrings, and a red-white-black-purple shrine-maiden outfit<br>
       <b>Mood:</b> poised, playful, and quietly mischievous<br><br>
-      <a href="yae%20miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/yae-miko/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -428,7 +428,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> white bob with pale-cyan accents, teardrop-blue eyes, a crown-like navy hat, white ruffles, blue gems, and gold-trimmed Fontaine attire<br>
       <b>Mood:</b> poised and theatrical, with an irrepressibly playful spark<br><br>
-      <a href="furina/furina-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/furina/furina-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/furina/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/furina/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -449,7 +449,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> deep indigo-violet hair, an asymmetrical fringe veiling one eye, a violet-magenta gaze, a white-lilac-black outfit with flame motifs, and a katana kept close at her side<br>
       <b>Mood:</b> quiet and enigmatic, carrying the stillness of a distant storm<br><br>
-      <a href="acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/acheron/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/acheron/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -470,7 +470,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> charcoal-black bob with red inner layers, sleepy red eyes, a spiked maid headdress, monochrome industrial maidwear, and her unmistakable attached shark tail<br>
       <b>Mood:</b> laid-back and cool, with a quick, mischievous edge when the work starts moving<br><br>
-      <a href="ellen%20joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/ellen-joe/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -491,7 +491,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> flower-shaped crimson eyes, a tall dark hat with its talisman plaque and plum-blossom branch, long dark-brown hair fading toward muted red, and a deep brown-black-red-gold uniform<br>
       <b>Mood:</b> bright, teasing, and fearless, with a playful spark even in the quietest moments<br><br>
-      <a href="hutao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/hu-tao/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -512,7 +512,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> silver-blue hair and a rear rosette bun, turquoise-to-violet eyes, a gold flower-tip halo, white feathered ear-wings, and a layered white, deep-indigo, lilac, and gold stage dress<br>
       <b>Mood:</b> serene and graceful, with the poised warmth of a singer ready to brighten the room<br><br>
-      <a href="robin/robin-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/robin/robin-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/robin/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/robin/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -533,7 +533,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> swept navy hair with a cool blue streak, warm tan skin, a pale-lilac visible eye, black eyepatch, white fur mantle, blue-violet split cape, and a dark cavalry uniform finished with gold details<br>
       <b>Mood:</b> relaxed and self-assured, with a playful edge that never loses sight of the room<br><br>
-      <a href="kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/kaeya/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/kaeya/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -554,7 +554,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> long pearly-silver hair with cool gray ends, pink-to-aqua eyes, a black headband, pale mint leaf ornament and navy bow, charcoal-and-gold cropped cape, orange-gold chest bow, mint layered dress, and white boots with teal accents<br>
       <b>Mood:</b> gentle and hopeful, with quiet courage beneath every small gesture<br><br>
-      <a href="Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/firefly/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/firefly/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -575,7 +575,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> tousled white hair, icy-blue eyes, a high-collar black-and-white combat coat with gold piping and buckles, cyan chest and belt accents, and an asymmetric armored sleeve<br>
       <b>Mood:</b> calm and formidable, carrying immense strength with an almost motionless sense of control<br><br>
-      <a href="kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 look directions</a>
     </td>
@@ -596,7 +596,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> pale icy-blue high ponytail and straight bangs, black-and-gold crown ornament, pink side ribbons, clear blue eyes, navy kimono dress with pale-blue layers, gold trim, sakura motifs, magenta waist cord, armored skirt panels, and an elegant folding fan<br>
       <b>Mood:</b> poised and gracious, carrying frost-blue refinement with a gentle warmth in every small gesture<br><br>
-      <a href="Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -617,7 +617,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> deep navy hair fading into violet-red tips, a single crimson eye beneath the fringe, a long black coat with gold fastenings and red lining, silver armor accents, bandaged hands, and a dark sword carried at his side<br>
       <b>Mood:</b> quiet and dangerous, with every restrained movement hinting at a will that refuses to break<br><br>
-      <a href="blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/blade/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/blade/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -638,7 +638,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> deep brown hair, turquoise eyes, a gold-and-pearl floral ornament, white shoulder drape, teal-and-navy dress with fine gold filigree, pink waist flower, long gloves, and an ornate blue ruan lute<br>
       <b>Mood:</b> serene and observant, carrying the quiet confidence of a scholar and the measured grace of a musician<br><br>
-      <a href="Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/ruan-mei/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -659,7 +659,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> ivory-white hair with a vivid red streak, red-orange eyes, a compact scarf, an asymmetric black-red-cream samurai outfit, dark red hakama shorts, sandals, and a sheathed sword secured at his side<br>
       <b>Mood:</b> calm and attentive, carrying the quiet ease of a traveler and the steady resolve of a swordsman who listens to the wind<br><br>
-      <a href="Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -680,7 +680,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> tall dark fox ears, navy-black hair, red eyes, a teal-white-black uniform, an asymmetric mechanical arm wrapped with a red cord, and a sheathed katana kept close at the hip<br>
       <b>Mood:</b> still and sharply attentive, with the contained presence of a swordmaster who never needs to hurry<br><br>
-      <a href="Miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/miyabi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/miyabi/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -701,7 +701,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> sandy-blond layered hair, magenta-to-cyan eyes, a teal teardrop earring, white fur collar, black-teal-gold tailored coat, white trousers, black gloves, violet bracelet, waist ornament, and attached blue tassels<br>
       <b>Mood:</b> poised and playfully self-assured, watching every turn with the calm of someone who already knows the odds<br><br>
-      <a href="Aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/aventurine/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/aventurine/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -722,7 +722,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> pale icy-blue layered hair with a curled forelock and long ponytail, black-red qilin horns, violet-pink eyes, a gold throat bell, dark-brown bodice, asymmetrical white-and-gold front panel, white-to-cobalt sleeves, blue back panels, and a red braided waist cord with twin tassels<br>
       <b>Mood:</b> gentle and quietly attentive, with the composed patience of an adeptal secretary who notices every small detail<br><br>
-      <a href="Ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/ganyu/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/ganyu/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -743,7 +743,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> layered pale blue-gray hair, luminous golden eyes, feather-like ornaments beside the head, a rigid gold halo with diamond-shaped points, an asymmetric white, cobalt, navy, and gold long coat, dark gloves, fitted trousers, and tall boots<br>
       <b>Mood:</b> serene and impeccably composed, carrying the quiet presence of a conductor who can guide a room without ever raising his voice<br><br>
-      <a href="Sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/sunday/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/sunday/2d/qa/look-directions.png">16 look directions</a>
     </td>
@@ -760,30 +760,30 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
-| Xiao · 魈 | 2D | `xiao` | [Download ZIP](xiao/xiao-2d.zip) |
-| Dan Heng · Imbibitor Lunae · 丹恒·饮月 | 2D | `dan-heng-imbibitor-lunae` | [Download ZIP](hongkai/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| Jing Yuan · 景元 | 2D | `jing-yuan` | [Download ZIP](jingyuan/jing-yuan-2d-codex-pet-v2.zip) |
-| Zhongli · 钟离 | 2D | `zhongli` | [Download ZIP](zhongli/zhongli-2d-codex-pet-v2.zip) |
-| Obanai · 伊黑小芭内 | 2D | `obanai` | [Download ZIP](obanai/obanai-2d-codex-pet-v2.zip) |
-| Raiden Mei · 雷电芽衣 | 2D | `raiden-mei` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-2d-codex-pet-v2.zip) |
-| Raiden Mei · 雷电芽衣 | 3D-rendered | `raiden-mei-3d` | [Download ZIP](Raiden-Mei雷电芽衣/raiden-mei-3d-codex-pet-v2.zip) |
-| Yae Miko · 八重神子 | 2D | `yae-miko` | [Download ZIP](yae%20miko/yae-miko-2d-codex-pet-v2.zip) |
-| Furina · 芙宁娜 | 2D | `furina` | [Download ZIP](furina/furina-2d-codex-pet-v2.zip) |
-| Acheron · 黄泉 | 2D | `acheron` | [Download ZIP](acheron/acheron-2d-codex-pet-v2.zip) |
-| Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Download ZIP](ellen%20joe/ellen-joe-2d-codex-pet-v2.zip) |
-| Hu Tao · 胡桃 | 2D | `hu-tao` | [Download ZIP](hutao/hu-tao-2d-codex-pet-v2.zip) |
-| Robin · 知更鸟 | 2D | `robin` | [Download ZIP](robin/robin-2d-codex-pet-v2.zip) |
-| Kaeya · 凯亚 | 2D | `kaeya` | [Download ZIP](kaeya/kaeya-2d-codex-pet-v2.zip) |
-| Firefly · 流萤 | 2D | `firefly` | [Download ZIP](Firefly%20honkai%20/firefly-2d-codex-pet-v2.zip) |
-| Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Download ZIP](kevin%20kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
-| Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Download ZIP](Kamisato%20Ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
-| Blade · 刃 | 2D | `blade` | [Download ZIP](blade/blade-2d-codex-pet-v2.zip) |
-| Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Download ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
-| Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Download ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
-| Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Download ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
-| Aventurine · 砂金 | 2D | `aventurine` | [Download ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
-| Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
-| Sunday · 星期日 | 2D | `sunday` | [Download ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
+| Xiao · 魈 | 2D | `xiao` | [Download ZIP](genshin-impact/xiao/xiao-2d.zip) |
+| Dan Heng · Imbibitor Lunae · 丹恒·饮月 | 2D | `dan-heng-imbibitor-lunae` | [Download ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| Jing Yuan · 景元 | 2D | `jing-yuan` | [Download ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| Zhongli · 钟离 | 2D | `zhongli` | [Download ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
+| Raiden Mei · 雷电芽衣 | 2D | `raiden-mei` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| Raiden Mei · 雷电芽衣 | 3D-rendered | `raiden-mei-3d` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
+| Obanai · 伊黑小芭内 | 2D | `obanai` | [Download ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| Yae Miko · 八重神子 | 2D | `yae-miko` | [Download ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
+| Furina · 芙宁娜 | 2D | `furina` | [Download ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
+| Acheron · 黄泉 | 2D | `acheron` | [Download ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| Ellen Joe · 艾莲·乔 | 2D | `ellen-joe` | [Download ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| Hu Tao · 胡桃 | 2D | `hu-tao` | [Download ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
+| Robin · 知更鸟 | 2D | `robin` | [Download ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| Kaeya · 凯亚 | 2D | `kaeya` | [Download ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
+| Firefly · 流萤 | 2D | `firefly` | [Download ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
+| Kevin Kaslana · 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [Download ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| Kamisato Ayaka · 神里绫华 | 2D | `kamisato-ayaka` | [Download ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| Blade · 刃 | 2D | `blade` | [Download ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
+| Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Download ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
+| Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Download ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Download ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
+| Aventurine · 砂金 | 2D | `aventurine` | [Download ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
+| Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| Sunday · 星期日 | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 
@@ -803,7 +803,7 @@ Using Xiao as an example:
 
 ```bash
 mkdir -p ~/.codex/pets/xiao
-unzip xiao/xiao-2d.zip -d ~/.codex/pets/xiao
+unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ```
 
 The resulting folder should look like this:
