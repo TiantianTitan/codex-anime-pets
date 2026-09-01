@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 22 个角色</code>
-  <code>✦ 23 个版本</code>
+  <code>✦ 23 个角色</code>
+  <code>✦ 24 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -174,20 +174,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
       <sub>✦ 新角色登场 · 角色 22 · 月海亭秘书 ✦</sub><br>
       <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"><br>
       <b>「 甘雨 · Ganyu 」</b><br>
       <sub>◇ 温柔耐心 · 霜色清雅 · 仙麟静意 ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 23 · 光环指挥家 ✦</sub><br>
+      <img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="星期日的待机动画"><br>
+      <b>「 星期日 · Sunday 」</b><br>
+      <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
+      <b>「 下一位会是谁？ 」</b><br>
+      <sub>带来参考图 · 孵化新的伙伴</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="112" alt="下一位神秘伙伴的动态召唤门"></a><br>
-  <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
-  <b>「 下一位会是谁？ 」</b>　<sub>带来参考图 · 孵化新的伙伴</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -725,6 +731,27 @@
 
 </details>
 
+<details open>
+<summary><b>🎼 档案 23 — 星期日 · Sunday</b>　<sub>光环指挥家 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="190" alt="星期日的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>层次分明的浅蓝灰色头发、金色双眼、耳侧羽翼状饰件、带菱形尖角的金色日轮，以及白色、钴蓝、深蓝与金色交织的不对称长外套，配以深色手套、修身长裤和长靴<br>
+      <b>气质：</b>平静而一丝不乱，不必提高声音，也能像指挥家一样让周围的节奏自然落入他的掌控<br><br>
+      <a href="Sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/sunday/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/sunday/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -756,6 +783,7 @@
 | 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 | 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
+| 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

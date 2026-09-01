@@ -1,0 +1,24 @@
+{
+  "overall": "pass",
+  "reviewed_by": "independent row-level and final visual QA workers",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "expected": "up", "observed": "unmistakable up", "reason": "Near-frontal chin is strongly lifted, both golden irises sit high, and more lower-eye and neck area is exposed."},
+    {"degree": "022.5", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Raised chin and high irises preserve up while the nose, pupils, and facial plane begin moving screen-right."},
+    {"degree": "045", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "A clear screen-right three-quarter head turn combines with lifted chin and upward visible-eye aim."},
+    {"degree": "067.5", "verdict": "pass", "expected": "up-right", "observed": "up-right", "reason": "Near-profile nose and visible pupil point screen-right while the eye line and chin remain raised."},
+    {"degree": "090", "verdict": "pass", "expected": "right", "observed": "unmistakable screen-right", "reason": "Nose tip, golden pupil, cheek plane, and head orientation all point screen-right; blind cardinal majority confirms it."},
+    {"degree": "112.5", "verdict": "pass", "expected": "down-right", "observed": "down-right", "reason": "The profile remains screen-right while chin, eyelid, and visible iris begin lowering."},
+    {"degree": "135", "verdict": "pass", "expected": "down-right", "observed": "down-right", "reason": "Nose and facial plane point screen-right as the bowed head and low visible iris strengthen the downward axis."},
+    {"degree": "157.5", "verdict": "warning", "expected": "down-right", "observed": "broad near-front down-right", "reason": "Low irises and tucked chin clearly read down; the screen-right bias is subtle in blind isolation but the labeled loop returns from 135 without reversal and is one natural step before 180."},
+    {"degree": "180", "verdict": "pass", "expected": "down", "observed": "unmistakable down", "reason": "Near-frontal bowed head, tucked chin, lowered lids, and low golden irises give a clear down axis; blind cardinal majority confirms it."},
+    {"degree": "202.5", "verdict": "pass", "expected": "down-left", "observed": "down-left", "reason": "The nose, pupils, and facial plane begin moving screen-left while the chin and eye line remain visibly lowered."},
+    {"degree": "225", "verdict": "pass", "expected": "down-left", "observed": "down-left", "reason": "A screen-left three-quarter head turn combines with low irises and a bowed chin; isolated horizontal ambiguity is resolved by the labeled loop."},
+    {"degree": "247.5", "verdict": "pass", "expected": "down-left", "observed": "down-left", "reason": "Near-profile nose and visible pupil point screen-left while the eyelid and chin retain the downward axis; isolated vertical ambiguity is minor."},
+    {"degree": "270", "verdict": "pass", "expected": "left", "observed": "unmistakable screen-left", "reason": "Nose tip, golden pupil, cheek plane, and head orientation all point screen-left; blind cardinal majority confirms it."},
+    {"degree": "292.5", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "The profile remains screen-left while the visible iris, eyelid, and chin begin lifting; isolated vertical ambiguity is minor."},
+    {"degree": "315", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "A screen-left three-quarter face and pupil combine with a clearly raised eye line and chin; isolated vertical ambiguity is minor."},
+    {"degree": "337.5", "verdict": "pass", "expected": "up-left", "observed": "up-left", "reason": "Lifted chin and high irises read up while residual screen-left face, eye, and halo-perspective bias remains; isolated horizontal ambiguity is minor and the pose flows into 000."}
+  ],
+  "continuity": {"verdict": "pass", "reason": "Normal-size labeled review confirms a coherent clockwise loop with anchored feet, stable practical scale, continuous halo and ornament attachment, no snap, reversal, or registration jump; metric warnings match natural profile-to-frontal silhouette changes."},
+  "blind_validation": {"verdict": "pass", "path": "qa/direction-blind-validation.json", "reason": "Both cardinal pairs pass strict majority; ambiguous intermediate axes remain review warnings resolved by labeled loop evidence."}
+}

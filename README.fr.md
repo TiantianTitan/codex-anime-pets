@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 22 PERSONNAGES</code>
-  <code>✦ 23 ÉDITIONS</code>
+  <code>✦ 23 PERSONNAGES</code>
+  <code>✦ 24 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -174,20 +174,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
       <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 22 · SECRÉTAIRE QILIN ✦</sub><br>
       <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ganyu"><br>
       <b>「 Ganyu · 甘雨 」</b><br>
       <sub>◇ Douce patience · Grâce de givre · Sérénité qilin ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 23 · MAESTRO CÉLESTE ✦</sub><br>
+      <img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Sunday"><br>
+      <b>「 Sunday · 星期日 」</b><br>
+      <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>「 Qui nous rejoindra ? 」</b><br>
+      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="112" alt="Portail animé du prochain compagnon mystère"></a><br>
-  <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
-  <b>「 Qui nous rejoindra ? 」</b>　<sub>Apportez une référence · Faites éclore un compagnon</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -725,6 +731,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🎼 DOSSIER 23 — Sunday · 星期日</b>　<sub>Maestro céleste / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="190" alt="Sunday au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux bleu-gris pâle en mèches superposées, yeux dorés lumineux, ornements en forme de plumes près des oreilles, halo doré rigide aux pointes losangées, long manteau asymétrique blanc, cobalt, bleu nuit et or, gants sombres, pantalon ajusté et hautes bottes<br>
+      <b>Présence :</b> sereine et parfaitement maîtrisée, avec l'autorité feutrée d'un chef d'orchestre capable de guider toute une salle sans hausser la voix<br><br>
+      <a href="Sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/sunday/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/sunday/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -756,6 +783,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Télécharger](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Aventurine · 砂金 | 2D | `aventurine` | [Télécharger](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 | Ganyu · 甘雨 | 2D | `ganyu` | [Télécharger](Ganyu/ganyu-2d-codex-pet-v2.zip) |
+| Sunday · 星期日 | 2D | `sunday` | [Télécharger](Sunday/sunday-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

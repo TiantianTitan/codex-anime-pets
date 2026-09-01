@@ -1,0 +1,21 @@
+{
+  "overall": "pass",
+  "directions": [
+    {"degree": "180", "verdict": "pass", "observed": "unmistakable down", "reason": "Near-frontal bowed head, tucked chin, lowered lids, and low golden irises give a clear vertical down axis without horizontal bias."},
+    {"degree": "202.5", "verdict": "pass", "observed": "down-left", "reason": "The nose, pupils, and facial plane begin moving screen-left while the chin and eye line remain visibly lowered."},
+    {"degree": "225", "verdict": "pass", "observed": "down-left", "reason": "A clear screen-left three-quarter head turn combines with low irises and a bowed chin."},
+    {"degree": "247.5", "verdict": "pass", "observed": "down-left", "reason": "Near-profile nose and visible pupil point screen-left while the eyelid and chin retain the downward axis."},
+    {"degree": "270", "verdict": "pass", "observed": "unmistakable screen-left", "reason": "Nose tip, visible golden pupil, cheek plane, and head orientation all point screen-left with no competing vertical pitch."},
+    {"degree": "292.5", "verdict": "pass", "observed": "up-left", "reason": "The profile remains screen-left while the visible iris, eyelid, and chin begin lifting."},
+    {"degree": "315", "verdict": "pass", "observed": "up-left", "reason": "A screen-left three-quarter face and pupil combine with a clearly raised eye line and chin."},
+    {"degree": "337.5", "verdict": "pass", "observed": "up-left", "reason": "Strong lifted chin and high irises read up while a residual screen-left face, eye, and halo-perspective bias remains before returning to 000."}
+  ],
+  "boundaries": {
+    "157.5_to_180": {"verdict": "pass", "reason": "The near-front down-right pose resolves by one smooth step into the frontal bowed down cardinal with stable feet, scale, and attachments."},
+    "337.5_to_000": {"verdict": "pass", "reason": "The near-front up-left pose resolves naturally into frontal up with continuous eyes, chin, hair, halo, baseline, and no reversal or visible scale pop."}
+  },
+  "continuity_warnings": {"decision": "accepted", "reason": "Reported center, area, and diff changes match natural profile-to-frontal silhouette changes; the normal-size loop keeps anchored feet, stable practical scale, and no snap, reversal, or registration jump."},
+  "alpha_holes": {"decision": "intentional", "reason": "Candidates align with open halo geometry, hair and head-wing negative spaces, arm-to-body gaps, and the split coat rather than scanline bands or seams through filled anatomy."},
+  "edge_identity": {"verdict": "pass", "reason": "Canonical eyes, hair, rigid attached halo, ornaments, asymmetric outfit, scale, baseline, lower-body anchor, and safe edges remain intact without clipping, warp, tilt, or broken attachment."},
+  "repair_note": "none"
+}

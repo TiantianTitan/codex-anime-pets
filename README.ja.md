@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 22 キャラクター</code>
-  <code>✦ 23 エディション</code>
+  <code>✦ 23 キャラクター</code>
+  <code>✦ 24 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -71,15 +71,11 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン · Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><sub>✦ 新登場 · キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 23 · 天上の指揮者 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー · Sunday 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ 次の召喚 · あなたの選択 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="#character-list"><img src="assets/readme/next-companion.svg" width="112" alt="次のキャラクター"></a><br>
-  <sub>✦ 次の召喚 · あなたの選択 ✦</sub><br>
-  <b>「 次は誰？ 」</b>　<sub>参考画像から、新しい仲間を孵化させよう</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -113,6 +109,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | アベンチュリン · Aventurine | 2D | `aventurine` | [ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 | 甘雨 · Ganyu | 2D | `ganyu` | [ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
+| サンデー · Sunday | 2D | `sunday` | [ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

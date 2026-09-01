@@ -1,0 +1,16 @@
+{
+  "overall": "pass",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "observed": "unmistakable up", "reason": "Near-frontal chin is strongly lifted, both golden irises sit high, and more lower-eye and neck area is exposed."},
+    {"degree": "022.5", "verdict": "pass", "observed": "up-right", "reason": "Raised chin and high irises preserve up while the nose, pupils, and facial plane begin moving screen-right."},
+    {"degree": "045", "verdict": "pass", "observed": "up-right", "reason": "Clear screen-right three-quarter head turn combines with lifted chin and an upward visible-eye aim."},
+    {"degree": "067.5", "verdict": "pass", "observed": "up-right", "reason": "Near-profile nose and visible pupil point screen-right while the eye line and chin remain raised."},
+    {"degree": "090", "verdict": "pass", "observed": "unmistakable screen-right", "reason": "Readable screen-right profile with nose tip, visible golden pupil, cheek plane, and head orientation all pointing right."},
+    {"degree": "112.5", "verdict": "pass", "observed": "down-right", "reason": "The profile remains screen-right while the chin, eyelid, and visible iris begin lowering."},
+    {"degree": "135", "verdict": "pass", "observed": "down-right", "reason": "Nose and facial plane still point screen-right as the bowed head and low visible iris strengthen the downward axis."},
+    {"degree": "157.5", "verdict": "warning", "observed": "broad near-front down-right", "reason": "Low irises and tucked chin clearly read down; the remaining screen-right bias is subtle at normal size but follows the ordered return from 135 without reversal and is one natural step before 180."}
+  ],
+  "continuity": {"verdict": "pass", "reason": "Smooth clockwise eye-head-halo progression with stable feet and baseline, no reversal, and a deliberate broad return from 135 to 157.5."},
+  "edge_identity": {"verdict": "pass", "reason": "Canonical eyes, hair, attached halo, ornaments, asymmetric outfit, scale, lower-body anchor, margins, and silhouettes are preserved without clipping, holes, tilt, or warp."},
+  "repair_note": "none"
+}

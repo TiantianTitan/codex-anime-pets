@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 22 CHARACTERS</code>
-  <code>✦ 23 EDITIONS</code>
+  <code>✦ 23 CHARACTERS</code>
+  <code>✦ 24 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -174,20 +174,26 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
       <sub>✦ NEW ARRIVAL · CHARACTER 22 · QILIN SECRETARY ✦</sub><br>
       <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Ganyu idle animation"><br>
       <b>「 Ganyu · 甘雨 」</b><br>
       <sub>◇ Gentle patience · Frost-blue grace · Qilin serenity ◇</sub>
     </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 23 · HALOED CONDUCTOR ✦</sub><br>
+      <img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Sunday idle animation"><br>
+      <b>「 Sunday · 星期日 」</b><br>
+      <sub>◇ Composed grace · Golden gaze · Quiet orchestration ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
+      <b>「 Who joins next? 」</b><br>
+      <sub>Bring a reference · Hatch a companion</sub>
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="112" alt="Animated mystery companion portal"></a><br>
-  <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
-  <b>「 Who joins next? 」</b>　<sub>Bring a reference · Hatch a companion</sub>
-</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -725,6 +731,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🎼 FILE 23 — Sunday · 星期日</b>　<sub>Haloed conductor / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="190" alt="Sunday idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> layered pale blue-gray hair, luminous golden eyes, feather-like ornaments beside the head, a rigid gold halo with diamond-shaped points, an asymmetric white, cobalt, navy, and gold long coat, dark gloves, fitted trousers, and tall boots<br>
+      <b>Mood:</b> serene and impeccably composed, carrying the quiet presence of a conductor who can guide a room without ever raising his voice<br><br>
+      <a href="Sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/sunday/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/sunday/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -756,6 +783,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Download ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Aventurine · 砂金 | 2D | `aventurine` | [Download ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 | Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
+| Sunday · 星期日 | 2D | `sunday` | [Download ZIP](Sunday/sunday-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

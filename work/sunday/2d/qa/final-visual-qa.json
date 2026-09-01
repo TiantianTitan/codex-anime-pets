@@ -1,0 +1,12 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Sunday's identity, halo, head-wing ornaments, original eyes, asymmetric outfit, scale, baseline, clean silhouettes, state-specific motion, alternating directional gaits, and complete clockwise look loop remain consistent across all rows.",
+  "direction_semantics": "qa/direction-semantics.json",
+  "review_warnings": [
+    "Intermediate blind-axis ambiguity is accepted because labeled normal-size review confirms the intended quadrants and no reversal.",
+    "Continuity center, area, and diff warnings reflect natural profile-to-frontal silhouette changes without a visible snap or scale pop.",
+    "Alpha-hole candidates are intentional halo, hair, arm-to-body, and split-coat negative spaces without a scanline seam."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}
