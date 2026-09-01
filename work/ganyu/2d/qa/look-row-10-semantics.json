@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "edge_check": "pass",
+  "continuity": "pass_with_warning",
+  "directions": [
+    {"degree":"180","verdict":"pass","observed":"down","reason":"Near-frontal tucked chin and low irises continue one step after 157.5."},
+    {"degree":"202.5","verdict":"pass","observed":"down-left","reason":"Downward gaze is retained as the nose and face begin moving toward image-left."},
+    {"degree":"225","verdict":"pass","observed":"down-left","reason":"Balanced image-left turn and downward eye line form the intended diagonal."},
+    {"degree":"247.5","verdict":"pass","observed":"down-left","reason":"Strong image-left face turn retains a slight downward pitch before 270."},
+    {"degree":"270","verdict":"pass","observed":"screen-left","reason":"Nose tip and pupil project toward image-left with the rear hair mass on image-right."},
+    {"degree":"292.5","verdict":"pass","observed":"up-left","reason":"Left-facing profile begins lifting the chin and eye line."},
+    {"degree":"315","verdict":"pass","observed":"up-left","reason":"Left cue remains readable while the chin and irises rise toward the up anchor."},
+    {"degree":"337.5","verdict":"warning","observed":"subtle up-left","reason":"Upward chin and high gaze are clear; the residual image-left cue is intentionally slight at the final step before 000 and should be rechecked on the labeled normal-size loop."}
+  ],
+  "notes": "The coherent row preserves the registered row-9 scale and baseline, keeps all attachments intact, passes assembly edge checks, and progresses leftward without a reversal."
+}

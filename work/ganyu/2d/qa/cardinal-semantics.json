@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "directions": [
+    {
+      "degree": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "evidence": "Near-frontal face with lifted chin; both irises are raised and the neck/bell underside is more visible than in 180."
+    },
+    {
+      "degree": "090",
+      "expected": "screen-right",
+      "verdict": "pass",
+      "evidence": "Nose tip, visible pupil, and face surface project to image-right of the head center in a clear right-facing three-quarter/profile pose."
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "evidence": "Near-frontal face with tucked chin, lowered eyelids and irises, and visibly compressed neck/bell area, clearly opposite 000."
+    },
+    {
+      "degree": "270",
+      "expected": "screen-left",
+      "verdict": "pass",
+      "evidence": "Nose tip, visible pupil, and face surface project to image-left of the head center in a clear left-facing three-quarter/profile pose."
+    }
+  ]
+}

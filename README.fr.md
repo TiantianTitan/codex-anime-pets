@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 21 PERSONNAGES</code>
-  <code>✦ 22 ÉDITIONS</code>
+  <code>✦ 22 PERSONNAGES</code>
+  <code>✦ 23 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -21,6 +21,8 @@
 <sub>🌙 Choisissez un personnage · Décompressez l’archive · Laissez-le vous accompagner</sub>
 
 </div>
+
+> **Application de bureau uniquement :** les packs de familiers personnalisés fonctionnent actuellement uniquement dans l’application Codex pour ordinateur. L’application mobile Codex ne peut pas afficher les familiers ; leur installation sur mobile et leur synchronisation entre appareils ne sont pas prises en charge.
 
 <div align="center">
 
@@ -169,6 +171,14 @@
       <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Aventurine"><br>
       <b>「 Aventurine · 砂金 」</b><br>
       <sub>◇ Élégance calculée · Éclat doré · Pari maîtrisé ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 22 · SECRÉTAIRE QILIN ✦</sub><br>
+      <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ganyu"><br>
+      <b>「 Ganyu · 甘雨 」</b><br>
+      <sub>◇ Douce patience · Grâce de givre · Sérénité qilin ◇</sub>
     </td>
   </tr>
 </table>
@@ -694,6 +704,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>❄️ DOSSIER 22 — Ganyu · 甘雨</b>　<sub>Secrétaire qilin / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="190" alt="Ganyu au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure bleu givre aux mèches superposées, houppe recourbée et longue queue-de-cheval, cornes de qilin noires et rouges, yeux violet rosé, clochette dorée au cou, corsage brun sombre, pan asymétrique blanc et or, manches dégradées du blanc au cobalt, pans arrière bleus et cordon rouge tressé terminé par deux pompons<br>
+      <b>Présence :</b> douce et discrètement attentive, avec la patience posée d'une secrétaire adeptale qui remarque les moindres détails<br><br>
+      <a href="Ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/ganyu/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -724,6 +755,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Télécharger](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Télécharger](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Aventurine · 砂金 | 2D | `aventurine` | [Télécharger](Aventurine/aventurine-2d-codex-pet-v2.zip) |
+| Ganyu · 甘雨 | 2D | `ganyu` | [Télécharger](Ganyu/ganyu-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

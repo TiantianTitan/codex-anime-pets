@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 21 キャラクター</code>
-  <code>✦ 22 エディション</code>
+  <code>✦ 22 キャラクター</code>
+  <code>✦ 23 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -21,6 +21,8 @@
 <sub>🌙 キャラクターを選ぶ · パッケージを展開する · コーディングのお供にする</sub>
 
 </div>
+
+> **デスクトップ版のみ：** カスタムペットパッケージは、現在 Codex デスクトップアプリでのみ利用できます。Codex モバイルアプリではペットを表示できず、モバイルへのインストールやデバイス間でのペット同期にも対応していません。
 
 ## ✦ Codex Anime Pets について ✦
 
@@ -68,6 +70,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 星見雅 · Hoshimi Miyabi 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
     <td align="center" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン · Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
   </tr>
+  <tr>
+    <td align="center" colspan="3"><sub>✦ 新登場 · キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
+  </tr>
 </table>
 
 <div align="center">
@@ -107,6 +112,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | 楓原万葉 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | アベンチュリン · Aventurine | 2D | `aventurine` | [ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
+| 甘雨 · Ganyu | 2D | `ganyu` | [ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

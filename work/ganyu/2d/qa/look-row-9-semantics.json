@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "reviewed_by": "parent",
+  "registration_scale": 0.46588235294117647,
+  "edge_check": "pass",
+  "continuity": "pass",
+  "directions": [
+    {"degree":"000","verdict":"pass","observed":"up","reason":"Near-frontal lifted chin and visibly raised irises match the approved up anchor."},
+    {"degree":"022.5","verdict":"pass","observed":"up-right","reason":"Slight image-right yaw with the lifted chin and upward pupils retained."},
+    {"degree":"045","verdict":"pass","observed":"up-right","reason":"Moderate image-right face turn and upward eye line form the expected diagonal."},
+    {"degree":"067.5","verdict":"pass","observed":"up-right","reason":"Strong image-right turn remains slightly lifted and transitions evenly into 090."},
+    {"degree":"090","verdict":"pass","observed":"screen-right","reason":"Nose tip, pupil, and face surface project unmistakably to image-right of head center."},
+    {"degree":"112.5","verdict":"pass","observed":"down-right","reason":"Right-facing profile begins a readable chin tuck and downward eye shift."},
+    {"degree":"135","verdict":"pass","observed":"down-right","reason":"Rightward face cue remains while the chin and irises move farther downward."},
+    {"degree":"157.5","verdict":"pass","observed":"down-right","reason":"Broad near-frontal slight-right pose with tucked chin and low pupils lands one even step before 180."}
+  ],
+  "notes": "All eight registered cells keep a stable baseline, scale, identity, attached ponytail/tassels, and clockwise progression without a visible reversal or silhouette snap."
+}

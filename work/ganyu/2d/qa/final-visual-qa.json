@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent_visual_worker",
+  "qa_note": "Stable Ganyu identity, black-red qilin horns, blue hair and ponytail, outfit, ornaments, scale, baseline, state motion, travel direction, gait, and clean connected silhouettes hold across all rows and directions.",
+  "review_warnings": [
+    "Blind horizontal review reverses the subtle 157.5 and 202.5 cues; the labeled ordered loop resolves this as a minor warning without a wrong quadrant or reversal.",
+    "Continuity metrics warn at 315→337.5→000, but the normal-size loop shows no reversal, snap, registration jump, or visible scale pop."
+  ],
+  "repair_rows": [],
+  "repair_notes": []
+}

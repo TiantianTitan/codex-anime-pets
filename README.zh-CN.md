@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 21 个角色</code>
-  <code>✦ 22 个版本</code>
+  <code>✦ 22 个角色</code>
+  <code>✦ 23 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -21,6 +21,8 @@
 <sub>🌙 选择角色 · 解压成品 · 让 TA 陪你一起工作</sub>
 
 </div>
+
+> **仅限桌面端：** 自定义宠物包目前只支持 Codex 桌面应用。Codex 移动端无法显示宠物，也不支持在手机上安装或跨设备同步宠物。
 
 <div align="center">
 
@@ -169,6 +171,14 @@
       <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"><br>
       <b>「 砂金 · Aventurine 」</b><br>
       <sub>◇ 从容下注 · 金色锋芒 · 胜券在握 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ 新角色登场 · 角色 22 · 月海亭秘书 ✦</sub><br>
+      <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"><br>
+      <b>「 甘雨 · Ganyu 」</b><br>
+      <sub>◇ 温柔耐心 · 霜色清雅 · 仙麟静意 ◇</sub>
     </td>
   </tr>
 </table>
@@ -694,6 +704,27 @@
 
 </details>
 
+<details open>
+<summary><b>❄️ 档案 22 — 甘雨 · Ganyu</b>　<sub>月海亭秘书 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="190" alt="甘雨的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>淡霜蓝色层次长发与翘起发梢、黑红相间的麒麟角、紫粉色双眼、颈前金铃、深棕色上衣、不对称白金前片、白蓝渐变袖套、蓝色后摆，以及带双流苏的红色编绳腰饰<br>
+      <b>气质：</b>温柔而专注，带着仙家秘书特有的沉静耐心，也总能留意到那些容易被忽略的小细节<br><br>
+      <a href="Ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/ganyu/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -724,6 +755,7 @@
 | 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
+| 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

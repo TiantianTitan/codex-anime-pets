@@ -1,0 +1,31 @@
+{
+  "overall": "pass",
+  "reviewed_by": "independent_visual_worker",
+  "directions": [
+    {"degree":"000","verdict":"pass","expected":"up","observed":"up","reason":"Both eyes and chin aim upward in a frontal pose; raised pupils and exposed lower eye area make the cardinal unmistakable."},
+    {"degree":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal: nose, pupils, and face turn slightly screen-right. Vertical: pupils and chin remain visibly raised."},
+    {"degree":"045","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal: three-quarter face and nose point screen-right. Vertical: raised pupils, eyelids, and chin preserve a clear upward aim."},
+    {"degree":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","reason":"Horizontal: head approaches a screen-right profile with nose and visible eye aimed right. Vertical: eye and chin remain lifted."},
+    {"degree":"090","verdict":"pass","expected":"right","observed":"right","reason":"Unmistakable screen-right profile; nose tip, visible pupil, and facial plane all point right."},
+    {"degree":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal: profile, nose, and visible eye remain screen-right. Vertical: pupil, eyelid, and chin begin aiming down."},
+    {"degree":"135","verdict":"pass","expected":"down-right","observed":"down-right","reason":"Horizontal: three-quarter face and nose remain screen-right. Vertical: lowered pupils, lids, and chin clearly carry the gaze down."},
+    {"degree":"157.5","verdict":"warning","expected":"down-right","observed":"down-right with subtle horizontal cue","reason":"Horizontal: nearly frontal head is still returning from the right-facing 135 pose, but the cue is weak enough that blind horizontal-7 reversed it. Vertical: lowered chin, lids, and pupils clearly read down. Labeled loop shows no reversal before 180."},
+    {"degree":"180","verdict":"pass","expected":"down","observed":"down","reason":"Frontal head is bowed with lowered eyelids and pupils; the down cardinal is unmistakable with no competing horizontal turn."},
+    {"degree":"202.5","verdict":"warning","expected":"down-left","observed":"down-left with subtle horizontal cue","reason":"Horizontal: head begins the ordered turn toward screen-left and leads naturally into 225, though blind horizontal-7 reversed it. Vertical: chin, eyelids, and pupils remain clearly lowered. Labeled loop shows no reversal."},
+    {"degree":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Horizontal: nose, visible cheek edge, and three-quarter head turn point screen-left. Vertical: pupil and chin remain lowered."},
+    {"degree":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Horizontal: head approaches a screen-left profile with nose and eye aimed left. Vertical: lowered eye line and chin still read down."},
+    {"degree":"270","verdict":"pass","expected":"left","observed":"left","reason":"Unmistakable screen-left profile; nose tip, facial plane, and visible pupil point left."},
+    {"degree":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal: profile, nose, and visible eye remain screen-left. Vertical: pupil and chin begin lifting."},
+    {"degree":"315","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal: three-quarter face, nose, and eye point screen-left. Vertical: raised pupil and chin clearly carry the gaze up."},
+    {"degree":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","reason":"Horizontal: near-frontal face retains a slight screen-left eye and head bias, also confirmed by blind review. Vertical: pupils and chin are strongly raised approaching 000."}
+  ],
+  "continuity": {
+    "verdict": "warning",
+    "reason": "The clockwise loop preserves identity, practical scale, baseline, and direction order with no visible reversal or conspicuous snap. The measured 315→337.5 center shift and 337.5→000 area change correspond to a natural return from three-quarter left to frontal up."
+  },
+  "major_failures": [],
+  "minor_warnings": [
+    "Blind horizontal-7 reverses the subtle horizontal readings for 157.5 and 202.5; labeled normal-size review resolves both through ordered-loop context without a wrong principal quadrant or visible reversal.",
+    "Continuity metrics flag 315→337.5 center shift and 337.5→000 area growth, but the normal-size loop shows no conspicuous snap, registration jump, or scale pop."
+  ]
+}

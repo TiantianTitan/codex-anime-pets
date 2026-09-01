@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 21 CHARACTERS</code>
-  <code>✦ 22 EDITIONS</code>
+  <code>✦ 22 CHARACTERS</code>
+  <code>✦ 23 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -21,6 +21,8 @@
 <sub>🌙 Pick a character · Unzip the package · Let them keep you company</sub>
 
 </div>
+
+> **Desktop only:** Custom pet packages currently work only in the Codex desktop app. The Codex mobile app cannot display pets; mobile installation and cross-device pet syncing are not supported.
 
 <div align="center">
 
@@ -169,6 +171,14 @@
       <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Aventurine idle animation"><br>
       <b>「 Aventurine · 砂金 」</b><br>
       <sub>◇ Poised gamble · Gilded charm · Eyes on the odds ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>✦ NEW ARRIVAL · CHARACTER 22 · QILIN SECRETARY ✦</sub><br>
+      <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Ganyu idle animation"><br>
+      <b>「 Ganyu · 甘雨 」</b><br>
+      <sub>◇ Gentle patience · Frost-blue grace · Qilin serenity ◇</sub>
     </td>
   </tr>
 </table>
@@ -694,6 +704,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>❄️ FILE 22 — Ganyu · 甘雨</b>　<sub>Qilin secretary / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="190" alt="Ganyu idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> pale icy-blue layered hair with a curled forelock and long ponytail, black-red qilin horns, violet-pink eyes, a gold throat bell, dark-brown bodice, asymmetrical white-and-gold front panel, white-to-cobalt sleeves, blue back panels, and a red braided waist cord with twin tassels<br>
+      <b>Mood:</b> gentle and quietly attentive, with the composed patience of an adeptal secretary who notices every small detail<br><br>
+      <a href="Ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/ganyu/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -724,6 +755,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Download ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Download ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Aventurine · 砂金 | 2D | `aventurine` | [Download ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
+| Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](Ganyu/ganyu-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 
