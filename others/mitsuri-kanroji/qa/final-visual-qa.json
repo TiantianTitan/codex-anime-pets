@@ -1,0 +1,29 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All eleven rows preserve Mitsuri's chibi identity, palette, face, proportions, and attached braids with clean state semantics and no visible clipping, detached effects, shadows, guide marks, or motion defects.",
+  "direction_semantics": {
+    "000": "pass: up vertical, centered horizontal",
+    "022.5": "pass: up and right",
+    "045": "pass: up and right",
+    "067.5": "pass: up and right",
+    "090": "pass: right horizontal, centered vertical",
+    "112.5": "warning: right clear; down confirmed by ordered loop",
+    "135": "pass: down and right",
+    "157.5": "pass: down and right",
+    "180": "pass: down vertical, centered horizontal",
+    "202.5": "pass: down and left",
+    "225": "pass: down and left",
+    "247.5": "warning: down clear; left confirmed by ordered loop",
+    "270": "pass: left horizontal, centered vertical",
+    "292.5": "pass: up and left",
+    "315": "pass: up and left",
+    "337.5": "pass: up and left"
+  },
+  "review_warnings": [
+    "112.5 blind vertical ambiguity accepted because the labeled loop visibly descends after 090 without reversal",
+    "247.5 blind horizontal ambiguity accepted because the labeled loop visibly advances left toward 270 without reversal",
+    "continuity local pixel and area outliers accepted because visual playback has no snap, pop, hole, or attachment break"
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 23 个角色</code>
-  <code>✦ 24 个版本</code>
+  <code>✦ 24 个角色</code>
+  <code>✦ 25 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -187,6 +187,14 @@
       <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 24 · 恋柱 ✦</sub><br>
+      <img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="甘露寺蜜璃的待机动画"><br>
+      <b>「 甘露寺蜜璃 · Mitsuri Kanroji 」</b><br>
+      <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -752,6 +760,27 @@
 
 </details>
 
+<details open>
+<summary><b>💗 档案 24 — 甘露寺蜜璃 · Mitsuri Kanroji</b>　<sub>恋柱 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="190" alt="甘露寺蜜璃的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>由粉色渐变至草绿色的粗双辫、明亮绿眸、深色队服外的白色羽织、绿色条纹长袜与草履<br>
+      <b>气质：</b>真诚热烈、活力十足；她表达喜欢时毫不扭捏，温柔与坚定也同样坦荡<br><br>
+      <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="others/mitsuri-kanroji/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="others/mitsuri-kanroji/qa/direction-qa.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -784,6 +813,7 @@
 | 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
 | 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
+| 甘露寺蜜璃 · Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "overall_verdict": "pass_with_reviewed_warnings",
+  "review_basis": [
+    "approved four-cardinal anchors at normal pet size",
+    "registered row-9 labeled review",
+    "shared-scale row-10 labeled review",
+    "three-reviewer blind consensus",
+    "ordered-loop continuity metrics",
+    "independent final visual QA"
+  ],
+  "directions": {
+    "000": {"expected":"up","observed":"frontal face, high green irises, visible lower sclera, lifted brows and raised chin","reason":"the vertical gaze is unmistakably above neutral and the blind hard-gate pair confirmed up","verdict":"pass"},
+    "022.5": {"expected":"up-right","observed":"high irises and raised chin with nose, pupils and face beginning to move screen-right","reason":"both diagonal axes are visible; blind horizontal and vertical votes match the expected quadrant","verdict":"pass"},
+    "045": {"expected":"up-right","observed":"screen-right three-quarter head turn with elevated eyes and chin","reason":"both axes are clear and blind votes confirm right plus up","verdict":"pass"},
+    "067.5": {"expected":"up-right","observed":"strong screen-right facial projection with pupils still above neutral","reason":"the labeled loop advances monotonically toward 090 and blind votes confirm right plus up","verdict":"pass"},
+    "090": {"expected":"screen-right","observed":"nose tip, pupils, chin and face plane project to the image-right side of head center","reason":"approved cardinal and blind horizontal hard gate both confirm screen-right","verdict":"pass"},
+    "112.5": {"expected":"down-right","observed":"screen-right profile remains strong while eyelids, irises and chin begin descending","reason":"horizontal-right is blind-confirmed; blind vertical consensus was ambiguous at displayed size, but the labeled normal-size ordered loop shows the first downward step after 090 without reversal","verdict":"warning"},
+    "135": {"expected":"down-right","observed":"low irises and tucked chin with a clear screen-right face bias","reason":"both diagonal axes are readable and blind votes confirm right plus down","verdict":"pass"},
+    "157.5": {"expected":"down-right","observed":"near-down gaze with low irises and tucked chin while nose and face retain subtle screen-right projection","reason":"both blind axes match and the pose lands one step before 180 without becoming neutral","verdict":"pass"},
+    "180": {"expected":"down","observed":"frontal visible face with low green irises, tucked chin and more crown visible","reason":"approved cardinal and blind vertical hard gate both confirm down","verdict":"pass"},
+    "202.5": {"expected":"down-left","observed":"low gaze and tucked chin with pupils, nose and face beginning to move screen-left","reason":"both diagonal axes are visible and blind votes confirm left plus down","verdict":"pass"},
+    "225": {"expected":"down-left","observed":"clear screen-left head turn with low irises and lowered chin","reason":"both blind axes match; shared-scale edge registration passes after the compact full-row repair","verdict":"pass"},
+    "247.5": {"expected":"down-left","observed":"stronger screen-left facial projection remains visibly below neutral","reason":"vertical-down is blind-confirmed; blind horizontal consensus was ambiguous at displayed size, but labeled normal-size review shows the monotonic leftward step immediately before the approved 270 cardinal with no reversal","verdict":"warning"},
+    "270": {"expected":"screen-left","observed":"nose tip, pupil, chin and face plane project to the image-left side of head center","reason":"approved cardinal and blind horizontal hard gate both confirm screen-left","verdict":"pass"},
+    "292.5": {"expected":"up-left","observed":"screen-left facial projection remains while the eye line and chin begin rising","reason":"both diagonal axes are visible and blind votes confirm left plus up","verdict":"pass"},
+    "315": {"expected":"up-left","observed":"raised eyes and chin with a clear screen-left bias while both eyes remain readable","reason":"both blind axes match and the face returns gradually toward frontal","verdict":"pass"},
+    "337.5": {"expected":"up-left","observed":"near-frontal face with high irises and raised chin retaining a subtle screen-left nose and gaze bias","reason":"both blind axes match and the pose lands one step before 000 without reversing","verdict":"pass"}
+  },
+  "review_warnings": [
+    "112.5 vertical axis was ambiguous to blind consensus but is accepted as a labeled intermediate down-right step",
+    "247.5 horizontal axis was ambiguous to blind consensus but is accepted as a labeled intermediate down-left step",
+    "continuity metrics flag local pixel/area outliers for review; no alpha holes or deterministic errors are present"
+  ],
+  "hard_failures": [],
+  "independent_final_qa": {
+    "visual_qa": "pass",
+    "repair_rows": [],
+    "review_warnings": [
+      "112.5 blind vertical ambiguity accepted because the labeled loop visibly descends after 090 without reversal",
+      "247.5 blind horizontal ambiguity accepted because the labeled loop visibly advances left toward 270 without reversal",
+      "continuity local pixel and area outliers accepted because visual playback has no snap, pop, hole, or attachment break"
+    ]
+  }
+}

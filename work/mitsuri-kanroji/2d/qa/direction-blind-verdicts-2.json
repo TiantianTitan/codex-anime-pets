@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"Clear opposite head turns and nose-tip offsets."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"Face surface and nose tips turn to opposite sides."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"Visible cheek and nose direction are opposite."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"Strong profile-like turns; noses point oppositely."},
+    {"pair":"horizontal-5","A":"screen-right","B":"ambiguous","reason":"A has a rightward nose turn; B is primarily downward/front-facing."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"Downward poses retain opposite lateral face and pupil placement."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Downward poses show opposite nose and face-surface offsets."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A bows with pupils low; B lifts chin and pupils high."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A has raised chin/eyes; B has lowered chin/eyes."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A is bowed; B has an elevated face and chin."},
+    {"pair":"vertical-4","A":"up","B":"up","reason":"Both side-facing heads have lifted chins and upward eye placement."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A is clearly lowered; B has a lifted, open face."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A has a lowered gaze/chin; B has raised eyes and chin."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A bows downward; B lifts the face upward."}
+  ]
+}

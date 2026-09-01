@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 23 CHARACTERS</code>
-  <code>✦ 24 EDITIONS</code>
+  <code>✦ 24 CHARACTERS</code>
+  <code>✦ 25 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -187,6 +187,14 @@
       <sub>◇ Composed grace · Golden gaze · Quiet orchestration ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 24 · LOVE HASHIRA ✦</sub><br>
+      <img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="Mitsuri Kanroji idle animation"><br>
+      <b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b><br>
+      <sub>◇ Openhearted warmth · Bright spirit · Fearless affection ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -752,6 +760,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>💗 FILE 24 — Mitsuri Kanroji · 甘露寺蜜璃</b>　<sub>Love Hashira / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="190" alt="Mitsuri Kanroji idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> thick twin braids fading from pink to lime green, vivid green eyes, a white haori over her dark uniform, green striped socks, and sandals<br>
+      <b>Mood:</b> warm, candid, and full of bright energy, with an affection that feels every bit as strong as her resolve<br><br>
+      <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="others/mitsuri-kanroji/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="others/mitsuri-kanroji/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -784,6 +813,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Aventurine · 砂金 | 2D | `aventurine` | [Download ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
 | Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Sunday · 星期日 | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
+| Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

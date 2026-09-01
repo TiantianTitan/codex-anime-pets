@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A’s nose and facial surface turn right; B’s nose and face turn slightly left."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A’s nose projects left with leftward face turn; B’s nose projects right."},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left","reason":"A shows a rightward nose/face turn; B shows the opposite leftward turn."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"Both are clear side turns, with A facing right and B facing left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"ambiguous","reason":"A’s nose and visible face plane turn right; B is lowered and near frontal on the horizontal axis."},
+    {"pair":"horizontal-6","A":"ambiguous","B":"screen-right","reason":"A is lowered and near frontal; B’s nose and facial surface shift right."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A’s nose/face turn left; B’s nose/face turn right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A has a strongly lowered head and downward pupils; B has lifted chin and upward pupils."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A’s pupils are raised with an upward gaze; B’s head and pupils are lowered."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A shows lowered pupils and chin; B’s chin and pupils are raised."},
+    {"pair":"vertical-4","A":"ambiguous","B":"ambiguous","reason":"Both are primarily horizontal head turns without a definite vertical gaze at displayed size."},
+    {"pair":"vertical-5","A":"down","B":"ambiguous","reason":"A’s head and pupils are clearly lowered; B is near frontal with no definite vertical direction."},
+    {"pair":"vertical-6","A":"down","B":"ambiguous","reason":"A has lowered pupils and a lowered face; B appears near-neutral vertically."},
+    {"pair":"vertical-7","A":"down","B":"ambiguous","reason":"A’s eyes and face are lowered; B’s vertical direction is not definite."}
+  ]
+}

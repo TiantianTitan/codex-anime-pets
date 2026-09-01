@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 23 PERSONNAGES</code>
-  <code>✦ 24 ÉDITIONS</code>
+  <code>✦ 24 PERSONNAGES</code>
+  <code>✦ 25 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -187,6 +187,14 @@
       <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
     </td>
     <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 24 · PILIER DE L'AMOUR ✦</sub><br>
+      <img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"><br>
+      <b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b><br>
+      <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -752,6 +760,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>💗 DOSSIER 24 — Mitsuri Kanroji · 甘露寺蜜璃</b>　<sub>Pilier de l'Amour / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="190" alt="Mitsuri Kanroji au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> deux épaisses tresses passant du rose au vert citron, des yeux vert vif, un haori blanc sur son uniforme sombre, des chaussettes rayées vertes et des sandales<br>
+      <b>Présence :</b> chaleureuse, spontanée et pleine d'élan, avec une tendresse aussi franche et solide que sa détermination<br><br>
+      <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="others/mitsuri-kanroji/qa/contact-sheet.png">Planche d'animations</a> ·
+      <a href="others/mitsuri-kanroji/qa/direction-qa.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -784,6 +813,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Aventurine · 砂金 | 2D | `aventurine` | [Télécharger](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
 | Ganyu · 甘雨 | 2D | `ganyu` | [Télécharger](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Sunday · 星期日 | 2D | `sunday` | [Télécharger](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
+| Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Télécharger](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

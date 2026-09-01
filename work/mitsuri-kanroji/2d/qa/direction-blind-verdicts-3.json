@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's nose and face plane shift left; B's shift right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A shows a leftward nose offset; B shows a rightward offset."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's visible face turns left; B's turns right."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"Strong profile nose and face-surface turn left in A, right in B."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"Despite the downward pitch, A's face plane points left and B's right."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A's nose sits left of head center; B's sits right."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Downward faces retain a readable leftward turn in A and rightward turn in B."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A's head and pupils angle downward; B exposes more lower face with an upward gaze."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's chin and pupil placement read upward; B's eyelids and face plane read downward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's pupils and bowed face point down; B's lifted chin and pupils point up."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A's raised chin and open lower face read up; B's lowered eyelids and face plane read down."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A has a lowered face and pupils; B has a raised face and pupils."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's eye line and nose angle slope down; B's chin lift and eye line read up."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's face is bowed downward; B's face is lifted upward."}
+  ]
+}

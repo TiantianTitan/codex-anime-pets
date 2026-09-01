@@ -1,0 +1,57 @@
+{
+  "row": 9,
+  "verdict": "pass",
+  "registration_scale": 0.5012658227848101,
+  "edge_review": "pass: all eight registered full bodies retain visible outer and inter-cell padding with no clipped hair, braid, sleeve, hand, foot, or sandal pixels",
+  "directions": {
+    "000": {
+      "expected": "up",
+      "observed": "broadly frontal face with both green irises high, lower sclera visible, brows lifted, and chin raised",
+      "reason": "the vertical gaze cue is clearly above neutral at normal pet size",
+      "verdict": "pass"
+    },
+    "022.5": {
+      "expected": "up-right",
+      "observed": "high irises and raised chin remain while the nose, pupils, and face plane begin moving screen-right",
+      "reason": "both the upward and emerging horizontal-right axes are visible",
+      "verdict": "pass"
+    },
+    "045": {
+      "expected": "up-right",
+      "observed": "clear screen-right three-quarter head turn with elevated eyes and chin",
+      "reason": "the diagonal preserves strong up and right cues without changing body registration",
+      "verdict": "pass"
+    },
+    "067.5": {
+      "expected": "up-right",
+      "observed": "stronger screen-right facial projection with the pupils still above neutral",
+      "reason": "the pose advances monotonically toward the right cardinal while retaining a readable upper axis",
+      "verdict": "pass"
+    },
+    "090": {
+      "expected": "screen-right",
+      "observed": "nose tip, pupils, chin, and face surface project unmistakably to the image-right side of head center",
+      "reason": "the cardinal matches the approved 090 family and visibly opposes the approved 270 family",
+      "verdict": "pass"
+    },
+    "112.5": {
+      "expected": "down-right",
+      "observed": "screen-right profile remains dominant while the irises and chin begin descending",
+      "reason": "the right axis remains strong and the first downward increment is visible",
+      "verdict": "pass"
+    },
+    "135": {
+      "expected": "down-right",
+      "observed": "lowered irises and a tucked chin combine with a clear screen-right face bias",
+      "reason": "both required diagonal axes are readable and continue smoothly from 112.5",
+      "verdict": "pass"
+    },
+    "157.5": {
+      "expected": "down-right",
+      "observed": "the gaze is near-down with low irises and tucked chin while the nose and face retain a subtle screen-right projection",
+      "reason": "the pose lands one even step before the approved 180 down family without reverting or overshooting",
+      "verdict": "pass"
+    }
+  },
+  "continuity": "pass: the registered clockwise progression is monotonic from up through screen-right toward down; feet, scale, costume, facial proportions, and braid attachments remain stable with no adjacent reversal or conspicuous snap"
+}

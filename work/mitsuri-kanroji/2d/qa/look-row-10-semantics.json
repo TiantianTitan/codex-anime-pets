@@ -1,0 +1,57 @@
+{
+  "row": 10,
+  "verdict": "pass",
+  "registration_scale": 0.5012658227848101,
+  "edge_review": "pass: shared-scale extended assembly completed without final-cell edge failures; all hair, braids, sleeves, hands, feet, and sandals retain visible padding",
+  "directions": {
+    "180": {
+      "expected": "down",
+      "observed": "broadly frontal face remains visible with low green irises, tucked chin, and more crown visible",
+      "reason": "the pose matches the approved 180 family and continues one even step after row 9 direction 157.5",
+      "verdict": "pass"
+    },
+    "202.5": {
+      "expected": "down-left",
+      "observed": "low gaze and tucked chin remain while the pupils, nose, and face surface begin moving screen-left",
+      "reason": "both the downward and emerging horizontal-left axes are visible",
+      "verdict": "pass"
+    },
+    "225": {
+      "expected": "down-left",
+      "observed": "clear screen-left head turn combines with low irises and a lowered chin",
+      "reason": "the compact silhouette preserves both diagonal axes and now clears deterministic cell-edge registration",
+      "verdict": "pass"
+    },
+    "247.5": {
+      "expected": "down-left",
+      "observed": "stronger screen-left facial projection remains visibly below neutral",
+      "reason": "the pose advances monotonically toward the left cardinal without a body turntable or rear view",
+      "verdict": "pass"
+    },
+    "270": {
+      "expected": "screen-left",
+      "observed": "nose tip, pupil, chin, and face plane project unmistakably to the image-left side of head center",
+      "reason": "the cardinal matches the approved 270 family and visibly opposes row 9 direction 090",
+      "verdict": "pass"
+    },
+    "292.5": {
+      "expected": "up-left",
+      "observed": "screen-left facial projection remains while the eye and chin begin rising",
+      "reason": "the left axis is strong and the first upward increment is readable",
+      "verdict": "pass"
+    },
+    "315": {
+      "expected": "up-left",
+      "observed": "raised eyes and chin combine with a clear screen-left face bias while both eyes become readable",
+      "reason": "both diagonal axes remain visible as the head returns gradually toward frontal",
+      "verdict": "pass"
+    },
+    "337.5": {
+      "expected": "up-left",
+      "observed": "near-frontal face with high irises and raised chin retains a subtle screen-left nose and gaze bias",
+      "reason": "the pose lands one even step before row 9 direction 000 without becoming neutral or reversing",
+      "verdict": "pass"
+    }
+  },
+  "continuity": "pass: the progression is monotonic from down through screen-left toward up, all faces remain visible, feet and scale stay registered, braid attachments remain stable, and the row closes smoothly toward 000 without rear views, whole-body rotation, or adjacent reversal"
+}

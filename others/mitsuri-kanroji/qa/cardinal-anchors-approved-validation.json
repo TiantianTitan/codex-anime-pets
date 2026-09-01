@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "source": "/home/ubuntu23/.codex/generated_images/01a05d31-d919-7470-b2a8-e44d3a8ac154/exec-03689adb-4960-4d4b-b034-e15eec8ebdb5.png",
+  "approved_strip": "decoded/look-anchors-approved.png",
+  "checks": {
+    "identity_consistency": "pass: pink-to-lime twin braids, green eyes, white haori, dark uniform, striped socks, and sticker proportions remain consistent",
+    "scale_and_baseline": "pass: all four full bodies share a stable foot baseline and practical pet scale",
+    "braid_attachment": "pass: both braids remain attached and follow the head without detached pieces",
+    "000_up": "pass: broadly frontal face, raised chin, high green irises, and visible lower sclera read unmistakably upward",
+    "090_screen_right": "pass: nose tip, pupils, face plane, and chin project to the viewer-right side of head center",
+    "180_down": "pass: broadly frontal face, tucked chin, low irises, and visible crown read unmistakably downward",
+    "270_screen_left": "pass: nose tip, pupils, face plane, and chin project to the viewer-left side of head center as the clear inverse of 090",
+    "edge_contact": "pass: deterministic extraction reports zero used pixels on all slot edges"
+  },
+  "verdict": "approved"
+}
