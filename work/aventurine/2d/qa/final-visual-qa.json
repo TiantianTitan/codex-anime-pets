@@ -1,0 +1,12 @@
+{
+  "verdict": "pass",
+  "major_failures": [],
+  "warnings": [
+    "Look-direction cadence is slightly more pronounced at 225->247.5->270 and 292.5->315 under enlarged inspection, but remains stable and ordered at normal pet size."
+  ],
+  "evidence": {
+    "standard": "All nine standard rows are present, readable, and visually stable. Aventurine's identity, asymmetric outfit, coat tails, gloves, and attached tassels remain consistent; no visible cropping, alpha holes, detached effects, opaque key panels, or baseline-breaking pops. Running-right and running-left are correct opposing motions.",
+    "directions": "The four cardinals are unmistakable and the 16-direction loop progresses through the intended quadrants without visible reversal. Intermediate up cues are subtle but readable in sequence.",
+    "structure": "Validation confirms a v2 1536x2288 RGBA WebP atlas with 8 columns, 11 rows, all required cells populated, zero validation errors or warnings, and preserved alpha after authoritative despill."
+  }
+}

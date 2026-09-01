@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 20 PERSONNAGES</code>
-  <code>✦ 21 ÉDITIONS</code>
+  <code>✦ 21 PERSONNAGES</code>
+  <code>✦ 22 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -165,13 +165,19 @@
       <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="Portail animé du prochain compagnon mystère"></a><br>
-      <b>「 Qui nous rejoindra ? 」</b><br>
-      <sub>◇ Apportez une référence · Faites éclore un compagnon ◇</sub>
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 21 · STRATÈGE DORÉ ✦</sub><br>
+      <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Aventurine"><br>
+      <b>「 Aventurine · 砂金 」</b><br>
+      <sub>◇ Élégance calculée · Éclat doré · Pari maîtrisé ◇</sub>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="112" alt="Portail animé du prochain compagnon mystère"></a><br>
+  <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
+  <b>「 Qui nous rejoindra ? 」</b>　<sub>Apportez une référence · Faites éclore un compagnon</sub>
+</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -667,6 +673,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>💎 DOSSIER 21 — Aventurine · 砂金</b>　<sub>Stratège doré / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="190" alt="Aventurine au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux blond sable dégradés, yeux passant du magenta au cyan, boucle d'oreille turquoise en goutte, col de fourrure blanc, veste ajustée noire, turquoise et or, pantalon blanc, gants noirs, bracelet violet, ornements de taille et pompons bleus attachés au manteau<br>
+      <b>Présence :</b> posée et malicieusement assurée, avec le calme de quelqu'un qui semble déjà connaître les probabilités avant de miser<br><br>
+      <a href="Aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/aventurine/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/aventurine/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -696,6 +723,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Ruan Mei · 阮·梅 | 2D | `ruan-mei` | [Télécharger](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
 | Kaedehara Kazuha · 枫原万叶 | 2D | `kazuha-chibi` | [Télécharger](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Hoshimi Miyabi · 星见雅 | 2D | `miyabi` | [Télécharger](Miyabi/miyabi-2d-codex-pet-v2.zip) |
+| Aventurine · 砂金 | 2D | `aventurine` | [Télécharger](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

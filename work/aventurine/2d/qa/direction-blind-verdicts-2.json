@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-3","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left"},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left"},
+    {"pair":"vertical-1","A":"up","B":"down"},
+    {"pair":"vertical-2","A":"down","B":"up"},
+    {"pair":"vertical-3","A":"up","B":"down"},
+    {"pair":"vertical-4","A":"up","B":"down"},
+    {"pair":"vertical-5","A":"down","B":"up"},
+    {"pair":"vertical-6","A":"up","B":"down"},
+    {"pair":"vertical-7","A":"down","B":"up"}
+  ]
+}

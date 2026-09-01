@@ -1,0 +1,18 @@
+{
+  "verdict": "pass",
+  "registered_source": "qa/look-row-9-registered.png",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "horizontal": "centered", "vertical": "up", "evidence": "High irises and lifted chin in a broad near-front pose."},
+    {"degree": "022.5", "verdict": "pass", "horizontal": "slight screen-right", "vertical": "up", "evidence": "Eyes and face begin a small rightward turn while retaining the upward cue."},
+    {"degree": "045", "verdict": "pass", "horizontal": "screen-right", "vertical": "up", "evidence": "Rightward facial projection increases evenly and the high-eye cue remains visible."},
+    {"degree": "067.5", "verdict": "pass", "horizontal": "strong screen-right", "vertical": "slight up", "evidence": "Near-profile right turn approaches the approved 090 family without reversal."},
+    {"degree": "090", "verdict": "pass", "horizontal": "screen-right", "vertical": "level", "evidence": "Nose, chin, facial plane, and pupil project unambiguously toward image-right."},
+    {"degree": "112.5", "verdict": "pass", "horizontal": "strong screen-right", "vertical": "slight down", "evidence": "The rightward turn is retained while the eyelids and irises begin descending."},
+    {"degree": "135", "verdict": "pass", "horizontal": "screen-right", "vertical": "down", "evidence": "Head returns toward front in one even step and the downward cue strengthens."},
+    {"degree": "157.5", "verdict": "pass", "horizontal": "slight screen-right", "vertical": "down", "evidence": "Broad near-front right-down pose forms the required step immediately before 180."}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "evidence": "Feet, lower body, scale, baseline, attached costume, and handed details remain registered; head and eye motion advance without reversal or snap from 000 through 157.5."
+  }
+}

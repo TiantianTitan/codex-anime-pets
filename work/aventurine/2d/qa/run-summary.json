@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d",
+  "spritesheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/final/spritesheet-extended.webp",
+  "validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/final/validation-extended.json",
+  "chroma_despill": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/look-directions.png",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/blind-review-resolution.json",
+  "continuity": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/look-continuity.json",
+  "review": "/home/ubuntu23/Bureau/codex-anime-pets/work/aventurine/2d/qa/review.json",
+  "package": "/home/ubuntu23/.codex/pets/aventurine"
+}

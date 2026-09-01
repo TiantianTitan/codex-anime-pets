@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "reviewed_at_normal_size": true,
+  "directions": [
+    {"degree":"000","expected":"up","verdict":"pass","horizontal":{"observed":"center","evidence":"Broad near-front pose without lateral turn."},"vertical":{"observed":"up","evidence":"Lifted head presentation and high/upward gaze visibly oppose 180; confirmed by three blind reviewers and an isolated cardinal tiebreak."}},
+    {"degree":"022.5","expected":"up-right","verdict":"warning","horizontal":{"observed":"screen-right","evidence":"Small rightward eye and face shift begins the clockwise arc."},"vertical":{"observed":"subtle up","evidence":"Up cue remains visible but is weaker than the horizontal cue."}},
+    {"degree":"045","expected":"up-right","verdict":"warning","horizontal":{"observed":"screen-right","evidence":"Rightward face and pupil displacement is clear."},"vertical":{"observed":"subtle up","evidence":"Raised presentation remains but is less distinct than at 000."}},
+    {"degree":"067.5","expected":"up-right","verdict":"warning","horizontal":{"observed":"screen-right","evidence":"Strong rightward three-quarter turn approaches 090 without reversal."},"vertical":{"observed":"subtle up","evidence":"Horizontal profile dominates the remaining upward eye cue."}},
+    {"degree":"090","expected":"right","verdict":"pass","horizontal":{"observed":"screen-right","evidence":"Nose, chin, facial plane, and pupil project unmistakably toward image-right."},"vertical":{"observed":"level","evidence":"No incorrect up/down bias."}},
+    {"degree":"112.5","expected":"down-right","verdict":"pass","horizontal":{"observed":"screen-right","evidence":"Rightward turn remains clear after 090."},"vertical":{"observed":"down","evidence":"Lowered iris and eyelid treatment begins the descent."}},
+    {"degree":"135","expected":"down-right","verdict":"pass","horizontal":{"observed":"screen-right","evidence":"Face remains in the correct right quadrant while returning toward front."},"vertical":{"observed":"down","evidence":"Lowered gaze and tucked presentation are clear."}},
+    {"degree":"157.5","expected":"down-right","verdict":"pass","horizontal":{"observed":"slight screen-right","evidence":"Near-front pose preserves the final rightward step before 180."},"vertical":{"observed":"down","evidence":"Low iris and lowered eyelids lead directly into 180."}},
+    {"degree":"180","expected":"down","verdict":"pass","horizontal":{"observed":"center","evidence":"Broad near-front pose without lateral turn."},"vertical":{"observed":"down","evidence":"Low gaze and down-pitched face visibly oppose 000; unanimously confirmed in the hard blind pair."}},
+    {"degree":"202.5","expected":"down-left","verdict":"pass","horizontal":{"observed":"screen-left","evidence":"Face begins a modest leftward turn immediately after 180."},"vertical":{"observed":"down","evidence":"Downward gaze remains visible."}},
+    {"degree":"225","expected":"down-left","verdict":"pass","horizontal":{"observed":"screen-left","evidence":"Leftward face and eye turn advances from 202.5."},"vertical":{"observed":"down","evidence":"Down cue remains readable."}},
+    {"degree":"247.5","expected":"down-left","verdict":"warning","horizontal":{"observed":"screen-left","evidence":"Strong left three-quarter pose approaches 270 in the correct quadrant."},"vertical":{"observed":"down","evidence":"Down cue remains visible; continuity metric reports a larger-than-median step."}},
+    {"degree":"270","expected":"left","verdict":"pass","horizontal":{"observed":"screen-left","evidence":"Full left profile unmistakably opposes 090 and passes the hard blind pair."},"vertical":{"observed":"level","evidence":"No incorrect up/down bias."}},
+    {"degree":"292.5","expected":"up-left","verdict":"warning","horizontal":{"observed":"screen-left","evidence":"Left profile remains clear after 270."},"vertical":{"observed":"subtle up","evidence":"Up cue is present but horizontal profile dominates."}},
+    {"degree":"315","expected":"up-left","verdict":"warning","horizontal":{"observed":"screen-left","evidence":"Returns toward front while preserving a leftward eye/face bias."},"vertical":{"observed":"subtle up","evidence":"Up component is readable in ordered context; transition from 292.5 is a cadence warning."}},
+    {"degree":"337.5","expected":"up-left","verdict":"warning","horizontal":{"observed":"slight screen-left","evidence":"Near-front pose retains the last leftward step before 000."},"vertical":{"observed":"up","evidence":"Raised eye/head presentation closes the loop toward 000."}}
+  ],
+  "continuity": {
+    "verdict": "warning",
+    "evidence": "The ordered loop keeps identity, hand gesture, baseline, scale, attachment, and principal direction order. Metric outliers at 225->247.5, 247.5->270, 292.5->315, and the two row boundaries are visible cadence changes but not reversals, clipping, scale pops, or broken attachments."
+  }
+}

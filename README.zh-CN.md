@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 20 个角色</code>
-  <code>✦ 21 个版本</code>
+  <code>✦ 21 个角色</code>
+  <code>✦ 22 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -165,13 +165,19 @@
       <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
     </td>
     <td align="center" width="33%">
-      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="145" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>「 下一位会是谁？ 」</b><br>
-      <sub>◇ 带来参考图 · 孵化新的伙伴 ◇</sub>
+      <sub>✦ 新角色登场 · 角色 21 · 金石谋士 ✦</sub><br>
+      <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"><br>
+      <b>「 砂金 · Aventurine 」</b><br>
+      <sub>◇ 从容下注 · 金色锋芒 · 胜券在握 ◇</sub>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="112" alt="下一位神秘伙伴的动态召唤门"></a><br>
+  <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+  <b>「 下一位会是谁？ 」</b>　<sub>带来参考图 · 孵化新的伙伴</sub>
+</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -667,6 +673,27 @@
 
 </details>
 
+<details open>
+<summary><b>💎 档案 21 — 砂金 · Aventurine</b>　<sub>金石谋士 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="190" alt="砂金的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>层次分明的浅金短发、洋红到青蓝渐变的眼睛、青色水滴耳饰、白色毛领、黑青金修身外套、白色长裤、黑手套、紫色手链、腰侧饰件与连在衣摆上的蓝色流苏<br>
+      <b>气质：</b>从容又带一点玩味，像是早已看清筹码与胜算，仍愿意微笑着等待下一局<br><br>
+      <a href="Aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/aventurine/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/aventurine/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -696,6 +723,7 @@
 | 阮·梅 · Ruan Mei | 2D | `ruan-mei` | [下载 ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
 | 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
+| 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

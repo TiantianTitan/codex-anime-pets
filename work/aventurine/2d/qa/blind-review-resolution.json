@@ -1,0 +1,17 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "Blind review warnings on several intermediate horizontal and vertical axes.",
+    "One labeled reviewer called 000 ambiguous while all three isolated blind reviewers classified the hard 000/180 pair correctly."
+  ],
+  "evidence": [
+    "direction-blind-validation.json is ok:true with no errors or unconfirmed hard gates.",
+    "Three isolated blind reviewers unanimously classified 000 as up, 180 as down, 090 as screen-right, and 270 as screen-left.",
+    "An isolated normal-size cardinal tiebreak passed all four cardinals and found only subtle intermediate up-arc cues.",
+    "Parent labeled review confirms every intermediate remains in the intended principal quadrant and the ordered loop contains no reversal.",
+    "look-continuity.json reports warnings only, no alpha holes or structural failure; identity, hand pose, scale, baseline, and attachments remain continuous."
+  ],
+  "notes": "Warnings are retained as QA evidence. No actual cardinal ambiguity or labeled wrong-quadrant failure is being waived."
+}

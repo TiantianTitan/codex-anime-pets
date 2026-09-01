@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 20 キャラクター</code>
-  <code>✦ 21 エディション</code>
+  <code>✦ 21 キャラクター</code>
+  <code>✦ 22 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -66,9 +66,15 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   <tr>
     <td align="center" width="33%"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 楓原万葉 · Kaedehara Kazuha 」</b><br><sub>◇ 楓の静けさ · 旅の風雅 · 風に宿る決意 ◇</sub></td>
     <td align="center" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 星見雅 · Hoshimi Miyabi 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
-    <td align="center" width="33%"><a href="#character-list"><img src="assets/readme/next-companion.svg" width="145" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>◇ 参考画像から、新しい仲間を孵化させよう ◇</sub></td>
+    <td align="center" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン · Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="#character-list"><img src="assets/readme/next-companion.svg" width="112" alt="次のキャラクター"></a><br>
+  <sub>✦ 次の召喚 · あなたの選択 ✦</sub><br>
+  <b>「 次は誰？ 」</b>　<sub>参考画像から、新しい仲間を孵化させよう</sub>
+</div>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
@@ -100,6 +106,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | ルアン・メェイ · Ruan Mei | 2D | `ruan-mei` | [ZIP](Ruan%20Mei/ruan-mei-2d-codex-pet-v2.zip) |
 | 楓原万葉 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [ZIP](Kazuha%20chibi/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 星見雅 · Hoshimi Miyabi | 2D | `miyabi` | [ZIP](Miyabi/miyabi-2d-codex-pet-v2.zip) |
+| アベンチュリン · Aventurine | 2D | `aventurine` | [ZIP](Aventurine/aventurine-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

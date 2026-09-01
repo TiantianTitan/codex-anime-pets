@@ -1,0 +1,13 @@
+{
+  "verdict": "pass",
+  "order": ["000", "090", "180", "270"],
+  "repairs": {
+    "090": "Replaced the original ambiguous/reversed 090 cell with a dedicated screen-right anchor."
+  },
+  "checks": {
+    "000": "High irises and lifted chin; body and baseline remain fixed.",
+    "090": "Nose, chin, visible facial plane, and pupils project toward screen-right; rear hair mass stays screen-left.",
+    "180": "Low irises and tucked chin; body and baseline remain fixed.",
+    "270": "Nose, chin, visible facial plane, and pupil project toward screen-left and visibly oppose 090."
+  }
+}

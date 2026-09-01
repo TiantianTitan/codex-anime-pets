@@ -1,0 +1,6 @@
+{
+  "overall": "pass",
+  "cardinals": {"000":"pass","090":"pass","180":"pass","270":"pass"},
+  "up_arc": {"right_half":"warning","left_half":"warning"},
+  "evidence": "000 visibly opposes 180 through head pitch, iris placement, and eyelid presentation; 090 and 270 are unambiguous opposing profiles. Upward diagonal cues are present but subtle near strong horizontal turns."
+}
