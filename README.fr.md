@@ -96,7 +96,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ PERSONNAGE 02 ✦</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"></a><br>
-      <b>「 Dan&nbsp;Heng&nbsp;·&nbsp;Imbibitor&nbsp;Lunae 」</b><br>
+      <b>「 Dan&nbsp;Heng 」</b><br>
       <sub>◇ Élégance froide · Présence paisible ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -182,7 +182,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ PERSONNAGE 15 ✦</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"></a><br>
-      <b>「 Kevin&nbsp;Kaslana 」</b><br>
+      <b>「 Kevin 」</b><br>
       <sub>◇ Résolution glaciale · Puissance silencieuse · Volonté inébranlable ◇</sub>
     </td>
   </tr>
@@ -190,7 +190,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ PERSONNAGE 16 ✦</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"></a><br>
-      <b>「 Kamisato&nbsp;Ayaka 」</b><br>
+      <b>「 Ayaka 」</b><br>
       <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -210,13 +210,13 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ PERSONNAGE 19 ✦</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaedehara Kazuha"></a><br>
-      <b>「 Kaedehara&nbsp;Kazuha 」</b><br>
+      <b>「 Kazuha 」</b><br>
       <sub>◇ Silence d'érable · Grâce vagabonde · Résolution portée par le vent ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ PERSONNAGE 20 ✦</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hoshimi Miyabi"></a><br>
-      <b>「 Hoshimi&nbsp;Miyabi 」</b><br>
+      <b>「 Miyabi 」</b><br>
       <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -242,7 +242,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ NOUVEAU ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"></a><br>
-      <b>「 Mitsuri&nbsp;Kanroji 」</b><br>
+      <b>「 Mitsuri 」</b><br>
       <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
     </td>
   </tr>
@@ -256,7 +256,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ NOUVEAU ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"></a><br>
-      <b>「 Otto&nbsp;Apocalypse 」</b><br>
+      <b>「 Otto 」</b><br>
       <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">

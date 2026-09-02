@@ -96,7 +96,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ CHARACTER 02 ✦</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Dan Heng Imbibitor Lunae idle animation"></a><br>
-      <b>「 Dan&nbsp;Heng&nbsp;·&nbsp;Imbibitor&nbsp;Lunae 」</b><br>
+      <b>「 Dan&nbsp;Heng 」</b><br>
       <sub>◇ Cool elegance · Quiet presence ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -182,7 +182,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ CHARACTER 15 ✦</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Kevin Kaslana idle animation"></a><br>
-      <b>「 Kevin&nbsp;Kaslana 」</b><br>
+      <b>「 Kevin 」</b><br>
       <sub>◇ Icy resolve · Quiet power · Unshaken will ◇</sub>
     </td>
   </tr>
@@ -190,7 +190,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ CHARACTER 16 ✦</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Kamisato Ayaka idle animation"></a><br>
-      <b>「 Kamisato&nbsp;Ayaka 」</b><br>
+      <b>「 Ayaka 」</b><br>
       <sub>◇ Poised grace · Frost-blue elegance · Quiet warmth ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -210,13 +210,13 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ CHARACTER 19 ✦</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Kaedehara Kazuha idle animation"></a><br>
-      <b>「 Kaedehara&nbsp;Kazuha 」</b><br>
+      <b>「 Kazuha 」</b><br>
       <sub>◇ Maple hush · Wandering grace · Windborne resolve ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ CHARACTER 20 ✦</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Hoshimi Miyabi idle animation"></a><br>
-      <b>「 Hoshimi&nbsp;Miyabi 」</b><br>
+      <b>「 Miyabi 」</b><br>
       <sub>◇ Still focus · Scarlet gaze · Quiet swordcraft ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -242,7 +242,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ NEW ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Mitsuri Kanroji idle animation"></a><br>
-      <b>「 Mitsuri&nbsp;Kanroji 」</b><br>
+      <b>「 Mitsuri 」</b><br>
       <sub>◇ Openhearted warmth · Bright spirit · Fearless affection ◇</sub>
     </td>
   </tr>
@@ -256,7 +256,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ NEW ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"></a><br>
-      <b>「 Otto&nbsp;Apocalypse 」</b><br>
+      <b>「 Otto 」</b><br>
       <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
