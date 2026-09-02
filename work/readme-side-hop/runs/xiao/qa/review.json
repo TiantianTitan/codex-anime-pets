@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18734,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 658
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14258,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 424
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13446,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 387
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12048,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12430,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 343
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14318,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 431
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16995,
+          "bbox": [
+            5,
+            17,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 536
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/xiao/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18665,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 571
+        }
+      ]
+    }
+  ]
+}

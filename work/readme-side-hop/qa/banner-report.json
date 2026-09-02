@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/assets/readme/companion-hop-parade.gif",
+  "dimensions": [
+    1600,
+    230
+  ],
+  "frame_count": 230,
+  "frame_duration_ms": 60,
+  "duration_ms": 13800,
+  "blank_start_frames": 22,
+  "blank_end_frames": 18,
+  "starts_empty": true,
+  "ends_empty": true,
+  "travel_direction": "screen-left-to-screen-right",
+  "characters": [
+    "xiao",
+    "furina",
+    "hu-tao",
+    "firefly",
+    "robin"
+  ],
+  "unique_source_poses_per_character": 8,
+  "sha256": "5448b0096d4707049e43d4714e3a21323baf16b53dabaeb8cb491dbce459f160",
+  "bytes": 3448526
+}

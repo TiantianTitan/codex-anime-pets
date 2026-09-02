@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15474,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16714,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16775,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15461,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13615,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13407,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17058,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13744,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        }
+      ]
+    }
+  ]
+}

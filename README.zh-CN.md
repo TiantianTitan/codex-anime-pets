@@ -24,6 +24,10 @@
 
 > **仅限桌面端：** 自定义宠物包目前只支持 Codex 桌面应用。Codex 移动端无法显示宠物，也不支持在手机上安装或跨设备同步宠物。
 
+<p align="center">
+  <img src="assets/readme/companion-run-parade.gif" width="100%" alt="七位动画角色在月色下排成队列从右向左奔跑">
+</p>
+
 <div align="center">
 
 ## ✦ 动起来的小瞬间 ✦
@@ -34,34 +38,34 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="流萤跳跃"><br>
       <b>跳跃</b><br>
       <sub>满怀希望地轻轻跃起，银发也在最高处扬起</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="奥托·阿波卡利斯审阅结果"><br>
       <b>审阅</b><br>
       <sub>从容看过结果，也把下一步悄悄算在心里</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="星期日挥手"><br>
       <b>挥手</b><br>
       <sub>星期日带着安静而庄重的从容，轻轻向你致意</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="雷电芽衣专注工作"><br>
       <b>处理中</b><br>
       <sub>任务进行时的安静专注</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="魈等待输入"><br>
       <b>等待</b><br>
       <sub>认真等你做出下一步决定</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="知更鸟挥手"><br>
       <b>招呼</b><br>
       <sub>轻盈而从容的舞台式问候</sub>
@@ -77,188 +81,188 @@
 
 ## ✦ 选择你的伙伴 ✦
 
-<sub>每张角色图都在悄悄动着。点击角色图或名字，即可前往对应档案。</sub>
+<sub>每张角色图都在悄悄动着。点击角色图，即可前往对应档案。</sub>
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 01 · 仙人 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 01 ✦</sub><br>
       <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈的待机动画"></a><br>
-      <a href="#character-01-xiao"><b>「 魈 · Xiao 」</b></a><br>
+      <b>「 魈<br>Xiao 」</b><br>
       <sub>◇ 警觉 · 克制 · 仙家气息 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 02 · 持明龙尊 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 02 ✦</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒饮月的待机动画"></a><br>
-      <a href="#character-02-dan-heng-imbibitor-lunae"><b>「 丹恒·饮月 · Imbibitor Lunae 」</b></a><br>
+      <b>「 丹恒·饮月<br>Imbibitor Lunae 」</b><br>
       <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 03 · 神策将军 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 03 ✦</sub><br>
       <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元的待机动画"></a><br>
-      <a href="#character-03-jing-yuan"><b>「 景元 · Jing Yuan 」</b></a><br>
+      <b>「 景元<br>Jing Yuan 」</b><br>
       <sub>◇ 松弛从容 · 始终敏锐 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 04 · 往生堂客卿 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 04 ✦</sub><br>
       <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="钟离的待机动画"></a><br>
-      <a href="#character-04-zhongli"><b>「 钟离 · Zhongli 」</b></a><br>
+      <b>「 钟离<br>Zhongli 」</b><br>
       <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 05 · 女武神 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 05 ✦</sub><br>
       <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷电芽衣的待机动画"></a><br>
-      <a href="#character-05-raiden-mei"><b>「 雷电芽衣 · Raiden Mei 」</b></a><br>
+      <b>「 雷电芽衣<br>Raiden Mei 」</b><br>
       <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 06 · 蛇柱 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 06 ✦</sub><br>
       <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"></a><br>
-      <a href="#character-06-obanai"><b>「 伊黑小芭内 · Obanai 」</b></a><br>
+      <b>「 伊黑小芭内<br>Obanai 」</b><br>
       <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 07 · 宫司大人 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 07 ✦</sub><br>
       <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子的待机动画"></a><br>
-      <a href="#character-07-yae-miko"><b>「 八重神子 · Yae Miko 」</b></a><br>
+      <b>「 八重神子<br>Yae Miko 」</b><br>
       <sub>◇ 从容优雅 · 狐系灵动 · 藏着一点坏心思 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 08 · 枫丹之星 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 08 ✦</sub><br>
       <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="芙宁娜的待机动画"></a><br>
-      <a href="#character-08-furina"><b>「 芙宁娜 · Furina 」</b></a><br>
+      <b>「 芙宁娜<br>Furina 」</b><br>
       <sub>◇ 舞台魅力 · 水色雅意 · 灵动俏皮 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 09 · 巡海游侠 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 09 ✦</sub><br>
       <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉的待机动画"></a><br>
-      <a href="#character-09-acheron"><b>「 黄泉 · Acheron 」</b></a><br>
+      <b>「 黄泉<br>Acheron 」</b><br>
       <sub>◇ 沉静克制 · 紫色风暴 · 遥远目光 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 10 · 鲨希人女仆 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 10 ✦</sub><br>
       <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="艾莲·乔的待机动画"></a><br>
-      <a href="#character-10-ellen-joe"><b>「 艾莲·乔 · Ellen Joe 」</b></a><br>
+      <b>「 艾莲·乔<br>Ellen Joe 」</b><br>
       <sub>◇ 慵懒从容 · 目光锐利 · 行动迅捷 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 11 · 第七十七代堂主 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 11 ✦</sub><br>
       <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃的待机动画"></a><br>
-      <a href="#character-11-hu-tao"><b>「 胡桃 · Hu Tao 」</b></a><br>
+      <b>「 胡桃<br>Hu Tao 」</b><br>
       <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 12 · 天环族歌者 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 12 ✦</sub><br>
       <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="知更鸟的待机动画"></a><br>
-      <a href="#character-12-robin"><b>「 知更鸟 · Robin 」</b></a><br>
+      <b>「 知更鸟<br>Robin 」</b><br>
       <sub>◇ 宁静优雅 · 天籁歌声 · 羽翼轻盈 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 13 · 骑兵队长 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 13 ✦</sub><br>
       <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="凯亚的待机动画"></a><br>
-      <a href="#character-13-kaeya"><b>「 凯亚 · Kaeya 」</b></a><br>
+      <b>「 凯亚<br>Kaeya 」</b><br>
       <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 14 · 星核猎手 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 14 ✦</sub><br>
       <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="流萤的待机动画"></a><br>
-      <a href="#character-14-firefly"><b>「 流萤 · Firefly 」</b></a><br>
+      <b>「 流萤<br>Firefly 」</b><br>
       <sub>◇ 温柔希望 · 安静勇气 · 自己选择的人生 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 15 · 世界蛇领袖 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 15 ✦</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
-      <a href="#character-15-kevin-kaslana"><b>「 凯文·卡斯兰娜 · Kevin Kaslana 」</b></a><br>
+      <b>「 凯文·卡斯兰娜<br>Kevin Kaslana 」</b><br>
       <sub>◇ 冰冷决意 · 沉静力量 · 意志不移 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 16 · 白鹭公主 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 16 ✦</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里绫华的待机动画"></a><br>
-      <a href="#character-16-kamisato-ayaka"><b>「 神里绫华 · Kamisato Ayaka 」</b></a><br>
+      <b>「 神里绫华<br>Kamisato Ayaka 」</b><br>
       <sub>◇ 端庄雅致 · 霜蓝清韵 · 温柔从容 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 17 · 星核猎手 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 17 ✦</sub><br>
       <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃的待机动画"></a><br>
-      <a href="#character-17-blade"><b>「 刃 · Blade 」</b></a><br>
+      <b>「 刃<br>Blade 」</b><br>
       <sub>◇ 锋芒内敛 · 赤色剑意 · 执念不灭 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 18 · 天才俱乐部学者 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 18 ✦</sub><br>
       <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="阮·梅的待机动画"></a><br>
-      <a href="#character-18-ruan-mei"><b>「 阮·梅 · Ruan Mei 」</b></a><br>
+      <b>「 阮·梅<br>Ruan Mei 」</b><br>
       <sub>◇ 清雅洞见 · 花意流转 · 弦音从容 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 19 · 浪人武士 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 19 ✦</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"></a><br>
-      <a href="#character-19-kaedehara-kazuha"><b>「 枫原万叶 · Kaedehara Kazuha 」</b></a><br>
+      <b>「 枫原万叶<br>Kaedehara Kazuha 」</b><br>
       <sub>◇ 枫意清寂 · 行旅从容 · 风中坚韧 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 20 · 狐耳剑士 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 20 ✦</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"></a><br>
-      <a href="#character-20-hoshimi-miyabi"><b>「 星见雅 · Hoshimi Miyabi 」</b></a><br>
+      <b>「 星见雅<br>Hoshimi Miyabi 」</b><br>
       <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 21 · 金石谋士 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 21 ✦</sub><br>
       <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"></a><br>
-      <a href="#character-21-aventurine"><b>「 砂金 · Aventurine 」</b></a><br>
+      <b>「 砂金<br>Aventurine 」</b><br>
       <sub>◇ 从容下注 · 金色锋芒 · 胜券在握 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 角色 22 · 月海亭秘书 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 22 ✦</sub><br>
       <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"></a><br>
-      <a href="#character-22-ganyu"><b>「 甘雨 · Ganyu 」</b></a><br>
+      <b>「 甘雨<br>Ganyu 」</b><br>
       <sub>◇ 温柔耐心 · 霜色清雅 · 仙麟静意 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 角色 23 · 光环指挥家 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 角色 23 ✦</sub><br>
       <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="星期日的待机动画"></a><br>
-      <a href="#character-23-sunday"><b>「 星期日 · Sunday 」</b></a><br>
+      <b>「 星期日<br>Sunday 」</b><br>
       <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 新角色登场 · 角色 24 · 恋柱 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
-      <a href="#character-24-mitsuri-kanroji"><b>「 甘露寺蜜璃 · Mitsuri Kanroji 」</b></a><br>
+      <b>「 甘露寺蜜璃<br>Mitsuri Kanroji 」</b><br>
       <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <sub>✦ 新角色登场 · 角色 25 · 命运织网者 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"></a><br>
-      <a href="#character-25-kafka"><b>「 卡芙卡 · Kafka 」</b></a><br>
+      <b>「 卡芙卡<br>Kafka 」</b><br>
       <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 新角色登场 · 角色 26 · 天命大主教 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
-      <a href="#character-26-otto-apocalypse"><b>「 奥托·阿波卡利斯 · Otto Apocalypse 」</b></a><br>
+      <b>「 奥托·阿波卡利斯<br>Otto Apocalypse 」</b><br>
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
-    <td align="center" width="33%">
-      <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEXT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>「 下一位会是谁？ 」</b><br>
+      <b>「 下一位<br>会是谁？ 」</b><br>
       <sub>带来参考图 · 孵化新的伙伴</sub>
     </td>
   </tr>
@@ -864,6 +868,10 @@
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
+
+<p align="center">
+  <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
+</p>
 
 ## 📦 成品下载
 

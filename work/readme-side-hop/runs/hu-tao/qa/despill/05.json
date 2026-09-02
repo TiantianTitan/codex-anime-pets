@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "input": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/hu-tao/frames/running-right/05.png",
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/hu-tao/frames-despilled/running-right/05.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 3146,
+  "decontaminated_pixels": 2583,
+  "spill_suppressed_pixels": 3146,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c0": 3146
+  },
+  "alpha_preserved": true
+}

@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "input": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames/running-right/01.png",
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/furina/frames-despilled/running-right/01.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 2685,
+  "decontaminated_pixels": 2224,
+  "spill_suppressed_pixels": 2685,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c0": 2685
+  },
+  "alpha_preserved": true
+}

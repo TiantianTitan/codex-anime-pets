@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21056,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 7
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17992,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18255,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17694,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17846,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14322,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21276,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 3
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16534,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        }
+      ]
+    }
+  ]
+}

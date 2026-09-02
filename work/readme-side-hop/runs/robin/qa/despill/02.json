@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "input": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames/running-right/02.png",
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/02.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 2480,
+  "decontaminated_pixels": 2105,
+  "spill_suppressed_pixels": 2480,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c0": 2480
+  },
+  "alpha_preserved": true
+}

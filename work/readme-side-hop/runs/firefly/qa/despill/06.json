@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "input": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames/running-right/06.png",
+  "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/firefly/frames-despilled/running-right/06.png",
+  "chroma_key": "#FF00FF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 2550,
+  "decontaminated_pixels": 1949,
+  "spill_suppressed_pixels": 2550,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c0": 2550
+  },
+  "alpha_preserved": true
+}

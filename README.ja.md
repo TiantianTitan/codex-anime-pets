@@ -24,6 +24,10 @@
 
 > **デスクトップ版のみ：** カスタムペットパッケージは、現在 Codex デスクトップアプリでのみ利用できます。Codex モバイルアプリではペットを表示できず、モバイルへのインストールやデバイス間でのペット同期にも対応していません。
 
+<p align="center">
+  <img src="assets/readme/companion-run-parade.gif" width="100%" alt="月夜の下、7人のアニメーションキャラクターが右から左へ走る隊列">
+</p>
+
 ## ✦ Codex Anime Pets について ✦
 
 Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトップペットとして楽しむための非公式コレクションです。待機、移動、手振り、ジャンプ、失敗、入力待ち、作業中、レビューなどの状態に対応し、キャラクターらしさを小さな動きで表現しています。
@@ -36,55 +40,59 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 · Xiao 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒・飲月 · Imbibitor Lunae 」</b><br><sub>◇ 冷静 · 優雅 · 静かな存在感 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 · Jing Yuan 」</b><br><sub>◇ 余裕 · 自信 · 鋭い眼差し ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈<br>Xiao 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒・飲月<br>Imbibitor Lunae 」</b><br><sub>◇ 冷静 · 優雅 · 静かな存在感 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元<br>Jing Yuan 」</b><br><sub>◇ 余裕 · 自信 · 鋭い眼差し ◇</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 · Zhongli 」</b></td>
-    <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 · Raiden Mei 」</b></td>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 · Obanai 」</b></td>
+    <td align="center" valign="top"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離<br>Zhongli 」</b></td>
+    <td align="center" valign="top"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣<br>Raiden Mei 」</b></td>
+    <td align="center" valign="top"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内<br>Obanai 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 · Yae Miko 」</b></td>
-    <td align="center"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ · Furina 」</b></td>
-    <td align="center"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 · Acheron 」</b></td>
+    <td align="center" valign="top"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子<br>Yae Miko 」</b></td>
+    <td align="center" valign="top"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ<br>Furina 」</b></td>
+    <td align="center" valign="top"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉<br>Acheron 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー · Ellen Joe 」</b></td>
-    <td align="center"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 · Hu Tao 」</b></td>
-    <td align="center"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン · Robin 」</b></td>
+    <td align="center" valign="top"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー<br>Ellen Joe 」</b></td>
+    <td align="center" valign="top"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃<br>Hu Tao 」</b></td>
+    <td align="center" valign="top"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン<br>Robin 」</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア · Kaeya 」</b></td>
-    <td align="center"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル · Firefly 」</b></td>
-    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン・カスラナ · Kevin Kaslana 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
+    <td align="center" valign="top"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア<br>Kaeya 」</b></td>
+    <td align="center" valign="top"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル<br>Firefly 」</b></td>
+    <td align="center" valign="top"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン・カスラナ<br>Kevin Kaslana 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 神里綾華 · Kamisato Ayaka 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
-    <td align="center" width="33%"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 · Blade 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ · Ruan Mei 」</b><br><sub>◇ 静かな知性 · 花の気品 · 穏やかな旋律 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 神里綾華<br>Kamisato Ayaka 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃<br>Blade 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ<br>Ruan Mei 」</b><br><sub>◇ 静かな知性 · 花の気品 · 穏やかな旋律 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 楓原万葉 · Kaedehara Kazuha 」</b><br><sub>◇ 楓の静けさ · 旅の風雅 · 風に宿る決意 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 星見雅 · Hoshimi Miyabi 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
-    <td align="center" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン · Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 楓原万葉<br>Kaedehara Kazuha 」</b><br><sub>◇ 楓の静けさ · 旅の風雅 · 風に宿る決意 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 星見雅<br>Hoshimi Miyabi 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン<br>Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><sub>✦ キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ キャラクター 23 · 天上の指揮者 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー · Sunday 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 24 · 恋柱 ✦</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 甘露寺蜜璃 · Mitsuri Kanroji 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 22 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨<br>Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 23 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー<br>Sunday 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ NEW ✦</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 甘露寺蜜璃<br>Mitsuri Kanroji 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 25 · 運命の蜘蛛糸 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ · Kafka 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 26 · 天命大主教 ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー・アポカリプス · Otto Apocalypse 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ 次の召喚 · あなたの選択 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ NEW ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ<br>Kafka 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ NEW ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー・アポカリプス<br>Otto Apocalypse 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ NEXT ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は<br>誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
+
+<p align="center">
+  <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="夕暮れの空の下、5人のアニメーションキャラクターが左から右へ跳ぶ隊列">
+</p>
 
 <a id="character-list"></a>
 

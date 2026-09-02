@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15316,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14220,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16626,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15294,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14125,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14042,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16624,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/readme-side-hop/runs/robin/frames-despilled/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15401,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        }
+      ]
+    }
+  ]
+}
