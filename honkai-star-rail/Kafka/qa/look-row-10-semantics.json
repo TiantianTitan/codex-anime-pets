@@ -1,0 +1,63 @@
+{
+  "row": "look-row-10",
+  "coordinate_rule": "Directions use screen-space landmarks; left means Kafka's nose and gaze project toward image-left, independent of character anatomy.",
+  "overall_verdict": "pass",
+  "directions": [
+    {
+      "angle": "180",
+      "expected": "down",
+      "observed": "Near-frontal head with chin tucked, eyes lowered, and more crown visible.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "202.5",
+      "expected": "down-left",
+      "observed": "The face begins rotating toward image-left while the gaze remains low.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "225",
+      "expected": "down-left",
+      "observed": "A stronger image-left three-quarter turn with lowered eyes and tucked chin.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "247.5",
+      "expected": "down-left",
+      "observed": "The nose and pupils move farther toward image-left, approaching the side anchor without reversing.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "270",
+      "expected": "left",
+      "observed": "Clear image-left profile: the nose projects from the left edge of the face and the hair mass trails to image-right.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "292.5",
+      "expected": "up-left",
+      "observed": "The left-facing profile starts lifting; pupils and chin rise while the nose remains on image-left.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "315",
+      "expected": "up-left",
+      "observed": "An image-left three-quarter view with higher pupils and a raised chin, moving toward front.",
+      "verdict": "pass"
+    },
+    {
+      "angle": "337.5",
+      "expected": "up-left",
+      "observed": "Broad near-front up-left pose with lifted chin and high gaze, one smooth step before 000 up.",
+      "verdict": "pass"
+    }
+  ],
+  "edge_review": {
+    "verdict": "pass",
+    "note": "All eight figures remain inside their cells with clean separation and visible padding."
+  },
+  "continuity_review": {
+    "verdict": "pass",
+    "note": "The 202.5-to-225 pixel and center-shift warnings correspond to a stronger three-quarter turn, not a registration jump. The 337.5-to-000 area-ratio warning does not produce a visible scale pop or identity change. Direction, gaze, chin elevation, baseline, and apparent scale remain coherent around the loop."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/qa/rows/running/frames/running/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

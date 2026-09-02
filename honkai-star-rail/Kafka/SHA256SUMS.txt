@@ -1,0 +1,3 @@
+60edd1773625c40df1edec4ca65169af4fba2b9e724350abc157b8624c0f64da  kafka-2d/pet.json
+4164abcde3d6f8f1d26820d688ce2e2fe0f5715d78d34564df77377a96803887  kafka-2d/spritesheet.webp
+884e75abd68d661cb0d5b9f2222dacff6df658ac4dfdc78c87129afdda5ea408  kafka-2d-codex-pet-v2.zip

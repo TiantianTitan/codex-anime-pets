@@ -1,0 +1,28 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "blind_validation_ok": true,
+  "failed_checks": [
+    "horizontal-7: 157.5 was ambiguous and 202.5 was classified screen-right by the blind majority",
+    "vertical-6: 225 and 315 received opposite vertical-axis classifications",
+    "vertical-7: 247.5 and 292.5 received opposite vertical-axis classifications"
+  ],
+  "hard_gate_evidence": [
+    "The blind cardinal pair 090 versus 270 was classified screen-right versus screen-left by all three reviewers.",
+    "The blind cardinal pair 180 versus 000 was classified down versus up by all three reviewers.",
+    "Atlas validation passes v2 dimensions, alpha, used-cell, unused-cell, and chroma checks without errors or warnings."
+  ],
+  "labeled_review_evidence": [
+    "At normal pet size, 157.5 remains the last down-right transition before centered 180, and 202.5 begins the turn toward image-left; both are intentionally subtle near the vertical axis and the ordered loop does not reverse.",
+    "The 225 and 247.5 poses remain within the down-left arc by their tucked head and low-to-neutral gaze while increasing the image-left turn toward 270.",
+    "The 292.5 and 315 poses remain within the up-left arc by lifting the gaze and chin while returning from 270 toward the frontal 000 anchor.",
+    "The labeled direction sheet shows no principal-quadrant reversal, identity change, broken attachment, clipping, or conspicuous scale or registration jump."
+  ],
+  "continuity_evidence": [
+    "Continuity measurement reports no alpha holes and remains ok=true.",
+    "The 202.5-to-225 center/difference warning is a stronger three-quarter turn rather than a visible registration snap.",
+    "The 337.5-to-000 area warning does not create a visible size pop at normal pet scale."
+  ],
+  "policy_basis": "Only intermediate review gates are affected. The hatch-pet policy allows an accepted minor override when labeled normal-size review confirms a coherent loop and all cardinal hard gates pass."
+}

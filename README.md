@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 24 CHARACTERS</code>
-  <code>✦ 25 EDITIONS</code>
+  <code>✦ 25 CHARACTERS</code>
+  <code>✦ 26 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -194,7 +194,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 25 · WEB OF DESTINY ✦</sub><br>
+      <img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Kafka idle animation"><br>
+      <b>「 Kafka · 卡芙卡 」</b><br>
+      <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
+    </td>
+    <td align="center" colspan="2">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -781,6 +787,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>🕸️ FILE 25 — Kafka · 卡芙卡</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="190" alt="Kafka idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> layered wine-purple hair with long side locks, sunglasses resting on her crown, mauve-pink eyes, a white high-collar blouse, an asymmetric black-violet coat with web accents, dark tights with magenta thigh straps, wine-purple gloves, and black ankle boots<br>
+      <b>Mood:</b> poised and enigmatic, with the unhurried confidence of someone who already knows how the scene will end<br><br>
+      <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/Kafka/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-star-rail/Kafka/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -814,6 +841,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Ganyu · 甘雨 | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Sunday · 星期日 | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| Kafka · 卡芙卡 | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "review_basis": "Final despilled atlas at normal pet size, read clockwise as one 16-pose animation family in screen coordinates.",
+  "directions": [
+    {
+      "angle": "000",
+      "expected": "up",
+      "horizontal_axis": "neutral: both sides of the face remain balanced",
+      "vertical_axis": "up: chin is lifted and both irises sit high in the original eye shapes",
+      "verdict": "pass"
+    },
+    {
+      "angle": "022.5",
+      "expected": "up-right",
+      "horizontal_axis": "screen-right: pupils, nose, and face plane begin moving toward image-right",
+      "vertical_axis": "up: the high gaze and raised chin from 000 remain visible",
+      "verdict": "pass"
+    },
+    {
+      "angle": "045",
+      "expected": "up-right",
+      "horizontal_axis": "screen-right: clear image-right three-quarter face turn",
+      "vertical_axis": "up: elevated pupils and open upper face preserve the upward cue",
+      "verdict": "pass"
+    },
+    {
+      "angle": "067.5",
+      "expected": "up-right",
+      "horizontal_axis": "screen-right: the nose and facial projection advance farther toward image-right",
+      "vertical_axis": "up: pupils remain above neutral and the chin stays raised",
+      "verdict": "pass"
+    },
+    {
+      "angle": "090",
+      "expected": "screen-right",
+      "horizontal_axis": "screen-right: nose, pupil, and chin project from the image-right side of the head center",
+      "vertical_axis": "neutral: neither a lowered nor lifted diagonal overrides the cardinal profile",
+      "verdict": "pass"
+    },
+    {
+      "angle": "112.5",
+      "expected": "down-right",
+      "horizontal_axis": "screen-right: the image-right profile remains dominant",
+      "vertical_axis": "down: eyelids, pupils, and chin begin descending from the right cardinal",
+      "verdict": "pass"
+    },
+    {
+      "angle": "135",
+      "expected": "down-right",
+      "horizontal_axis": "screen-right: nose and visible facial opening remain biased to image-right",
+      "vertical_axis": "down: lowered eyes and a more tucked chin make the lower axis clear",
+      "verdict": "pass"
+    },
+    {
+      "angle": "157.5",
+      "expected": "down-right",
+      "horizontal_axis": "screen-right: a subtle rightward facial projection remains before the front-facing down anchor",
+      "vertical_axis": "down: low irises and tucked chin are the dominant cue",
+      "verdict": "pass"
+    },
+    {
+      "angle": "180",
+      "expected": "down",
+      "horizontal_axis": "neutral: the bowed face remains centered without a left or right cardinal bias",
+      "vertical_axis": "down: chin is tucked, gaze is lowered, and more crown is visible",
+      "verdict": "pass"
+    },
+    {
+      "angle": "202.5",
+      "expected": "down-left",
+      "horizontal_axis": "screen-left: face and gaze begin rotating toward image-left",
+      "vertical_axis": "down: the low gaze and tucked chin from 180 remain present",
+      "verdict": "pass"
+    },
+    {
+      "angle": "225",
+      "expected": "down-left",
+      "horizontal_axis": "screen-left: a stronger image-left three-quarter face turn is visible",
+      "vertical_axis": "down: lowered eyelids and chin keep the pose in the lower quadrant",
+      "verdict": "pass"
+    },
+    {
+      "angle": "247.5",
+      "expected": "down-left",
+      "horizontal_axis": "screen-left: nose and pupils advance toward image-left without reversal",
+      "vertical_axis": "down: gaze remains below neutral on approach to the side cardinal",
+      "verdict": "pass"
+    },
+    {
+      "angle": "270",
+      "expected": "screen-left",
+      "horizontal_axis": "screen-left: the nose projects from the image-left side while the main hair mass trails right",
+      "vertical_axis": "neutral: the profile is level and reads primarily as the left cardinal",
+      "verdict": "pass"
+    },
+    {
+      "angle": "292.5",
+      "expected": "up-left",
+      "horizontal_axis": "screen-left: the nose stays on image-left as the profile begins returning toward front",
+      "vertical_axis": "up: pupils and chin rise from the left cardinal",
+      "verdict": "pass"
+    },
+    {
+      "angle": "315",
+      "expected": "up-left",
+      "horizontal_axis": "screen-left: an image-left three-quarter face bias remains",
+      "vertical_axis": "up: high pupils and a lifted chin give a clear upward cue",
+      "verdict": "pass"
+    },
+    {
+      "angle": "337.5",
+      "expected": "up-left",
+      "horizontal_axis": "screen-left: a subtle left bias remains in the near-front face",
+      "vertical_axis": "up: lifted chin and high gaze lead smoothly into 000",
+      "verdict": "pass"
+    }
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "metric_warnings": [
+      "202.5->225 local pixel-difference outlier and 10.5px center shift",
+      "337.5->000 area ratio 1.15"
+    ],
+    "visual_resolution": "At normal pet size, 202.5->225 reads as the intended stronger three-quarter rotation rather than a registration jump, and 337.5->000 does not show a conspicuous size pop. The loop remains clockwise, identity-preserving, baseline-stable, and free of reversals or broken attachments."
+  }
+}

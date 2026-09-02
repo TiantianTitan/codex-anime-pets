@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard loops preserve Kafka's identity and clean separation; the repaired failed row is complete and fragment-free, while jumping uses stable-slot extraction to preserve one scale across its vertical trajectory.",
+  "repair_rows": [],
+  "repairs": [
+    {
+      "row": "failed",
+      "method": "complete row regeneration",
+      "reason": "The original final pose sank below the slot and neighboring-pose fragments entered several frames."
+    },
+    {
+      "row": "jumping",
+      "method": "deterministic stable-slot extraction",
+      "reason": "Per-frame component normalization enlarged crouch frames and weakened the vertical trajectory."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "row": 9,
+  "verdict": "pass",
+  "registration_scale": 0.42950108459869846,
+  "edge_review": "pass: all eight registered full-body poses retain clear outer and inter-cell padding with no clipped hair, sunglasses, coat, hands, legs, or boots",
+  "directions": {
+    "000": {
+      "expected": "up",
+      "observed": "near-front face with lifted chin and both mauve-pink irises high inside the original eye shapes",
+      "reason": "the vertical cue is unmistakably above neutral while both facial sides remain balanced",
+      "verdict": "pass"
+    },
+    "022.5": {
+      "expected": "up-right",
+      "observed": "high gaze and raised chin remain as the pupils, nose, and face plane begin moving toward screen-right",
+      "reason": "both upward and emerging rightward axes are visible",
+      "verdict": "pass"
+    },
+    "045": {
+      "expected": "up-right",
+      "observed": "clear screen-right three-quarter head turn with the eyes still elevated",
+      "reason": "the diagonal advances evenly without changing Kafka's scale, baseline, or expression family",
+      "verdict": "pass"
+    },
+    "067.5": {
+      "expected": "up-right",
+      "observed": "stronger screen-right facial projection while the pupils remain above neutral",
+      "reason": "the pose moves monotonically toward the right cardinal and preserves the upper axis",
+      "verdict": "pass"
+    },
+    "090": {
+      "expected": "screen-right",
+      "observed": "nose tip, pupils, chin, and face surface project to the image-right side of the head center",
+      "reason": "the right cardinal is unambiguous at normal pet size and matches the approved 090 pose family",
+      "verdict": "pass"
+    },
+    "112.5": {
+      "expected": "down-right",
+      "observed": "the screen-right profile remains dominant while the eyelids, pupils, and chin begin descending",
+      "reason": "the strong right axis is retained and the first downward increment is visible",
+      "verdict": "pass"
+    },
+    "135": {
+      "expected": "down-right",
+      "observed": "lowered eyes and a more tucked chin combine with a clear screen-right face bias",
+      "reason": "both diagonal axes remain readable with no horizontal reversal",
+      "verdict": "pass"
+    },
+    "157.5": {
+      "expected": "down-right",
+      "observed": "the gaze is near-down with low irises and tucked chin while the nose and facial opening retain a subtle screen-right projection",
+      "reason": "the pose lands one coherent step before 180 down without overshooting or reverting",
+      "verdict": "pass"
+    }
+  },
+  "continuity": "pass: the registered clockwise progression is monotonic from up through screen-right toward down; boots, body height, sunglasses, hair, costume asymmetry, and facial proportions remain stable with no adjacent reversal, clipping, or conspicuous registration jump"
+}

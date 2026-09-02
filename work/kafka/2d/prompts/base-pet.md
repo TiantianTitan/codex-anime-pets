@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Kafka · 卡芙卡.
+
+Pet identity: Kafka as a compact full-body 2D chibi anime sticker pet: wine-purple layered bob with long side locks, round dark sunglasses resting on top of her head, visible mauve-pink eyes and calm knowing smile, white high-collar blouse, fitted black-violet asymmetric coat with subtle web-pattern shoulder detail, black shorts and dark tights crossed by magenta thigh straps, black ankle boots and wine-purple gloves; poised unhurried personality; keep coat tails and hair close to the body; no gun, sword, glowing thread, spiderweb backdrop, text, scenery, shadows, glow, or detached effects.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: polished 2D chibi anime sticker, clean dark outline, soft cel shading, compact readable silhouette, faithful wine-purple black white and magenta palette.
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

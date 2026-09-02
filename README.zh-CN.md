@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 24 个角色</code>
-  <code>✦ 25 个版本</code>
+  <code>✦ 25 个角色</code>
+  <code>✦ 26 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -194,7 +194,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 25 · 命运织网者 ✦</sub><br>
+      <img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"><br>
+      <b>「 卡芙卡 · Kafka 」</b><br>
+      <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
+    </td>
+    <td align="center" colspan="2">
       <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -781,6 +787,27 @@
 
 </details>
 
+<details open>
+<summary><b>🕸️ 档案 25 — 卡芙卡 · Kafka</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="190" alt="卡芙卡的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>酒紫色层次短发与修长鬓发、稳稳架在头顶的墨镜、紫粉色双眼、白色高领上衣、带蛛网纹样的黑紫色不对称外套、深色丝袜与洋红色腿带、酒紫色手套和黑色短靴<br>
+      <b>气质：</b>优雅而神秘，总是不疾不徐，仿佛故事的结局早已在她掌握之中<br><br>
+      <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-star-rail/Kafka/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="honkai-star-rail/Kafka/qa/direction-qa.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -814,6 +841,7 @@
 | 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | 甘露寺蜜璃 · Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| 卡芙卡 · Kafka | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

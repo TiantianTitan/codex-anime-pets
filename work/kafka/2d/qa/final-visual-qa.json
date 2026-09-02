@@ -1,0 +1,8 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Kafka stays proportionally stable; all nine loops have readable ordered motion, correct run facings, a stable crouch-rise-apex-descent jump, full-body failure, and clean transparency.",
+  "direction_semantics": "000 up pass; 090 screen-right pass; 180 down pass; 270 screen-left pass; coherent clockwise 16-pose loop pass",
+  "review_warnings": "Accepted minor blind intermediate disagreements; 202.5->225 continuity metrics; 337.5->000 area ratio; jumping stable-slots, with no visible hard failure.",
+  "repair_rows": "none",
+  "repair_notes": "none"
+}

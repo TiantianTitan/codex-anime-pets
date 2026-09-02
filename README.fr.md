@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 24 PERSONNAGES</code>
-  <code>✦ 25 ÉDITIONS</code>
+  <code>✦ 25 PERSONNAGES</code>
+  <code>✦ 26 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -194,7 +194,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 25 · TOILE DU DESTIN ✦</sub><br>
+      <img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kafka"><br>
+      <b>「 Kafka · 卡芙卡 」</b><br>
+      <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
+    </td>
+    <td align="center" colspan="2">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -781,6 +787,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>🕸️ DOSSIER 25 — Kafka · 卡芙卡</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="190" alt="Kafka au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux lie-de-vin en mèches superposées avec de longues mèches latérales, lunettes posées sur le sommet du crâne, yeux rose mauve, blouse blanche à col montant, manteau asymétrique noir et violet orné de motifs de toile, collants sombres aux attaches magenta, gants lie-de-vin et bottines noires<br>
+      <b>Présence :</b> élégante et énigmatique, avec le calme de celle qui semble déjà connaître la fin de la scène<br><br>
+      <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="honkai-star-rail/Kafka/qa/contact-sheet.png">Planche d'animations</a> ·
+      <a href="honkai-star-rail/Kafka/qa/direction-qa.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -814,6 +841,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Ganyu · 甘雨 | 2D | `ganyu` | [Télécharger](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Sunday · 星期日 | 2D | `sunday` | [Télécharger](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Télécharger](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| Kafka · 卡芙卡 | 2D | `kafka` | [Télécharger](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 
