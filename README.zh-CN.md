@@ -96,7 +96,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 02 ✦</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒饮月的待机动画"></a><br>
-      <b>「 丹恒·饮月 」</b><br>
+      <b>「 丹恒 」</b><br>
       <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -182,7 +182,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 15 ✦</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
-      <b>「 凯文·卡斯兰娜 」</b><br>
+      <b>「 凯文 」</b><br>
       <sub>◇ 冰冷决意 · 沉静力量 · 意志不移 ◇</sub>
     </td>
   </tr>
@@ -190,7 +190,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 16 ✦</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里绫华的待机动画"></a><br>
-      <b>「 神里绫华 」</b><br>
+      <b>「 绫华 」</b><br>
       <sub>◇ 端庄雅致 · 霜蓝清韵 · 温柔从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -210,13 +210,13 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 19 ✦</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"></a><br>
-      <b>「 枫原万叶 」</b><br>
+      <b>「 万叶 」</b><br>
       <sub>◇ 枫意清寂 · 行旅从容 · 风中坚韧 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 20 ✦</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"></a><br>
-      <b>「 星见雅 」</b><br>
+      <b>「 雅 」</b><br>
       <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
@@ -242,7 +242,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
-      <b>「 甘露寺蜜璃 」</b><br>
+      <b>「 蜜璃 」</b><br>
       <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
     </td>
   </tr>
@@ -256,7 +256,7 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
-      <b>「 奥托·阿波卡利斯 」</b><br>
+      <b>「 奥托 」</b><br>
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
