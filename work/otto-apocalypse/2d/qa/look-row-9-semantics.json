@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "row": 9,
+  "registered_strip": "qa/look-row-9-registered.png",
+  "reviewed_at": "2026-09-02T12:05:04+02:00",
+  "directions": [
+    {"direction":"000","expected":"up","horizontal_axis":"none required","vertical_axis":"high pupils and lifted chin","continuity":"approved 000 anchor family","verdict":"pass"},
+    {"direction":"022.5","expected":"up-right","horizontal_axis":"eyes and face begin shifting screen-right","vertical_axis":"pupils stay high and chin remains raised","continuity":"one restrained step after 000","verdict":"pass"},
+    {"direction":"045","expected":"up-right","horizontal_axis":"nose, pupils, and chin project farther screen-right","vertical_axis":"upward eye line and raised chin remain visible","continuity":"even interpolation between 022.5 and 067.5","verdict":"pass"},
+    {"direction":"067.5","expected":"up-right","horizontal_axis":"strong screen-right three-quarter face","vertical_axis":"slight remaining upward eye and chin pitch","continuity":"one step before the right cardinal","verdict":"pass"},
+    {"direction":"090","expected":"right","horizontal_axis":"nose tip, pupils, and chin sit screen-right of head center; ponytail trails image-left","vertical_axis":"near-level profile","continuity":"matches the approved 090 pose family","verdict":"pass"},
+    {"direction":"112.5","expected":"down-right","horizontal_axis":"face remains projected screen-right","vertical_axis":"pupils lower and chin begins to tuck","continuity":"first even step after 090","verdict":"pass"},
+    {"direction":"135","expected":"down-right","horizontal_axis":"right-facing three-quarter construction remains intact","vertical_axis":"lower pupils, lowered lids, tucked chin, and more crown are visible","continuity":"progresses without reversal toward 157.5","verdict":"pass"},
+    {"direction":"157.5","expected":"down-right","horizontal_axis":"subtle screen-right facial cue remains","vertical_axis":"deepest downward chin tuck with low pupils and prominent crown","continuity":"one restrained step before the approved 180 anchor","verdict":"pass"}
+  ],
+  "layout": {
+    "scale": "pass; one shared registration scale of 0.4186046511627907",
+    "baseline": "pass; all boots share the same planted lower anchor",
+    "separation": "pass; eight recovered pose groups",
+    "edges": "pass; no registered cell clips foreground",
+    "identity": "pass; asymmetrical emblem, coat, gloves, boots, green eyes, and side ponytail remain coherent"
+  },
+  "boundary_to_row_10": "157.5 preserves the right/down family and is ready to connect to the approved frontal-down 180 anchor."
+}

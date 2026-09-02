@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 25 CHARACTERS</code>
-  <code>✦ 26 EDITIONS</code>
+  <code>✦ 26 CHARACTERS</code>
+  <code>✦ 27 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -200,7 +200,13 @@
       <b>「 Kafka · 卡芙卡 」</b><br>
       <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 26 · SCHICKSAL OVERSEER ✦</sub><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"><br>
+      <b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b><br>
+      <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who joins next? 」</b><br>
@@ -229,9 +235,9 @@
       <sub>A hopeful little leap, with silver hair lifting at the apex</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="Zhongli reviewing"><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="Otto Apocalypse reviewing"><br>
       <b>Reviewing</b><br>
-      <sub>A thoughtful look at the finished work</sub>
+      <sub>A measured glance at the result, already weighing the next move</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="Sunday waving"><br>
@@ -808,6 +814,27 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<details open>
+<summary><b>♟️ FILE 26 — Otto Apocalypse · 奥托·阿波卡利斯</b>　<sub>Schicksal Overseer / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="190" alt="Otto Apocalypse idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> layered pale-gold hair tied into a low side ponytail, green eyes, a navy-violet long coat with gold piping and shoulder capelet, a white ruffled shirt, rose cravat, lavender waistcoat, white gloves, charcoal trousers, and brown knee-high boots<br>
+      <b>Mood:</b> polished and composed, with the quiet authority of someone already considering the next several moves<br><br>
+      <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -842,6 +869,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Sunday · 星期日 | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | Kafka · 卡芙卡 | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| Otto Apocalypse · 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

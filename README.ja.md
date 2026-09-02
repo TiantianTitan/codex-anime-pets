@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 25 キャラクター</code>
-  <code>✦ 26 エディション</code>
+  <code>✦ 26 キャラクター</code>
+  <code>✦ 27 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -77,7 +77,8 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   </tr>
   <tr>
     <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 25 · 運命の蜘蛛糸 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ · Kafka 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
-    <td align="center" colspan="2"><sub>✦ 次の召喚 · あなたの選択 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 26 · 天命大主教 ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー・アポカリプス · Otto Apocalypse 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ 次の召喚 · あなたの選択 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -116,6 +117,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | サンデー · Sunday | 2D | `sunday` | [ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | 甘露寺蜜璃 · Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | カフカ · Kafka | 2D | `kafka` | [ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| オットー・アポカリプス · Otto Apocalypse | 2D | `otto-apocalypse` | [ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

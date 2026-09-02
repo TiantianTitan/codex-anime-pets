@@ -1,0 +1,15 @@
+Repair the complete Otto Apocalypse Codex v2 look row 10 as one coherent eight-pose family. The previous full row was structurally sound but failed the mandatory blind cardinal gate because two of three normal-size reviewers could not determine that slot 5 (`270`) faced screen-left. Regenerate the entire row; do not patch, paste, or reuse an individual cell.
+
+Use all five attached references. The approved cardinal strip is authoritative. Output exactly eight complete separated full-body poses in this left-to-right order: `180`, `202.5`, `225`, `247.5`, `270`, `292.5`, `315`, `337.5`, on flat pure `#00FFFF`.
+
+SCREEN-LEFT CARDINAL HARD LOCK: slot 5 (`270`) must be unmistakably screen-left at normal 192×208 pet size. Show a clean left-facing profile or strong left three-quarter face, never a rear-head view. Keep Otto's near green eye clearly visible inside the face, keep the nose-tip silhouette clearly exposed on the IMAGE-LEFT edge of the head, and place the chin and facial plane left of the skull center. The pale-gold tied ponytail must remain attached behind the skull on IMAGE-RIGHT. Do not let fringe or rear hair cover the visible eye, nose, mouth, or chin. Slot 5 must visually oppose the approved `090` cardinal without labels.
+
+CONTINUOUS LEFT-HALF ARC: slots 2–4 must progressively travel from down into screen-left without ever turning right or hiding the face behind the back of the head. Slots 6–8 must retain the screen-left face while lifting pupils and chin toward up-left. Keep at least the near green eye and the nose-tip silhouette readable in slots 3–7. Slot 1 must remain frontal-down one step after approved row-9 `157.5`; slot 8 must remain near-frontal up-left one step before approved row-9 `000`.
+
+Preserve Otto's exact canonical identity: pale-gold layered hair and attached side ponytail, green eyes, dignified masculine chibi face, deep navy-violet long coat with gold piping and shoulder capelet, white ruffled shirt, rose-pink cravat, lavender waistcoat, charcoal trousers, white gloves, and brown knee-high boots with white ruffle and green-gem accents. Preserve the asymmetric lapel/emblem and coat construction through occlusion; do not mirror costume details.
+
+Keep exactly eight separated pose groups, stable body height, head size, planted boots, lower-body anchor, baseline, palette, lighting, and line/render quality. Leave generous pure-cyan gaps between all poses and outside the first/last pose. Express attention through whole-eye construction, eyelids, brows, head/neck, and restrained upper-body follow-through. Do not rotate, skew, tilt, resize, or recenter the whole sprite to fake direction.
+
+Reject before returning if slot 5 reads as rear view, front view, ambiguous, or screen-right; if its near eye or nose tip is hidden by hair; if slots 2–8 reverse into the right half; if either row boundary snaps; or if any pose overlaps, clips, changes scale, floats, or loses Otto's identity.
+
+No guide marks, labels, text, arrows, clocks, scenery, floor, shadows, glows, motion trails, detached effects, props, book, papers, chair, flower, or cyan-colored costume details.

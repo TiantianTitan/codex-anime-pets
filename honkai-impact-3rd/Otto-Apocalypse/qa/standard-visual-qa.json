@@ -1,0 +1,7 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard loops preserve Otto's identity and readable state semantics; after stable-slot re-extraction, jumping holds one apparent scale and clearly sequences crouch, rise, apex, descent, and landing without clipping.",
+  "repair_rows": "none",
+  "repair_notes": "none",
+  "accepted_warning": "jumping uses stable-slots to preserve source-strip scale and trajectory"
+}

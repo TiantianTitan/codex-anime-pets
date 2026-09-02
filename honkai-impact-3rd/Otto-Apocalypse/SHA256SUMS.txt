@@ -1,0 +1,3 @@
+d79aebb0d1252bc68f23fe1666da69052b6f51b30c67ae5441e4fc3f5d796e85  otto-apocalypse-2d/pet.json
+a46a6b4ba7812b571f44da93cb60a5df9171928496531224b8eeca04a65b99ee  otto-apocalypse-2d/spritesheet.webp
+ae555ded576100738566169632cb7e269cf56e489e56b440c2f4c021346898b8  otto-apocalypse-2d-codex-pet-v2.zip

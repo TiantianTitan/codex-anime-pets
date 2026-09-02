@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "strip": "decoded/look-anchors-approved.png",
+  "reviewed_at": "2026-09-02T11:56:21+02:00",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "front-biased upward gaze",
+      "observed": "both eyes remain visible, pupils sit high, and the chin is lifted with more neck visible",
+      "landmark_evidence": "pupils and upper-face aim above the neutral head center",
+      "verdict": "pass"
+    },
+    {
+      "direction": "090",
+      "expected": "screen-right profile",
+      "observed": "nose tip, pupils, and chin project to image-right while the tied ponytail trails behind on image-left",
+      "landmark_evidence": "facial projection is right of the skull center and opposes 270",
+      "verdict": "pass"
+    },
+    {
+      "direction": "180",
+      "expected": "front-biased downward gaze",
+      "observed": "pupils sit low beneath the fringe and the chin tucks down with less neck visible",
+      "landmark_evidence": "pupils and lower-face aim below the neutral head center",
+      "verdict": "pass"
+    },
+    {
+      "direction": "270",
+      "expected": "screen-left profile",
+      "observed": "nose tip, pupils, and chin project to image-left while the tied ponytail remains behind on image-right",
+      "landmark_evidence": "facial projection is left of the skull center and opposes 090",
+      "verdict": "pass"
+    }
+  ],
+  "identity_and_layout": {
+    "identity": "pass",
+    "scale": "pass",
+    "baseline": "pass",
+    "edge_pixels": 0,
+    "notes": "All four anchors preserve Otto's canonical asymmetric coat, lapel emblem, pale-gold side ponytail, green eyes, boots, and compact sticker silhouette."
+  }
+}

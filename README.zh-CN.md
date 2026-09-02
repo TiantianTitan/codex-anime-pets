@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 25 个角色</code>
-  <code>✦ 26 个版本</code>
+  <code>✦ 26 个角色</code>
+  <code>✦ 27 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -200,7 +200,13 @@
       <b>「 卡芙卡 · Kafka 」</b><br>
       <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" width="33%">
+      <sub>✦ 新角色登场 · 角色 26 · 天命大主教 ✦</sub><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"><br>
+      <b>「 奥托·阿波卡利斯 · Otto Apocalypse 」</b><br>
+      <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ 下一次召唤 · 由你选择 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -229,9 +235,9 @@
       <sub>满怀希望地轻轻跃起，银发也在最高处扬起</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="钟离审阅结果"><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="奥托·阿波卡利斯审阅结果"><br>
       <b>审阅</b><br>
-      <sub>从容地看看刚刚完成的工作</sub>
+      <sub>从容看过结果，也把下一步悄悄算在心里</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="星期日挥手"><br>
@@ -808,6 +814,27 @@
 
 </details>
 
+<details open>
+<summary><b>♟️ 档案 26 — 奥托·阿波卡利斯 · Otto Apocalypse</b>　<sub>天命大主教 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="190" alt="奥托·阿波卡利斯的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>束成低侧马尾的浅金色层次长发、绿色双眼、带金色滚边与肩饰的深蓝紫长外套、白色荷叶边衬衫、玫瑰色领结、淡紫马甲、白手套、深灰长裤和棕色长靴<br>
+      <b>气质：</b>举止优雅而沉着，安静的目光里总像已经想好了接下来的几步<br><br>
+      <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/direction-qa.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -842,6 +869,7 @@
 | 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | 甘露寺蜜璃 · Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | 卡芙卡 · Kafka | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| 奥托·阿波卡利斯 · Otto Apocalypse | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

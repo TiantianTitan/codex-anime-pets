@@ -1,0 +1,14 @@
+{
+  "visual_qa": "pass",
+  "reviewed_at": "2026-09-02T12:36:00+02:00",
+  "qa_note": "Both contact sheets and all nine cleaned GIFs preserve Otto's identity, asymmetric costume, readable state motion, stable timing, clean transparency, and unclipped silhouettes; the labeled direction loop passes every hard gate without visible reversal or conspicuous boundary snap.",
+  "direction_semantics": "000 pass; 022.5 warning; 045 pass; 067.5 warning; 090 pass; 112.5 pass; 135 pass; 157.5 pass; 180 pass; 202.5 pass; 225 warning; 247.5 warning; 270 pass; 292.5 warning; 315 warning; 337.5 warning",
+  "review_warnings": [
+    "jumping stable-slots is accepted because the loop remains stable-scale, unclipped, and readable",
+    "blind intermediate ambiguities at 022.5 horizontal, 067.5 vertical, 225 vertical, 247.5 vertical, 292.5 vertical, 315 vertical, and 337.5 horizontal are accepted from labeled loop evidence",
+    "continuity transparent-gap warnings are intentional openings between legs and split coat tails",
+    "157.5 to 180 and 337.5 to 000 metric warnings reflect pose-width and head-turn changes without a conspicuous snap, scale pop, or registration jump"
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

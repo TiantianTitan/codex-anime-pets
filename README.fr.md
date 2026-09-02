@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 25 PERSONNAGES</code>
-  <code>✦ 26 ÉDITIONS</code>
+  <code>✦ 26 PERSONNAGES</code>
+  <code>✦ 27 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -200,7 +200,13 @@
       <b>「 Kafka · 卡芙卡 」</b><br>
       <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 26 · GRAND ÉVÊQUE DE SCHICKSAL ✦</sub><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"><br>
+      <b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b><br>
+      <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
+    </td>
+    <td align="center" width="33%">
       <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui nous rejoindra ? 」</b><br>
@@ -229,9 +235,9 @@
       <sub>Un petit bond plein d'espoir, les cheveux argentés soulevés au sommet</sub>
     </td>
     <td align="center" width="33%">
-      <img src="work/zhongli/2d/qa/previews-final/review.gif" width="170" alt="Zhongli examine le résultat"><br>
+      <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="Otto Apocalypse examine le résultat"><br>
       <b>Vérification</b><br>
-      <sub>Un regard posé sur le travail terminé</sub>
+      <sub>Un regard posé sur le résultat, déjà tourné vers le prochain coup</sub>
     </td>
     <td align="center" width="33%">
       <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="Sunday salue"><br>
@@ -808,6 +814,27 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<details open>
+<summary><b>♟️ DOSSIER 26 — Otto Apocalypse · 奥托·阿波卡利斯</b>　<sub>Grand évêque de Schicksal / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="190" alt="Otto Apocalypse au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux blond pâle en mèches superposées noués en queue-de-cheval basse sur le côté, yeux verts, long manteau bleu-violet à liserés dorés et capelet d'épaule, chemise blanche à jabot, cravate rose, gilet lavande, gants blancs, pantalon anthracite et hautes bottes brunes<br>
+      <b>Présence :</b> raffinée et maîtresse d'elle-même, avec l'autorité tranquille de celui qui réfléchit déjà aux prochains coups<br><br>
+      <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/contact-sheet.png">Planche d'animations</a> ·
+      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/direction-qa.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -842,6 +869,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Sunday · 星期日 | 2D | `sunday` | [Télécharger](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Mitsuri Kanroji · 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [Télécharger](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | Kafka · 卡芙卡 | 2D | `kafka` | [Télécharger](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| Otto Apocalypse · 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [Télécharger](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

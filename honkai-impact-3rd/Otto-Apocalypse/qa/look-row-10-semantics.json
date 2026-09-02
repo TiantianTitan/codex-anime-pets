@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "row": 10,
+  "assembled_atlas": "final/spritesheet-extended.png",
+  "reviewed_at": "2026-09-02T12:25:41+02:00",
+  "directions": [
+    {"direction":"180","expected":"down","horizontal_axis":"broad frontal construction","vertical_axis":"low green pupils and a restrained chin tuck","continuity":"one step after row-9 157.5","verdict":"pass"},
+    {"direction":"202.5","expected":"down-left","horizontal_axis":"visible eye, nose, and face begin shifting screen-left","vertical_axis":"pupils remain low","continuity":"restrained first step after 180","verdict":"pass"},
+    {"direction":"225","expected":"down-left","horizontal_axis":"nose and visible eye project farther screen-left","vertical_axis":"slightly lowered eye line","continuity":"even step toward 247.5","verdict":"pass"},
+    {"direction":"247.5","expected":"down-left","horizontal_axis":"strong screen-left three-quarter face with exposed nose silhouette","vertical_axis":"subtle residual downward pitch","continuity":"one step before 270 without reversal","verdict":"pass"},
+    {"direction":"270","expected":"left","horizontal_axis":"near green eye remains visible; nose tip, mouth, and chin are exposed on image-left; attached ponytail stays behind on image-right","vertical_axis":"near-level profile","continuity":"matches approved 270 family and unmistakably opposes 090","verdict":"pass"},
+    {"direction":"292.5","expected":"up-left","horizontal_axis":"face remains projected screen-left with visible near eye and nose","vertical_axis":"pupil and chin begin lifting","continuity":"first even step after 270","verdict":"pass"},
+    {"direction":"315","expected":"up-left","horizontal_axis":"left-facing three-quarter construction remains intact","vertical_axis":"high eye line and raised chin are clear","continuity":"progresses without reversal toward 337.5","verdict":"pass"},
+    {"direction":"337.5","expected":"up-left","horizontal_axis":"subtle screen-left facial cue remains","vertical_axis":"near-frontal eyes and chin lift strongly toward up","continuity":"one restrained step before row-9 000","verdict":"pass"}
+  ],
+  "layout": {
+    "scale": "pass; persisted row-9 transform retains compatible body height",
+    "baseline": "pass; all boots share the planted lower anchor",
+    "separation": "pass; exactly eight recovered pose groups",
+    "edges": "pass; no normalized cell clips foreground",
+    "identity": "pass; asymmetric emblem, coat, gloves, boots, green eyes, and attached side ponytail remain coherent"
+  },
+  "cross_row_boundaries": {
+    "157.5_to_180": "pass; both preserve the downward family while returning from right three-quarter to frontal without scale or anchor drift",
+    "337.5_to_000": "pass; near-frontal up-left advances into frontal up without scale or anchor drift"
+  },
+  "repair": "The previous row was rejected after a 2-of-3 blind ambiguous majority for 270. This full-row replacement exposes the left-facing near eye, nose tip, mouth, and chin at normal size while preserving the complete left-half arc."
+}

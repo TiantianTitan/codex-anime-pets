@@ -1,0 +1,172 @@
+{
+  "ok": true,
+  "reviewed_at": "2026-09-02T12:17:00+02:00",
+  "atlas": "final/spritesheet-extended.webp",
+  "focused_sheet": "qa/look-directions.png",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "front-biased face with both green eyes lifted and chin raised",
+      "horizontal_evidence": "no horizontal axis required",
+      "vertical_evidence": "pupils sit high and the lifted chin exposes more neck",
+      "reason": "the upward cardinal is unmistakable at normal pet size",
+      "verdict": "pass"
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "upward gaze is strong while the first screen-right shift is deliberately slight",
+      "horizontal_evidence": "eyes and facial plane begin moving toward image-right",
+      "vertical_evidence": "high pupils and lifted chin remain close to 000",
+      "reason": "correct quadrant and continuous first step; horizontal cue is subtle near the vertical axis",
+      "verdict": "warning"
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "clear screen-right three-quarter face with raised eye line",
+      "horizontal_evidence": "nose tip, pupils, and chin project image-right of head center",
+      "vertical_evidence": "pupils remain high and chin remains lifted",
+      "reason": "both intended axes are visible and follow 022.5 without reversal",
+      "verdict": "pass"
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "stronger screen-right turn retaining a mild upward pitch",
+      "horizontal_evidence": "rightward nose and eye projection approaches the 090 profile family",
+      "vertical_evidence": "eye line and chin remain slightly above level",
+      "reason": "one coherent step before 090 with no pose or anchor jump; blind vertical majority was ambiguous at normal size, but labeled loop review retains the upper-right quadrant without reversal",
+      "verdict": "warning"
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "screen-right profile family with ponytail trailing behind on image-left",
+      "horizontal_evidence": "nose tip, pupils, and chin lie image-right of skull center",
+      "vertical_evidence": "no vertical axis required; pitch is near level",
+      "reason": "right cardinal is unmistakable and visibly opposes 270",
+      "verdict": "pass"
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "right-facing three-quarter face begins to lower",
+      "horizontal_evidence": "facial projection remains image-right",
+      "vertical_evidence": "pupils lower and chin begins to tuck",
+      "reason": "correct first step from the right cardinal into the lower-right quadrant",
+      "verdict": "pass"
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "clear right/down head turn with lowered lids and more visible crown",
+      "horizontal_evidence": "nose and face remain projected image-right",
+      "vertical_evidence": "low pupils, lowered lids, and tucked chin establish downward attention",
+      "reason": "both axes are readable and progress monotonically toward 157.5",
+      "verdict": "pass"
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "deep downward pitch retains a smaller but visible rightward facial cue",
+      "horizontal_evidence": "nose and visible eye remain biased image-right",
+      "vertical_evidence": "deep chin tuck, low pupil, and prominent crown are unmistakably down",
+      "reason": "correct near-vertical lower-right step immediately before 180",
+      "verdict": "pass"
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "broad frontal-down face with both eyes low and chin tucked",
+      "horizontal_evidence": "no horizontal axis required",
+      "vertical_evidence": "low pupils, lowered lids, tucked chin, and prominent crown",
+      "reason": "down cardinal is unmistakable at normal pet size",
+      "verdict": "pass"
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "downward gaze remains strong while the first screen-left shift is restrained",
+      "horizontal_evidence": "eyes and facial plane begin moving toward image-left",
+      "vertical_evidence": "pupils stay low and chin stays tucked",
+      "reason": "correct quadrant and continuous first step; both leftward and downward axes were confirmed by blind majority",
+      "verdict": "pass"
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "clear screen-left three-quarter face with downward eye line",
+      "horizontal_evidence": "nose tip, pupils, and chin project image-left of head center",
+      "vertical_evidence": "low pupils and tucked chin retain downward attention",
+      "reason": "left axis is blind-confirmed and the labeled loop remains in the lower-left quadrant; blind vertical majority was ambiguous at normal size",
+      "verdict": "warning"
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "stronger screen-left turn retains a mild downward pitch",
+      "horizontal_evidence": "leftward nose and eye projection approaches the 270 profile family",
+      "vertical_evidence": "eye line and chin remain slightly below level",
+      "reason": "left axis is blind-confirmed and the labeled loop remains below level one step before 270; blind vertical majority was ambiguous at normal size",
+      "verdict": "warning"
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "unmistakable screen-left profile with ponytail attached behind on image-right",
+      "horizontal_evidence": "nose tip, pupils, and chin lie image-left of skull center",
+      "vertical_evidence": "no vertical axis required; pitch is near level",
+      "reason": "left cardinal is unmistakable and visibly opposes 090",
+      "verdict": "pass"
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "left-facing three-quarter face begins to lift",
+      "horizontal_evidence": "facial projection remains image-left",
+      "vertical_evidence": "pupils lift and chin begins to rise",
+      "reason": "left axis is blind-confirmed and the labeled loop rises continuously from 270; blind vertical majority was ambiguous at normal size",
+      "verdict": "warning"
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "clear left/up head turn with high pupils and raised chin",
+      "horizontal_evidence": "nose and face remain projected image-left",
+      "vertical_evidence": "high pupils and lifted chin establish upward attention",
+      "reason": "left axis is blind-confirmed and the labeled loop continues upward toward 337.5; blind vertical majority was ambiguous at normal size",
+      "verdict": "warning"
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "near-frontal raised face retains a smaller but visible leftward cue",
+      "horizontal_evidence": "nose and visible facial plane remain biased image-left",
+      "vertical_evidence": "high pupils and lifted chin are unmistakably up",
+      "reason": "up axis is blind-confirmed and labeled loop review preserves a subtle left cue immediately before 000; blind horizontal majority was ambiguous at normal size",
+      "verdict": "warning"
+    }
+  ],
+  "continuity_review": {
+    "verdict": "pass",
+    "metric_warnings": "reviewed",
+    "alpha_holes": "intended transparent gaps between Otto's planted legs and split long coat tails; no hole crosses the body",
+    "022.5_to_045": "the larger pixel diff reflects the deliberate transition from near-frontal to three-quarter head construction; no visible snap",
+    "157.5_to_180": "the area and center metrics reflect the profile-to-frontal-down surface change; boots, baseline, body height, palette, and identity remain stable",
+    "337.5_to_000": "the area and center metrics reflect the three-quarter-to-frontal-up surface change; boots, baseline, body height, palette, and identity remain stable"
+  },
+  "summary": {
+    "pass": 9,
+    "warning": 7,
+    "fail": 0
+  },
+  "blind_review": {
+    "validation": "qa/direction-blind-validation.json",
+    "ok": true,
+    "cardinals": "all hard gates passed by strict majority",
+    "intermediate_warnings": ["022.5 horizontal", "067.5 vertical", "225 vertical", "247.5 vertical", "292.5 vertical", "315 vertical", "337.5 horizontal"],
+    "resolution": "accepted as review warnings because labeled normal-size inspection keeps every pose in its intended quadrant and the ordered loop has no reversal"
+  }
+}
