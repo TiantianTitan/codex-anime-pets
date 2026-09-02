@@ -90,19 +90,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 01 ✦</sub><br>
       <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈的待机动画"></a><br>
-      <b>「 魈<br>Xiao 」</b><br>
+      <b>「 魈 」</b><br>
       <sub>◇ 警觉 · 克制 · 仙家气息 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 02 ✦</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒饮月的待机动画"></a><br>
-      <b>「 丹恒·饮月<br>Imbibitor Lunae 」</b><br>
+      <b>「 丹恒·饮月 」</b><br>
       <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 03 ✦</sub><br>
       <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元的待机动画"></a><br>
-      <b>「 景元<br>Jing Yuan 」</b><br>
+      <b>「 景元 」</b><br>
       <sub>◇ 松弛从容 · 始终敏锐 ◇</sub>
     </td>
   </tr>
@@ -110,19 +110,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 04 ✦</sub><br>
       <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="钟离的待机动画"></a><br>
-      <b>「 钟离<br>Zhongli 」</b><br>
+      <b>「 钟离 」</b><br>
       <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 05 ✦</sub><br>
       <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷电芽衣的待机动画"></a><br>
-      <b>「 雷电芽衣<br>Raiden Mei 」</b><br>
+      <b>「 雷电芽衣 」</b><br>
       <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 06 ✦</sub><br>
       <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"></a><br>
-      <b>「 伊黑小芭内<br>Obanai 」</b><br>
+      <b>「 伊黑小芭内 」</b><br>
       <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
   </tr>
@@ -130,19 +130,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 07 ✦</sub><br>
       <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子的待机动画"></a><br>
-      <b>「 八重神子<br>Yae Miko 」</b><br>
+      <b>「 八重神子 」</b><br>
       <sub>◇ 从容优雅 · 狐系灵动 · 藏着一点坏心思 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 08 ✦</sub><br>
       <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="芙宁娜的待机动画"></a><br>
-      <b>「 芙宁娜<br>Furina 」</b><br>
+      <b>「 芙宁娜 」</b><br>
       <sub>◇ 舞台魅力 · 水色雅意 · 灵动俏皮 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 09 ✦</sub><br>
       <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉的待机动画"></a><br>
-      <b>「 黄泉<br>Acheron 」</b><br>
+      <b>「 黄泉 」</b><br>
       <sub>◇ 沉静克制 · 紫色风暴 · 遥远目光 ◇</sub>
     </td>
   </tr>
@@ -150,19 +150,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 10 ✦</sub><br>
       <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="艾莲·乔的待机动画"></a><br>
-      <b>「 艾莲·乔<br>Ellen Joe 」</b><br>
+      <b>「 艾莲·乔 」</b><br>
       <sub>◇ 慵懒从容 · 目光锐利 · 行动迅捷 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 11 ✦</sub><br>
       <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃的待机动画"></a><br>
-      <b>「 胡桃<br>Hu Tao 」</b><br>
+      <b>「 胡桃 」</b><br>
       <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 12 ✦</sub><br>
       <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="知更鸟的待机动画"></a><br>
-      <b>「 知更鸟<br>Robin 」</b><br>
+      <b>「 知更鸟 」</b><br>
       <sub>◇ 宁静优雅 · 天籁歌声 · 羽翼轻盈 ◇</sub>
     </td>
   </tr>
@@ -170,19 +170,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 13 ✦</sub><br>
       <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="凯亚的待机动画"></a><br>
-      <b>「 凯亚<br>Kaeya 」</b><br>
+      <b>「 凯亚 」</b><br>
       <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 14 ✦</sub><br>
       <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="流萤的待机动画"></a><br>
-      <b>「 流萤<br>Firefly 」</b><br>
+      <b>「 流萤 」</b><br>
       <sub>◇ 温柔希望 · 安静勇气 · 自己选择的人生 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 15 ✦</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
-      <b>「 凯文·卡斯兰娜<br>Kevin Kaslana 」</b><br>
+      <b>「 凯文·卡斯兰娜 」</b><br>
       <sub>◇ 冰冷决意 · 沉静力量 · 意志不移 ◇</sub>
     </td>
   </tr>
@@ -190,19 +190,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 16 ✦</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里绫华的待机动画"></a><br>
-      <b>「 神里绫华<br>Kamisato Ayaka 」</b><br>
+      <b>「 神里绫华 」</b><br>
       <sub>◇ 端庄雅致 · 霜蓝清韵 · 温柔从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 17 ✦</sub><br>
       <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃的待机动画"></a><br>
-      <b>「 刃<br>Blade 」</b><br>
+      <b>「 刃 」</b><br>
       <sub>◇ 锋芒内敛 · 赤色剑意 · 执念不灭 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 18 ✦</sub><br>
       <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="阮·梅的待机动画"></a><br>
-      <b>「 阮·梅<br>Ruan Mei 」</b><br>
+      <b>「 阮·梅 」</b><br>
       <sub>◇ 清雅洞见 · 花意流转 · 弦音从容 ◇</sub>
     </td>
   </tr>
@@ -210,19 +210,19 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 19 ✦</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"></a><br>
-      <b>「 枫原万叶<br>Kaedehara Kazuha 」</b><br>
+      <b>「 枫原万叶 」</b><br>
       <sub>◇ 枫意清寂 · 行旅从容 · 风中坚韧 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 20 ✦</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"></a><br>
-      <b>「 星见雅<br>Hoshimi Miyabi 」</b><br>
+      <b>「 星见雅 」</b><br>
       <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 21 ✦</sub><br>
       <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"></a><br>
-      <b>「 砂金<br>Aventurine 」</b><br>
+      <b>「 砂金 」</b><br>
       <sub>◇ 从容下注 · 金色锋芒 · 胜券在握 ◇</sub>
     </td>
   </tr>
@@ -230,39 +230,39 @@
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 22 ✦</sub><br>
       <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"></a><br>
-      <b>「 甘雨<br>Ganyu 」</b><br>
+      <b>「 甘雨 」</b><br>
       <sub>◇ 温柔耐心 · 霜色清雅 · 仙麟静意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>✦ 角色 23 ✦</sub><br>
       <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="星期日的待机动画"></a><br>
-      <b>「 星期日<br>Sunday 」</b><br>
+      <b>「 星期日 」</b><br>
       <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
-      <b>「 甘露寺蜜璃<br>Mitsuri Kanroji 」</b><br>
+      <b>「 甘露寺蜜璃 」</b><br>
       <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"></a><br>
-      <b>「 卡芙卡<br>Kafka 」</b><br>
+      <b>「 卡芙卡 」</b><br>
       <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
-      <b>「 奥托·阿波卡利斯<br>Otto Apocalypse 」</b><br>
+      <b>「 奥托·阿波卡利斯 」</b><br>
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEXT ✦</sub><br>
+      <sub>✦ 下一位 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>「 下一位<br>会是谁？ 」</b><br>
+      <b>「 下一位会是谁？ 」</b><br>
       <sub>带来参考图 · 孵化新的伙伴</sub>
     </td>
   </tr>
@@ -282,7 +282,7 @@
 
 <a id="character-01-xiao" name="character-01-xiao"></a>
 <details open>
-<summary><b>🌙 档案 01 — 魈 · Xiao</b>　<sub>护法夜叉 / 2D 版本</sub></summary>
+<summary><b>🌙 档案 01 — 魈</b>　<sub>护法夜叉 / 2D 版本</sub></summary>
 
 <br>
 
@@ -304,7 +304,7 @@
 
 <a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
-<summary><b>🐉 档案 02 — 丹恒·饮月 · Dan Heng · Imbibitor Lunae</b>　<sub>持明龙尊 / 2D 版本</sub></summary>
+<summary><b>🐉 档案 02 — 丹恒·饮月</b>　<sub>持明龙尊 / 2D 版本</sub></summary>
 
 <br>
 
@@ -326,7 +326,7 @@
 
 <a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
-<summary><b>🦁 档案 03 — 景元 · Jing Yuan</b>　<sub>神策将军 / 2D 版本</sub></summary>
+<summary><b>🦁 档案 03 — 景元</b>　<sub>神策将军 / 2D 版本</sub></summary>
 
 <br>
 
@@ -348,7 +348,7 @@
 
 <a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
-<summary><b>🔶 档案 04 — 钟离 · Zhongli</b>　<sub>往生堂客卿 / 2D 版本</sub></summary>
+<summary><b>🔶 档案 04 — 钟离</b>　<sub>往生堂客卿 / 2D 版本</sub></summary>
 
 <br>
 
@@ -370,7 +370,7 @@
 
 <a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
-<summary><b>⚡ 档案 05 — 雷电芽衣 · Raiden Mei</b>　<sub>女武神 / 两种视觉版本</sub></summary>
+<summary><b>⚡ 档案 05 — 雷电芽衣</b>　<sub>女武神 / 两种视觉版本</sub></summary>
 
 <br>
 
@@ -405,7 +405,7 @@
 
 <a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
-<summary><b>🐍 档案 06 — 伊黑小芭内 · Obanai</b>　<sub>蛇柱 / 2D 版本</sub></summary>
+<summary><b>🐍 档案 06 — 伊黑小芭内</b>　<sub>蛇柱 / 2D 版本</sub></summary>
 
 <br>
 
@@ -427,7 +427,7 @@
 
 <a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
-<summary><b>🌸 档案 07 — 八重神子 · Yae Miko</b>　<sub>鸣神大社宫司 / 2D 版本</sub></summary>
+<summary><b>🌸 档案 07 — 八重神子</b>　<sub>鸣神大社宫司 / 2D 版本</sub></summary>
 
 <br>
 
@@ -449,7 +449,7 @@
 
 <a id="character-08-furina" name="character-08-furina"></a>
 <details>
-<summary><b>💧 档案 08 — 芙宁娜 · Furina</b>　<sub>枫丹之星 / 2D 版本</sub></summary>
+<summary><b>💧 档案 08 — 芙宁娜</b>　<sub>枫丹之星 / 2D 版本</sub></summary>
 
 <br>
 
@@ -471,7 +471,7 @@
 
 <a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
-<summary><b>🌌 档案 09 — 黄泉 · Acheron</b>　<sub>巡海游侠 / 2D 版本</sub></summary>
+<summary><b>🌌 档案 09 — 黄泉</b>　<sub>巡海游侠 / 2D 版本</sub></summary>
 
 <br>
 
@@ -493,7 +493,7 @@
 
 <a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
-<summary><b>🦈 档案 10 — 艾莲·乔 · Ellen Joe</b>　<sub>鲨希人女仆 / 2D 版本</sub></summary>
+<summary><b>🦈 档案 10 — 艾莲·乔</b>　<sub>鲨希人女仆 / 2D 版本</sub></summary>
 
 <br>
 
@@ -515,7 +515,7 @@
 
 <a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
-<summary><b>🔥 档案 11 — 胡桃 · Hu Tao</b>　<sub>往生堂第七十七代堂主 / 2D 版本</sub></summary>
+<summary><b>🔥 档案 11 — 胡桃</b>　<sub>往生堂第七十七代堂主 / 2D 版本</sub></summary>
 
 <br>
 
@@ -537,7 +537,7 @@
 
 <a id="character-12-robin" name="character-12-robin"></a>
 <details>
-<summary><b>🎶 档案 12 — 知更鸟 · Robin</b>　<sub>天环族歌者 / 2D 版本</sub></summary>
+<summary><b>🎶 档案 12 — 知更鸟</b>　<sub>天环族歌者 / 2D 版本</sub></summary>
 
 <br>
 
@@ -559,7 +559,7 @@
 
 <a id="character-13-kaeya" name="character-13-kaeya"></a>
 <details>
-<summary><b>❄️ 档案 13 — 凯亚 · Kaeya</b>　<sub>骑兵队长 / 2D 版本</sub></summary>
+<summary><b>❄️ 档案 13 — 凯亚</b>　<sub>骑兵队长 / 2D 版本</sub></summary>
 
 <br>
 
@@ -581,7 +581,7 @@
 
 <a id="character-14-firefly" name="character-14-firefly"></a>
 <details>
-<summary><b>🌠 档案 14 — 流萤 · Firefly</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>🌠 档案 14 — 流萤</b>　<sub>星核猎手 / 2D 版本</sub></summary>
 
 <br>
 
@@ -603,7 +603,7 @@
 
 <a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
 <details>
-<summary><b>🧊 档案 15 — 凯文·卡斯兰娜 · Kevin Kaslana</b>　<sub>世界蛇领袖 / 2D 版本</sub></summary>
+<summary><b>🧊 档案 15 — 凯文·卡斯兰娜</b>　<sub>世界蛇领袖 / 2D 版本</sub></summary>
 
 <br>
 
@@ -625,7 +625,7 @@
 
 <a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
 <details>
-<summary><b>🌸 档案 16 — 神里绫华 · Kamisato Ayaka</b>　<sub>白鹭公主 / 2D 版本</sub></summary>
+<summary><b>🌸 档案 16 — 神里绫华</b>　<sub>白鹭公主 / 2D 版本</sub></summary>
 
 <br>
 
@@ -647,7 +647,7 @@
 
 <a id="character-17-blade" name="character-17-blade"></a>
 <details>
-<summary><b>🗡️ 档案 17 — 刃 · Blade</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>🗡️ 档案 17 — 刃</b>　<sub>星核猎手 / 2D 版本</sub></summary>
 
 <br>
 
@@ -669,7 +669,7 @@
 
 <a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
 <details>
-<summary><b>🌿 档案 18 — 阮·梅 · Ruan Mei</b>　<sub>天才俱乐部学者 / 2D 版本</sub></summary>
+<summary><b>🌿 档案 18 — 阮·梅</b>　<sub>天才俱乐部学者 / 2D 版本</sub></summary>
 
 <br>
 
@@ -691,7 +691,7 @@
 
 <a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
 <details>
-<summary><b>🍁 档案 19 — 枫原万叶 · Kaedehara Kazuha</b>　<sub>浪人武士 / 2D 版本</sub></summary>
+<summary><b>🍁 档案 19 — 枫原万叶</b>　<sub>浪人武士 / 2D 版本</sub></summary>
 
 <br>
 
@@ -713,7 +713,7 @@
 
 <a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
 <details>
-<summary><b>🦊 档案 20 — 星见雅 · Hoshimi Miyabi</b>　<sub>狐耳剑士 / 2D 版本</sub></summary>
+<summary><b>🦊 档案 20 — 星见雅</b>　<sub>狐耳剑士 / 2D 版本</sub></summary>
 
 <br>
 
@@ -735,7 +735,7 @@
 
 <a id="character-21-aventurine" name="character-21-aventurine"></a>
 <details>
-<summary><b>💎 档案 21 — 砂金 · Aventurine</b>　<sub>金石谋士 / 2D 版本</sub></summary>
+<summary><b>💎 档案 21 — 砂金</b>　<sub>金石谋士 / 2D 版本</sub></summary>
 
 <br>
 
@@ -757,7 +757,7 @@
 
 <a id="character-22-ganyu" name="character-22-ganyu"></a>
 <details>
-<summary><b>❄️ 档案 22 — 甘雨 · Ganyu</b>　<sub>月海亭秘书 / 2D 版本</sub></summary>
+<summary><b>❄️ 档案 22 — 甘雨</b>　<sub>月海亭秘书 / 2D 版本</sub></summary>
 
 <br>
 
@@ -779,7 +779,7 @@
 
 <a id="character-23-sunday" name="character-23-sunday"></a>
 <details>
-<summary><b>🎼 档案 23 — 星期日 · Sunday</b>　<sub>光环指挥家 / 2D 版本</sub></summary>
+<summary><b>🎼 档案 23 — 星期日</b>　<sub>光环指挥家 / 2D 版本</sub></summary>
 
 <br>
 
@@ -801,7 +801,7 @@
 
 <a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
 <details>
-<summary><b>💗 档案 24 — 甘露寺蜜璃 · Mitsuri Kanroji</b>　<sub>恋柱 / 2D 版本</sub></summary>
+<summary><b>💗 档案 24 — 甘露寺蜜璃</b>　<sub>恋柱 / 2D 版本</sub></summary>
 
 <br>
 
@@ -823,7 +823,7 @@
 
 <a id="character-25-kafka" name="character-25-kafka"></a>
 <details>
-<summary><b>🕸️ 档案 25 — 卡芙卡 · Kafka</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>🕸️ 档案 25 — 卡芙卡</b>　<sub>星核猎手 / 2D 版本</sub></summary>
 
 <br>
 
@@ -845,7 +845,7 @@
 
 <a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
 <details>
-<summary><b>♟️ 档案 26 — 奥托·阿波卡利斯 · Otto Apocalypse</b>　<sub>天命大主教 / 2D 版本</sub></summary>
+<summary><b>♟️ 档案 26 — 奥托·阿波卡利斯</b>　<sub>天命大主教 / 2D 版本</sub></summary>
 
 <br>
 
@@ -877,33 +877,33 @@
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
-| 魈 · Xiao | 2D | `xiao` | [下载 ZIP](genshin-impact/xiao/xiao-2d.zip) |
-| 丹恒·饮月 · Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| 景元 · Jing Yuan | 2D | `jing-yuan` | [下载 ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
-| 钟离 · Zhongli | 2D | `zhongli` | [下载 ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
-| 雷电芽衣 · Raiden Mei | 2D | `raiden-mei` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
-| 雷电芽衣 · Raiden Mei | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
-| 伊黑小芭内 · Obanai | 2D | `obanai` | [下载 ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
-| 八重神子 · Yae Miko | 2D | `yae-miko` | [下载 ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
-| 芙宁娜 · Furina | 2D | `furina` | [下载 ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
-| 黄泉 · Acheron | 2D | `acheron` | [下载 ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
-| 艾莲·乔 · Ellen Joe | 2D | `ellen-joe` | [下载 ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
-| 胡桃 · Hu Tao | 2D | `hu-tao` | [下载 ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
-| 知更鸟 · Robin | 2D | `robin` | [下载 ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
-| 凯亚 · Kaeya | 2D | `kaeya` | [下载 ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
-| 流萤 · Firefly | 2D | `firefly` | [下载 ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
-| 凯文·卡斯兰娜 · Kevin Kaslana | 2D | `kevin-kaslana` | [下载 ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
-| 神里绫华 · Kamisato Ayaka | 2D | `kamisato-ayaka` | [下载 ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
-| 刃 · Blade | 2D | `blade` | [下载 ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
-| 阮·梅 · Ruan Mei | 2D | `ruan-mei` | [下载 ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
-| 枫原万叶 · Kaedehara Kazuha | 2D | `kazuha-chibi` | [下载 ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
-| 星见雅 · Hoshimi Miyabi | 2D | `miyabi` | [下载 ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
-| 砂金 · Aventurine | 2D | `aventurine` | [下载 ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
-| 甘雨 · Ganyu | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
-| 星期日 · Sunday | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
-| 甘露寺蜜璃 · Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
-| 卡芙卡 · Kafka | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
-| 奥托·阿波卡利斯 · Otto Apocalypse | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| 魈 | 2D | `xiao` | [下载 ZIP](genshin-impact/xiao/xiao-2d.zip) |
+| 丹恒·饮月 | 2D | `dan-heng-imbibitor-lunae` | [下载 ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| 景元 | 2D | `jing-yuan` | [下载 ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| 钟离 | 2D | `zhongli` | [下载 ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
+| 雷电芽衣 | 2D | `raiden-mei` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| 雷电芽衣 | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
+| 伊黑小芭内 | 2D | `obanai` | [下载 ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| 八重神子 | 2D | `yae-miko` | [下载 ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
+| 芙宁娜 | 2D | `furina` | [下载 ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
+| 黄泉 | 2D | `acheron` | [下载 ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| 艾莲·乔 | 2D | `ellen-joe` | [下载 ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| 胡桃 | 2D | `hu-tao` | [下载 ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
+| 知更鸟 | 2D | `robin` | [下载 ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| 凯亚 | 2D | `kaeya` | [下载 ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
+| 流萤 | 2D | `firefly` | [下载 ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
+| 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [下载 ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
+| 神里绫华 | 2D | `kamisato-ayaka` | [下载 ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| 刃 | 2D | `blade` | [下载 ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
+| 阮·梅 | 2D | `ruan-mei` | [下载 ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
+| 枫原万叶 | 2D | `kazuha-chibi` | [下载 ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 星见雅 | 2D | `miyabi` | [下载 ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
+| 砂金 | 2D | `aventurine` | [下载 ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
+| 甘雨 | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| 星期日 | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
+| 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| 卡芙卡 | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 
