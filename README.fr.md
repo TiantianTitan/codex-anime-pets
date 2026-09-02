@@ -26,201 +26,6 @@
 
 <div align="center">
 
-## ✦ Choisissez votre compagnon ✦
-
-<sub>Chaque portrait est déjà animé. Observez les petits gestes et voyez qui trouvera naturellement sa place près de votre code.</sub>
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 01 · ADEPTE ✦</sub><br>
-      <img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Xiao"><br>
-      <b>「 Xiao · 魈 」</b><br>
-      <sub>◇ Vigilant · Discret · Adepte ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 02 · VIDYADHARA ✦</sub><br>
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"><br>
-      <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
-      <sub>◇ Élégance froide · Présence paisible ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 03 · GÉNÉRAL ✦</sub><br>
-      <img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jing Yuan"><br>
-      <b>「 Jing Yuan · 景元 」</b><br>
-      <sub>◇ Assurance tranquille · Regard attentif ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 04 · CONSEILLER ✦</sub><br>
-      <img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Zhongli"><br>
-      <b>「 Zhongli · 钟离 」</b><br>
-      <sub>◇ Calme · Fiable · Digne ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 05 · VALKYRIE ✦</sub><br>
-      <img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Raiden Mei"><br>
-      <b>「 Raiden Mei · 雷电芽衣 」</b><br>
-      <sub>◇ Posée · Curieuse · Prête ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 06 · PILIER DU SERPENT ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Obanai"><br>
-      <b>「 Obanai · 伊黑小芭内 」</b><br>
-      <sub>◇ Réservé · Alerte · Avec Kaburamaru ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 07 · GUUJI ✦</sub><br>
-      <img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Yae Miko"><br>
-      <b>「 Yae Miko · 八重神子 」</b><br>
-      <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 08 · ÉTOILE DE FONTAINE ✦</sub><br>
-      <img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Furina"><br>
-      <b>「 Furina · 芙宁娜 」</b><br>
-      <sub>◇ Charme théâtral · Élégance aquatique · Malice lumineuse ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 09 · RANGER GALACTIQUE ✦</sub><br>
-      <img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Acheron"><br>
-      <b>「 Acheron · 黄泉 」</b><br>
-      <sub>◇ Calme insondable · Orage violet · Regard lointain ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 10 · THIRÈNE REQUIN ✦</sub><br>
-      <img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Ellen Joe"><br>
-      <b>「 Ellen Joe · 艾莲·乔 」</b><br>
-      <sub>◇ Sang-froid · Regard somnolent · Répartie vive ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 11 · 77E DIRECTRICE ✦</sub><br>
-      <img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hu Tao"><br>
-      <b>「 Hu Tao · 胡桃 」</b><br>
-      <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 12 · CHANTEUSE HALOVIENNE ✦</sub><br>
-      <img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Robin"><br>
-      <b>「 Robin · 知更鸟 」</b><br>
-      <sub>◇ Grâce sereine · Voix céleste · Élégance ailée ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaeya"><br>
-      <b>「 Kaeya · 凯亚 」</b><br>
-      <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PERSONNAGE 14 · CHASSEUSE DE STELLARON ✦</sub><br>
-      <img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Firefly"><br>
-      <b>「 Firefly · 流萤 」</b><br>
-      <sub>◇ Douce espérance · Courage tranquille · Une vie à elle ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 15 · SERPENT MONDIAL ✦</sub><br>
-      <img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"><br>
-      <b>「 Kevin Kaslana · 凯文·卡斯兰娜 」</b><br>
-      <sub>◇ Résolution glaciale · Puissance silencieuse · Volonté inébranlable ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 16 · PRINCESSE SHIRASAGI ✦</sub><br>
-      <img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"><br>
-      <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
-      <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 17 · CHASSEUR DE STELLARON ✦</sub><br>
-      <img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Blade"><br>
-      <b>「 Blade · 刃 」</b><br>
-      <sub>◇ Fureur contenue · Lame écarlate · Volonté immortelle ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 18 · SOCIÉTÉ DES GÉNIES ✦</sub><br>
-      <img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ruan Mei"><br>
-      <b>「 Ruan Mei · 阮·梅 」</b><br>
-      <sub>◇ Intuition sereine · Grâce florale · Mélodie discrète ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 19 · SAMOURAÏ ERRANT ✦</sub><br>
-      <img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaedehara Kazuha"><br>
-      <b>「 Kaedehara Kazuha · 枫原万叶 」</b><br>
-      <sub>◇ Silence d'érable · Grâce vagabonde · Résolution portée par le vent ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 20 · BRETTEUSE AUX OREILLES DE RENARD ✦</sub><br>
-      <img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hoshimi Miyabi"><br>
-      <b>「 Hoshimi Miyabi · 星见雅 」</b><br>
-      <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 21 · STRATÈGE DORÉ ✦</sub><br>
-      <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Aventurine"><br>
-      <b>「 Aventurine · 砂金 」</b><br>
-      <sub>◇ Élégance calculée · Éclat doré · Pari maîtrisé ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 22 · SECRÉTAIRE QILIN ✦</sub><br>
-      <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ganyu"><br>
-      <b>「 Ganyu · 甘雨 」</b><br>
-      <sub>◇ Douce patience · Grâce de givre · Sérénité qilin ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 23 · MAESTRO CÉLESTE ✦</sub><br>
-      <img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Sunday"><br>
-      <b>「 Sunday · 星期日 」</b><br>
-      <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 24 · PILIER DE L'AMOUR ✦</sub><br>
-      <img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"><br>
-      <b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b><br>
-      <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 25 · TOILE DU DESTIN ✦</sub><br>
-      <img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kafka"><br>
-      <b>「 Kafka · 卡芙卡 」</b><br>
-      <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 26 · GRAND ÉVÊQUE DE SCHICKSAL ✦</sub><br>
-      <img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"><br>
-      <b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b><br>
-      <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
-      <b>「 Qui nous rejoindra ? 」</b><br>
-      <sub>Apportez une référence · Faites éclore un compagnon</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-<div align="center">
-
 ## ✦ Instants animés ✦
 
 <sub>Respirer, bondir, saluer, réfléchir — de petits gestes qui donnent une vraie présence au personnage.</sub>
@@ -270,13 +75,209 @@
 
 <div align="center">
 
+## ✦ Choisissez votre compagnon ✦
+
+<sub>Chaque portrait est animé. Sélectionnez l’image ou le nom d’un personnage pour rejoindre son dossier.</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 01 · ADEPTE ✦</sub><br>
+      <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Xiao"></a><br>
+      <a href="#character-01-xiao"><b>「 Xiao · 魈 」</b></a><br>
+      <sub>◇ Vigilant · Discret · Adepte ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 02 · VIDYADHARA ✦</sub><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"></a><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><b>「 Dan Heng · Imbibitor Lunae 」</b></a><br>
+      <sub>◇ Élégance froide · Présence paisible ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 03 · GÉNÉRAL ✦</sub><br>
+      <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jing Yuan"></a><br>
+      <a href="#character-03-jing-yuan"><b>「 Jing Yuan · 景元 」</b></a><br>
+      <sub>◇ Assurance tranquille · Regard attentif ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 04 · CONSEILLER ✦</sub><br>
+      <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Zhongli"></a><br>
+      <a href="#character-04-zhongli"><b>「 Zhongli · 钟离 」</b></a><br>
+      <sub>◇ Calme · Fiable · Digne ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 05 · VALKYRIE ✦</sub><br>
+      <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Raiden Mei"></a><br>
+      <a href="#character-05-raiden-mei"><b>「 Raiden Mei · 雷电芽衣 」</b></a><br>
+      <sub>◇ Posée · Curieuse · Prête ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 06 · PILIER DU SERPENT ✦</sub><br>
+      <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Obanai"></a><br>
+      <a href="#character-06-obanai"><b>「 Obanai · 伊黑小芭内 」</b></a><br>
+      <sub>◇ Réservé · Alerte · Avec Kaburamaru ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 07 · GUUJI ✦</sub><br>
+      <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Yae Miko"></a><br>
+      <a href="#character-07-yae-miko"><b>「 Yae Miko · 八重神子 」</b></a><br>
+      <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 08 · ÉTOILE DE FONTAINE ✦</sub><br>
+      <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Furina"></a><br>
+      <a href="#character-08-furina"><b>「 Furina · 芙宁娜 」</b></a><br>
+      <sub>◇ Charme théâtral · Élégance aquatique · Malice lumineuse ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 09 · RANGER GALACTIQUE ✦</sub><br>
+      <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Acheron"></a><br>
+      <a href="#character-09-acheron"><b>「 Acheron · 黄泉 」</b></a><br>
+      <sub>◇ Calme insondable · Orage violet · Regard lointain ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 10 · THIRÈNE REQUIN ✦</sub><br>
+      <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Ellen Joe"></a><br>
+      <a href="#character-10-ellen-joe"><b>「 Ellen Joe · 艾莲·乔 」</b></a><br>
+      <sub>◇ Sang-froid · Regard somnolent · Répartie vive ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 11 · 77E DIRECTRICE ✦</sub><br>
+      <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hu Tao"></a><br>
+      <a href="#character-11-hu-tao"><b>「 Hu Tao · 胡桃 」</b></a><br>
+      <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 12 · CHANTEUSE HALOVIENNE ✦</sub><br>
+      <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Robin"></a><br>
+      <a href="#character-12-robin"><b>「 Robin · 知更鸟 」</b></a><br>
+      <sub>◇ Grâce sereine · Voix céleste · Élégance ailée ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 13 · CAPITAINE DE CAVALERIE ✦</sub><br>
+      <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaeya"></a><br>
+      <a href="#character-13-kaeya"><b>「 Kaeya · 凯亚 」</b></a><br>
+      <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 14 · CHASSEUSE DE STELLARON ✦</sub><br>
+      <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Firefly"></a><br>
+      <a href="#character-14-firefly"><b>「 Firefly · 流萤 」</b></a><br>
+      <sub>◇ Douce espérance · Courage tranquille · Une vie à elle ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 15 · SERPENT MONDIAL ✦</sub><br>
+      <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"></a><br>
+      <a href="#character-15-kevin-kaslana"><b>「 Kevin Kaslana · 凯文·卡斯兰娜 」</b></a><br>
+      <sub>◇ Résolution glaciale · Puissance silencieuse · Volonté inébranlable ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 16 · PRINCESSE SHIRASAGI ✦</sub><br>
+      <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"></a><br>
+      <a href="#character-16-kamisato-ayaka"><b>「 Kamisato Ayaka · 神里绫华 」</b></a><br>
+      <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 17 · CHASSEUR DE STELLARON ✦</sub><br>
+      <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Blade"></a><br>
+      <a href="#character-17-blade"><b>「 Blade · 刃 」</b></a><br>
+      <sub>◇ Fureur contenue · Lame écarlate · Volonté immortelle ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 18 · SOCIÉTÉ DES GÉNIES ✦</sub><br>
+      <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ruan Mei"></a><br>
+      <a href="#character-18-ruan-mei"><b>「 Ruan Mei · 阮·梅 」</b></a><br>
+      <sub>◇ Intuition sereine · Grâce florale · Mélodie discrète ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 19 · SAMOURAÏ ERRANT ✦</sub><br>
+      <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaedehara Kazuha"></a><br>
+      <a href="#character-19-kaedehara-kazuha"><b>「 Kaedehara Kazuha · 枫原万叶 」</b></a><br>
+      <sub>◇ Silence d'érable · Grâce vagabonde · Résolution portée par le vent ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 20 · BRETTEUSE AUX OREILLES DE RENARD ✦</sub><br>
+      <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hoshimi Miyabi"></a><br>
+      <a href="#character-20-hoshimi-miyabi"><b>「 Hoshimi Miyabi · 星见雅 」</b></a><br>
+      <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 21 · STRATÈGE DORÉ ✦</sub><br>
+      <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Aventurine"></a><br>
+      <a href="#character-21-aventurine"><b>「 Aventurine · 砂金 」</b></a><br>
+      <sub>◇ Élégance calculée · Éclat doré · Pari maîtrisé ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 22 · SECRÉTAIRE QILIN ✦</sub><br>
+      <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ganyu"></a><br>
+      <a href="#character-22-ganyu"><b>「 Ganyu · 甘雨 」</b></a><br>
+      <sub>◇ Douce patience · Grâce de givre · Sérénité qilin ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PERSONNAGE 23 · MAESTRO CÉLESTE ✦</sub><br>
+      <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Sunday"></a><br>
+      <a href="#character-23-sunday"><b>「 Sunday · 星期日 」</b></a><br>
+      <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 24 · PILIER DE L'AMOUR ✦</sub><br>
+      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"></a><br>
+      <a href="#character-24-mitsuri-kanroji"><b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b></a><br>
+      <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 25 · TOILE DU DESTIN ✦</sub><br>
+      <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kafka"></a><br>
+      <a href="#character-25-kafka"><b>「 Kafka · 卡芙卡 」</b></a><br>
+      <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NOUVELLE ARRIVÉE · PERSONNAGE 26 · GRAND ÉVÊQUE DE SCHICKSAL ✦</sub><br>
+      <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"></a><br>
+      <a href="#character-26-otto-apocalypse"><b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b></a><br>
+      <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ PROCHAINE INVOCATION · À VOUS DE CHOISIR ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>「 Qui nous rejoindra ? 」</b><br>
+      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
+
+<div align="center">
+
 ## ✦ Archives des personnages ✦
 
 <sub>Ouvrez une fiche pour découvrir le personnage, sa planche d’animations et son téléchargement.</sub>
 
 </div>
 
-<details>
+<a id="character-01-xiao" name="character-01-xiao"></a>
+<details open>
 <summary><b>🌙 DOSSIER 01 — Xiao · 魈</b>　<sub>Yaksha gardien / édition 2D</sub></summary>
 
 <br>
@@ -297,6 +298,7 @@
 
 </details>
 
+<a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
 <summary><b>🐉 DOSSIER 02 — Dan Heng · Imbibitor Lunae · 丹恒·饮月</b>　<sub>Vidyadhara / édition 2D</sub></summary>
 
@@ -318,6 +320,7 @@
 
 </details>
 
+<a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
 <summary><b>🦁 DOSSIER 03 — Jing Yuan · 景元</b>　<sub>Général des Chevaliers des Nuages / édition 2D</sub></summary>
 
@@ -339,6 +342,7 @@
 
 </details>
 
+<a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
 <summary><b>🔶 DOSSIER 04 — Zhongli · 钟离</b>　<sub>Conseiller / édition 2D</sub></summary>
 
@@ -360,6 +364,7 @@
 
 </details>
 
+<a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
 <summary><b>⚡ DOSSIER 05 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / deux éditions visuelles</sub></summary>
 
@@ -394,6 +399,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
 <summary><b>🐍 DOSSIER 06 — Obanai · 伊黑小芭内</b>　<sub>Pilier du Serpent / édition 2D</sub></summary>
 
@@ -415,6 +421,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
 <summary><b>🌸 DOSSIER 07 — Yae Miko · 八重神子</b>　<sub>Guuji du sanctuaire de Narukami / édition 2D</sub></summary>
 
@@ -436,6 +443,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-08-furina" name="character-08-furina"></a>
 <details>
 <summary><b>💧 DOSSIER 08 — Furina · 芙宁娜</b>　<sub>Étoile de Fontaine / édition 2D</sub></summary>
 
@@ -457,6 +465,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
 <summary><b>🌌 DOSSIER 09 — Acheron · 黄泉</b>　<sub>Ranger galactique / édition 2D</sub></summary>
 
@@ -478,6 +487,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
 <summary><b>🦈 DOSSIER 10 — Ellen Joe · 艾莲·乔</b>　<sub>Domestique thirène requin / édition 2D</sub></summary>
 
@@ -499,6 +509,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
 <summary><b>🔥 DOSSIER 11 — Hu Tao · 胡桃</b>　<sub>77e directrice / édition 2D</sub></summary>
 
@@ -520,7 +531,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-12-robin" name="character-12-robin"></a>
+<details>
 <summary><b>🎶 DOSSIER 12 — Robin · 知更鸟</b>　<sub>Chanteuse halovienne / édition 2D</sub></summary>
 
 <br>
@@ -541,7 +553,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-13-kaeya" name="character-13-kaeya"></a>
+<details>
 <summary><b>❄️ DOSSIER 13 — Kaeya · 凯亚</b>　<sub>Capitaine de cavalerie / édition 2D</sub></summary>
 
 <br>
@@ -562,7 +575,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-14-firefly" name="character-14-firefly"></a>
+<details>
 <summary><b>🌠 DOSSIER 14 — Firefly · 流萤</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
 
 <br>
@@ -583,7 +597,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
+<details>
 <summary><b>🧊 DOSSIER 15 — Kevin Kaslana · 凯文·卡斯兰娜</b>　<sub>Dirigeant du Serpent Mondial / édition 2D</sub></summary>
 
 <br>
@@ -604,7 +619,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
+<details>
 <summary><b>🌸 DOSSIER 16 — Kamisato Ayaka · 神里绫华</b>　<sub>Princesse Shirasagi / édition 2D</sub></summary>
 
 <br>
@@ -625,7 +641,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-17-blade" name="character-17-blade"></a>
+<details>
 <summary><b>🗡️ DOSSIER 17 — Blade · 刃</b>　<sub>Chasseur de Stellaron / édition 2D</sub></summary>
 
 <br>
@@ -646,7 +663,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
+<details>
 <summary><b>🌿 DOSSIER 18 — Ruan Mei · 阮·梅</b>　<sub>Savante de la Société des Génies / édition 2D</sub></summary>
 
 <br>
@@ -667,7 +685,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
+<details>
 <summary><b>🍁 DOSSIER 19 — Kaedehara Kazuha · 枫原万叶</b>　<sub>Samouraï errant / édition 2D</sub></summary>
 
 <br>
@@ -688,7 +707,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
+<details>
 <summary><b>🦊 DOSSIER 20 — Hoshimi Miyabi · 星见雅</b>　<sub>Bretteuse aux oreilles de renard / édition 2D</sub></summary>
 
 <br>
@@ -709,7 +729,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-21-aventurine" name="character-21-aventurine"></a>
+<details>
 <summary><b>💎 DOSSIER 21 — Aventurine · 砂金</b>　<sub>Stratège doré / édition 2D</sub></summary>
 
 <br>
@@ -730,7 +751,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-22-ganyu" name="character-22-ganyu"></a>
+<details>
 <summary><b>❄️ DOSSIER 22 — Ganyu · 甘雨</b>　<sub>Secrétaire qilin / édition 2D</sub></summary>
 
 <br>
@@ -751,7 +773,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-23-sunday" name="character-23-sunday"></a>
+<details>
 <summary><b>🎼 DOSSIER 23 — Sunday · 星期日</b>　<sub>Maestro céleste / édition 2D</sub></summary>
 
 <br>
@@ -772,14 +795,15 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
+<details>
 <summary><b>💗 DOSSIER 24 — Mitsuri Kanroji · 甘露寺蜜璃</b>　<sub>Pilier de l'Amour / édition 2D</sub></summary>
 
 <br>
 
 <table>
   <tr>
-    <td align="center"><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="190" alt="Mitsuri Kanroji au repos"></td>
+    <td align="center"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="190" alt="Mitsuri Kanroji au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> deux épaisses tresses passant du rose au vert citron, des yeux vert vif, un haori blanc sur son uniforme sombre, des chaussettes rayées vertes et des sandales<br>
@@ -793,7 +817,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-25-kafka" name="character-25-kafka"></a>
+<details>
 <summary><b>🕸️ DOSSIER 25 — Kafka · 卡芙卡</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
 
 <br>
@@ -814,7 +839,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<details open>
+<a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
+<details>
 <summary><b>♟️ DOSSIER 26 — Otto Apocalypse · 奥托·阿波卡利斯</b>　<sub>Grand évêque de Schicksal / édition 2D</sub></summary>
 
 <br>

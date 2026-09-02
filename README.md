@@ -26,201 +26,6 @@
 
 <div align="center">
 
-## ✦ Select Your Companion ✦
-
-<sub>Each portrait is already moving. Take your time, watch the little gestures, and see who feels at home beside your code.</sub>
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 01 · ADEPTUS ✦</sub><br>
-      <img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Xiao idle animation"><br>
-      <b>「 Xiao · 魈 」</b><br>
-      <sub>◇ Watchful · Restrained · Adeptal ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 02 · VIDYADHARA ✦</sub><br>
-      <img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Dan Heng Imbibitor Lunae idle animation"><br>
-      <b>「 Dan Heng · Imbibitor Lunae 」</b><br>
-      <sub>◇ Cool elegance · Quiet presence ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 03 · GENERAL ✦</sub><br>
-      <img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Jing Yuan idle animation"><br>
-      <b>「 Jing Yuan · 景元 」</b><br>
-      <sub>◇ Relaxed confidence · Keen eye ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 04 · CONSULTANT ✦</sub><br>
-      <img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Zhongli idle animation"><br>
-      <b>「 Zhongli · 钟离 」</b><br>
-      <sub>◇ Measured · Dependable · Dignified ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 05 · VALKYRIE ✦</sub><br>
-      <img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Mei idle animation"><br>
-      <b>「 Raiden Mei · 雷电芽衣 」</b><br>
-      <sub>◇ Composed · Curious · Ready ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 06 · SERPENT HASHIRA ✦</sub><br>
-      <img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Obanai idle animation"><br>
-      <b>「 Obanai · 伊黑小芭内 」</b><br>
-      <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 07 · GUUJI ✦</sub><br>
-      <img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Yae Miko idle animation"><br>
-      <b>「 Yae Miko · 八重神子 」</b><br>
-      <sub>◇ Playful poise · Shrine elegance · Quiet mischief ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 08 · STAR OF FONTAINE ✦</sub><br>
-      <img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Furina idle animation"><br>
-      <b>「 Furina · 芙宁娜 」</b><br>
-      <sub>◇ Theatrical charm · Aquatic elegance · Bright mischief ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 09 · GALAXY RANGER ✦</sub><br>
-      <img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Acheron idle animation"><br>
-      <b>「 Acheron · 黄泉 」</b><br>
-      <sub>◇ Quiet resolve · Violet storm · Distant gaze ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 10 · SHARK THIREN ✦</sub><br>
-      <img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Ellen Joe idle animation"><br>
-      <b>「 Ellen Joe · 艾莲·乔 」</b><br>
-      <sub>◇ Cool composure · Sleepy gaze · Razor-sharp wit ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 11 · 77TH DIRECTOR ✦</sub><br>
-      <img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Hu Tao idle animation"><br>
-      <b>「 Hu Tao · 胡桃 」</b><br>
-      <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 12 · HALOVIAN SINGER ✦</sub><br>
-      <img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Robin idle animation"><br>
-      <b>「 Robin · 知更鸟 」</b><br>
-      <sub>◇ Serene grace · Celestial voice · Feather-light poise ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 13 · CAVALRY CAPTAIN ✦</sub><br>
-      <img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Kaeya idle animation"><br>
-      <b>「 Kaeya · 凯亚 」</b><br>
-      <sub>◇ Cool confidence · Playful charm · A watchful eye ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ CHARACTER 14 · STELLARON HUNTER ✦</sub><br>
-      <img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Firefly idle animation"><br>
-      <b>「 Firefly · 流萤 」</b><br>
-      <sub>◇ Gentle hope · Quiet courage · A life of her own ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 15 · WORLD SERPENT ✦</sub><br>
-      <img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Kevin Kaslana idle animation"><br>
-      <b>「 Kevin Kaslana · 凯文·卡斯兰娜 」</b><br>
-      <sub>◇ Icy resolve · Quiet power · Unshaken will ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 16 · SHIRASAGI HIMEGIMI ✦</sub><br>
-      <img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Kamisato Ayaka idle animation"><br>
-      <b>「 Kamisato Ayaka · 神里绫华 」</b><br>
-      <sub>◇ Poised grace · Frost-blue elegance · Quiet warmth ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 17 · STELLARON HUNTER ✦</sub><br>
-      <img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Blade idle animation"><br>
-      <b>「 Blade · 刃 」</b><br>
-      <sub>◇ Restrained fury · Crimson edge · Deathless resolve ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 18 · GENIUS SOCIETY SCHOLAR ✦</sub><br>
-      <img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Ruan Mei idle animation"><br>
-      <b>「 Ruan Mei · 阮·梅 」</b><br>
-      <sub>◇ Serene insight · Floral grace · Quiet melody ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 19 · WANDERING SAMURAI ✦</sub><br>
-      <img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Kaedehara Kazuha idle animation"><br>
-      <b>「 Kaedehara Kazuha · 枫原万叶 」</b><br>
-      <sub>◇ Maple hush · Wandering grace · Windborne resolve ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 20 · FOX-EARED SWORDMASTER ✦</sub><br>
-      <img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Hoshimi Miyabi idle animation"><br>
-      <b>「 Hoshimi Miyabi · 星见雅 」</b><br>
-      <sub>◇ Still focus · Scarlet gaze · Quiet swordcraft ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 21 · GILDED STRATEGIST ✦</sub><br>
-      <img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Aventurine idle animation"><br>
-      <b>「 Aventurine · 砂金 」</b><br>
-      <sub>◇ Poised gamble · Gilded charm · Eyes on the odds ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 22 · QILIN SECRETARY ✦</sub><br>
-      <img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Ganyu idle animation"><br>
-      <b>「 Ganyu · 甘雨 」</b><br>
-      <sub>◇ Gentle patience · Frost-blue grace · Qilin serenity ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 23 · HALOED CONDUCTOR ✦</sub><br>
-      <img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Sunday idle animation"><br>
-      <b>「 Sunday · 星期日 」</b><br>
-      <sub>◇ Composed grace · Golden gaze · Quiet orchestration ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 24 · LOVE HASHIRA ✦</sub><br>
-      <img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="Mitsuri Kanroji idle animation"><br>
-      <b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b><br>
-      <sub>◇ Openhearted warmth · Bright spirit · Fearless affection ◇</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 25 · WEB OF DESTINY ✦</sub><br>
-      <img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Kafka idle animation"><br>
-      <b>「 Kafka · 卡芙卡 」</b><br>
-      <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEW ARRIVAL · CHARACTER 26 · SCHICKSAL OVERSEER ✦</sub><br>
-      <img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"><br>
-      <b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b><br>
-      <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
-    </td>
-    <td align="center" width="33%">
-      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
-      <b>「 Who joins next? 」</b><br>
-      <sub>Bring a reference · Hatch a companion</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-<div align="center">
-
 ## ✦ Motion Reel ✦
 
 <sub>Breathing, leaping, greeting, thinking — small moments that make the character feel present.</sub>
@@ -270,13 +75,209 @@
 
 <div align="center">
 
+## ✦ Select Your Companion ✦
+
+<sub>Every portrait is already moving. Select a portrait or name to jump to its character file.</sub>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 01 · ADEPTUS ✦</sub><br>
+      <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Xiao idle animation"></a><br>
+      <a href="#character-01-xiao"><b>「 Xiao · 魈 」</b></a><br>
+      <sub>◇ Watchful · Restrained · Adeptal ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 02 · VIDYADHARA ✦</sub><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Dan Heng Imbibitor Lunae idle animation"></a><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><b>「 Dan Heng · Imbibitor Lunae 」</b></a><br>
+      <sub>◇ Cool elegance · Quiet presence ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 03 · GENERAL ✦</sub><br>
+      <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Jing Yuan idle animation"></a><br>
+      <a href="#character-03-jing-yuan"><b>「 Jing Yuan · 景元 」</b></a><br>
+      <sub>◇ Relaxed confidence · Keen eye ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 04 · CONSULTANT ✦</sub><br>
+      <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Zhongli idle animation"></a><br>
+      <a href="#character-04-zhongli"><b>「 Zhongli · 钟离 」</b></a><br>
+      <sub>◇ Measured · Dependable · Dignified ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 05 · VALKYRIE ✦</sub><br>
+      <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Mei idle animation"></a><br>
+      <a href="#character-05-raiden-mei"><b>「 Raiden Mei · 雷电芽衣 」</b></a><br>
+      <sub>◇ Composed · Curious · Ready ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 06 · SERPENT HASHIRA ✦</sub><br>
+      <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Obanai idle animation"></a><br>
+      <a href="#character-06-obanai"><b>「 Obanai · 伊黑小芭内 」</b></a><br>
+      <sub>◇ Reserved · Alert · With Kaburamaru ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 07 · GUUJI ✦</sub><br>
+      <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Yae Miko idle animation"></a><br>
+      <a href="#character-07-yae-miko"><b>「 Yae Miko · 八重神子 」</b></a><br>
+      <sub>◇ Playful poise · Shrine elegance · Quiet mischief ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 08 · STAR OF FONTAINE ✦</sub><br>
+      <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Furina idle animation"></a><br>
+      <a href="#character-08-furina"><b>「 Furina · 芙宁娜 」</b></a><br>
+      <sub>◇ Theatrical charm · Aquatic elegance · Bright mischief ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 09 · GALAXY RANGER ✦</sub><br>
+      <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Acheron idle animation"></a><br>
+      <a href="#character-09-acheron"><b>「 Acheron · 黄泉 」</b></a><br>
+      <sub>◇ Quiet resolve · Violet storm · Distant gaze ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 10 · SHARK THIREN ✦</sub><br>
+      <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Ellen Joe idle animation"></a><br>
+      <a href="#character-10-ellen-joe"><b>「 Ellen Joe · 艾莲·乔 」</b></a><br>
+      <sub>◇ Cool composure · Sleepy gaze · Razor-sharp wit ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 11 · 77TH DIRECTOR ✦</sub><br>
+      <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Hu Tao idle animation"></a><br>
+      <a href="#character-11-hu-tao"><b>「 Hu Tao · 胡桃 」</b></a><br>
+      <sub>◇ Bright mischief · Plum-blossom charm · Fearless warmth ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 12 · HALOVIAN SINGER ✦</sub><br>
+      <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Robin idle animation"></a><br>
+      <a href="#character-12-robin"><b>「 Robin · 知更鸟 」</b></a><br>
+      <sub>◇ Serene grace · Celestial voice · Feather-light poise ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 13 · CAVALRY CAPTAIN ✦</sub><br>
+      <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Kaeya idle animation"></a><br>
+      <a href="#character-13-kaeya"><b>「 Kaeya · 凯亚 」</b></a><br>
+      <sub>◇ Cool confidence · Playful charm · A watchful eye ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 14 · STELLARON HUNTER ✦</sub><br>
+      <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Firefly idle animation"></a><br>
+      <a href="#character-14-firefly"><b>「 Firefly · 流萤 」</b></a><br>
+      <sub>◇ Gentle hope · Quiet courage · A life of her own ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 15 · WORLD SERPENT ✦</sub><br>
+      <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Kevin Kaslana idle animation"></a><br>
+      <a href="#character-15-kevin-kaslana"><b>「 Kevin Kaslana · 凯文·卡斯兰娜 」</b></a><br>
+      <sub>◇ Icy resolve · Quiet power · Unshaken will ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 16 · SHIRASAGI HIMEGIMI ✦</sub><br>
+      <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Kamisato Ayaka idle animation"></a><br>
+      <a href="#character-16-kamisato-ayaka"><b>「 Kamisato Ayaka · 神里绫华 」</b></a><br>
+      <sub>◇ Poised grace · Frost-blue elegance · Quiet warmth ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 17 · STELLARON HUNTER ✦</sub><br>
+      <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Blade idle animation"></a><br>
+      <a href="#character-17-blade"><b>「 Blade · 刃 」</b></a><br>
+      <sub>◇ Restrained fury · Crimson edge · Deathless resolve ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 18 · GENIUS SOCIETY SCHOLAR ✦</sub><br>
+      <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Ruan Mei idle animation"></a><br>
+      <a href="#character-18-ruan-mei"><b>「 Ruan Mei · 阮·梅 」</b></a><br>
+      <sub>◇ Serene insight · Floral grace · Quiet melody ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 19 · WANDERING SAMURAI ✦</sub><br>
+      <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Kaedehara Kazuha idle animation"></a><br>
+      <a href="#character-19-kaedehara-kazuha"><b>「 Kaedehara Kazuha · 枫原万叶 」</b></a><br>
+      <sub>◇ Maple hush · Wandering grace · Windborne resolve ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 20 · FOX-EARED SWORDMASTER ✦</sub><br>
+      <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Hoshimi Miyabi idle animation"></a><br>
+      <a href="#character-20-hoshimi-miyabi"><b>「 Hoshimi Miyabi · 星见雅 」</b></a><br>
+      <sub>◇ Still focus · Scarlet gaze · Quiet swordcraft ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 21 · GILDED STRATEGIST ✦</sub><br>
+      <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Aventurine idle animation"></a><br>
+      <a href="#character-21-aventurine"><b>「 Aventurine · 砂金 」</b></a><br>
+      <sub>◇ Poised gamble · Gilded charm · Eyes on the odds ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 22 · QILIN SECRETARY ✦</sub><br>
+      <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Ganyu idle animation"></a><br>
+      <a href="#character-22-ganyu"><b>「 Ganyu · 甘雨 」</b></a><br>
+      <sub>◇ Gentle patience · Frost-blue grace · Qilin serenity ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ CHARACTER 23 · HALOED CONDUCTOR ✦</sub><br>
+      <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Sunday idle animation"></a><br>
+      <a href="#character-23-sunday"><b>「 Sunday · 星期日 」</b></a><br>
+      <sub>◇ Composed grace · Golden gaze · Quiet orchestration ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 24 · LOVE HASHIRA ✦</sub><br>
+      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Mitsuri Kanroji idle animation"></a><br>
+      <a href="#character-24-mitsuri-kanroji"><b>「 Mitsuri Kanroji · 甘露寺蜜璃 」</b></a><br>
+      <sub>◇ Openhearted warmth · Bright spirit · Fearless affection ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 25 · WEB OF DESTINY ✦</sub><br>
+      <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Kafka idle animation"></a><br>
+      <a href="#character-25-kafka"><b>「 Kafka · 卡芙卡 」</b></a><br>
+      <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEW ARRIVAL · CHARACTER 26 · SCHICKSAL OVERSEER ✦</sub><br>
+      <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"></a><br>
+      <a href="#character-26-otto-apocalypse"><b>「 Otto Apocalypse · 奥托·阿波卡利斯 」</b></a><br>
+      <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>✦ NEXT SUMMON · YOUR PICK ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
+      <b>「 Who joins next? 」</b><br>
+      <sub>Bring a reference · Hatch a companion</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+</div>
+
+<div align="center">
+
 ## ✦ Character Archives ✦
 
 <sub>Open a file to see the character details, animation sheet, and download.</sub>
 
 </div>
 
-<details>
+<a id="character-01-xiao" name="character-01-xiao"></a>
+<details open>
 <summary><b>🌙 FILE 01 — Xiao · 魈</b>　<sub>Guardian Yaksha / 2D edition</sub></summary>
 
 <br>
@@ -297,6 +298,7 @@
 
 </details>
 
+<a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
 <summary><b>🐉 FILE 02 — Dan Heng · Imbibitor Lunae · 丹恒·饮月</b>　<sub>Vidyadhara / 2D edition</sub></summary>
 
@@ -318,6 +320,7 @@
 
 </details>
 
+<a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
 <summary><b>🦁 FILE 03 — Jing Yuan · 景元</b>　<sub>Cloud Knight General / 2D edition</sub></summary>
 
@@ -339,6 +342,7 @@
 
 </details>
 
+<a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
 <summary><b>🔶 FILE 04 — Zhongli · 钟离</b>　<sub>Consultant / 2D edition</sub></summary>
 
@@ -360,6 +364,7 @@
 
 </details>
 
+<a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
 <summary><b>⚡ FILE 05 — Raiden Mei · 雷电芽衣</b>　<sub>Valkyrie / two visual editions</sub></summary>
 
@@ -394,6 +399,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
 <summary><b>🐍 FILE 06 — Obanai · 伊黑小芭内</b>　<sub>Serpent Hashira / 2D edition</sub></summary>
 
@@ -415,6 +421,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
 <summary><b>🌸 FILE 07 — Yae Miko · 八重神子</b>　<sub>Grand Narukami Shrine Guuji / 2D edition</sub></summary>
 
@@ -436,6 +443,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-08-furina" name="character-08-furina"></a>
 <details>
 <summary><b>💧 FILE 08 — Furina · 芙宁娜</b>　<sub>Star of Fontaine / 2D edition</sub></summary>
 
@@ -457,6 +465,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
 <summary><b>🌌 FILE 09 — Acheron · 黄泉</b>　<sub>Galaxy Ranger / 2D edition</sub></summary>
 
@@ -478,6 +487,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
 <summary><b>🦈 FILE 10 — Ellen Joe · 艾莲·乔</b>　<sub>Shark Thiren maid / 2D edition</sub></summary>
 
@@ -499,6 +509,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
 <summary><b>🔥 FILE 11 — Hu Tao · 胡桃</b>　<sub>77th Director / 2D edition</sub></summary>
 
@@ -520,7 +531,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-12-robin" name="character-12-robin"></a>
+<details>
 <summary><b>🎶 FILE 12 — Robin · 知更鸟</b>　<sub>Halovian singer / 2D edition</sub></summary>
 
 <br>
@@ -541,7 +553,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-13-kaeya" name="character-13-kaeya"></a>
+<details>
 <summary><b>❄️ FILE 13 — Kaeya · 凯亚</b>　<sub>Cavalry Captain / 2D edition</sub></summary>
 
 <br>
@@ -562,7 +575,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-14-firefly" name="character-14-firefly"></a>
+<details>
 <summary><b>🌠 FILE 14 — Firefly · 流萤</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
 
 <br>
@@ -583,7 +597,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
+<details>
 <summary><b>🧊 FILE 15 — Kevin Kaslana · 凯文·卡斯兰娜</b>　<sub>World Serpent leader / 2D edition</sub></summary>
 
 <br>
@@ -604,7 +619,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
+<details>
 <summary><b>🌸 FILE 16 — Kamisato Ayaka · 神里绫华</b>　<sub>Shirasagi Himegimi / 2D edition</sub></summary>
 
 <br>
@@ -625,7 +641,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-17-blade" name="character-17-blade"></a>
+<details>
 <summary><b>🗡️ FILE 17 — Blade · 刃</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
 
 <br>
@@ -646,7 +663,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
+<details>
 <summary><b>🌿 FILE 18 — Ruan Mei · 阮·梅</b>　<sub>Genius Society scholar / 2D edition</sub></summary>
 
 <br>
@@ -667,7 +685,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
+<details>
 <summary><b>🍁 FILE 19 — Kaedehara Kazuha · 枫原万叶</b>　<sub>Wandering Samurai / 2D edition</sub></summary>
 
 <br>
@@ -688,7 +707,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
+<details>
 <summary><b>🦊 FILE 20 — Hoshimi Miyabi · 星见雅</b>　<sub>Fox-eared swordmaster / 2D edition</sub></summary>
 
 <br>
@@ -709,7 +729,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-21-aventurine" name="character-21-aventurine"></a>
+<details>
 <summary><b>💎 FILE 21 — Aventurine · 砂金</b>　<sub>Gilded strategist / 2D edition</sub></summary>
 
 <br>
@@ -730,7 +751,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-22-ganyu" name="character-22-ganyu"></a>
+<details>
 <summary><b>❄️ FILE 22 — Ganyu · 甘雨</b>　<sub>Qilin secretary / 2D edition</sub></summary>
 
 <br>
@@ -751,7 +773,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-23-sunday" name="character-23-sunday"></a>
+<details>
 <summary><b>🎼 FILE 23 — Sunday · 星期日</b>　<sub>Haloed conductor / 2D edition</sub></summary>
 
 <br>
@@ -772,14 +795,15 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
+<details>
 <summary><b>💗 FILE 24 — Mitsuri Kanroji · 甘露寺蜜璃</b>　<sub>Love Hashira / 2D edition</sub></summary>
 
 <br>
 
 <table>
   <tr>
-    <td align="center"><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="190" alt="Mitsuri Kanroji idle"></td>
+    <td align="center"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="190" alt="Mitsuri Kanroji idle"></td>
     <td>
       <b>Style:</b> 2D anime sticker<br>
       <b>Signature details:</b> thick twin braids fading from pink to lime green, vivid green eyes, a white haori over her dark uniform, green striped socks, and sandals<br>
@@ -793,7 +817,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-25-kafka" name="character-25-kafka"></a>
+<details>
 <summary><b>🕸️ FILE 25 — Kafka · 卡芙卡</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
 
 <br>
@@ -814,7 +839,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
-<details open>
+<a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
+<details>
 <summary><b>♟️ FILE 26 — Otto Apocalypse · 奥托·阿波卡利斯</b>　<sub>Schicksal Overseer / 2D edition</sub></summary>
 
 <br>

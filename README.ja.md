@@ -71,9 +71,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン · Aventurine 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 23 · 天上の指揮者 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー · Sunday 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
-    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 24 · 恋柱 ✦</sub><br><img src="work/mitsuri-kanroji/2d/qa/previews-final/idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 甘露寺蜜璃 · Mitsuri Kanroji 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ キャラクター 22 · 月海亭秘書 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 · Ganyu 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ キャラクター 23 · 天上の指揮者 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー · Sunday 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
+    <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 24 · 恋柱 ✦</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 甘露寺蜜璃 · Mitsuri Kanroji 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
   </tr>
   <tr>
     <td align="center" width="33%"><sub>✦ 新登場 · キャラクター 25 · 運命の蜘蛛糸 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ · Kafka 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
