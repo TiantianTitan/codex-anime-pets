@@ -1,0 +1,3 @@
+# Local character source images and generation references.
+# Keep these files on the workstation; never publish them with the repository.
+/work/**/reference*
