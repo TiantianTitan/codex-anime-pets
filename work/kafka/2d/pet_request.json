@@ -253,7 +253,7 @@
       "height": 1388,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-star-rail/Kafka/Kafka4.jpg",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/source-originals/Kafka4.jpg",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/reference-01.jpg"
     },
     {
@@ -262,7 +262,7 @@
       "height": 670,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-star-rail/Kafka/Kafka3.png",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/source-originals/Kafka3.png",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/reference-02.png"
     },
     {
@@ -271,7 +271,7 @@
       "height": 1083,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-star-rail/Kafka/Kafka2.png",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/source-originals/Kafka2.png",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/kafka/2d/references/reference-03.png"
     }
   ],

@@ -253,7 +253,7 @@
       "height": 696,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Otto-Apocalypse/Otto Apocalypse3.jpg",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/source-originals/Otto Apocalypse3.jpg",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/reference-01.jpg"
     },
     {
@@ -262,7 +262,7 @@
       "height": 720,
       "mode": "RGBA",
       "format": "WEBP",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Otto-Apocalypse/Otto Apocalypse2.webp",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/source-originals/Otto Apocalypse2.webp",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/reference-02.webp"
     },
     {
@@ -271,7 +271,7 @@
       "height": 320,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Otto-Apocalypse/Otto Apocalypse",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/source-originals/Otto Apocalypse",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/otto-apocalypse/2d/references/reference-03.png"
     }
   ],

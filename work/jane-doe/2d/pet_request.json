@@ -253,7 +253,7 @@
       "height": 2048,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zenless-zone-zero/jane-doe/Jane Doe",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/source-originals/Jane Doe",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/reference-01.png"
     },
     {
@@ -262,7 +262,7 @@
       "height": 1713,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zenless-zone-zero/jane-doe/Jane Doe4.png",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/source-originals/Jane Doe4.png",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/reference-02.png"
     },
     {
@@ -271,7 +271,7 @@
       "height": 552,
       "mode": "RGB",
       "format": "JPEG",
-      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/zenless-zone-zero/jane-doe/Jane Doe5.jpeg",
+      "source_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/source-originals/Jane Doe5.jpeg",
       "copied_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/jane-doe/2d/references/reference-03.jpeg"
     }
   ],
