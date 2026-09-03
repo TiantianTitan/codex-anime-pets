@@ -1,0 +1,29 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Nicole remains visually consistent across all nine animated states and the full 16-direction loop, with readable motion, intact props, clean alpha edges, and no blocking direction or packaging defect.",
+  "direction_semantics": {
+    "000": "pass: frontal face, high irises and lifted chin clearly indicate up",
+    "022.5": "pass: screen-right face turn retains high irises and raised chin",
+    "045": "pass: screen-right three-quarter turn retains an elevated eye line",
+    "067.5": "pass: strong screen-right turn keeps a restrained upward pitch",
+    "090": "pass: unmistakable level screen-right profile",
+    "112.5": "pass: right profile begins lowering iris and tucking chin",
+    "135": "pass: right three-quarter face carries low irises and increased crown exposure",
+    "157.5": "pass: final right cue remains while the head bows clearly down",
+    "180": "pass: frontal bowed head, low lids, and enlarged crown clearly indicate down",
+    "202.5": "pass: screen-left turn begins while the downward pitch remains",
+    "225": "pass: clear down-left three-quarter face",
+    "247.5": "pass: strong down-left turn approaching profile",
+    "270": "pass: unmistakable level screen-left profile with rear hair on screen-right",
+    "292.5": "warning: screen-left remains clear; the first upward step is subtle but coherent in sequence",
+    "315": "pass: up-left three-quarter face has higher irises and raised chin",
+    "337.5": "pass: restrained screen-left cue and highest eye line lead naturally into 000"
+  },
+  "review_warnings": [
+    "292.5 has minor blind-review ambiguity on its subtle upward component, accepted because the labeled normal-size loop progresses coherently through 315 and 337.5.",
+    "Continuity metric warnings at frontal/profile transitions reflect perspective and bowed-posture silhouette changes without a visible snap.",
+    "Jumping used stable-slot extraction; its five-frame crouch-rise-apex-descent-land arc is stable and unclipped."
+  ],
+  "repair_rows": [],
+  "repair_notes": []
+}

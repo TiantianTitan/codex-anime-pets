@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 26 个角色</code>
-  <code>✦ 27 个版本</code>
+  <code>✦ 27 个角色</code>
+  <code>✦ 28 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -240,7 +240,7 @@
       <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 24 ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
       <b>「 蜜璃 」</b><br>
       <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
@@ -260,6 +260,14 @@
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="妮可·德玛拉的待机动画"></a><br>
+      <b>「 妮可 」</b><br>
+      <sub>◇ 街头机敏 · 明快自信 · 生意头脑 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
       <sub>✦ 下一位 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -865,6 +873,28 @@
 
 </details>
 
+<a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
+<details>
+<summary><b>💰 档案 27 — 妮可·德玛拉</b>　<sub>狡兔屋老板 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="190" alt="妮可·德玛拉的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>粉色双马尾、黑色蝴蝶结、青绿色双眼、黑白短款街头服饰、橙色点缀、不对称长袜、厚底靴、绿色邦布挂包与随身黑色提箱<br>
+      <b>气质：</b>机敏、爽朗又很有生意头脑，再乱的场面也能被她谈成一笔委托<br><br>
+      <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/nicole-demara/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -904,6 +934,7 @@
 | 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | 卡芙卡 | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| 妮可·德玛拉 | 2D | `nicole-demara` | [下载 ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

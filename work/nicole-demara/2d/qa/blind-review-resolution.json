@@ -1,0 +1,10 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": [
+    "vertical-7 B: 292.5 vertical axis received an ambiguous blind majority"
+  ],
+  "labeled_evidence": "At normal size, 292.5 remains unmistakably screen-left and begins the upward arc with a higher iris and lifted chin relative to the level 270 profile; 315 and 337.5 continue the same lift toward 000.",
+  "continuity_evidence": "The ordered loop has no wrong-quadrant pose, horizontal reversal, broken attachment, alpha hole, or deterministic validation error. The 270->292.5 pair remains visually coherent and has no continuity warning.",
+  "reviewed_by": "parent"
+}

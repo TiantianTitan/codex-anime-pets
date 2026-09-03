@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 26 PERSONNAGES</code>
-  <code>✦ 27 ÉDITIONS</code>
+  <code>✦ 27 PERSONNAGES</code>
+  <code>✦ 28 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -240,7 +240,7 @@
       <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 24 ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"></a><br>
       <b>「 Mitsuri 」</b><br>
       <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
@@ -260,6 +260,14 @@
       <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Nicole Demara"></a><br>
+      <b>「 Nicole 」</b><br>
+      <sub>◇ Charme débrouillard · Assurance lumineuse · Sens des affaires ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
       <sub>✦ SUIVANT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
@@ -865,6 +873,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
+<details>
+<summary><b>💰 DOSSIER 27 — Nicole Demara</b>　<sub>Présidente des Lièvres Rusés / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="190" alt="Nicole Demara au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> couettes roses, nœuds noirs, yeux vert citron, tenue urbaine courte noire et blanche, touches orange, bas dépareillés, bottes épaisses, pochette Bangbou verte et mallette noire attachée<br>
+      <b>Présence :</b> vive, charismatique et débrouillarde, avec l'assurance de celle qui sait transformer le chaos en bonne affaire<br><br>
+      <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/nicole-demara/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -904,6 +934,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [Télécharger](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Télécharger](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Télécharger](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| Nicole Demara | 2D | `nicole-demara` | [Télécharger](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

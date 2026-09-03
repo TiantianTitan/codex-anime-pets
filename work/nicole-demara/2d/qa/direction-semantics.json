@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "coordinate_system": "viewer/screen coordinates",
+  "atlas": "final/spritesheet-extended.webp",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "horizontal_evidence": "broadly frontal face; no lateral axis is required",
+      "vertical_evidence": "both lime-green irises sit high, upper lids open, and the chin lifts"
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "horizontal_evidence": "pupils, nose, and facial plane begin moving toward screen-right",
+      "vertical_evidence": "high irises and lifted chin retain the upward axis"
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "horizontal_evidence": "screen-right three-quarter head construction is clear",
+      "vertical_evidence": "raised eye line and open upper face remain visible"
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "horizontal_evidence": "nose and facial surface project strongly toward screen-right",
+      "vertical_evidence": "eyes and chin retain a restrained upward pitch before leveling"
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "horizontal_evidence": "nose tip, visible pupil, chin, and facial plane point unmistakably to screen-right",
+      "vertical_evidence": "near-level side profile"
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "horizontal_evidence": "screen-right profile remains intact",
+      "vertical_evidence": "iris lowers and chin begins to tuck"
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "horizontal_evidence": "right-facing three-quarter facial surface remains readable",
+      "vertical_evidence": "low eye line and tucked chin expose more crown"
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "horizontal_evidence": "the final screen-right facial cue remains",
+      "vertical_evidence": "deepest downward pitch has low irises, tucked chin, and prominent crown"
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "horizontal_evidence": "broad near-front face with both eyes visible; no lateral axis is required",
+      "vertical_evidence": "strongly lowered eye line, lowered lids, tucked chin, bowed head, and enlarged crown"
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "nose, pupils, and facial plane begin shifting toward screen-left",
+      "vertical_evidence": "lowered eye line and tucked chin preserve the downward component"
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "screen-left three-quarter construction becomes stronger",
+      "vertical_evidence": "low irises and crown exposure preserve the down-gaze"
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "strong left-facing three-quarter face approaches profile",
+      "vertical_evidence": "eyes and chin remain pitched down before leveling"
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "horizontal_evidence": "nose tip, visible pupil, chin, and facial plane point unmistakably to screen-left while rear hair stays screen-right",
+      "vertical_evidence": "near-level side profile"
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "verdict": "warning",
+      "horizontal_evidence": "left-facing profile remains intact",
+      "vertical_evidence": "iris and chin begin lifting; the first upward step is subtle at normal pet size but advances clearly into 315 without reversal",
+      "review_note": "Three-reviewer blind consensus marked the vertical axis ambiguous for this intermediate only; labeled ordered-loop review confirms the intended up-left transition."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "screen-left three-quarter face remains readable",
+      "vertical_evidence": "higher irises, opened lids, and raised chin strengthen the up-gaze"
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "a restrained screen-left cue remains as both eyes return into view",
+      "vertical_evidence": "highest eye line and lifted chin continue naturally toward 000 up"
+    }
+  ],
+  "ordered_loop": {
+    "verdict": "pass",
+    "evidence": "The head turns clockwise from up through screen-right and down to screen-left, then returns to up without a horizontal reversal or wrong-quadrant pose. Twin-tails, black bows, asymmetrical clothing, green Bangboo pouch, black case, boots, and baseline remain coherent.",
+    "continuity_review": "Metric warnings at frontal/profile perspective transitions were checked on the normal-size sheet. They reflect silhouette-width and bowed-posture changes rather than a visible scale pop, registration slide, broken attachment, or direction snap."
+  }
+}

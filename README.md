@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 26 CHARACTERS</code>
-  <code>✦ 27 EDITIONS</code>
+  <code>✦ 27 CHARACTERS</code>
+  <code>✦ 28 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -240,7 +240,7 @@
       <sub>◇ Composed grace · Golden gaze · Quiet orchestration ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 24 ✦</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Mitsuri Kanroji idle animation"></a><br>
       <b>「 Mitsuri 」</b><br>
       <sub>◇ Openhearted warmth · Bright spirit · Fearless affection ◇</sub>
@@ -260,6 +260,14 @@
       <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Nicole Demara idle animation"></a><br>
+      <b>「 Nicole 」</b><br>
+      <sub>◇ Streetwise charm · Bright confidence · Deal-maker energy ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
       <sub>✦ NEXT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
@@ -865,6 +873,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
+<details>
+<summary><b>💰 FILE 27 — Nicole Demara</b>　<sub>Cunning Hares President / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="190" alt="Nicole Demara idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> pink twin-tails, black bow roots, lime-green eyes, cropped black-and-white streetwear, orange accents, mismatched stockings, heavy boots, a green Bangboo pouch, and an attached black case<br>
+      <b>Mood:</b> sharp, charismatic, and streetwise, with the easy confidence of someone who can turn chaos into a deal<br><br>
+      <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/nicole-demara/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -904,6 +934,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| Nicole Demara | 2D | `nicole-demara` | [Download ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 
