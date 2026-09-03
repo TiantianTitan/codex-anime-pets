@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 27 キャラクター</code>
-  <code>✦ 28 エディション</code>
+  <code>✦ 28 キャラクター</code>
+  <code>✦ 29 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -80,12 +80,13 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" valign="top" width="33%"><sub>✦ キャラクター 24 ✦</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 蜜璃 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 25 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b><br><sub>◇ 街角の機転 · 明るい自信 · 抜け目ない商才 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
+    <td align="center" valign="top" colspan="2"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -130,6 +131,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | カフカ | 2D | `kafka` | [ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | オットー・アポカリプス | 2D | `otto-apocalypse` | [ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | ニコ・デマラ | 2D | `nicole-demara` | [ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
+| ジェーン・ドゥ | 2D | `jane-doe` | [ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 
 各アーカイブには、次のファイルが含まれています。
 

@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 27 个角色</code>
-  <code>✦ 28 个版本</code>
+  <code>✦ 28 个角色</code>
+  <code>✦ 29 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -248,7 +248,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 25 ✦</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"></a><br>
       <b>「 卡芙卡 」</b><br>
       <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
@@ -267,7 +267,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="简·杜的待机动画"></a><br>
+      <b>「 简·杜 」</b><br>
+      <sub>◇ 从容敏锐 · 鼠尾轻摆 · 危险而迷人 ◇</sub>
+    </td>
+    <td align="center" valign="top" colspan="2">
       <sub>✦ 下一位 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -895,6 +901,28 @@
 
 </details>
 
+<a id="character-28-jane-doe" name="character-28-jane-doe"></a>
+<details>
+<summary><b>🐭 档案 28 — 简·杜</b>　<sub>鼠希人隐秘行动专家 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="190" alt="简·杜的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>黑色短发与酒红色后发、粉色鼠耳、狭长绿眸、米白毛领、蓝灰短夹克、战术短裤、不对称长袜与靴子、红色点缀和一条修长的深灰鼠尾<br>
+      <b>气质：</b>从容、敏锐又暗藏危险，轻快的姿态里始终保留着观察局势与随时脱身的余裕<br><br>
+      <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/jane-doe/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -935,6 +963,7 @@
 | 卡芙卡 | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | 妮可·德玛拉 | 2D | `nicole-demara` | [下载 ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
+| 简·杜 | 2D | `jane-doe` | [下载 ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 
 每个压缩包都可以直接解压：
 

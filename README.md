@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 27 CHARACTERS</code>
-  <code>✦ 28 EDITIONS</code>
+  <code>✦ 28 CHARACTERS</code>
+  <code>✦ 29 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -248,7 +248,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 25 ✦</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Kafka idle animation"></a><br>
       <b>「 Kafka 」</b><br>
       <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
@@ -267,7 +267,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Jane Doe idle animation"></a><br>
+      <b>「 Jane&nbsp;Doe 」</b><br>
+      <sub>◇ Sly poise · Sharp instincts · Quiet danger ◇</sub>
+    </td>
+    <td align="center" valign="top" colspan="2">
       <sub>✦ NEXT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
@@ -895,6 +901,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-28-jane-doe" name="character-28-jane-doe"></a>
+<details>
+<summary><b>🐭 FILE 28 — Jane Doe</b>　<sub>Rat Thiren Specialist / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="190" alt="Jane Doe idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> short black bob with wine-red rear hair, pink rat ears, narrow green eyes, cream fur collar, blue-gray cropped jacket, tactical shorts, asymmetrical stockings and boots, red accents, and one long attached charcoal tail<br>
+      <b>Mood:</b> poised, observant, and quietly dangerous, with a knowing expression that always seems one step ahead<br><br>
+      <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/jane-doe/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -935,6 +963,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | Nicole Demara | 2D | `nicole-demara` | [Download ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
+| Jane Doe | 2D | `jane-doe` | [Download ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 
 Each archive is ready to unpack:
 

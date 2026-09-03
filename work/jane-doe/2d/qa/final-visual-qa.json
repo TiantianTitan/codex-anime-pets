@@ -1,0 +1,12 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All eleven rows and every final preview preserve Jane Doe's identity, palette, proportions, asymmetric outfit, attached tail, clean silhouettes, stable motion, and required state semantics.",
+  "repair_rows": [],
+  "repair_notes": [],
+  "review_warnings": [
+    "Accepted minor intermediate direction ambiguity where the labeled clockwise loop remains correct.",
+    "Accepted continuity metric outliers with no visible snap, pop, baseline jump, identity change, or broken attachment.",
+    "Accepted alpha-hole candidates as natural negative space.",
+    "Accepted stable-slots extraction for jumping after the vertical arc was visually rechecked as stable and unclipped."
+  ]
+}

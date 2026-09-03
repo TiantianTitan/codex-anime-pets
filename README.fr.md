@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 27 PERSONNAGES</code>
-  <code>✦ 28 ÉDITIONS</code>
+  <code>✦ 28 PERSONNAGES</code>
+  <code>✦ 29 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -248,7 +248,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 25 ✦</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kafka"></a><br>
       <b>「 Kafka 」</b><br>
       <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
@@ -267,7 +267,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jane Doe"></a><br>
+      <b>「 Jane&nbsp;Doe 」</b><br>
+      <sub>◇ Élégance rusée · Instinct affûté · Danger silencieux ◇</sub>
+    </td>
+    <td align="center" valign="top" colspan="2">
       <sub>✦ SUIVANT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
@@ -895,6 +901,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-28-jane-doe" name="character-28-jane-doe"></a>
+<details>
+<summary><b>🐭 DOSSIER 28 — Jane Doe</b>　<sub>Spécialiste thirène-rat / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="190" alt="Jane Doe au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> carré noir court prolongé d'une chevelure arrière lie-de-vin, oreilles de rat roses, yeux verts effilés, col de fourrure crème, veste courte bleu-gris, short tactique, bas et bottes asymétriques, accents rouges et longue queue anthracite attachée<br>
+      <b>Présence :</b> posée, observatrice et discrètement dangereuse, avec l'assurance souple d'une spécialiste qui garde toujours une issue en vue<br><br>
+      <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/jane-doe/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -935,6 +963,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kafka | 2D | `kafka` | [Télécharger](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Télécharger](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | Nicole Demara | 2D | `nicole-demara` | [Télécharger](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
+| Jane Doe | 2D | `jane-doe` | [Télécharger](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 
 Chaque archive est prête à être décompressée :
 

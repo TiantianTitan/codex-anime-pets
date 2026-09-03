@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "directions": [
+    {"direction":"000","expected":"up","observed":"up","verdict":"pass","horizontal":"centered","vertical":"lifted chin and raised eyes","reason":"Near-frontal face with clearly elevated eye line and chin."},
+    {"direction":"022.5","expected":"up-right","observed":"subtle up-right","verdict":"warning","horizontal":"subtle rightward face and eye bias","vertical":"clearly lifted chin and upward gaze","reason":"The right axis is subtle at normal size but the labeled loop advances correctly from 000 toward 045."},
+    {"direction":"045","expected":"up-right","observed":"up-right","verdict":"pass","horizontal":"clear rightward three-quarter face and pupils","vertical":"raised eyes and chin","reason":"Both axes are plainly readable."},
+    {"direction":"067.5","expected":"up-right","observed":"up-right","verdict":"pass","horizontal":"stronger rightward nose and profile","vertical":"remaining upward eye and chin angle","reason":"The pose advances naturally toward 090 without reversal."},
+    {"direction":"090","expected":"right","observed":"right","verdict":"pass","horizontal":"unmistakable screen-right nose and profile","vertical":"level gaze","reason":"Cardinal screen-right is unambiguous and opposite 270."},
+    {"direction":"112.5","expected":"down-right","observed":"down-right","verdict":"pass","horizontal":"screen-right profile and pupils","vertical":"lowered chin and eyes","reason":"Both axes are plainly readable after 090."},
+    {"direction":"135","expected":"down-right","observed":"down-right","verdict":"pass","horizontal":"rightward three-quarter face","vertical":"clear downward head angle","reason":"The face remains rightward while the pitch deepens."},
+    {"direction":"157.5","expected":"down-right","observed":"subtle down-right","verdict":"warning","horizontal":"slight rightward face and eye offset","vertical":"unmistakably bowed gaze","reason":"Horizontal bias is subtle, but the labeled loop makes a correct one-step transition into 180."},
+    {"direction":"180","expected":"down","observed":"down","verdict":"pass","horizontal":"centered face","vertical":"bowed head and lowered eyes","reason":"Cardinal down is unambiguous and opposite 000."},
+    {"direction":"202.5","expected":"down-left","observed":"down-left","verdict":"pass","horizontal":"leftward face and nose bias","vertical":"lowered chin and eyes","reason":"Both axes are readable as the loop leaves 180."},
+    {"direction":"225","expected":"down-left","observed":"down-left","verdict":"pass","horizontal":"clear leftward three-quarter face","vertical":"downward gaze","reason":"The pose continues the leftward/downward arc."},
+    {"direction":"247.5","expected":"down-left","observed":"down-left","verdict":"pass","horizontal":"strong screen-left profile","vertical":"lowered head and eyes","reason":"The pose approaches 270 without a direction reversal."},
+    {"direction":"270","expected":"left","observed":"left","verdict":"pass","horizontal":"unmistakable screen-left nose and profile","vertical":"level gaze","reason":"Cardinal screen-left is unambiguous and opposite 090."},
+    {"direction":"292.5","expected":"up-left","observed":"subtle up-left","verdict":"warning","horizontal":"clear screen-left profile","vertical":"subtle lifted chin and upward eye cue","reason":"Vertical lift is understated at normal size but progresses coherently into 315."},
+    {"direction":"315","expected":"up-left","observed":"subtle up-left","verdict":"warning","horizontal":"slight leftward face and eye bias","vertical":"subtle upward gaze","reason":"Both axes are restrained but confirmed by the labeled ordered loop."},
+    {"direction":"337.5","expected":"up-left","observed":"subtle up-left","verdict":"warning","horizontal":"slight leftward face and eye offset","vertical":"lifted eyes and chin","reason":"The pose lands one coherent step before 000 up."}
+  ],
+  "accepted_warnings": [
+    "Intermediate blind ambiguity at 022.5, 157.5, 292.5, 315, and 337.5 is minor because labeled normal-size review confirms the intended quadrants and no reversal.",
+    "Continuity metric outliers reflect natural yaw and pitch silhouette changes without a visible snap, scale pop, baseline jump, or broken tail attachment.",
+    "Alpha-hole candidates are natural negative spaces between separated legs, tail and body, hair, and jacket rather than interior seams."
+  ]
+}
