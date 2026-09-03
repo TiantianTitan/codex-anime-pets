@@ -933,37 +933,76 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 ## 📦 Downloads
 
+> ✦ Choose a universe below, then open it to browse its companions and downloads.
+
+<details>
+<summary><b>🌙 Genshin Impact</b>　<kbd>View downloads</kbd></summary>
+
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
 | Xiao | 2D | `xiao` | [Download ZIP](genshin-impact/xiao/xiao-2d.zip) |
-| Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [Download ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| Jing Yuan | 2D | `jing-yuan` | [Download ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
 | Zhongli | 2D | `zhongli` | [Download ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
-| Raiden Mei | 2D | `raiden-mei` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
-| Raiden Mei | 3D-rendered | `raiden-mei-3d` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
-| Obanai | 2D | `obanai` | [Download ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
 | Yae Miko | 2D | `yae-miko` | [Download ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
 | Furina | 2D | `furina` | [Download ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
-| Acheron | 2D | `acheron` | [Download ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
-| Ellen Joe | 2D | `ellen-joe` | [Download ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
 | Hu Tao | 2D | `hu-tao` | [Download ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
-| Robin | 2D | `robin` | [Download ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
 | Kaeya | 2D | `kaeya` | [Download ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
-| Firefly | 2D | `firefly` | [Download ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
-| Kevin Kaslana | 2D | `kevin-kaslana` | [Download ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Kamisato Ayaka | 2D | `kamisato-ayaka` | [Download ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| Kaedehara Kazuha | 2D | `kazuha-chibi` | [Download ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| Ganyu | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>🚂 Honkai: Star Rail</b>　<kbd>View downloads</kbd></summary>
+
+| Character | Edition | Pet ID | Package |
+| --- | --- | --- | --- |
+| Dan Heng · Imbibitor Lunae | 2D | `dan-heng-imbibitor-lunae` | [Download ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| Jing Yuan | 2D | `jing-yuan` | [Download ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| Acheron | 2D | `acheron` | [Download ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| Robin | 2D | `robin` | [Download ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| Firefly | 2D | `firefly` | [Download ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
 | Blade | 2D | `blade` | [Download ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
 | Ruan Mei | 2D | `ruan-mei` | [Download ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
-| Kaedehara Kazuha | 2D | `kazuha-chibi` | [Download ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
-| Hoshimi Miyabi | 2D | `miyabi` | [Download ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Aventurine | 2D | `aventurine` | [Download ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
-| Ganyu | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Sunday | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
-| Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>⚡ Honkai Impact 3rd</b>　<kbd>View downloads</kbd></summary>
+
+| Character | Edition | Pet ID | Package |
+| --- | --- | --- | --- |
+| Raiden Mei | 2D | `raiden-mei` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| Raiden Mei | 3D-rendered | `raiden-mei-3d` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
+| Kevin Kaslana | 2D | `kevin-kaslana` | [Download ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>📼 Zenless Zone Zero</b>　<kbd>View downloads</kbd></summary>
+
+| Character | Edition | Pet ID | Package |
+| --- | --- | --- | --- |
+| Ellen Joe | 2D | `ellen-joe` | [Download ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| Hoshimi Miyabi | 2D | `miyabi` | [Download ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Nicole Demara | 2D | `nicole-demara` | [Download ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | Jane Doe | 2D | `jane-doe` | [Download ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>✨ Others</b>　<kbd>View downloads</kbd></summary>
+
+| Character | Edition | Pet ID | Package |
+| --- | --- | --- | --- |
+| Obanai | 2D | `obanai` | [Download ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+
+</details>
 
 Each archive is ready to unpack:
 

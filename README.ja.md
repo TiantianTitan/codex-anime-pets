@@ -102,36 +102,76 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 ## 📦 キャラクター一覧とダウンロード
 
+> ✦ 下の作品を選び、クリックしてキャラクターとダウンロードを表示できます。
+
+<details>
+<summary><b>🌙 原神</b>　<kbd>ダウンロードを表示</kbd></summary>
+
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
 | 魈 | 2D | `xiao` | [ZIP](genshin-impact/xiao/xiao-2d.zip) |
-| 丹恒・飲月 | 2D | `dan-heng-imbibitor-lunae` | [ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
-| 景元 | 2D | `jing-yuan` | [ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
 | 鍾離 | 2D | `zhongli` | [ZIP](genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip) |
-| 雷電芽衣 | 2D | `raiden-mei` | [ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
-| 伊黒小芭内 | 2D | `obanai` | [ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
 | 八重神子 | 2D | `yae-miko` | [ZIP](genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip) |
 | フリーナ | 2D | `furina` | [ZIP](genshin-impact/furina/furina-2d-codex-pet-v2.zip) |
-| 黄泉 | 2D | `acheron` | [ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
-| エレン・ジョー | 2D | `ellen-joe` | [ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
 | 胡桃 | 2D | `hu-tao` | [ZIP](genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip) |
-| ロビン | 2D | `robin` | [ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
 | ガイア | 2D | `kaeya` | [ZIP](genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip) |
-| ホタル | 2D | `firefly` | [ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
-| ケビン・カスラナ | 2D | `kevin-kaslana` | [ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | 神里綾華 | 2D | `kamisato-ayaka` | [ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
+| 楓原万葉 | 2D | `kazuha-chibi` | [ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
+| 甘雨 | 2D | `ganyu` | [ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>🚂 崩壊：スターレイル</b>　<kbd>ダウンロードを表示</kbd></summary>
+
+| キャラクター | 形式 | ID | ダウンロード |
+| --- | --- | --- | --- |
+| 丹恒・飲月 | 2D | `dan-heng-imbibitor-lunae` | [ZIP](honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip) |
+| 景元 | 2D | `jing-yuan` | [ZIP](honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip) |
+| 黄泉 | 2D | `acheron` | [ZIP](honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip) |
+| ロビン | 2D | `robin` | [ZIP](honkai-star-rail/robin/robin-2d-codex-pet-v2.zip) |
+| ホタル | 2D | `firefly` | [ZIP](honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip) |
 | 刃 | 2D | `blade` | [ZIP](honkai-star-rail/blade/blade-2d-codex-pet-v2.zip) |
 | ルアン・メェイ | 2D | `ruan-mei` | [ZIP](honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip) |
-| 楓原万葉 | 2D | `kazuha-chibi` | [ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
-| 星見雅 | 2D | `miyabi` | [ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | アベンチュリン | 2D | `aventurine` | [ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
-| 甘雨 | 2D | `ganyu` | [ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | サンデー | 2D | `sunday` | [ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
-| 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
 | カフカ | 2D | `kafka` | [ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>⚡ 崩壊3rd</b>　<kbd>ダウンロードを表示</kbd></summary>
+
+| キャラクター | 形式 | ID | ダウンロード |
+| --- | --- | --- | --- |
+| 雷電芽衣 | 2D | `raiden-mei` | [ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip) |
+| 雷電芽衣 | 3Dレンダー | `raiden-mei-3d` | [ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
+| ケビン・カスラナ | 2D | `kevin-kaslana` | [ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | オットー・アポカリプス | 2D | `otto-apocalypse` | [ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>📼 ゼンレスゾーンゼロ</b>　<kbd>ダウンロードを表示</kbd></summary>
+
+| キャラクター | 形式 | ID | ダウンロード |
+| --- | --- | --- | --- |
+| エレン・ジョー | 2D | `ellen-joe` | [ZIP](zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip) |
+| 星見雅 | 2D | `miyabi` | [ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | ニコ・デマラ | 2D | `nicole-demara` | [ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | ジェーン・ドゥ | 2D | `jane-doe` | [ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
+
+</details>
+
+<details>
+<summary><b>✨ その他</b>　<kbd>ダウンロードを表示</kbd></summary>
+
+| キャラクター | 形式 | ID | ダウンロード |
+| --- | --- | --- | --- |
+| 伊黒小芭内 | 2D | `obanai` | [ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
+| 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+
+</details>
 
 各アーカイブには、次のファイルが含まれています。
 
