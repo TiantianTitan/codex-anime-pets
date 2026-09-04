@@ -85,6 +85,21 @@
 
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="24%">
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="Animated preview of Elysia looking around"></a>
+    </td>
+    <td valign="middle" width="76%">
+      <sub>✦ CREATOR SPOTLIGHT · ELYSIA COLLECTION ✦</sub><br>
+      <b>One character. Every Elysia.</b><br>
+      <sub>liu-weida’s independent Codex pet project follows Elysia across visual editions, outfits, and future skin releases.</sub><br><br>
+      <code>ELYSIA FOCUS</code> <code>2D + 3D</code> <code>ONGOING SERIES</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Visit the dedicated project ↗</kbd></a>
+    </td>
+  </tr>
+</table>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
@@ -302,7 +317,7 @@
 
 <a id="character-01-xiao" name="character-01-xiao"></a>
 <details open>
-<summary><b>🌙 FILE 01 — Xiao</b>　<sub>Guardian Yaksha / 2D edition</sub></summary>
+<summary><b>01 · Xiao</b></summary>
 
 <br>
 
@@ -324,7 +339,7 @@
 
 <a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
-<summary><b>🐉 FILE 02 — Dan Heng · Imbibitor Lunae</b>　<sub>Vidyadhara / 2D edition</sub></summary>
+<summary><b>02 · Dan Heng · Imbibitor Lunae</b></summary>
 
 <br>
 
@@ -346,7 +361,7 @@
 
 <a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
-<summary><b>🦁 FILE 03 — Jing Yuan</b>　<sub>Cloud Knight General / 2D edition</sub></summary>
+<summary><b>03 · Jing Yuan</b></summary>
 
 <br>
 
@@ -368,7 +383,7 @@
 
 <a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
-<summary><b>🔶 FILE 04 — Zhongli</b>　<sub>Consultant / 2D edition</sub></summary>
+<summary><b>04 · Zhongli</b></summary>
 
 <br>
 
@@ -390,7 +405,7 @@
 
 <a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
-<summary><b>⚡ FILE 05 — Raiden Mei</b>　<sub>Valkyrie / two visual editions</sub></summary>
+<summary><b>05 · Raiden Mei</b></summary>
 
 <br>
 
@@ -425,7 +440,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
-<summary><b>🐍 FILE 06 — Obanai</b>　<sub>Serpent Hashira / 2D edition</sub></summary>
+<summary><b>06 · Obanai</b></summary>
 
 <br>
 
@@ -447,7 +462,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
-<summary><b>🌸 FILE 07 — Yae Miko</b>　<sub>Grand Narukami Shrine Guuji / 2D edition</sub></summary>
+<summary><b>07 · Yae Miko</b></summary>
 
 <br>
 
@@ -469,7 +484,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-08-furina" name="character-08-furina"></a>
 <details>
-<summary><b>💧 FILE 08 — Furina</b>　<sub>Star of Fontaine / 2D edition</sub></summary>
+<summary><b>08 · Furina</b></summary>
 
 <br>
 
@@ -491,7 +506,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
-<summary><b>🌌 FILE 09 — Acheron</b>　<sub>Galaxy Ranger / 2D edition</sub></summary>
+<summary><b>09 · Acheron</b></summary>
 
 <br>
 
@@ -513,7 +528,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
-<summary><b>🦈 FILE 10 — Ellen Joe</b>　<sub>Shark Thiren maid / 2D edition</sub></summary>
+<summary><b>10 · Ellen Joe</b></summary>
 
 <br>
 
@@ -535,7 +550,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
-<summary><b>🔥 FILE 11 — Hu Tao</b>　<sub>77th Director / 2D edition</sub></summary>
+<summary><b>11 · Hu Tao</b></summary>
 
 <br>
 
@@ -557,7 +572,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-12-robin" name="character-12-robin"></a>
 <details>
-<summary><b>🎶 FILE 12 — Robin</b>　<sub>Halovian singer / 2D edition</sub></summary>
+<summary><b>12 · Robin</b></summary>
 
 <br>
 
@@ -579,7 +594,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-13-kaeya" name="character-13-kaeya"></a>
 <details>
-<summary><b>❄️ FILE 13 — Kaeya</b>　<sub>Cavalry Captain / 2D edition</sub></summary>
+<summary><b>13 · Kaeya</b></summary>
 
 <br>
 
@@ -601,7 +616,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-14-firefly" name="character-14-firefly"></a>
 <details>
-<summary><b>🌠 FILE 14 — Firefly</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+<summary><b>14 · Firefly</b></summary>
 
 <br>
 
@@ -623,7 +638,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
 <details>
-<summary><b>🧊 FILE 15 — Kevin Kaslana</b>　<sub>World Serpent leader / 2D edition</sub></summary>
+<summary><b>15 · Kevin Kaslana</b></summary>
 
 <br>
 
@@ -645,7 +660,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
 <details>
-<summary><b>🌸 FILE 16 — Kamisato Ayaka</b>　<sub>Shirasagi Himegimi / 2D edition</sub></summary>
+<summary><b>16 · Kamisato Ayaka</b></summary>
 
 <br>
 
@@ -667,7 +682,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-17-blade" name="character-17-blade"></a>
 <details>
-<summary><b>🗡️ FILE 17 — Blade</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+<summary><b>17 · Blade</b></summary>
 
 <br>
 
@@ -689,7 +704,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
 <details>
-<summary><b>🌿 FILE 18 — Ruan Mei</b>　<sub>Genius Society scholar / 2D edition</sub></summary>
+<summary><b>18 · Ruan Mei</b></summary>
 
 <br>
 
@@ -711,7 +726,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
 <details>
-<summary><b>🍁 FILE 19 — Kaedehara Kazuha</b>　<sub>Wandering Samurai / 2D edition</sub></summary>
+<summary><b>19 · Kaedehara Kazuha</b></summary>
 
 <br>
 
@@ -733,7 +748,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
 <details>
-<summary><b>🦊 FILE 20 — Hoshimi Miyabi</b>　<sub>Fox-eared swordmaster / 2D edition</sub></summary>
+<summary><b>20 · Hoshimi Miyabi</b></summary>
 
 <br>
 
@@ -755,7 +770,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-21-aventurine" name="character-21-aventurine"></a>
 <details>
-<summary><b>💎 FILE 21 — Aventurine</b>　<sub>Gilded strategist / 2D edition</sub></summary>
+<summary><b>21 · Aventurine</b></summary>
 
 <br>
 
@@ -777,7 +792,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-22-ganyu" name="character-22-ganyu"></a>
 <details>
-<summary><b>❄️ FILE 22 — Ganyu</b>　<sub>Qilin secretary / 2D edition</sub></summary>
+<summary><b>22 · Ganyu</b></summary>
 
 <br>
 
@@ -799,7 +814,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-23-sunday" name="character-23-sunday"></a>
 <details>
-<summary><b>🎼 FILE 23 — Sunday</b>　<sub>Haloed conductor / 2D edition</sub></summary>
+<summary><b>23 · Sunday</b></summary>
 
 <br>
 
@@ -821,7 +836,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
 <details>
-<summary><b>💗 FILE 24 — Mitsuri Kanroji</b>　<sub>Love Hashira / 2D edition</sub></summary>
+<summary><b>24 · Mitsuri Kanroji</b></summary>
 
 <br>
 
@@ -843,7 +858,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-25-kafka" name="character-25-kafka"></a>
 <details>
-<summary><b>🕸️ FILE 25 — Kafka</b>　<sub>Stellaron Hunter / 2D edition</sub></summary>
+<summary><b>25 · Kafka</b></summary>
 
 <br>
 
@@ -865,7 +880,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
 <details>
-<summary><b>♟️ FILE 26 — Otto Apocalypse</b>　<sub>Schicksal Overseer / 2D edition</sub></summary>
+<summary><b>26 · Otto Apocalypse</b></summary>
 
 <br>
 
@@ -887,7 +902,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
 <details>
-<summary><b>💰 FILE 27 — Nicole Demara</b>　<sub>Cunning Hares President / 2D edition</sub></summary>
+<summary><b>27 · Nicole Demara</b></summary>
 
 <br>
 
@@ -909,7 +924,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-28-jane-doe" name="character-28-jane-doe"></a>
 <details>
-<summary><b>🐭 FILE 28 — Jane Doe</b>　<sub>Rat Thiren Specialist / 2D edition</sub></summary>
+<summary><b>28 · Jane Doe</b></summary>
 
 <br>
 
@@ -931,7 +946,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 <a id="character-29-anby-demara" name="character-29-anby-demara"></a>
 <details>
-<summary><b>⚔️ FILE 29 — Anby Demara</b>　<sub>Cunning Hares Member / 2D edition</sub></summary>
+<summary><b>29 · Anby Demara</b></summary>
 
 <br>
 

@@ -85,6 +85,21 @@
 
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="24%">
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="爱莉希雅环视四周的动态预览"></a>
+    </td>
+    <td valign="middle" width="76%">
+      <sub>✦ 创作者推荐 · 爱莉希雅专场 ✦</sub><br>
+      <b>一位角色，无限种爱莉希雅。</b><br>
+      <sub>liu-weida 独立制作的 Codex 宠物企划，专注收录爱莉希雅的不同视觉版本、服装与后续皮肤。</sub><br><br>
+      <code>爱莉希雅专精</code> <code>2D + 3D</code> <code>持续更新</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>进入专属项目 ↗</kbd></a>
+    </td>
+  </tr>
+</table>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
@@ -302,7 +317,7 @@
 
 <a id="character-01-xiao" name="character-01-xiao"></a>
 <details open>
-<summary><b>🌙 档案 01 — 魈</b>　<sub>护法夜叉 / 2D 版本</sub></summary>
+<summary><b>01 · 魈</b></summary>
 
 <br>
 
@@ -324,7 +339,7 @@
 
 <a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
-<summary><b>🐉 档案 02 — 丹恒·饮月</b>　<sub>持明龙尊 / 2D 版本</sub></summary>
+<summary><b>02 · 丹恒·饮月</b></summary>
 
 <br>
 
@@ -346,7 +361,7 @@
 
 <a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
-<summary><b>🦁 档案 03 — 景元</b>　<sub>神策将军 / 2D 版本</sub></summary>
+<summary><b>03 · 景元</b></summary>
 
 <br>
 
@@ -368,7 +383,7 @@
 
 <a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
-<summary><b>🔶 档案 04 — 钟离</b>　<sub>往生堂客卿 / 2D 版本</sub></summary>
+<summary><b>04 · 钟离</b></summary>
 
 <br>
 
@@ -390,7 +405,7 @@
 
 <a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
-<summary><b>⚡ 档案 05 — 雷电芽衣</b>　<sub>女武神 / 两种视觉版本</sub></summary>
+<summary><b>05 · 雷电芽衣</b></summary>
 
 <br>
 
@@ -425,7 +440,7 @@
 
 <a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
-<summary><b>🐍 档案 06 — 伊黑小芭内</b>　<sub>蛇柱 / 2D 版本</sub></summary>
+<summary><b>06 · 伊黑小芭内</b></summary>
 
 <br>
 
@@ -447,7 +462,7 @@
 
 <a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
-<summary><b>🌸 档案 07 — 八重神子</b>　<sub>鸣神大社宫司 / 2D 版本</sub></summary>
+<summary><b>07 · 八重神子</b></summary>
 
 <br>
 
@@ -469,7 +484,7 @@
 
 <a id="character-08-furina" name="character-08-furina"></a>
 <details>
-<summary><b>💧 档案 08 — 芙宁娜</b>　<sub>枫丹之星 / 2D 版本</sub></summary>
+<summary><b>08 · 芙宁娜</b></summary>
 
 <br>
 
@@ -491,7 +506,7 @@
 
 <a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
-<summary><b>🌌 档案 09 — 黄泉</b>　<sub>巡海游侠 / 2D 版本</sub></summary>
+<summary><b>09 · 黄泉</b></summary>
 
 <br>
 
@@ -513,7 +528,7 @@
 
 <a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
-<summary><b>🦈 档案 10 — 艾莲·乔</b>　<sub>鲨希人女仆 / 2D 版本</sub></summary>
+<summary><b>10 · 艾莲·乔</b></summary>
 
 <br>
 
@@ -535,7 +550,7 @@
 
 <a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
-<summary><b>🔥 档案 11 — 胡桃</b>　<sub>往生堂第七十七代堂主 / 2D 版本</sub></summary>
+<summary><b>11 · 胡桃</b></summary>
 
 <br>
 
@@ -557,7 +572,7 @@
 
 <a id="character-12-robin" name="character-12-robin"></a>
 <details>
-<summary><b>🎶 档案 12 — 知更鸟</b>　<sub>天环族歌者 / 2D 版本</sub></summary>
+<summary><b>12 · 知更鸟</b></summary>
 
 <br>
 
@@ -579,7 +594,7 @@
 
 <a id="character-13-kaeya" name="character-13-kaeya"></a>
 <details>
-<summary><b>❄️ 档案 13 — 凯亚</b>　<sub>骑兵队长 / 2D 版本</sub></summary>
+<summary><b>13 · 凯亚</b></summary>
 
 <br>
 
@@ -601,7 +616,7 @@
 
 <a id="character-14-firefly" name="character-14-firefly"></a>
 <details>
-<summary><b>🌠 档案 14 — 流萤</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>14 · 流萤</b></summary>
 
 <br>
 
@@ -623,7 +638,7 @@
 
 <a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
 <details>
-<summary><b>🧊 档案 15 — 凯文·卡斯兰娜</b>　<sub>世界蛇领袖 / 2D 版本</sub></summary>
+<summary><b>15 · 凯文·卡斯兰娜</b></summary>
 
 <br>
 
@@ -645,7 +660,7 @@
 
 <a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
 <details>
-<summary><b>🌸 档案 16 — 神里绫华</b>　<sub>白鹭公主 / 2D 版本</sub></summary>
+<summary><b>16 · 神里绫华</b></summary>
 
 <br>
 
@@ -667,7 +682,7 @@
 
 <a id="character-17-blade" name="character-17-blade"></a>
 <details>
-<summary><b>🗡️ 档案 17 — 刃</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>17 · 刃</b></summary>
 
 <br>
 
@@ -689,7 +704,7 @@
 
 <a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
 <details>
-<summary><b>🌿 档案 18 — 阮·梅</b>　<sub>天才俱乐部学者 / 2D 版本</sub></summary>
+<summary><b>18 · 阮·梅</b></summary>
 
 <br>
 
@@ -711,7 +726,7 @@
 
 <a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
 <details>
-<summary><b>🍁 档案 19 — 枫原万叶</b>　<sub>浪人武士 / 2D 版本</sub></summary>
+<summary><b>19 · 枫原万叶</b></summary>
 
 <br>
 
@@ -733,7 +748,7 @@
 
 <a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
 <details>
-<summary><b>🦊 档案 20 — 星见雅</b>　<sub>狐耳剑士 / 2D 版本</sub></summary>
+<summary><b>20 · 星见雅</b></summary>
 
 <br>
 
@@ -755,7 +770,7 @@
 
 <a id="character-21-aventurine" name="character-21-aventurine"></a>
 <details>
-<summary><b>💎 档案 21 — 砂金</b>　<sub>金石谋士 / 2D 版本</sub></summary>
+<summary><b>21 · 砂金</b></summary>
 
 <br>
 
@@ -777,7 +792,7 @@
 
 <a id="character-22-ganyu" name="character-22-ganyu"></a>
 <details>
-<summary><b>❄️ 档案 22 — 甘雨</b>　<sub>月海亭秘书 / 2D 版本</sub></summary>
+<summary><b>22 · 甘雨</b></summary>
 
 <br>
 
@@ -799,7 +814,7 @@
 
 <a id="character-23-sunday" name="character-23-sunday"></a>
 <details>
-<summary><b>🎼 档案 23 — 星期日</b>　<sub>光环指挥家 / 2D 版本</sub></summary>
+<summary><b>23 · 星期日</b></summary>
 
 <br>
 
@@ -821,7 +836,7 @@
 
 <a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
 <details>
-<summary><b>💗 档案 24 — 甘露寺蜜璃</b>　<sub>恋柱 / 2D 版本</sub></summary>
+<summary><b>24 · 甘露寺蜜璃</b></summary>
 
 <br>
 
@@ -843,7 +858,7 @@
 
 <a id="character-25-kafka" name="character-25-kafka"></a>
 <details>
-<summary><b>🕸️ 档案 25 — 卡芙卡</b>　<sub>星核猎手 / 2D 版本</sub></summary>
+<summary><b>25 · 卡芙卡</b></summary>
 
 <br>
 
@@ -865,7 +880,7 @@
 
 <a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
 <details>
-<summary><b>♟️ 档案 26 — 奥托·阿波卡利斯</b>　<sub>天命大主教 / 2D 版本</sub></summary>
+<summary><b>26 · 奥托·阿波卡利斯</b></summary>
 
 <br>
 
@@ -887,7 +902,7 @@
 
 <a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
 <details>
-<summary><b>💰 档案 27 — 妮可·德玛拉</b>　<sub>狡兔屋老板 / 2D 版本</sub></summary>
+<summary><b>27 · 妮可·德玛拉</b></summary>
 
 <br>
 
@@ -909,7 +924,7 @@
 
 <a id="character-28-jane-doe" name="character-28-jane-doe"></a>
 <details>
-<summary><b>🐭 档案 28 — 简·杜</b>　<sub>鼠希人隐秘行动专家 / 2D 版本</sub></summary>
+<summary><b>28 · 简·杜</b></summary>
 
 <br>
 
@@ -931,7 +946,7 @@
 
 <a id="character-29-anby-demara" name="character-29-anby-demara"></a>
 <details>
-<summary><b>⚔️ 档案 29 — 安比·德玛拉</b>　<sub>狡兔屋成员 / 2D 版本</sub></summary>
+<summary><b>29 · 安比·德玛拉</b></summary>
 
 <br>
 

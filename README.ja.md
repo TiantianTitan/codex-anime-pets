@@ -38,6 +38,21 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 ## ✦ キャラクターを選ぶ ✦
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="24%">
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="周囲を見渡すエリシアのアニメーションプレビュー"></a>
+    </td>
+    <td valign="middle" width="76%">
+      <sub>✦ クリエイター特集 · エリシアコレクション ✦</sub><br>
+      <b>ひとりのキャラクター、いくつものエリシア。</b><br>
+      <sub>liu-weida による独立した Codex ペット企画。さまざまな表現スタイル、衣装、今後のスキンをエリシアだけに絞って展開します。</sub><br><br>
+      <code>エリシア専門</code> <code>2D + 3D</code> <code>継続更新</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>専用プロジェクトを見る ↗</kbd></a>
+    </td>
+  </tr>
+</table>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>

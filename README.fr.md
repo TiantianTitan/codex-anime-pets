@@ -85,6 +85,21 @@
 
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="24%">
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="Aperçu animé d’Elysia regardant autour d’elle"></a>
+    </td>
+    <td valign="middle" width="76%">
+      <sub>✦ CRÉATEUR À L’HONNEUR · COLLECTION ELYSIA ✦</sub><br>
+      <b>Un personnage, toutes les facettes d’Elysia.</b><br>
+      <sub>Le projet indépendant de liu-weida suit Elysia à travers différents styles, costumes et futures apparences.</sub><br><br>
+      <code>100 % ELYSIA</code> <code>2D + 3D</code> <code>SÉRIE ÉVOLUTIVE</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Découvrir le projet dédié ↗</kbd></a>
+    </td>
+  </tr>
+</table>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
@@ -302,7 +317,7 @@
 
 <a id="character-01-xiao" name="character-01-xiao"></a>
 <details open>
-<summary><b>🌙 DOSSIER 01 — Xiao</b>　<sub>Yaksha gardien / édition 2D</sub></summary>
+<summary><b>01 · Xiao</b></summary>
 
 <br>
 
@@ -324,7 +339,7 @@
 
 <a id="character-02-dan-heng-imbibitor-lunae" name="character-02-dan-heng-imbibitor-lunae"></a>
 <details>
-<summary><b>🐉 DOSSIER 02 — Dan Heng · Imbibitor Lunae</b>　<sub>Vidyadhara / édition 2D</sub></summary>
+<summary><b>02 · Dan Heng · Imbibitor Lunae</b></summary>
 
 <br>
 
@@ -346,7 +361,7 @@
 
 <a id="character-03-jing-yuan" name="character-03-jing-yuan"></a>
 <details>
-<summary><b>🦁 DOSSIER 03 — Jing Yuan</b>　<sub>Général des Chevaliers des Nuages / édition 2D</sub></summary>
+<summary><b>03 · Jing Yuan</b></summary>
 
 <br>
 
@@ -368,7 +383,7 @@
 
 <a id="character-04-zhongli" name="character-04-zhongli"></a>
 <details>
-<summary><b>🔶 DOSSIER 04 — Zhongli</b>　<sub>Conseiller / édition 2D</sub></summary>
+<summary><b>04 · Zhongli</b></summary>
 
 <br>
 
@@ -390,7 +405,7 @@
 
 <a id="character-05-raiden-mei" name="character-05-raiden-mei"></a>
 <details>
-<summary><b>⚡ DOSSIER 05 — Raiden Mei</b>　<sub>Valkyrie / deux éditions visuelles</sub></summary>
+<summary><b>05 · Raiden Mei</b></summary>
 
 <br>
 
@@ -425,7 +440,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-06-obanai" name="character-06-obanai"></a>
 <details>
-<summary><b>🐍 DOSSIER 06 — Obanai</b>　<sub>Pilier du Serpent / édition 2D</sub></summary>
+<summary><b>06 · Obanai</b></summary>
 
 <br>
 
@@ -447,7 +462,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-07-yae-miko" name="character-07-yae-miko"></a>
 <details>
-<summary><b>🌸 DOSSIER 07 — Yae Miko</b>　<sub>Guuji du sanctuaire de Narukami / édition 2D</sub></summary>
+<summary><b>07 · Yae Miko</b></summary>
 
 <br>
 
@@ -469,7 +484,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-08-furina" name="character-08-furina"></a>
 <details>
-<summary><b>💧 DOSSIER 08 — Furina</b>　<sub>Étoile de Fontaine / édition 2D</sub></summary>
+<summary><b>08 · Furina</b></summary>
 
 <br>
 
@@ -491,7 +506,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-09-acheron" name="character-09-acheron"></a>
 <details>
-<summary><b>🌌 DOSSIER 09 — Acheron</b>　<sub>Ranger galactique / édition 2D</sub></summary>
+<summary><b>09 · Acheron</b></summary>
 
 <br>
 
@@ -513,7 +528,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-10-ellen-joe" name="character-10-ellen-joe"></a>
 <details>
-<summary><b>🦈 DOSSIER 10 — Ellen Joe</b>　<sub>Domestique thirène requin / édition 2D</sub></summary>
+<summary><b>10 · Ellen Joe</b></summary>
 
 <br>
 
@@ -535,7 +550,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-11-hu-tao" name="character-11-hu-tao"></a>
 <details>
-<summary><b>🔥 DOSSIER 11 — Hu Tao</b>　<sub>77e directrice / édition 2D</sub></summary>
+<summary><b>11 · Hu Tao</b></summary>
 
 <br>
 
@@ -557,7 +572,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-12-robin" name="character-12-robin"></a>
 <details>
-<summary><b>🎶 DOSSIER 12 — Robin</b>　<sub>Chanteuse halovienne / édition 2D</sub></summary>
+<summary><b>12 · Robin</b></summary>
 
 <br>
 
@@ -579,7 +594,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-13-kaeya" name="character-13-kaeya"></a>
 <details>
-<summary><b>❄️ DOSSIER 13 — Kaeya</b>　<sub>Capitaine de cavalerie / édition 2D</sub></summary>
+<summary><b>13 · Kaeya</b></summary>
 
 <br>
 
@@ -601,7 +616,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-14-firefly" name="character-14-firefly"></a>
 <details>
-<summary><b>🌠 DOSSIER 14 — Firefly</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
+<summary><b>14 · Firefly</b></summary>
 
 <br>
 
@@ -623,7 +638,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-15-kevin-kaslana" name="character-15-kevin-kaslana"></a>
 <details>
-<summary><b>🧊 DOSSIER 15 — Kevin Kaslana</b>　<sub>Dirigeant du Serpent Mondial / édition 2D</sub></summary>
+<summary><b>15 · Kevin Kaslana</b></summary>
 
 <br>
 
@@ -645,7 +660,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-16-kamisato-ayaka" name="character-16-kamisato-ayaka"></a>
 <details>
-<summary><b>🌸 DOSSIER 16 — Kamisato Ayaka</b>　<sub>Princesse Shirasagi / édition 2D</sub></summary>
+<summary><b>16 · Kamisato Ayaka</b></summary>
 
 <br>
 
@@ -667,7 +682,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-17-blade" name="character-17-blade"></a>
 <details>
-<summary><b>🗡️ DOSSIER 17 — Blade</b>　<sub>Chasseur de Stellaron / édition 2D</sub></summary>
+<summary><b>17 · Blade</b></summary>
 
 <br>
 
@@ -689,7 +704,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-18-ruan-mei" name="character-18-ruan-mei"></a>
 <details>
-<summary><b>🌿 DOSSIER 18 — Ruan Mei</b>　<sub>Savante de la Société des Génies / édition 2D</sub></summary>
+<summary><b>18 · Ruan Mei</b></summary>
 
 <br>
 
@@ -711,7 +726,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-19-kaedehara-kazuha" name="character-19-kaedehara-kazuha"></a>
 <details>
-<summary><b>🍁 DOSSIER 19 — Kaedehara Kazuha</b>　<sub>Samouraï errant / édition 2D</sub></summary>
+<summary><b>19 · Kaedehara Kazuha</b></summary>
 
 <br>
 
@@ -733,7 +748,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-20-hoshimi-miyabi" name="character-20-hoshimi-miyabi"></a>
 <details>
-<summary><b>🦊 DOSSIER 20 — Hoshimi Miyabi</b>　<sub>Bretteuse aux oreilles de renard / édition 2D</sub></summary>
+<summary><b>20 · Hoshimi Miyabi</b></summary>
 
 <br>
 
@@ -755,7 +770,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-21-aventurine" name="character-21-aventurine"></a>
 <details>
-<summary><b>💎 DOSSIER 21 — Aventurine</b>　<sub>Stratège doré / édition 2D</sub></summary>
+<summary><b>21 · Aventurine</b></summary>
 
 <br>
 
@@ -777,7 +792,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-22-ganyu" name="character-22-ganyu"></a>
 <details>
-<summary><b>❄️ DOSSIER 22 — Ganyu</b>　<sub>Secrétaire qilin / édition 2D</sub></summary>
+<summary><b>22 · Ganyu</b></summary>
 
 <br>
 
@@ -799,7 +814,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-23-sunday" name="character-23-sunday"></a>
 <details>
-<summary><b>🎼 DOSSIER 23 — Sunday</b>　<sub>Maestro céleste / édition 2D</sub></summary>
+<summary><b>23 · Sunday</b></summary>
 
 <br>
 
@@ -821,7 +836,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-24-mitsuri-kanroji" name="character-24-mitsuri-kanroji"></a>
 <details>
-<summary><b>💗 DOSSIER 24 — Mitsuri Kanroji</b>　<sub>Pilier de l'Amour / édition 2D</sub></summary>
+<summary><b>24 · Mitsuri Kanroji</b></summary>
 
 <br>
 
@@ -843,7 +858,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-25-kafka" name="character-25-kafka"></a>
 <details>
-<summary><b>🕸️ DOSSIER 25 — Kafka</b>　<sub>Chasseuse de Stellaron / édition 2D</sub></summary>
+<summary><b>25 · Kafka</b></summary>
 
 <br>
 
@@ -865,7 +880,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-26-otto-apocalypse" name="character-26-otto-apocalypse"></a>
 <details>
-<summary><b>♟️ DOSSIER 26 — Otto Apocalypse</b>　<sub>Grand évêque de Schicksal / édition 2D</sub></summary>
+<summary><b>26 · Otto Apocalypse</b></summary>
 
 <br>
 
@@ -887,7 +902,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-27-nicole-demara" name="character-27-nicole-demara"></a>
 <details>
-<summary><b>💰 DOSSIER 27 — Nicole Demara</b>　<sub>Présidente des Lièvres Rusés / édition 2D</sub></summary>
+<summary><b>27 · Nicole Demara</b></summary>
 
 <br>
 
@@ -909,7 +924,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-28-jane-doe" name="character-28-jane-doe"></a>
 <details>
-<summary><b>🐭 DOSSIER 28 — Jane Doe</b>　<sub>Spécialiste thirène-rat / édition 2D</sub></summary>
+<summary><b>28 · Jane Doe</b></summary>
 
 <br>
 
@@ -931,7 +946,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <a id="character-29-anby-demara" name="character-29-anby-demara"></a>
 <details>
-<summary><b>⚔️ DOSSIER 29 — Anby Demara</b>　<sub>Membre des Lièvres Rusés / édition 2D</sub></summary>
+<summary><b>29 · Anby Demara</b></summary>
 
 <br>
 
