@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "overall_verdict": "pass_with_reviewed_warnings",
+  "review_basis": [
+    "approved four-cardinal anchors at normal pet size",
+    "registered row-9 labeled review",
+    "shared-scale row-10 labeled review",
+    "three-reviewer blind consensus",
+    "ordered-loop continuity metrics"
+  ],
+  "directions": [
+    {"degree":"000","expected":"up","observed":"frontal face with high amber irises and lifted chin","horizontal_evidence":"face remains broadly centered without a lateral aim","vertical_evidence":"irises sit high and the jaw/collar underside opens","verdict":"pass","reason":"approved anchor, labeled review, and blind vertical hard gate all confirm up"},
+    {"degree":"022.5","expected":"up-right","observed":"first clockwise step from up toward the screen-right family","horizontal_evidence":"labeled sequence shows pupils, nose, and face beginning to move screen-right; blind horizontal majority read the subtle cue oppositely","vertical_evidence":"eyes remain high and chin remains lifted","verdict":"warning","reason":"vertical axis and ordered progression are clear, but the near-vertical horizontal cue is weak in blind isolation"},
+    {"degree":"045","expected":"up-right","observed":"clear screen-right three-quarter turn with elevated gaze","horizontal_evidence":"nose, pupil, and near cheek project screen-right","vertical_evidence":"high eye line and raised chin retain the up axis","verdict":"pass","reason":"both axes are readable and blind consensus agrees"},
+    {"degree":"067.5","expected":"up-right","observed":"strong screen-right turn immediately before 090 while gaze remains above level","horizontal_evidence":"labeled face plane advances toward the approved screen-right cardinal; blind horizontal majority read the isolated pair oppositely","vertical_evidence":"high iris placement remains visible and blind vertical consensus confirms up","verdict":"warning","reason":"ordered labeled loop has no reversal, but isolated horizontal classification disagreed"},
+    {"degree":"090","expected":"screen-right","observed":"unmistakable screen-right profile","horizontal_evidence":"nose tip, pupil, chin, and face plane project toward the image-right edge","vertical_evidence":"pitch is approximately level","verdict":"pass","reason":"approved anchor and blind horizontal hard gate both confirm screen-right"},
+    {"degree":"112.5","expected":"down-right","observed":"screen-right profile beginning to lower the gaze and chin","horizontal_evidence":"face remains clearly on the screen-right family","vertical_evidence":"iris and chin begin moving downward","verdict":"pass","reason":"both blind axes and labeled progression agree"},
+    {"degree":"135","expected":"down-right","observed":"low gaze and tucked chin with a clear screen-right face bias","horizontal_evidence":"nose and cheek remain projected screen-right","vertical_evidence":"lowered eyes and greater crown visibility show down","verdict":"pass","reason":"both axes are readable and blind consensus agrees"},
+    {"degree":"157.5","expected":"down-right","observed":"deep near-down pose retaining a small screen-right cue before 180","horizontal_evidence":"labeled sequence retains residual screen-right nose and cheek projection; blind horizontal majority read the subtle cue oppositely","vertical_evidence":"low gaze, tucked chin, and dominant crown clearly read down","verdict":"warning","reason":"the vertical axis and smooth 157.5-to-180 boundary pass, but isolated horizontal classification disagreed"},
+    {"degree":"180","expected":"down","observed":"frontal tucked-chin pose with low amber irises","horizontal_evidence":"face returns to a centered frontal family","vertical_evidence":"low eyes, lowered lids, tucked chin, and increased crown visibility are unmistakable","verdict":"pass","reason":"approved anchor and blind vertical hard gate both confirm down"},
+    {"degree":"202.5","expected":"down-left","observed":"first clockwise step from down toward the screen-left family","horizontal_evidence":"labeled sequence shows face and nose beginning to move screen-left; blind horizontal majority read the subtle cue oppositely","vertical_evidence":"lowered gaze and chin retain down","verdict":"warning","reason":"vertical axis and ordered transition from 180 are clear, but the near-vertical horizontal cue is weak in isolation"},
+    {"degree":"225","expected":"down-left","observed":"clear down-left three-quarter head and gaze turn","horizontal_evidence":"nose and face surface project screen-left","vertical_evidence":"eye line and chin remain lowered","verdict":"pass","reason":"both axes are readable and blind consensus agrees"},
+    {"degree":"247.5","expected":"down-left","observed":"stronger screen-left turn retaining a downward pitch before 270","horizontal_evidence":"profile advances toward the approved screen-left cardinal","vertical_evidence":"iris remains below level","verdict":"pass","reason":"both blind axes and labeled progression agree"},
+    {"degree":"270","expected":"screen-left","observed":"unmistakable screen-left profile","horizontal_evidence":"nose tip, pupil, chin, and face plane project toward the image-left edge","vertical_evidence":"pitch is approximately level","verdict":"pass","reason":"approved anchor and blind horizontal hard gate both confirm screen-left"},
+    {"degree":"292.5","expected":"up-left","observed":"screen-left family beginning to lift toward up","horizontal_evidence":"labeled profile remains screen-left; blind horizontal majority read the isolated pair oppositely","vertical_evidence":"eyes and chin rise, and blind vertical consensus confirms up","verdict":"warning","reason":"ordered loop remains monotonic, but isolated horizontal classification disagreed"},
+    {"degree":"315","expected":"up-left","observed":"raised eyes and chin with a clear screen-left three-quarter bias","horizontal_evidence":"face remains on the screen-left half while reopening toward frontal","vertical_evidence":"high irises and lifted chin read up","verdict":"pass","reason":"both axes are readable and blind consensus agrees"},
+    {"degree":"337.5","expected":"up-left","observed":"near-frontal up pose retaining a small screen-left cue one step before 000","horizontal_evidence":"labeled nose and cheek retain residual screen-left projection; blind horizontal majority read the subtle cue oppositely","vertical_evidence":"high irises and lifted chin are clear, and blind vertical consensus confirms up","verdict":"warning","reason":"the 337.5-to-000 boundary passes without reversal or scale pop, but isolated horizontal classification disagreed"}
+  ],
+  "review_warnings": [
+    "Blind horizontal consensus opposed the labeled near-vertical cues at 022.5 and 337.5; ordered-loop review confirms the intended first/last up-quadrant steps.",
+    "Blind horizontal consensus opposed the labeled cues at 067.5 and 292.5; both remain on the correct side of their approved 090/270 cardinals in the ordered loop.",
+    "Blind horizontal consensus opposed the labeled near-down cues at 157.5 and 202.5; both row-boundary transitions remain continuous and vertically correct.",
+    "Continuity metrics flag 022.5-to-045 and 337.5-to-000 as local pixel-difference outliers; final visual QA found no visible snap, pop, reversal, or broken attachment.",
+    "Transparent interior rows reported in 000, 022.5, and 180 are visually confirmed natural negative space between the separated legs, not holes in the character."
+  ],
+  "hard_failures": [],
+  "independent_final_qa": {
+    "visual_qa": "pass",
+    "qa_note": "The repaired jumping row preserves stable character scale, follows a clear low-to-high-to-low trajectory, and remains unclipped; all other rows and directions remain valid.",
+    "repair_rows": [],
+    "review_warnings": [
+      "The jumping stable-slots extraction warning is accepted after visual confirmation of stable scale, clean margins, and the intended vertical arc.",
+      "Intermediate horizontal blind disagreements are minor because the labeled loop has no wrong quadrant or reversal.",
+      "Continuity alpha-hole candidates are natural leg gaps, and local diff outliers show no visible snap or scale pop."
+    ]
+  }
+}

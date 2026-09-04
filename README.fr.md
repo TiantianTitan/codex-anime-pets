@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 28 PERSONNAGES</code>
-  <code>✦ 29 ÉDITIONS</code>
+  <code>✦ 29 PERSONNAGES</code>
+  <code>✦ 30 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -254,7 +254,7 @@
       <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 26 ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"></a><br>
       <b>「 Otto 」</b><br>
       <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
@@ -273,7 +273,13 @@
       <b>「 Jane&nbsp;Doe 」</b><br>
       <sub>◇ Élégance rusée · Instinct affûté · Danger silencieux ◇</sub>
     </td>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Anby Demara"></a><br>
+      <b>「 Anby 」</b><br>
+      <sub>◇ Calme attentive · Discipline discrète · Résolution tranquille ◇</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <sub>✦ SUIVANT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
@@ -923,6 +929,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-29-anby-demara" name="character-29-anby-demara"></a>
+<details>
+<summary><b>⚔️ DOSSIER 29 — Anby Demara</b>　<sub>Membre des Lièvres Rusés / édition 2D</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="190" alt="Anby Demara au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> carré argenté, bandeau noir, yeux ambrés, veste tactique vert acide et noire, jupe plissée, bas asymétriques, baskets, module dorsal mécanique et épée au fourreau attachée<br>
+      <b>Présence :</b> calme, disciplinée et concentrée, avec une douceur discrète derrière son expression réservée<br><br>
+      <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/anby-demara/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -991,6 +1019,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Hoshimi Miyabi | 2D | `miyabi` | [Télécharger](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Nicole Demara | 2D | `nicole-demara` | [Télécharger](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | Jane Doe | 2D | `jane-doe` | [Télécharger](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
+| Anby Demara | 2D | `anby-demara` | [Télécharger](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 
 </details>
 

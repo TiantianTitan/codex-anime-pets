@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 28 CHARACTERS</code>
-  <code>✦ 29 EDITIONS</code>
+  <code>✦ 29 CHARACTERS</code>
+  <code>✦ 30 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -254,7 +254,7 @@
       <sub>◇ Velvet calm · Dangerous charm · Unhurried control ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 26 ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"></a><br>
       <b>「 Otto 」</b><br>
       <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
@@ -273,7 +273,13 @@
       <b>「 Jane&nbsp;Doe 」</b><br>
       <sub>◇ Sly poise · Sharp instincts · Quiet danger ◇</sub>
     </td>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Anby Demara idle animation"></a><br>
+      <b>「 Anby 」</b><br>
+      <sub>◇ Calm focus · Quiet discipline · Steady resolve ◇</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <sub>✦ NEXT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
@@ -923,6 +929,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-29-anby-demara" name="character-29-anby-demara"></a>
+<details>
+<summary><b>⚔️ FILE 29 — Anby Demara</b>　<sub>Cunning Hares Member / 2D edition</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="190" alt="Anby Demara idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> short silver bob, black headband, amber eyes, lime-and-black tactical jacket, pleated skirt, asymmetrical stockings, sneakers, mechanical backpack rig, and an attached sheathed sword<br>
+      <b>Mood:</b> calm, disciplined, and focused, with understated warmth behind her reserved expression<br><br>
+      <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/anby-demara/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -991,6 +1019,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Hoshimi Miyabi | 2D | `miyabi` | [Download ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | Nicole Demara | 2D | `nicole-demara` | [Download ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | Jane Doe | 2D | `jane-doe` | [Download ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
+| Anby Demara | 2D | `anby-demara` | [Download ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 
 </details>
 

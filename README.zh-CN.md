@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 28 个角色</code>
-  <code>✦ 29 个版本</code>
+  <code>✦ 29 个角色</code>
+  <code>✦ 30 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -254,7 +254,7 @@
       <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 26 ✦</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
       <b>「 奥托 」</b><br>
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
@@ -273,7 +273,13 @@
       <b>「 简·杜 」</b><br>
       <sub>◇ 从容敏锐 · 鼠尾轻摆 · 危险而迷人 ◇</sub>
     </td>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="安比·德玛拉的待机动画"></a><br>
+      <b>「 安比 」</b><br>
+      <sub>◇ 冷静专注 · 自律可靠 · 温柔克制 ◇</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <sub>✦ 下一位 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
@@ -923,6 +929,28 @@
 
 </details>
 
+<a id="character-29-anby-demara" name="character-29-anby-demara"></a>
+<details>
+<summary><b>⚔️ 档案 29 — 安比·德玛拉</b>　<sub>狡兔屋成员 / 2D 版本</sub></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="190" alt="安比·德玛拉的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>银灰色短发、黑色发箍、琥珀色双眼、荧光绿色与黑色的战术短夹克、百褶裙、不对称长袜、运动鞋、机械背包组件和随身佩剑<br>
+      <b>气质：</b>冷静自律、专注可靠，克制的神情里保留着一点不动声色的温柔<br><br>
+      <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/anby-demara/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -991,6 +1019,7 @@
 | 星见雅 | 2D | `miyabi` | [下载 ZIP](zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip) |
 | 妮可·德玛拉 | 2D | `nicole-demara` | [下载 ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | 简·杜 | 2D | `jane-doe` | [下载 ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
+| 安比·德玛拉 | 2D | `anby-demara` | [下载 ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 
 </details>
 

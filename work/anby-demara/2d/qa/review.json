@@ -1,0 +1,977 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12457,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12562,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12405,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12359,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12338,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12475,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10889,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10627,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9662,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 107
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9327,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8778,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 105
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10486,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10071,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10634,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12053,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10296,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10686,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11580,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10317,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 88
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10612,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10495,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11111,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11820,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12034,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11848,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11819,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6143,
+          "bbox": [
+            53,
+            85,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6852,
+          "bbox": [
+            54,
+            38,
+            137,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7015,
+          "bbox": [
+            53,
+            5,
+            138,
+            138
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6995,
+          "bbox": [
+            54,
+            38,
+            137,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 10
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 6140,
+          "bbox": [
+            53,
+            85,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12918,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12588,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13188,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14380,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14584,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14584,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 124
+        },
+        {
+          "index": 6,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13745,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 7,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12756,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 100
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11552,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11773,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11352,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11384,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11641,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11502,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13126,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12840,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13290,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13215,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13310,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12796,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": null,
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12541,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12259,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12137,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12144,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12924,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/anby-demara/2d/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12495,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        }
+      ]
+    }
+  ]
+}
