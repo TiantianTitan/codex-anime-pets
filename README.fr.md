@@ -301,6 +301,14 @@
       <sub>◇ Courage lumineux · Esprit de Valkyrie · Élan intrépide ◇</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ SUIVANT ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
+      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">

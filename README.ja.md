@@ -104,6 +104,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+  </tr>
 </table>
 
 <div align="center">

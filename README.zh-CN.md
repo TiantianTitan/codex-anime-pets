@@ -301,6 +301,14 @@
       <sub>◇ 明朗勇敢 · 白发蓝眸 · 女武神锋芒 ◇</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ 下一位 ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
+      <b>「 下一位会是谁？ 」</b><br>
+      <sub>带来参考图 · 孵化新的伙伴</sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">

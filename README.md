@@ -301,6 +301,14 @@
       <sub>◇ Bright courage · Valkyrie spirit · Fearless energy ◇</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ NEXT ✦</sub><br>
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
+      <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
+      <sub>Bring a reference · Hatch a companion</sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
