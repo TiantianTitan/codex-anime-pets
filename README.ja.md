@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 29 キャラクター</code>
-  <code>✦ 30 エディション</code>
+  <code>✦ 30 キャラクター</code>
+  <code>✦ 31 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -97,12 +97,12 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   <tr>
     <td align="center" valign="top" width="33%"><sub>✦ キャラクター 25 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ キャラクター 26 ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b><br><sub>◇ 街角の機転 · 明るい自信 · 抜け目ない商才 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 27 ✦</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b><br><sub>◇ 街角の機転 · 明るい自信 · 抜け目ない商才 ◇</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
   </tr>
 </table>
 
@@ -164,6 +164,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | 雷電芽衣 | 3Dレンダー | `raiden-mei-3d` | [ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
 | ケビン・カスラナ | 2D | `kevin-kaslana` | [ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | オットー・アポカリプス | 2D | `otto-apocalypse` | [ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| キアナ・カスラナ | 2D | `kiana-kaslana` | [ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 

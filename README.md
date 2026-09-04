@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 29 CHARACTERS</code>
-  <code>✦ 30 EDITIONS</code>
+  <code>✦ 30 CHARACTERS</code>
+  <code>✦ 31 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -275,7 +275,7 @@
       <sub>◇ Courtly poise · Green-eyed calm · Several moves ahead ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 27 ✦</sub><br>
       <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Nicole Demara idle animation"></a><br>
       <b>「 Nicole 」</b><br>
       <sub>◇ Streetwise charm · Bright confidence · Deal-maker energy ◇</sub>
@@ -295,10 +295,10 @@
       <sub>◇ Calm focus · Quiet discipline · Steady resolve ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEXT ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
-      <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
-      <sub>Bring a reference · Hatch a companion</sub>
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Kiana Kaslana idle animation"></a><br>
+      <b>「 Kiana 」</b><br>
+      <sub>◇ Bright courage · Valkyrie spirit · Fearless energy ◇</sub>
     </td>
   </tr>
 </table>
@@ -966,6 +966,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-30-kiana-kaslana" name="character-30-kiana-kaslana"></a>
+<details>
+<summary><b>30 · Kiana Kaslana</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="190" alt="Kiana Kaslana idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> bright blue eyes, long white twin braids, star hair clip, white-and-black Valkyrie combat suit with orange accents, and a matched pair of compact pistols<br>
+      <b>Mood:</b> bright, brave, and full of forward momentum, with the unmistakable confidence of a Valkyrie who never stops reaching for tomorrow<br><br>
+      <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1044,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Raiden Mei | 3D-rendered | `raiden-mei-3d` | [Download ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
 | Kevin Kaslana | 2D | `kevin-kaslana` | [Download ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| Kiana Kaslana | 2D | `kiana-kaslana` | [Download ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 

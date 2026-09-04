@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 29 PERSONNAGES</code>
-  <code>✦ 30 ÉDITIONS</code>
+  <code>✦ 30 PERSONNAGES</code>
+  <code>✦ 31 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -275,7 +275,7 @@
       <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 27 ✦</sub><br>
       <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Nicole Demara"></a><br>
       <b>「 Nicole 」</b><br>
       <sub>◇ Charme débrouillard · Assurance lumineuse · Sens des affaires ◇</sub>
@@ -295,10 +295,10 @@
       <sub>◇ Calme attentive · Discipline discrète · Résolution tranquille ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ SUIVANT ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
-      <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
-      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kiana Kaslana"></a><br>
+      <b>「 Kiana 」</b><br>
+      <sub>◇ Courage lumineux · Esprit de Valkyrie · Élan intrépide ◇</sub>
     </td>
   </tr>
 </table>
@@ -966,6 +966,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-30-kiana-kaslana" name="character-30-kiana-kaslana"></a>
+<details>
+<summary><b>30 · Kiana Kaslana</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="190" alt="Kiana Kaslana au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> yeux bleu vif, longues tresses blanches, barrette étoilée, combinaison de Valkyrie blanche et noire aux accents orange, et paire de pistolets compacts assortis<br>
+      <b>Présence :</b> lumineuse, courageuse et toujours en mouvement, avec l'assurance d'une Valkyrie qui continue d'avancer vers demain<br><br>
+      <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1044,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Raiden Mei | rendu 3D | `raiden-mei-3d` | [Télécharger](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
 | Kevin Kaslana | 2D | `kevin-kaslana` | [Télécharger](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Télécharger](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| Kiana Kaslana | 2D | `kiana-kaslana` | [Télécharger](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 

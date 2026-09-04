@@ -1,0 +1,30 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve Kiana's chibi face, palette, proportions, white twin braids, star accessory, combat suit, and two attached pistols, with correct motion and no blank frames, clipping, overlap, forbidden effects, or conspicuous popping.",
+  "direction_semantics": {
+    "000": "pass",
+    "022.5": "pass",
+    "045": "pass",
+    "067.5": "pass",
+    "090": "pass",
+    "112.5": "warning",
+    "135": "pass",
+    "157.5": "warning",
+    "180": "pass",
+    "202.5": "warning",
+    "225": "pass",
+    "247.5": "pass",
+    "270": "pass",
+    "292.5": "pass",
+    "315": "pass",
+    "337.5": "warning"
+  },
+  "review_warnings": [
+    "Blind uncertainty for the 112.5 vertical cue is accepted because labeled normal-size review confirms the rightward pose and a subtle downward iris/chin step.",
+    "Blind uncertainty for the 157.5 and 202.5 horizontal cues is accepted because both remain on the correct side of the ordered down transition without reversal.",
+    "The 337.5 horizontal cue and wrap envelope are subtle, but the pose remains up-left and 337.5 to 000 has no conspicuous snap or camera-scale pop.",
+    "Reported alpha holes are natural negative spaces among the legs, braids, arms, and attached pistols."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}

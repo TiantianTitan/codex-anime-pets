@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "selected_strip": "decoded/look-row-10.png",
+  "edge_check": {
+    "verdict": "pass",
+    "reason": "All eight registered cells retain at least 41 px horizontal and 21 px top clearance, with a shared bottom baseline at y=203."
+  },
+  "identity_and_registration": {
+    "verdict": "pass",
+    "reason": "Kiana's facial construction, white twin braids, star accessory, white/black/orange suit, and two held pistols remain attached and consistent across the row."
+  },
+  "directions": [
+    {"direction": "180", "verdict": "pass", "reason": "Near-front face with low blue irises and tucked chin; it continues the downward turn after 157.5 without a horizontal reversal."},
+    {"direction": "202.5", "verdict": "pass", "reason": "Downward gaze remains visible while the nose and face begin moving screen-left."},
+    {"direction": "225", "verdict": "pass", "reason": "Clear down-left three-quarter face between the 180 and 270 pose families."},
+    {"direction": "247.5", "verdict": "pass", "reason": "Strong screen-left head turn with remaining low gaze, one even step before 270."},
+    {"direction": "270", "verdict": "pass", "reason": "Unmistakable screen-left profile: nose, pupils, and facial plane project image-left and the far eye is reduced."},
+    {"direction": "292.5", "verdict": "pass", "reason": "Left profile continues while irises and chin begin rising; no turn toward screen-right."},
+    {"direction": "315", "verdict": "pass", "reason": "Up-left three-quarter face with higher gaze and a gradually reopening near-front silhouette."},
+    {"direction": "337.5", "verdict": "warning", "reason": "Broad near-front up-left pose has high eyes and lifted chin and preserves the left cue; its registered 106x182 envelope is smaller than 000 at 111x198, producing a measurable but not visually disorienting loop-boundary change."}
+  ],
+  "continuity": {
+    "verdict": "warning",
+    "reason": "The loop advances through the correct left half without reversal or broken attachments. Metrics flag 337.5 to 000 (area ratio 1.141, center shift 8.1 px); labeled normal-size review finds the change attributable mainly to the fully lifted 000 crown/chin pose rather than a camera zoom. Two bounded repair rows fixed size but introduced major direction reversals, so both were rejected."
+  }
+}

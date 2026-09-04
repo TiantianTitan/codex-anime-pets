@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 29 个角色</code>
-  <code>✦ 30 个版本</code>
+  <code>✦ 30 个角色</code>
+  <code>✦ 31 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -275,7 +275,7 @@
       <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 27 ✦</sub><br>
       <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="妮可·德玛拉的待机动画"></a><br>
       <b>「 妮可 」</b><br>
       <sub>◇ 街头机敏 · 明快自信 · 生意头脑 ◇</sub>
@@ -295,10 +295,10 @@
       <sub>◇ 冷静专注 · 自律可靠 · 温柔克制 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 下一位 ✦</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>「 下一位会是谁？ 」</b><br>
-      <sub>带来参考图 · 孵化新的伙伴</sub>
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="琪亚娜·卡斯兰娜的待机动画"></a><br>
+      <b>「 琪亚娜 」</b><br>
+      <sub>◇ 明朗勇敢 · 白发蓝眸 · 女武神锋芒 ◇</sub>
     </td>
   </tr>
 </table>
@@ -966,6 +966,28 @@
 
 </details>
 
+<a id="character-30-kiana-kaslana" name="character-30-kiana-kaslana"></a>
+<details>
+<summary><b>30 · 琪亚娜·卡斯兰娜</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="190" alt="琪亚娜·卡斯兰娜的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>明亮蓝眸、白色双辫、星形发饰、白黑配色并带橙色点缀的女武神战斗服，以及一对造型统一的紧凑双枪<br>
+      <b>气质：</b>明朗勇敢、充满向前的力量，始终保留着女武神奔向明日的坚定与自信<br><br>
+      <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1044,7 @@
 | 雷电芽衣 | 3D 渲染风 | `raiden-mei-3d` | [下载 ZIP](honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip) |
 | 凯文·卡斯兰娜 | 2D | `kevin-kaslana` | [下载 ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | 奥托·阿波卡利斯 | 2D | `otto-apocalypse` | [下载 ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
+| 琪亚娜·卡斯兰娜 | 2D | `kiana-kaslana` | [下载 ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 

@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "registered_strip": "qa/look-row-9-registered.png",
+  "edge_check": {
+    "verdict": "pass",
+    "reason": "All eight registered cells retain wide transparent side margins, 5 px or more top clearance, and a common bottom baseline at y=203."
+  },
+  "identity_and_registration": {
+    "verdict": "pass",
+    "reason": "Kiana's face, white twin braids, star hair clip, white/black/orange suit, and both attached pistols remain consistent; the shared registration scale is 0.44594594594594594."
+  },
+  "directions": [
+    {"direction": "000", "verdict": "pass", "reason": "Near-front face with both blue irises high and chin visibly lifted."},
+    {"direction": "022.5", "verdict": "pass", "reason": "Upward gaze remains strong while the nose and facial plane begin moving screen-right."},
+    {"direction": "045", "verdict": "pass", "reason": "Clear up-right three-quarter face between the 000 and 090 families."},
+    {"direction": "067.5", "verdict": "pass", "reason": "Strong screen-right head turn with remaining elevated gaze, one even step before 090."},
+    {"direction": "090", "verdict": "pass", "reason": "Unmistakable screen-right profile: nose, pupils, and face surface project image-right and the far eye is reduced."},
+    {"direction": "112.5", "verdict": "pass", "reason": "Right profile continues while the irises and chin begin descending."},
+    {"direction": "135", "verdict": "pass", "reason": "Down-right three-quarter face with lower gaze and no horizontal reversal."},
+    {"direction": "157.5", "verdict": "pass", "reason": "Deep downward tuck retains a subtle image-right facial cue, one step before the 180 anchor."}
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "The ordered 000 to 157.5 arc advances clockwise without reversal, clipping, baseline shift, scale pop, identity change, or broken pistol attachment."
+  }
+}
