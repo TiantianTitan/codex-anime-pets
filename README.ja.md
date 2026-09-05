@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 30 キャラクター</code>
-  <code>✦ 31 エディション</code>
+  <code>✦ 31 キャラクター</code>
+  <code>✦ 32 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -100,9 +100,12 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" valign="top" width="33%"><sub>✦ キャラクター 27 ✦</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b><br><sub>◇ 街角の機転 · 明るい自信 · 抜け目ない商才 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 28 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3"><sub>✦ 新登場 ✦</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b><br><sub>◇ 飄々とした自信 · 戦いへの情熱 · 水の決意 ◇</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top" colspan="3"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
@@ -137,6 +140,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | 神里綾華 | 2D | `kamisato-ayaka` | [ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | 楓原万葉 | 2D | `kazuha-chibi` | [ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 甘雨 | 2D | `ganyu` | [ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| タルタリヤ | 2D | `tartaglia` | [ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 
 </details>
 

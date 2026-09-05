@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 30 CHARACTERS</code>
-  <code>✦ 31 EDITIONS</code>
+  <code>✦ 31 CHARACTERS</code>
+  <code>✦ 32 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -283,7 +283,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 28 ✦</sub><br>
       <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Jane Doe idle animation"></a><br>
       <b>「 Jane&nbsp;Doe 」</b><br>
       <sub>◇ Sly poise · Sharp instincts · Quiet danger ◇</sub>
@@ -299,6 +299,14 @@
       <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Kiana Kaslana idle animation"></a><br>
       <b>「 Kiana 」</b><br>
       <sub>◇ Bright courage · Valkyrie spirit · Fearless energy ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Tartaglia idle animation"></a><br>
+      <b>「 Tartaglia 」</b><br>
+      <sub>◇ Playful confidence · Battle-ready · Hydro resolve ◇</sub>
     </td>
   </tr>
   <tr>
@@ -996,6 +1004,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-31-tartaglia" name="character-31-tartaglia"></a>
+<details>
+<summary><b>31 · Tartaglia</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="190" alt="Tartaglia idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> orange hair, vivid blue eyes, red hair ornament and earring, gray-and-white uniform, red scarf, asymmetric shoulder armor, dark gloves and boots, and Hydro Vision<br>
+      <b>Mood:</b> confident, playful, and always ready for the next challenge, with a calm smile that keeps his competitive edge close at hand<br><br>
+      <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/tartaglia/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1052,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Kamisato Ayaka | 2D | `kamisato-ayaka` | [Download ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | Kaedehara Kazuha | 2D | `kazuha-chibi` | [Download ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Ganyu | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| Tartaglia | 2D | `tartaglia` | [Download ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 
 </details>
 

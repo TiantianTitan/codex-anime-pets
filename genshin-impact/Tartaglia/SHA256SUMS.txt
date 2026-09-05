@@ -1,0 +1,3 @@
+5933e84f18e1dabfa574e88c9cc49ad42958945b85c4ea30556685fcd8750f49  tartaglia-2d/pet.json
+d2a286ed1063d6884830f2e815671d93cf0b3958777e53fafe8e37b1df103395  tartaglia-2d/spritesheet.webp
+ee6e513c818a98d6ace220f352d9d80e1609afaa32b191482d14d035d9d37a98  tartaglia-2d-codex-pet-v2.zip

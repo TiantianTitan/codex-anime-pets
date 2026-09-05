@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 30 PERSONNAGES</code>
-  <code>✦ 31 ÉDITIONS</code>
+  <code>✦ 31 PERSONNAGES</code>
+  <code>✦ 32 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -283,7 +283,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 28 ✦</sub><br>
       <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jane Doe"></a><br>
       <b>「 Jane&nbsp;Doe 」</b><br>
       <sub>◇ Élégance rusée · Instinct affûté · Danger silencieux ◇</sub>
@@ -299,6 +299,14 @@
       <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kiana Kaslana"></a><br>
       <b>「 Kiana 」</b><br>
       <sub>◇ Courage lumineux · Esprit de Valkyrie · Élan intrépide ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Tartaglia"></a><br>
+      <b>「 Tartaglia 」</b><br>
+      <sub>◇ Assurance joueuse · Ardeur au combat · Résolution Hydro ◇</sub>
     </td>
   </tr>
   <tr>
@@ -996,6 +1004,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-31-tartaglia" name="character-31-tartaglia"></a>
+<details>
+<summary><b>31 · Tartaglia</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="190" alt="Tartaglia au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux orange, yeux bleu vif, ornement et boucle d'oreille rouges, uniforme gris et blanc, écharpe rouge, épaulière asymétrique, gants et bottes sombres, et Œil divin Hydro<br>
+      <b>Présence :</b> sûr de lui, joueur et toujours prêt à relever un nouveau défi, avec un sourire calme qui laisse deviner son esprit de compétition<br><br>
+      <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/tartaglia/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1052,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Kamisato Ayaka | 2D | `kamisato-ayaka` | [Télécharger](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | Kaedehara Kazuha | 2D | `kazuha-chibi` | [Télécharger](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Ganyu | 2D | `ganyu` | [Télécharger](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| Tartaglia | 2D | `tartaglia` | [Télécharger](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 
 </details>
 

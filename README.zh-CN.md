@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 30 个角色</code>
-  <code>✦ 31 个版本</code>
+  <code>✦ 31 个角色</code>
+  <code>✦ 32 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -283,7 +283,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 28 ✦</sub><br>
       <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="简·杜的待机动画"></a><br>
       <b>「 简·杜 」</b><br>
       <sub>◇ 从容敏锐 · 鼠尾轻摆 · 危险而迷人 ◇</sub>
@@ -299,6 +299,14 @@
       <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="琪亚娜·卡斯兰娜的待机动画"></a><br>
       <b>「 琪亚娜 」</b><br>
       <sub>◇ 明朗勇敢 · 白发蓝眸 · 女武神锋芒 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="达达利亚的待机动画"></a><br>
+      <b>「 达达利亚 」</b><br>
+      <sub>◇ 从容好战 · 笑意锋利 · 水色决意 ◇</sub>
     </td>
   </tr>
   <tr>
@@ -996,6 +1004,28 @@
 
 </details>
 
+<a id="character-31-tartaglia" name="character-31-tartaglia"></a>
+<details>
+<summary><b>31 · 达达利亚</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="190" alt="达达利亚的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>橙色短发、明亮蓝眸、红色发饰与耳饰、灰白制服、红围巾、不对称肩甲、深色手套与长靴，以及水元素神之眼<br>
+      <b>气质：</b>自信从容又带着好胜心，平静笑意下始终藏着迎接下一场挑战的锋芒<br><br>
+      <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/tartaglia/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1022,6 +1052,7 @@
 | 神里绫华 | 2D | `kamisato-ayaka` | [下载 ZIP](genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip) |
 | 枫原万叶 | 2D | `kazuha-chibi` | [下载 ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
 | 甘雨 | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
+| 达达利亚 | 2D | `tartaglia` | [下载 ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 
 </details>
 
