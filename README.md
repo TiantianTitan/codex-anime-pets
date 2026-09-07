@@ -70,11 +70,11 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="Animated preview of Elysia looking around"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>COMMUNITY SPOTLIGHT</sub><br>
-      <b>Elysia, in every edition.</b><br>
-      <sub>liu-weida’s project is dedicated entirely to Elysia, including alternate outfits and future skins.</sub><br><br>
-      <code>ELYSIA ONLY</code> <code>2D + 3D</code> <code>ONGOING</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Open the Elysia project ↗</kbd></a>
+      <sub>COMMUNITY COLLECTION</sub><br>
+      <b>Elysia Collection</b><br>
+      <sub>A standalone collection of Elysia Codex pets by liu-weida, featuring multiple outfits, skins, and visual editions.</sub><br><br>
+      <code>ELYSIA</code> <code>2D + 3D</code> <code>MULTIPLE OUTFITS</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Browse the Elysia collection ↗</kbd></a>
     </td>
   </tr>
 </table>

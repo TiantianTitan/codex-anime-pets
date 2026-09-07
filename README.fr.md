@@ -68,11 +68,11 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="Aperçu animé d’Elysia regardant autour d’elle"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>PROJET DE LA COMMUNAUTÉ</sub><br>
-      <b>Elysia, dans toutes ses versions.</b><br>
-      <sub>Le projet de liu-weida est entièrement consacré à Elysia, avec ses tenues alternatives et ses futures apparences.</sub><br><br>
-      <code>ELYSIA</code> <code>2D + 3D</code> <code>EN COURS</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Ouvrir le projet Elysia ↗</kbd></a>
+      <sub>COLLECTION DE LA COMMUNAUTÉ</sub><br>
+      <b>Collection Elysia</b><br>
+      <sub>Une collection indépendante de familiers Codex Elysia par liu-weida, avec plusieurs tenues, apparences et éditions visuelles.</sub><br><br>
+      <code>ELYSIA</code> <code>2D + 3D</code> <code>PLUSIEURS TENUES</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Parcourir la collection Elysia ↗</kbd></a>
     </td>
   </tr>
 </table>

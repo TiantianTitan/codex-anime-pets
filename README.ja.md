@@ -68,11 +68,11 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="周囲を見渡すエリシアのアニメーションプレビュー"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>コミュニティプロジェクト</sub><br>
-      <b>エリシアだけを、もっと深く。</b><br>
-      <sub>liu-weida のプロジェクトはエリシアに特化し、別衣装や今後のスキンも継続して追加します。</sub><br><br>
-      <code>エリシア専門</code> <code>2D + 3D</code> <code>継続更新</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>エリシアのプロジェクトを見る ↗</kbd></a>
+      <sub>コミュニティコレクション</sub><br>
+      <b>エリシア特集</b><br>
+      <sub>liu-weida によるエリシアの Codex ペット作品集。複数の衣装、スキン、ビジュアルエディションを収録しています。</sub><br><br>
+      <code>エリシア</code> <code>2D + 3D</code> <code>複数の衣装</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>エリシア特集を見る ↗</kbd></a>
     </td>
   </tr>
 </table>

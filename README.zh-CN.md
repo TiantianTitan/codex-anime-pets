@@ -68,11 +68,11 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="爱莉希雅环视四周的动态预览"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>社区项目推荐</sub><br>
-      <b>只做爱莉希雅，也把她做得更完整。</b><br>
-      <sub>liu-weida 的独立项目专注于爱莉希雅，会继续收录不同服装与后续皮肤版本。</sub><br><br>
-      <code>爱莉希雅专精</code> <code>2D + 3D</code> <code>持续更新</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>查看爱莉希雅项目 ↗</kbd></a>
+      <sub>社区角色收藏</sub><br>
+      <b>爱莉希雅专区</b><br>
+      <sub>liu-weida 制作的爱莉希雅 Codex 宠物成品合集，收录多套服装、皮肤与视觉版本。</sub><br><br>
+      <code>爱莉希雅</code> <code>2D + 3D</code> <code>多套外观</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>查看爱莉希雅专区 ↗</kbd></a>
     </td>
   </tr>
 </table>
