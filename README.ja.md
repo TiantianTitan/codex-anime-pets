@@ -105,13 +105,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3"><sub>✦ 新登場 ✦</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b><br><sub>◇ 飄々とした自信 · 戦いへの情熱 · 水の決意 ◇</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3"><sub>✦ 新登場 ✦</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b><br><sub>◇ 恐れ知らずの温かさ · 爆発的な活力 · 明るい笑顔 ◇</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b><br><sub>◇ 飄々とした自信 · 戦いへの情熱 · 水の決意 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b><br><sub>◇ 恐れ知らずの温かさ · 爆発的な活力 · 明るい笑顔 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 

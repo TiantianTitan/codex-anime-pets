@@ -302,23 +302,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ NEW ✦</sub><br>
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Tartaglia idle animation"></a><br>
       <b>「 Tartaglia 」</b><br>
       <sub>◇ Playful confidence · Battle-ready · Hydro resolve ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ NEW ✦</sub><br>
       <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Burnice White idle animation"></a><br>
       <b>「 Burnice 」</b><br>
       <sub>◇ Fearless warmth · Explosive energy · Bright grin ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ NEXT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>

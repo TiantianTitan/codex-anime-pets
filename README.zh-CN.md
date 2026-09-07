@@ -302,23 +302,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="达达利亚的待机动画"></a><br>
       <b>「 达达利亚 」</b><br>
       <sub>◇ 从容好战 · 笑意锋利 · 水色决意 ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ 新角色 ✦</sub><br>
       <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
       <b>「 柏妮思 」</b><br>
       <sub>◇ 热烈无畏 · 爆燃活力 · 明亮笑意 ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ 下一位 ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>

@@ -302,23 +302,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ NOUVEAU ✦</sub><br>
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Tartaglia"></a><br>
       <b>「 Tartaglia 」</b><br>
       <sub>◇ Assurance joueuse · Ardeur au combat · Résolution Hydro ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ NOUVEAU ✦</sub><br>
       <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Animation d'attente de Burnice White"></a><br>
       <b>「 Burnice 」</b><br>
       <sub>◇ Chaleur intrépide · Énergie explosive · Sourire radieux ◇</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
+    <td align="center" valign="top" width="33%">
       <sub>✦ SUIVANT ✦</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
