@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "reviewed_at_normal_size": true,
+  "source": "decoded/look-row-10.png",
+  "directions": [
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "horizontal_evidence": "The face stays centered and frontal.",
+      "vertical_evidence": "Both irises sit low, the crown plane is exposed, and the chin is tucked toward the scarf."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "The face begins moving toward image-left.",
+      "vertical_evidence": "The low gaze and tucked chin retain the downward component."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "A clear image-left three-quarter head turn is visible.",
+      "vertical_evidence": "The eyes and chin remain below the level-pose landmarks."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "The image-left turn strengthens without crossing into the opposite half.",
+      "vertical_evidence": "The head is still slightly bowed before the level-left cardinal."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "horizontal_evidence": "The nose tip, visible eye, mouth, and chin project to image-left of head center while the rear hair and backpack remain on image-right.",
+      "vertical_evidence": "The gaze is level rather than up or down."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "The nose and facial opening remain on image-left after the cardinal.",
+      "vertical_evidence": "The irises and chin begin rising above the level-left pose."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "The face reopens to an image-left three-quarter view with both eye regions readable.",
+      "vertical_evidence": "Higher irises and a lifted chin make the upward component clear."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "A broad near-frontal face retains a small image-left cue and both eyes are visible.",
+      "vertical_evidence": "High irises and a lifted chin lead directly into the approved 000 pose."
+    }
+  ],
+  "continuity": {
+    "180_to_270": "pass",
+    "270_to_337.5": "pass",
+    "337.5_to_000": "warning",
+    "note": "The row stays on the image-left half after 180, reaches a true left profile at 270, then reopens monotonically to a near-frontal 337.5 pose without reversal. The measured 337.5-to-000 center delta is 8.5 pixels and area ratio is 1.11; labeled normal-size review finds the residual envelope change readable as head-pitch recovery rather than a conspicuous scale pop, pending independent final QA."
+  }
+}

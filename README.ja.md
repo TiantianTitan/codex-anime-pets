@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 31 キャラクター</code>
-  <code>✦ 32 エディション</code>
+  <code>✦ 32 キャラクター</code>
+  <code>✦ 33 エディション</code>
   <code>✦ 9 アニメーション</code>
   <code>✦ 16 視線方向</code>
 </p>
@@ -101,11 +101,14 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
   </tr>
   <tr>
     <td align="center" valign="top" width="33%"><sub>✦ キャラクター 28 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 29 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
     <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top" colspan="3"><sub>✦ 新登場 ✦</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b><br><sub>◇ 飄々とした自信 · 戦いへの情熱 · 水の決意 ◇</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3"><sub>✦ 新登場 ✦</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b><br><sub>◇ 恐れ知らずの温かさ · 爆発的な活力 · 明るい笑顔 ◇</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top" colspan="3"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
@@ -185,6 +188,7 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 | ニコ・デマラ | 2D | `nicole-demara` | [ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | ジェーン・ドゥ | 2D | `jane-doe` | [ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | アンビー・デマラ | 2D | `anby-demara` | [ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
+| バーニス | 2D | `burnice-white` | [ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 
 </details>
 

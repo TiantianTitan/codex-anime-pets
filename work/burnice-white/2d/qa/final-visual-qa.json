@@ -1,0 +1,30 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve Burnice's identity and render clean, coherent state motion, with correct directional running, stable low-to-high-to-low jumping, and no visible blocking direction discontinuity.",
+  "direction_semantics": {
+    "000": "pass",
+    "022.5": "warning",
+    "045": "pass",
+    "067.5": "pass",
+    "090": "pass",
+    "112.5": "pass",
+    "135": "warning",
+    "157.5": "warning",
+    "180": "pass",
+    "202.5": "pass",
+    "225": "pass",
+    "247.5": "pass",
+    "270": "pass",
+    "292.5": "pass",
+    "315": "pass",
+    "337.5": "warning"
+  },
+  "review_warnings": [
+    "Stable-slot extraction is accepted because every preview remains unclipped and visually stable.",
+    "022.5, 135, 157.5, and 337.5 retain minor blind axis uncertainty, while labeled loop review confirms their intended quadrants.",
+    "The 157.5-to-180 and 337.5-to-000 metric outliers read as intended head-pitch silhouette changes without conspicuous scale or registration popping."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none",
+  "reviewed_by": "burnice_final_visual_qa"
+}

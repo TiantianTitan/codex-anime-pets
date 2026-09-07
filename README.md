@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>✦ 31 CHARACTERS</code>
-  <code>✦ 32 EDITIONS</code>
+  <code>✦ 32 CHARACTERS</code>
+  <code>✦ 33 EDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 LOOK DIRECTIONS</code>
 </p>
@@ -289,7 +289,7 @@
       <sub>◇ Sly poise · Sharp instincts · Quiet danger ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NEW ✦</sub><br>
+      <sub>✦ CHARACTER 29 ✦</sub><br>
       <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Anby Demara idle animation"></a><br>
       <b>「 Anby 」</b><br>
       <sub>◇ Calm focus · Quiet discipline · Steady resolve ◇</sub>
@@ -307,6 +307,14 @@
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Tartaglia idle animation"></a><br>
       <b>「 Tartaglia 」</b><br>
       <sub>◇ Playful confidence · Battle-ready · Hydro resolve ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ NEW ✦</sub><br>
+      <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Burnice White idle animation"></a><br>
+      <b>「 Burnice 」</b><br>
+      <sub>◇ Fearless warmth · Explosive energy · Bright grin ◇</sub>
     </td>
   </tr>
   <tr>
@@ -1026,6 +1034,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-32-burnice-white" name="character-32-burnice-white"></a>
+<details>
+<summary><b>32 · Burnice White</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="190" alt="Burnice White idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> blonde twin ponytails, red-orange eyes, red-and-black goggles, flame-accented cropped biker jacket, red scarf, pleated skirt, asymmetric boots, gold fittings, and an attached compact fuel backpack<br>
+      <b>Mood:</b> lively, fearless, and warmly exuberant, with an irrepressible grin and the energy to turn every quiet moment into a celebration<br><br>
+      <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1097,6 +1127,7 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 | Nicole Demara | 2D | `nicole-demara` | [Download ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | Jane Doe | 2D | `jane-doe` | [Download ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | Anby Demara | 2D | `anby-demara` | [Download ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
+| Burnice White | 2D | `burnice-white` | [Download ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 
 </details>
 

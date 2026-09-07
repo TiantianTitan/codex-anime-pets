@@ -1,0 +1,7 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine rows are visually consistent, unclipped 2D chibi Burnice animations with correct identity, directions, semantics, stable scale and baseline, and an attached backpack.",
+  "repair_rows": [],
+  "repair_notes": null,
+  "reviewed_by": "burnice_standard_qa"
+}

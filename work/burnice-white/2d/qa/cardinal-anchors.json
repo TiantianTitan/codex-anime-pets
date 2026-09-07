@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "strip": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        543,
+        724
+      ],
+      "used_pixels": 124732,
+      "edge_pixels": 16,
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-anchors/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        543,
+        0,
+        1086,
+        724
+      ],
+      "used_pixels": 81217,
+      "edge_pixels": 12,
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-anchors/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1086,
+        0,
+        1629,
+        724
+      ],
+      "used_pixels": 121423,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-anchors/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1629,
+        0,
+        2172,
+        724
+      ],
+      "used_pixels": 81417,
+      "edge_pixels": 0,
+      "output": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-anchors/270.png"
+    }
+  ],
+  "repairs": [
+    {
+      "direction": "000",
+      "reason": "Original whole-strip 000 read too neutral at final size; first repair drifted in proportions; second repair preserved canonical scale and made upward gaze unmistakable.",
+      "selected_source": "/home/ubuntu23/.codex/generated_images/01a078a7-e853-7852-b5bf-6b30b3be4444/exec-91f354cb-e0d0-4675-a47b-1db5094225f5.png",
+      "source_edge_pixels": 0
+    }
+  ],
+  "semantic_review": {
+    "000": {
+      "verdict": "pass",
+      "evidence": "Broadly frontal face with both red-orange irises high, visible lower sclera, lifted chin and exposed neck plane."
+    },
+    "090": {
+      "verdict": "pass",
+      "evidence": "Nose tip, face plane and visible pupil project toward screen-right."
+    },
+    "180": {
+      "verdict": "pass",
+      "evidence": "Broadly frontal bowed face with low irises, lowered eyelids and tucked chin."
+    },
+    "270": {
+      "verdict": "pass",
+      "evidence": "Nose tip, face plane and visible pupil project toward screen-left, opposite 090."
+    }
+  }
+}

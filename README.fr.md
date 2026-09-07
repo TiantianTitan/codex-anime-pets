@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 31 PERSONNAGES</code>
-  <code>✦ 32 ÉDITIONS</code>
+  <code>✦ 32 PERSONNAGES</code>
+  <code>✦ 33 ÉDITIONS</code>
   <code>✦ 9 ANIMATIONS</code>
   <code>✦ 16 DIRECTIONS</code>
 </p>
@@ -289,7 +289,7 @@
       <sub>◇ Élégance rusée · Instinct affûté · Danger silencieux ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>✦ PERSONNAGE 29 ✦</sub><br>
       <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Anby Demara"></a><br>
       <b>「 Anby 」</b><br>
       <sub>◇ Calme attentive · Discipline discrète · Résolution tranquille ◇</sub>
@@ -307,6 +307,14 @@
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Tartaglia"></a><br>
       <b>「 Tartaglia 」</b><br>
       <sub>◇ Assurance joueuse · Ardeur au combat · Résolution Hydro ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ NOUVEAU ✦</sub><br>
+      <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Animation d'attente de Burnice White"></a><br>
+      <b>「 Burnice 」</b><br>
+      <sub>◇ Chaleur intrépide · Énergie explosive · Sourire radieux ◇</sub>
     </td>
   </tr>
   <tr>
@@ -1026,6 +1034,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-32-burnice-white" name="character-32-burnice-white"></a>
+<details>
+<summary><b>32 · Burnice White</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="190" alt="Burnice White au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> couettes blondes, yeux rouge orangé, lunettes rouges et noires, blouson court de motarde aux motifs de flammes, écharpe rouge, jupe plissée, bottes asymétriques, détails dorés et petit réservoir dorsal attaché<br>
+      <b>Présence :</b> vive, intrépide et chaleureusement exubérante, avec un sourire irrésistible capable de transformer le moindre instant calme en fête<br><br>
+      <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/contact-sheet.png">Planche d'animations</a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1097,6 +1127,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 | Nicole Demara | 2D | `nicole-demara` | [Télécharger](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | Jane Doe | 2D | `jane-doe` | [Télécharger](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | Anby Demara | 2D | `anby-demara` | [Télécharger](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
+| Burnice White | 2D | `burnice-white` | [Télécharger](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 
 </details>
 

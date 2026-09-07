@@ -1,0 +1,19 @@
+{
+  "row": 9,
+  "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/decoded/look-row-9.png",
+  "registered_row": "/home/ubuntu23/Bureau/codex-anime-pets/work/burnice-white/2d/qa/look-row-9-registered.png",
+  "registration_scale": 0.3596330275229358,
+  "verdict": "pass",
+  "directions": [
+    {"degree": "000", "expected": "up", "verdict": "pass", "evidence": "Near-frontal face, high irises, lifted chin, and visible lower eye white match the repaired up anchor."},
+    {"degree": "022.5", "expected": "up-right", "verdict": "pass", "evidence": "Eyes and nose begin moving screen-right while the lifted face remains clearly upward."},
+    {"degree": "045", "expected": "up-right", "verdict": "pass", "evidence": "Stronger screen-right head yaw combines with raised eyes and chin."},
+    {"degree": "067.5", "expected": "up-right", "verdict": "pass", "evidence": "Near-profile screen-right pose retains a slight upward eye and chin cue."},
+    {"degree": "090", "expected": "right", "verdict": "pass", "evidence": "Unmistakable screen-right profile with nose tip and facial plane projecting right."},
+    {"degree": "112.5", "expected": "down-right", "verdict": "pass", "evidence": "Screen-right profile remains intact as the eye line lowers and chin begins to tuck."},
+    {"degree": "135", "expected": "down-right", "verdict": "pass", "evidence": "Head reopens toward three-quarter while retaining rightward bias and a clearly lowered gaze."},
+    {"degree": "157.5", "expected": "down-right", "verdict": "pass", "evidence": "Broad near-front bowed pose keeps a subtle screen-right cue one step before frontal down."}
+  ],
+  "continuity": "Eight complete separated cells share one boot baseline and practical scale; eyes, head, shoulders, ponytails and backpack progress without reversal, clipping, or attachment breaks.",
+  "reviewed_by": "parent"
+}

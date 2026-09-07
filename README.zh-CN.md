@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 31 个角色</code>
-  <code>✦ 32 个版本</code>
+  <code>✦ 32 个角色</code>
+  <code>✦ 33 个版本</code>
   <code>✦ 9 组动画</code>
   <code>✦ 16 向视线</code>
 </p>
@@ -289,7 +289,7 @@
       <sub>◇ 从容敏锐 · 鼠尾轻摆 · 危险而迷人 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>✦ 角色 29 ✦</sub><br>
       <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="安比·德玛拉的待机动画"></a><br>
       <b>「 安比 」</b><br>
       <sub>◇ 冷静专注 · 自律可靠 · 温柔克制 ◇</sub>
@@ -307,6 +307,14 @@
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="达达利亚的待机动画"></a><br>
       <b>「 达达利亚 」</b><br>
       <sub>◇ 从容好战 · 笑意锋利 · 水色决意 ◇</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <sub>✦ 新角色 ✦</sub><br>
+      <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
+      <b>「 柏妮思 」</b><br>
+      <sub>◇ 热烈无畏 · 爆燃活力 · 明亮笑意 ◇</sub>
     </td>
   </tr>
   <tr>
@@ -1026,6 +1034,28 @@
 
 </details>
 
+<a id="character-32-burnice-white" name="character-32-burnice-white"></a>
+<details>
+<summary><b>32 · 柏妮思</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="190" alt="柏妮思的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸风<br>
+      <b>标志细节：</b>金色双马尾、橙红色双眼、红黑护目镜、带火焰装饰的短款机车夹克、红围巾、百褶裙、不对称长靴、金色配件与贴身的小型燃料背包<br>
+      <b>气质：</b>热烈、无畏又充满感染力，明亮笑意里仿佛随时都能把安静片刻点燃成一场庆祝<br><br>
+      <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <div align="center">
   <img src="assets/readme/star-divider.svg" width="92%" alt="">
 </div>
@@ -1097,6 +1127,7 @@
 | 妮可·德玛拉 | 2D | `nicole-demara` | [下载 ZIP](zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip) |
 | 简·杜 | 2D | `jane-doe` | [下载 ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | 安比·德玛拉 | 2D | `anby-demara` | [下载 ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
+| 柏妮思 | 2D | `burnice-white` | [下载 ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 
 </details>
 
