@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets — sélection de personnages sous un ciel nocturne animé">
+<img src="assets/readme/character-lobby.fr.webp" width="100%" alt="Xiao, Dan Heng, Kiana, Burnice, Miyabi et Mitsuri dans le hall animé de Codex Anime Pets">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -12,13 +12,13 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>✦ 32 PERSONNAGES</code>
-  <code>✦ 33 ÉDITIONS</code>
-  <code>✦ 9 ANIMATIONS</code>
-  <code>✦ 16 DIRECTIONS</code>
+  <code>32 PERSONNAGES</code>
+  <code>33 ÉDITIONS</code>
+  <code>9 ANIMATIONS</code>
+  <code>16 DIRECTIONS</code>
 </p>
 
-<sub>🌙 Choisissez un personnage · Décompressez l’archive · Laissez-le vous accompagner</sub>
+<sub>Choisissez un personnage · Téléchargez l’archive · Ajoutez-le à Codex</sub>
 
 </div>
 
@@ -28,62 +28,39 @@
   <img src="assets/readme/companion-run-parade.gif" width="100%" alt="Sept compagnons animés courent de droite à gauche sous un ciel nocturne">
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/readme/motion-film.fr.webp" width="100%" alt="Six animations de personnages : saut, analyse, salut, travail, attente et accueil">
+</p>
 
-## ✦ Instants animés ✦
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.fr.webp" width="100%" alt="Burnice White entourée des seize directions de regard validées"></a>
+</p>
 
-<sub>Respirer, bondir, saluer, réfléchir — de petits gestes qui donnent une vraie présence au personnage.</sub>
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>Ouvrir le contrôle complet des directions</kbd></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Kiana, Tartaglia et Burnice">
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="Firefly saute"><br>
-      <b>Saut</b><br>
-      <sub>Un petit bond plein d'espoir, les cheveux argentés soulevés au sommet</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="Otto Apocalypse examine le résultat"><br>
-      <b>Vérification</b><br>
-      <sub>Un regard posé sur le résultat, déjà tourné vers le prochain coup</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="Sunday salue"><br>
-      <b>Salut</b><br>
-      <sub>Un salut gracieux, porté par le calme cérémoniel de Sunday</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="Raiden Mei se concentre sur une tâche"><br>
-      <b>Travail</b><br>
-      <sub>Une concentration calme pendant l’exécution</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="Xiao attend une réponse"><br>
-      <b>Attente</b><br>
-      <sub>Une pause attentive avant votre prochaine décision</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="Robin salue"><br>
-      <b>Salut</b><br>
-      <sub>Un accueil doux et élégant, digne de la scène</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<p align="center">
+  <a href="#character-30-kiana-kaslana"><kbd>Kiana</kbd></a>
+  <a href="#character-31-tartaglia"><kbd>Tartaglia</kbd></a>
+  <a href="#character-32-burnice-white"><kbd>Burnice</kbd></a>
+</p>
 
 <div align="center">
 
-## ✦ Choisissez votre compagnon ✦
+## Choisissez votre compagnon
 
-<sub>Chaque portrait est animé. Sélectionnez l’image d’un personnage pour rejoindre son dossier.</sub>
+<sub>Sélectionnez un portrait pour ouvrir la fiche du personnage.</sub>
 
 </div>
+
+<p align="center">
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 32 personnages et 33 éditions"></a>
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -91,231 +68,212 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="Aperçu animé d’Elysia regardant autour d’elle"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>✦ CRÉATEUR À L’HONNEUR · COLLECTION ELYSIA ✦</sub><br>
-      <b>Un personnage, toutes les facettes d’Elysia.</b><br>
-      <sub>Le projet indépendant de liu-weida suit Elysia à travers différents styles, costumes et futures apparences.</sub><br><br>
-      <code>100 % ELYSIA</code> <code>2D + 3D</code> <code>SÉRIE ÉVOLUTIVE</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Découvrir le projet dédié ↗</kbd></a>
+      <sub>PROJET DE LA COMMUNAUTÉ</sub><br>
+      <b>Elysia, dans toutes ses versions.</b><br>
+      <sub>Le projet de liu-weida est entièrement consacré à Elysia, avec ses tenues alternatives et ses futures apparences.</sub><br><br>
+      <code>ELYSIA</code> <code>2D + 3D</code> <code>EN COURS</code><br><br>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>Ouvrir le projet Elysia ↗</kbd></a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 10</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 10</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 4</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 6</kbd></a>
+  <a href="#downloads-others"><kbd>Autres · 2</kbd></a>
+</p>
+
+<details>
+<summary><b>Collection complète · 32 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+
+<br>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 01 ✦</sub><br>
+      <sub>01</sub><br>
       <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Xiao"></a><br>
       <b>「 Xiao 」</b><br>
-      <sub>◇ Vigilant · Discret · Adepte ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 02 ✦</sub><br>
+      <sub>02</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Dan Heng Imbibitor Lunae"></a><br>
       <b>「 Dan&nbsp;Heng 」</b><br>
-      <sub>◇ Élégance froide · Présence paisible ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 03 ✦</sub><br>
+      <sub>03</sub><br>
       <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jing Yuan"></a><br>
       <b>「 Jing&nbsp;Yuan 」</b><br>
-      <sub>◇ Assurance tranquille · Regard attentif ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 04 ✦</sub><br>
+      <sub>04</sub><br>
       <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Zhongli"></a><br>
       <b>「 Zhongli 」</b><br>
-      <sub>◇ Calme · Fiable · Digne ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 05 ✦</sub><br>
+      <sub>05</sub><br>
       <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Raiden Mei"></a><br>
       <b>「 Raiden&nbsp;Mei 」</b><br>
-      <sub>◇ Posée · Curieuse · Prête ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 06 ✦</sub><br>
+      <sub>06</sub><br>
       <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Obanai"></a><br>
       <b>「 Obanai 」</b><br>
-      <sub>◇ Réservé · Alerte · Avec Kaburamaru ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 07 ✦</sub><br>
+      <sub>07</sub><br>
       <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Yae Miko"></a><br>
       <b>「 Yae&nbsp;Miko 」</b><br>
-      <sub>◇ Grâce malicieuse · Élégance du sanctuaire ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 08 ✦</sub><br>
+      <sub>08</sub><br>
       <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Furina"></a><br>
       <b>「 Furina 」</b><br>
-      <sub>◇ Charme théâtral · Élégance aquatique · Malice lumineuse ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 09 ✦</sub><br>
+      <sub>09</sub><br>
       <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Acheron"></a><br>
       <b>「 Acheron 」</b><br>
-      <sub>◇ Calme insondable · Orage violet · Regard lointain ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 10 ✦</sub><br>
+      <sub>10</sub><br>
       <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Ellen Joe"></a><br>
       <b>「 Ellen&nbsp;Joe 」</b><br>
-      <sub>◇ Sang-froid · Regard somnolent · Répartie vive ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 11 ✦</sub><br>
+      <sub>11</sub><br>
       <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hu Tao"></a><br>
       <b>「 Hu&nbsp;Tao 」</b><br>
-      <sub>◇ Malice solaire · Charme des fleurs de prunier · Courage sans détour ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 12 ✦</sub><br>
+      <sub>12</sub><br>
       <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Robin"></a><br>
       <b>「 Robin 」</b><br>
-      <sub>◇ Grâce sereine · Voix céleste · Élégance ailée ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 13 ✦</sub><br>
+      <sub>13</sub><br>
       <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaeya"></a><br>
       <b>「 Kaeya 」</b><br>
-      <sub>◇ Assurance décontractée · Charme joueur · Regard attentif ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 14 ✦</sub><br>
+      <sub>14</sub><br>
       <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Firefly"></a><br>
       <b>「 Firefly 」</b><br>
-      <sub>◇ Douce espérance · Courage tranquille · Une vie à elle ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 15 ✦</sub><br>
+      <sub>15</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kevin Kaslana"></a><br>
       <b>「 Kevin 」</b><br>
-      <sub>◇ Résolution glaciale · Puissance silencieuse · Volonté inébranlable ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 16 ✦</sub><br>
+      <sub>16</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kamisato Ayaka"></a><br>
       <b>「 Ayaka 」</b><br>
-      <sub>◇ Grâce maîtrisée · Élégance glacée · Douceur discrète ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 17 ✦</sub><br>
+      <sub>17</sub><br>
       <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Blade"></a><br>
       <b>「 Blade 」</b><br>
-      <sub>◇ Fureur contenue · Lame écarlate · Volonté immortelle ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 18 ✦</sub><br>
+      <sub>18</sub><br>
       <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ruan Mei"></a><br>
       <b>「 Ruan&nbsp;Mei 」</b><br>
-      <sub>◇ Intuition sereine · Grâce florale · Mélodie discrète ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 19 ✦</sub><br>
+      <sub>19</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kaedehara Kazuha"></a><br>
       <b>「 Kazuha 」</b><br>
-      <sub>◇ Silence d'érable · Grâce vagabonde · Résolution portée par le vent ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 20 ✦</sub><br>
+      <sub>20</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Hoshimi Miyabi"></a><br>
       <b>「 Miyabi 」</b><br>
-      <sub>◇ Calme précis · Regard écarlate · Art du sabre maîtrisé ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 21 ✦</sub><br>
+      <sub>21</sub><br>
       <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Aventurine"></a><br>
       <b>「 Aventurine 」</b><br>
-      <sub>◇ Élégance calculée · Éclat doré · Pari maîtrisé ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 22 ✦</sub><br>
+      <sub>22</sub><br>
       <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Ganyu"></a><br>
       <b>「 Ganyu 」</b><br>
-      <sub>◇ Douce patience · Grâce de givre · Sérénité qilin ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 23 ✦</sub><br>
+      <sub>23</sub><br>
       <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Sunday"></a><br>
       <b>「 Sunday 」</b><br>
-      <sub>◇ Grâce mesurée · Regard doré · Harmonie silencieuse ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 24 ✦</sub><br>
+      <sub>24</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Animation d'attente de Mitsuri Kanroji"></a><br>
       <b>「 Mitsuri 」</b><br>
-      <sub>◇ Chaleur sincère · Énergie lumineuse · Tendresse résolue ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 25 ✦</sub><br>
+      <sub>25</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kafka"></a><br>
       <b>「 Kafka 」</b><br>
-      <sub>◇ Calme velouté · Charme dangereux · Maîtrise tranquille ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 26 ✦</sub><br>
+      <sub>26</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Otto Apocalypse"></a><br>
       <b>「 Otto 」</b><br>
-      <sub>◇ Élégance de cour · Regard calme · Toujours plusieurs coups d'avance ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 27 ✦</sub><br>
+      <sub>27</sub><br>
       <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Nicole Demara"></a><br>
       <b>「 Nicole 」</b><br>
-      <sub>◇ Charme débrouillard · Assurance lumineuse · Sens des affaires ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 28 ✦</sub><br>
+      <sub>28</sub><br>
       <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Jane Doe"></a><br>
       <b>「 Jane&nbsp;Doe 」</b><br>
-      <sub>◇ Élégance rusée · Instinct affûté · Danger silencieux ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ PERSONNAGE 29 ✦</sub><br>
+      <sub>29</sub><br>
       <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente d'Anby Demara"></a><br>
       <b>「 Anby 」</b><br>
-      <sub>◇ Calme attentive · Discipline discrète · Résolution tranquille ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>30</sub><br>
       <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Kiana Kaslana"></a><br>
       <b>「 Kiana 」</b><br>
-      <sub>◇ Courage lumineux · Esprit de Valkyrie · Élan intrépide ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>31</sub><br>
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Tartaglia"></a><br>
       <b>「 Tartaglia 」</b><br>
-      <sub>◇ Assurance joueuse · Ardeur au combat · Résolution Hydro ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ NOUVEAU ✦</sub><br>
+      <sub>32</sub><br>
       <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Animation d'attente de Burnice White"></a><br>
       <b>「 Burnice 」</b><br>
-      <sub>◇ Chaleur intrépide · Énergie explosive · Sourire radieux ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ SUIVANT ✦</sub><br>
+      <sub>À SUIVRE</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>「 Qui&nbsp;nous&nbsp;rejoindra&nbsp;? 」</b><br>
       <sub>Apportez une référence · Faites éclore un compagnon</sub>
@@ -323,13 +281,12 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+ </details>
 
+<a id="character-archive" name="character-archive"></a>
 <div align="center">
 
-## ✦ Archives des personnages ✦
+## Fiches des personnages
 
 <sub>Ouvrez une fiche pour découvrir le personnage, sa planche d’animations et son téléchargement.</sub>
 
@@ -343,7 +300,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="190" alt="Xiao au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/xiao.webp" width="190" alt="Xiao au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux dorés, marque violette sur le front, cheveux aux pointes turquoise, tatouage d’adepte, ornements de jade et masque Yaksha<br>
@@ -365,7 +322,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="190" alt="Dan Heng Imbibitor Lunae au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/dan-heng-imbibitor-lunae.webp" width="190" alt="Dan Heng Imbibitor Lunae au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> cornes de dragon cyan, oreilles pointues, longue chevelure sombre, manches blanches et ornements de jade et d’or<br>
@@ -387,7 +344,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="190" alt="Jing Yuan au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/jing-yuan.webp" width="190" alt="Jing Yuan au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure argentée, yeux dorés, ruban rouge et uniforme noir, blanc, rouge et or<br>
@@ -409,7 +366,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="190" alt="Zhongli au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/zhongli.webp" width="190" alt="Zhongli au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux ambrés, long manteau raffiné et palette chaleureuse de brun et d’or<br>
@@ -437,8 +394,8 @@ Un même personnage, deux interprétations visuelles :
     <th align="center">Figurine chibi au rendu 3D</th>
   </tr>
   <tr>
-    <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="220" alt="Raiden Mei 2D au repos"></td>
-    <td align="center"><img src="work/raiden-mei/3d/qa/previews-final/idle.gif" width="220" alt="Raiden Mei au rendu 3D au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-mei-2d.webp" width="190" alt="Raiden Mei 2D au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-mei-3d.webp" width="190" alt="Raiden Mei au rendu 3D au repos"></td>
   </tr>
   <tr>
     <td align="center">
@@ -466,7 +423,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="Obanai au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/obanai.webp" width="190" alt="Obanai au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux vairons, haori rayé et Kaburamaru blotti contre lui<br>
@@ -488,7 +445,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="190" alt="Yae Miko au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/yae-miko.webp" width="190" alt="Yae Miko au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure rose sakura, yeux violets, ornements dorés, boucles serties et tenue de prêtresse rouge, blanche, noire et violette<br>
@@ -510,7 +467,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/furina/2d/qa/previews-final/idle.gif" width="190" alt="Furina au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/furina.webp" width="190" alt="Furina au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> carré blanc aux reflets cyan, yeux bleus en forme de goutte, chapeau bleu nuit en forme de couronne, volants blancs, gemmes bleues et tenue de Fontaine rehaussée d'or<br>
@@ -532,7 +489,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="190" alt="Acheron au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/acheron.webp" width="190" alt="Acheron au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure indigo-violet profond, mèche asymétrique voilant un œil, regard violet-magenta, tenue blanche, lilas et noire aux motifs de flamme, et katana gardé près du corps<br>
@@ -554,7 +511,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="190" alt="Ellen Joe au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ellen-joe.webp" width="190" alt="Ellen Joe au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> carré noir anthracite aux mèches intérieures rouges, regard rouge assoupi, coiffe de domestique ornée de pointes, uniforme industriel noir et blanc, et imposante queue de requin attachée au corps<br>
@@ -576,7 +533,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="190" alt="Hu Tao au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/hu-tao.webp" width="190" alt="Hu Tao au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> yeux cramoisis en forme de fleur, grand chapeau sombre orné d'un talisman et d'une branche de prunier, longue chevelure brun foncé aux pointes rouge assourdi, et uniforme brun-noir, rouge et or<br>
@@ -598,7 +555,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/robin/2d/qa/previews-final/idle.gif" width="190" alt="Robin au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/robin.webp" width="190" alt="Robin au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure bleu argent et chignon en rosette, yeux turquoise dégradés de violet, auréole dorée aux pointes florales, petites ailes blanches aux oreilles, et robe de scène superposant blanc, indigo profond, lilas et or<br>
@@ -620,7 +577,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="190" alt="Kaeya au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kaeya.webp" width="190" alt="Kaeya au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure bleu nuit balayée d'une mèche froide, peau hâlée, œil visible lilas pâle, cache-œil noir, mantelet de fourrure blanche, cape fendue bleu-violet et uniforme sombre rehaussé d'or<br>
@@ -642,7 +599,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="190" alt="Firefly au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/firefly.webp" width="190" alt="Firefly au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure argent nacré aux pointes gris froid, yeux roses et turquoise, serre-tête noir, ornement en feuille menthe et nœud bleu nuit, courte cape charbon et or, nœud de poitrine orange doré, robe menthe à plusieurs pans et bottines blanches aux accents turquoise<br>
@@ -664,7 +621,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="190" alt="Kevin Kaslana au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kevin-kaslana.webp" width="190" alt="Kevin Kaslana au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> cheveux blancs ébouriffés, yeux bleu glace, long manteau de combat noir et blanc à col haut souligné d'or et de boucles, accents cyan au torse et à la ceinture, et manche blindée asymétrique<br>
@@ -686,7 +643,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="190" alt="Kamisato Ayaka au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kamisato-ayaka.webp" width="190" alt="Kamisato Ayaka au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> haute queue-de-cheval bleu glace et frange droite, ornement noir et or en forme de couronne, rubans roses, yeux bleu clair, robe-kimono bleu nuit aux pans bleu pâle, bordures dorées, motifs de sakura, cordon magenta, panneaux d'armure sur la jupe et éventail pliant élégant<br>
@@ -708,7 +665,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/blade/2d/qa/previews-final/idle.gif" width="190" alt="Blade au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/blade.webp" width="190" alt="Blade au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure bleu nuit aux pointes violet-rouge, œil cramoisi sous la frange, manteau noir à attaches dorées et doublure rouge, accents d'armure argentés, mains bandées et lame sombre portée au côté<br>
@@ -730,7 +687,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="190" alt="Ruan Mei au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ruan-mei.webp" width="190" alt="Ruan Mei au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure brun profond, yeux turquoise, ornement floral d'or et de perles, étole blanche, robe bleu sarcelle et bleu nuit aux fins motifs dorés, fleur rose à la taille, longs gants et ruan bleu richement décoré<br>
@@ -752,7 +709,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="190" alt="Kaedehara Kazuha au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kaedehara-kazuha.webp" width="190" alt="Kaedehara Kazuha au repos"></td>
     <td>
       <b>Style :</b> sticker anime 2D<br>
       <b>Détails emblématiques :</b> chevelure blanc ivoire traversée d'une mèche rouge, yeux rouge-orangé, écharpe courte, tenue de samouraï asymétrique noire, rouge et crème, hakama court bordeaux, sandales et sabre rengainé solidement attaché au côté<br>
@@ -774,7 +731,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="190" alt="Hoshimi Miyabi au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/hoshimi-miyabi.webp" width="190" alt="Hoshimi Miyabi au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> de hautes oreilles de renard sombres, des cheveux bleu nuit, des yeux rouges, un uniforme vert sarcelle, blanc et noir, un bras mécanique asymétrique entouré d'un cordon rouge et un katana rengainé près de la hanche<br>
@@ -796,7 +753,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="190" alt="Aventurine au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/aventurine.webp" width="190" alt="Aventurine au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> cheveux blond sable dégradés, yeux passant du magenta au cyan, boucle d'oreille turquoise en goutte, col de fourrure blanc, veste ajustée noire, turquoise et or, pantalon blanc, gants noirs, bracelet violet, ornements de taille et pompons bleus attachés au manteau<br>
@@ -818,7 +775,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="190" alt="Ganyu au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ganyu.webp" width="190" alt="Ganyu au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> longue chevelure bleu givre aux mèches superposées, houppe recourbée et longue queue-de-cheval, cornes de qilin noires et rouges, yeux violet rosé, clochette dorée au cou, corsage brun sombre, pan asymétrique blanc et or, manches dégradées du blanc au cobalt, pans arrière bleus et cordon rouge tressé terminé par deux pompons<br>
@@ -840,7 +797,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="190" alt="Sunday au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/sunday.webp" width="190" alt="Sunday au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> cheveux bleu-gris pâle en mèches superposées, yeux dorés lumineux, ornements en forme de plumes près des oreilles, halo doré rigide aux pointes losangées, long manteau asymétrique blanc, cobalt, bleu nuit et or, gants sombres, pantalon ajusté et hautes bottes<br>
@@ -862,7 +819,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="190" alt="Mitsuri Kanroji au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/mitsuri-kanroji.webp" width="190" alt="Mitsuri Kanroji au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> deux épaisses tresses passant du rose au vert citron, des yeux vert vif, un haori blanc sur son uniforme sombre, des chaussettes rayées vertes et des sandales<br>
@@ -884,7 +841,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="190" alt="Kafka au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kafka.webp" width="190" alt="Kafka au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> cheveux lie-de-vin en mèches superposées avec de longues mèches latérales, lunettes posées sur le sommet du crâne, yeux rose mauve, blouse blanche à col montant, manteau asymétrique noir et violet orné de motifs de toile, collants sombres aux attaches magenta, gants lie-de-vin et bottines noires<br>
@@ -906,7 +863,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="190" alt="Otto Apocalypse au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/otto-apocalypse.webp" width="190" alt="Otto Apocalypse au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> cheveux blond pâle en mèches superposées noués en queue-de-cheval basse sur le côté, yeux verts, long manteau bleu-violet à liserés dorés et capelet d'épaule, chemise blanche à jabot, cravate rose, gilet lavande, gants blancs, pantalon anthracite et hautes bottes brunes<br>
@@ -928,7 +885,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="190" alt="Nicole Demara au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/nicole-demara.webp" width="190" alt="Nicole Demara au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> couettes roses, nœuds noirs, yeux vert citron, tenue urbaine courte noire et blanche, touches orange, bas dépareillés, bottes épaisses, pochette Bangbou verte et mallette noire attachée<br>
@@ -950,7 +907,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="190" alt="Jane Doe au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/jane-doe.webp" width="190" alt="Jane Doe au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> carré noir court prolongé d'une chevelure arrière lie-de-vin, oreilles de rat roses, yeux verts effilés, col de fourrure crème, veste courte bleu-gris, short tactique, bas et bottes asymétriques, accents rouges et longue queue anthracite attachée<br>
@@ -972,7 +929,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="190" alt="Anby Demara au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/anby-demara.webp" width="190" alt="Anby Demara au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> carré argenté, bandeau noir, yeux ambrés, veste tactique vert acide et noire, jupe plissée, bas asymétriques, baskets, module dorsal mécanique et épée au fourreau attachée<br>
@@ -994,7 +951,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="190" alt="Kiana Kaslana au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kiana-kaslana.webp" width="190" alt="Kiana Kaslana au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> yeux bleu vif, longues tresses blanches, barrette étoilée, combinaison de Valkyrie blanche et noire aux accents orange, et paire de pistolets compacts assortis<br>
@@ -1016,7 +973,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="190" alt="Tartaglia au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/tartaglia.webp" width="190" alt="Tartaglia au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> cheveux orange, yeux bleu vif, ornement et boucle d'oreille rouges, uniforme gris et blanc, écharpe rouge, épaulière asymétrique, gants et bottes sombres, et Œil divin Hydro<br>
@@ -1038,7 +995,7 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 <table>
   <tr>
-    <td align="center"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="190" alt="Burnice White au repos"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/burnice-white.webp" width="190" alt="Burnice White au repos"></td>
     <td>
       <b>Style :</b> autocollant anime 2D<br>
       <b>Détails emblématiques :</b> couettes blondes, yeux rouge orangé, lunettes rouges et noires, blouson court de motarde aux motifs de flammes, écharpe rouge, jupe plissée, bottes asymétriques, détails dorés et petit réservoir dorsal attaché<br>
@@ -1052,20 +1009,17 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
 
-## 📦 Téléchargements
+## Téléchargements
 
-> ✦ Choisissez un univers ci-dessous, puis ouvrez-le pour découvrir ses compagnons et téléchargements.
+Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnages et ses liens de téléchargement.
 
+<a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>🌙 Genshin Impact</b>　<kbd>Voir les téléchargements</kbd></summary>
+<summary><b>Genshin Impact</b> · 10 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1082,8 +1036,9 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>🚂 Honkai : Star Rail</b>　<kbd>Voir les téléchargements</kbd></summary>
+<summary><b>Honkai : Star Rail</b> · 10 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1100,8 +1055,9 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>⚡ Honkai Impact 3rd</b>　<kbd>Voir les téléchargements</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 4 personnages / 5 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1113,8 +1069,9 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>📼 Zenless Zone Zero</b>　<kbd>Voir les téléchargements</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 6 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1127,8 +1084,9 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="downloads-others"></a>
 <details>
-<summary><b>✨ Autres</b>　<kbd>Voir les téléchargements</kbd></summary>
+<summary><b>Autres</b> · 2 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1145,11 +1103,7 @@ spritesheet.webp
 README.md
 ```
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## ⚡ Installer un compagnon
+## Installation
 
 Avec Xiao, par exemple :
 
@@ -1169,11 +1123,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## 🧪 Ce qui donne vie à un compagnon
+## Système d’animation
 
 Un bon compagnon de bureau reste lisible au premier coup d’œil, bouge avec fluidité et garde toute la personnalité du personnage d’une animation à l’autre.
 
@@ -1189,11 +1139,7 @@ Un bon compagnon de bureau reste lisible au premier coup d’œil, bouge avec fl
 
 La technique reste au service d’une idée simple : chaque mouvement doit encore ressembler au même personnage.
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## 🎨 Partir d’une illustration
+## Production
 
 La collection suit un processus réutilisable :
 
@@ -1213,13 +1159,9 @@ Un compagnon Codex v2 à télécharger
 
 Pour créer votre propre collection, consultez le [guide de production Codex Pet Dual Style](codex-pet-dual-style/SKILL.md). Il aborde les styles 2D/3D associés, la cohérence visuelle, la conception du mouvement, l’examen des directions, le packaging et la production en série.
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
 <a id="contribute-a-character"></a>
 
-## 🤝 Contribuer
+## Contribution
 
 Les nouveaux compagnons, corrections d’animation, améliorations de présentation et perfectionnements du processus sont les bienvenus. Une édition distribuable commence par :
 
@@ -1231,11 +1173,7 @@ Les nouveaux compagnons, corrections d’animation, améliorations de présentat
 
 Pour faire apparaître un personnage dans la galerie animée, ajoutez une planche de contact ou quelques aperçus GIF en `192×208`.
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## ⭐ Un peu plus de vie à côté du code
+## À propos de la collection
 
 Codex habite peut-être dans une zone de texte, mais son compagnon peut respirer, attendre et réagir à vos côtés. Même les instants calmes entre deux tâches ont alors un peu plus de présence.
 
@@ -1247,8 +1185,13 @@ Si cette collection vous a plu, laissez une Star, créez un Fork ou proposez le 
 
 </div>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<p align="center">
+  <img src="assets/readme/collection-footer.fr.webp" width="100%" alt="Xiao, Mitsuri, Sunday et Ganyu sous un croissant de lune paisible">
+</p>
+
+<p align="center">
+  <a href="#contribute-a-character"><kbd>Proposer un personnage</kbd></a>
+  <a href="codex-pet-dual-style/SKILL.md"><kbd>Créer votre propre compagnon</kbd></a>
+</p>
 
 <sub>Les droits sur les personnages appartiennent à leurs détenteurs respectifs. Ce dépôt est une présentation technique et animée non officielle ; vérifiez les licences des personnages et des sources avant toute diffusion publique ou utilisation commerciale.</sub>

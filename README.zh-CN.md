@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets 动态夜色角色选择页眉">
+<img src="assets/readme/character-lobby.zh-CN.webp" width="100%" alt="魈、丹恒、琪亚娜、柏妮思、星见雅和甘露寺蜜璃组成的动态角色大厅">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -12,13 +12,13 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>✦ 32 个角色</code>
-  <code>✦ 33 个版本</code>
-  <code>✦ 9 组动画</code>
-  <code>✦ 16 向视线</code>
+  <code>32 个角色</code>
+  <code>33 个版本</code>
+  <code>9 组动画</code>
+  <code>16 向视线</code>
 </p>
 
-<sub>🌙 选择角色 · 解压成品 · 让 TA 陪你一起工作</sub>
+<sub>选择角色 · 下载成品 · 添加到 Codex</sub>
 
 </div>
 
@@ -28,62 +28,39 @@
   <img src="assets/readme/companion-run-parade.gif" width="100%" alt="七位动画角色在月色下排成队列从右向左奔跑">
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/readme/motion-film.zh-CN.webp" width="100%" alt="展示跳跃、审阅、挥手、工作、等待和问候的六组角色动画">
+</p>
 
-## ✦ 动起来的小瞬间 ✦
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.zh-CN.webp" width="100%" alt="柏妮思与经过检查的十六个观察方向"></a>
+</p>
 
-<sub>呼吸、跳跃、招呼、思考——正是这些小动作，让角色真正陪在桌面旁。</sub>
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>打开完整方向检查图</kbd></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="琪亚娜、达达利亚和柏妮思的新角色动态展示">
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="work/firefly/2d/qa/previews-final/jumping.gif" width="170" alt="流萤跳跃"><br>
-      <b>跳跃</b><br>
-      <sub>满怀希望地轻轻跃起，银发也在最高处扬起</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/otto-apocalypse/2d/qa/previews-final/review.gif" width="170" alt="奥托·阿波卡利斯审阅结果"><br>
-      <b>审阅</b><br>
-      <sub>从容看过结果，也把下一步悄悄算在心里</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/sunday/2d/qa/previews-final/waving.gif" width="170" alt="星期日挥手"><br>
-      <b>挥手</b><br>
-      <sub>星期日带着安静而庄重的从容，轻轻向你致意</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="work/raiden-mei/2d/qa/previews-final/running.gif" width="170" alt="雷电芽衣专注工作"><br>
-      <b>处理中</b><br>
-      <sub>任务进行时的安静专注</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/xiao/2d/qa/previews-final/waiting.gif" width="170" alt="魈等待输入"><br>
-      <b>等待</b><br>
-      <sub>认真等你做出下一步决定</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="work/robin/2d/qa/previews-final/waving.gif" width="170" alt="知更鸟挥手"><br>
-      <b>招呼</b><br>
-      <sub>轻盈而从容的舞台式问候</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<p align="center">
+  <a href="#character-30-kiana-kaslana"><kbd>琪亚娜</kbd></a>
+  <a href="#character-31-tartaglia"><kbd>达达利亚</kbd></a>
+  <a href="#character-32-burnice-white"><kbd>柏妮思</kbd></a>
+</p>
 
 <div align="center">
 
-## ✦ 选择你的伙伴 ✦
+## 选择你的伙伴
 
-<sub>每张角色图都在悄悄动着。点击角色图，即可前往对应档案。</sub>
+<sub>点击角色图，即可打开对应档案。</sub>
 
 </div>
+
+<p align="center">
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十二位角色、三十三个版本的完整角色收藏墙"></a>
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -91,231 +68,212 @@
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="爱莉希雅环视四周的动态预览"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>✦ 创作者推荐 · 爱莉希雅专场 ✦</sub><br>
-      <b>一位角色，无限种爱莉希雅。</b><br>
-      <sub>liu-weida 独立制作的 Codex 宠物企划，专注收录爱莉希雅的不同视觉版本、服装与后续皮肤。</sub><br><br>
+      <sub>社区项目推荐</sub><br>
+      <b>只做爱莉希雅，也把她做得更完整。</b><br>
+      <sub>liu-weida 的独立项目专注于爱莉希雅，会继续收录不同服装与后续皮肤版本。</sub><br><br>
       <code>爱莉希雅专精</code> <code>2D + 3D</code> <code>持续更新</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>进入专属项目 ↗</kbd></a>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>查看爱莉希雅项目 ↗</kbd></a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="#downloads-genshin-impact"><kbd>原神 · 10</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 10</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 4</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 6</kbd></a>
+  <a href="#downloads-others"><kbd>其他 · 2</kbd></a>
+</p>
+
+<details>
+<summary><b>完整收藏 · 32 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+
+<br>
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 01 ✦</sub><br>
+      <sub>01</sub><br>
       <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈的待机动画"></a><br>
       <b>「 魈 」</b><br>
-      <sub>◇ 警觉 · 克制 · 仙家气息 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 02 ✦</sub><br>
+      <sub>02</sub><br>
       <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒饮月的待机动画"></a><br>
       <b>「 丹恒 」</b><br>
-      <sub>◇ 清冷优雅 · 安静从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 03 ✦</sub><br>
+      <sub>03</sub><br>
       <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元的待机动画"></a><br>
       <b>「 景元 」</b><br>
-      <sub>◇ 松弛从容 · 始终敏锐 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 04 ✦</sub><br>
+      <sub>04</sub><br>
       <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="钟离的待机动画"></a><br>
       <b>「 钟离 」</b><br>
-      <sub>◇ 沉稳 · 可靠 · 自有威仪 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 05 ✦</sub><br>
+      <sub>05</sub><br>
       <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷电芽衣的待机动画"></a><br>
       <b>「 雷电芽衣 」</b><br>
-      <sub>◇ 冷静 · 好奇 · 随时行动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 06 ✦</sub><br>
+      <sub>06</sub><br>
       <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"></a><br>
       <b>「 伊黑小芭内 」</b><br>
-      <sub>◇ 安静警觉 · 镝丸相伴 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 07 ✦</sub><br>
+      <sub>07</sub><br>
       <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子的待机动画"></a><br>
       <b>「 八重神子 」</b><br>
-      <sub>◇ 从容优雅 · 狐系灵动 · 藏着一点坏心思 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 08 ✦</sub><br>
+      <sub>08</sub><br>
       <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="芙宁娜的待机动画"></a><br>
       <b>「 芙宁娜 」</b><br>
-      <sub>◇ 舞台魅力 · 水色雅意 · 灵动俏皮 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 09 ✦</sub><br>
+      <sub>09</sub><br>
       <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉的待机动画"></a><br>
       <b>「 黄泉 」</b><br>
-      <sub>◇ 沉静克制 · 紫色风暴 · 遥远目光 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 10 ✦</sub><br>
+      <sub>10</sub><br>
       <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="艾莲·乔的待机动画"></a><br>
       <b>「 艾莲·乔 」</b><br>
-      <sub>◇ 慵懒从容 · 目光锐利 · 行动迅捷 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 11 ✦</sub><br>
+      <sub>11</sub><br>
       <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃的待机动画"></a><br>
       <b>「 胡桃 」</b><br>
-      <sub>◇ 灵动俏皮 · 梅花雅意 · 洒脱无畏 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 12 ✦</sub><br>
+      <sub>12</sub><br>
       <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="知更鸟的待机动画"></a><br>
       <b>「 知更鸟 」</b><br>
-      <sub>◇ 宁静优雅 · 天籁歌声 · 羽翼轻盈 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 13 ✦</sub><br>
+      <sub>13</sub><br>
       <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="凯亚的待机动画"></a><br>
       <b>「 凯亚 」</b><br>
-      <sub>◇ 从容自信 · 轻松风趣 · 目光敏锐 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 14 ✦</sub><br>
+      <sub>14</sub><br>
       <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="流萤的待机动画"></a><br>
       <b>「 流萤 」</b><br>
-      <sub>◇ 温柔希望 · 安静勇气 · 自己选择的人生 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 15 ✦</sub><br>
+      <sub>15</sub><br>
       <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
       <b>「 凯文 」</b><br>
-      <sub>◇ 冰冷决意 · 沉静力量 · 意志不移 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 16 ✦</sub><br>
+      <sub>16</sub><br>
       <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里绫华的待机动画"></a><br>
       <b>「 绫华 」</b><br>
-      <sub>◇ 端庄雅致 · 霜蓝清韵 · 温柔从容 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 17 ✦</sub><br>
+      <sub>17</sub><br>
       <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃的待机动画"></a><br>
       <b>「 刃 」</b><br>
-      <sub>◇ 锋芒内敛 · 赤色剑意 · 执念不灭 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 18 ✦</sub><br>
+      <sub>18</sub><br>
       <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="阮·梅的待机动画"></a><br>
       <b>「 阮·梅 」</b><br>
-      <sub>◇ 清雅洞见 · 花意流转 · 弦音从容 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 19 ✦</sub><br>
+      <sub>19</sub><br>
       <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"></a><br>
       <b>「 万叶 」</b><br>
-      <sub>◇ 枫意清寂 · 行旅从容 · 风中坚韧 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 20 ✦</sub><br>
+      <sub>20</sub><br>
       <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"></a><br>
       <b>「 雅 」</b><br>
-      <sub>◇ 沉静专注 · 赤红目光 · 凛然剑意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 21 ✦</sub><br>
+      <sub>21</sub><br>
       <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"></a><br>
       <b>「 砂金 」</b><br>
-      <sub>◇ 从容下注 · 金色锋芒 · 胜券在握 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 22 ✦</sub><br>
+      <sub>22</sub><br>
       <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"></a><br>
       <b>「 甘雨 」</b><br>
-      <sub>◇ 温柔耐心 · 霜色清雅 · 仙麟静意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 23 ✦</sub><br>
+      <sub>23</sub><br>
       <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="星期日的待机动画"></a><br>
       <b>「 星期日 」</b><br>
-      <sub>◇ 从容优雅 · 金色目光 · 静默乐章 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 24 ✦</sub><br>
+      <sub>24</sub><br>
       <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
       <b>「 蜜璃 」</b><br>
-      <sub>◇ 热烈真诚 · 元气明亮 · 温柔而坚定 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 25 ✦</sub><br>
+      <sub>25</sub><br>
       <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"></a><br>
       <b>「 卡芙卡 」</b><br>
-      <sub>◇ 从容优雅 · 危险魅力 · 一切尽在掌握 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 26 ✦</sub><br>
+      <sub>26</sub><br>
       <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
       <b>「 奥托 」</b><br>
-      <sub>◇ 从容得体 · 绿眸沉静 · 谋定后动 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 27 ✦</sub><br>
+      <sub>27</sub><br>
       <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="妮可·德玛拉的待机动画"></a><br>
       <b>「 妮可 」</b><br>
-      <sub>◇ 街头机敏 · 明快自信 · 生意头脑 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 28 ✦</sub><br>
+      <sub>28</sub><br>
       <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="简·杜的待机动画"></a><br>
       <b>「 简·杜 」</b><br>
-      <sub>◇ 从容敏锐 · 鼠尾轻摆 · 危险而迷人 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 角色 29 ✦</sub><br>
+      <sub>29</sub><br>
       <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="安比·德玛拉的待机动画"></a><br>
       <b>「 安比 」</b><br>
-      <sub>◇ 冷静专注 · 自律可靠 · 温柔克制 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>30</sub><br>
       <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="琪亚娜·卡斯兰娜的待机动画"></a><br>
       <b>「 琪亚娜 」</b><br>
-      <sub>◇ 明朗勇敢 · 白发蓝眸 · 女武神锋芒 ◇</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>31</sub><br>
       <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="达达利亚的待机动画"></a><br>
       <b>「 达达利亚 」</b><br>
-      <sub>◇ 从容好战 · 笑意锋利 · 水色决意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 新角色 ✦</sub><br>
+      <sub>32</sub><br>
       <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
       <b>「 柏妮思 」</b><br>
-      <sub>◇ 热烈无畏 · 爆燃活力 · 明亮笑意 ◇</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>✦ 下一位 ✦</sub><br>
+      <sub>下一位</sub><br>
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>「 下一位会是谁？ 」</b><br>
       <sub>带来参考图 · 孵化新的伙伴</sub>
@@ -323,13 +281,12 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+</details>
 
+<a id="character-archive" name="character-archive"></a>
 <div align="center">
 
-## ✦ 角色档案 ✦
+## 角色档案
 
 <sub>展开档案，即可查看角色细节、完整动作表和下载入口。</sub>
 
@@ -343,7 +300,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="190" alt="魈的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/xiao.webp" width="190" alt="魈的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>金色眼睛、额心紫菱、青色发梢、仙人纹身、玉饰与夜叉面具<br>
@@ -365,7 +322,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="190" alt="丹恒饮月的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/dan-heng-imbibitor-lunae.webp" width="190" alt="丹恒饮月的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>青色龙角、尖耳、青黑长发、白色披袖与玉金饰件<br>
@@ -387,7 +344,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="190" alt="景元的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/jing-yuan.webp" width="190" alt="景元的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>银白长发、金色眼睛、红色发带与黑白红金制服<br>
@@ -409,7 +366,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="190" alt="钟离的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/zhongli.webp" width="190" alt="钟离的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>琥珀色眼睛、古典长衣与温暖的棕金配色<br>
@@ -437,8 +394,8 @@
     <th align="center">3D 渲染 Q 版手办</th>
   </tr>
   <tr>
-    <td align="center"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="220" alt="雷电芽衣 2D 待机动画"></td>
-    <td align="center"><img src="work/raiden-mei/3d/qa/previews-final/idle.gif" width="220" alt="雷电芽衣 3D 渲染风待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-mei-2d.webp" width="190" alt="雷电芽衣 2D 待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-mei-3d.webp" width="190" alt="雷电芽衣 3D 渲染风待机动画"></td>
   </tr>
   <tr>
     <td align="center">
@@ -466,7 +423,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="190" alt="伊黑小芭内的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/obanai.webp" width="190" alt="伊黑小芭内的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>异色瞳、黑白条纹羽织，以及依偎在身旁的镝丸<br>
@@ -488,7 +445,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="190" alt="八重神子待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/yae-miko.webp" width="190" alt="八重神子待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志细节：</b>樱粉色长发、紫色眼眸、金色发冠与宝石耳饰，以及红白黑紫相间的巫女服<br>
@@ -510,7 +467,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/furina/2d/qa/previews-final/idle.gif" width="190" alt="芙宁娜待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/furina.webp" width="190" alt="芙宁娜待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>泛着浅青色的白色短发、水滴般的蓝眼睛、冠冕造型的深蓝礼帽、白色荷叶边、蓝宝石与金边枫丹礼服<br>
@@ -532,7 +489,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="190" alt="黄泉待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/acheron.webp" width="190" alt="黄泉待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深靛紫色长发、遮住一只眼睛的不对称刘海、紫红色眼眸、白紫黑火焰纹服饰，以及贴身携带的长刀<br>
@@ -554,7 +511,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="190" alt="艾莲·乔待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ellen-joe.webp" width="190" alt="艾莲·乔待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>带红色内层的炭黑短发、略显困倦的红色眼眸、带金属尖饰的女仆头饰、黑白工业风制服，以及极具辨识度的鲨鱼尾巴<br>
@@ -576,7 +533,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="190" alt="胡桃待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/hu-tao.webp" width="190" alt="胡桃待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>梅花形赤色眼眸、带符纹与梅枝装饰的深色高帽、由深棕渐向暗红的长发，以及棕黑、赤红与金色交织的制服<br>
@@ -598,7 +555,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/robin/2d/qa/previews-final/idle.gif" width="190" alt="知更鸟待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/robin.webp" width="190" alt="知更鸟待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>银蓝长发与后方玫瑰发髻、青绿渐紫的眼眸、花枝状金色光环、耳侧白色羽翼，以及白色、深靛紫、浅紫与金色交叠的舞台礼服<br>
@@ -620,7 +577,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="190" alt="凯亚待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kaeya.webp" width="190" alt="凯亚待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>带冷蓝挑染的深海军蓝短发、暖棕肤色、浅紫色眼眸与黑色眼罩、白色毛领、蓝紫双色披风，以及带金色细节的深色骑兵制服<br>
@@ -642,7 +599,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="190" alt="流萤待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/firefly.webp" width="190" alt="流萤待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>末端泛着冷灰的珍珠银长发、粉青渐变眼睛、黑色发带、薄荷色叶形发饰与深蓝蝴蝶结、黑金短披肩、橙金胸饰、薄荷渐变短裙，以及带青色点缀的白色短靴<br>
@@ -664,7 +621,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="190" alt="凯文·卡斯兰娜待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kevin-kaslana.webp" width="190" alt="凯文·卡斯兰娜待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>凌乱白色短发、冰蓝眼眸、带金色滚边与扣件的黑白高领长战斗服、胸口与腰间的青色光点，以及不对称的黑色装甲袖<br>
@@ -686,7 +643,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="190" alt="神里绫华待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kamisato-ayaka.webp" width="190" alt="神里绫华待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>冰蓝色高马尾与齐刘海、黑金冠形发饰、粉色侧结、清澈蓝眸、深蓝与浅蓝叠成的和服裙装、金色滚边与樱花纹样、品红腰绳、裙侧甲片，以及动作间自然收展的折扇<br>
@@ -708,7 +665,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/blade/2d/qa/previews-final/idle.gif" width="190" alt="刃的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/blade.webp" width="190" alt="刃的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深蓝长发与紫红发梢、刘海下的赤色眼眸、带金色扣饰与暗红内衬的黑色长衣、银色甲片、缠着绷带的双手，以及始终随身的暗色长剑<br>
@@ -730,7 +687,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="190" alt="阮·梅的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ruan-mei.webp" width="190" alt="阮·梅的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>深棕长发与青色眼眸、金珠花形发饰、白色披帛、带精细金纹的青蓝与深蓝礼服、腰间粉花、深色长手套，以及纹饰华美的蓝色阮琴<br>
@@ -752,7 +709,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="190" alt="枫原万叶的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kaedehara-kazuha.webp" width="190" alt="枫原万叶的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸<br>
       <b>标志特征：</b>象牙白短发与鲜明红色挑染、赤橙色眼眸、短围巾、黑红米白相间的不对称武士装束、暗红袴裤、草履，以及稳固系在腰侧的入鞘佩刀<br>
@@ -774,7 +731,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="190" alt="星见雅的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/hoshimi-miyabi.webp" width="190" alt="星见雅的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>高挑的深色狐耳、藏青黑长发、赤红双眼、青绿白黑制服、缠有红绳的非对称机械臂，以及贴近腰侧收好的佩刀<br>
@@ -796,7 +753,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="190" alt="砂金的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/aventurine.webp" width="190" alt="砂金的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>层次分明的浅金短发、洋红到青蓝渐变的眼睛、青色水滴耳饰、白色毛领、黑青金修身外套、白色长裤、黑手套、紫色手链、腰侧饰件与连在衣摆上的蓝色流苏<br>
@@ -818,7 +775,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="190" alt="甘雨的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/ganyu.webp" width="190" alt="甘雨的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>淡霜蓝色层次长发与翘起发梢、黑红相间的麒麟角、紫粉色双眼、颈前金铃、深棕色上衣、不对称白金前片、白蓝渐变袖套、蓝色后摆，以及带双流苏的红色编绳腰饰<br>
@@ -840,7 +797,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="190" alt="星期日的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/sunday.webp" width="190" alt="星期日的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>层次分明的浅蓝灰色头发、金色双眼、耳侧羽翼状饰件、带菱形尖角的金色日轮，以及白色、钴蓝、深蓝与金色交织的不对称长外套，配以深色手套、修身长裤和长靴<br>
@@ -862,7 +819,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="190" alt="甘露寺蜜璃的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/mitsuri-kanroji.webp" width="190" alt="甘露寺蜜璃的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>由粉色渐变至草绿色的粗双辫、明亮绿眸、深色队服外的白色羽织、绿色条纹长袜与草履<br>
@@ -884,7 +841,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="190" alt="卡芙卡的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kafka.webp" width="190" alt="卡芙卡的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>酒紫色层次短发与修长鬓发、稳稳架在头顶的墨镜、紫粉色双眼、白色高领上衣、带蛛网纹样的黑紫色不对称外套、深色丝袜与洋红色腿带、酒紫色手套和黑色短靴<br>
@@ -906,7 +863,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="190" alt="奥托·阿波卡利斯的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/otto-apocalypse.webp" width="190" alt="奥托·阿波卡利斯的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>束成低侧马尾的浅金色层次长发、绿色双眼、带金色滚边与肩饰的深蓝紫长外套、白色荷叶边衬衫、玫瑰色领结、淡紫马甲、白手套、深灰长裤和棕色长靴<br>
@@ -928,7 +885,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="190" alt="妮可·德玛拉的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/nicole-demara.webp" width="190" alt="妮可·德玛拉的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>粉色双马尾、黑色蝴蝶结、青绿色双眼、黑白短款街头服饰、橙色点缀、不对称长袜、厚底靴、绿色邦布挂包与随身黑色提箱<br>
@@ -950,7 +907,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="190" alt="简·杜的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/jane-doe.webp" width="190" alt="简·杜的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>黑色短发与酒红色后发、粉色鼠耳、狭长绿眸、米白毛领、蓝灰短夹克、战术短裤、不对称长袜与靴子、红色点缀和一条修长的深灰鼠尾<br>
@@ -972,7 +929,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="190" alt="安比·德玛拉的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/anby-demara.webp" width="190" alt="安比·德玛拉的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>银灰色短发、黑色发箍、琥珀色双眼、荧光绿色与黑色的战术短夹克、百褶裙、不对称长袜、运动鞋、机械背包组件和随身佩剑<br>
@@ -994,7 +951,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="190" alt="琪亚娜·卡斯兰娜的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kiana-kaslana.webp" width="190" alt="琪亚娜·卡斯兰娜的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>明亮蓝眸、白色双辫、星形发饰、白黑配色并带橙色点缀的女武神战斗服，以及一对造型统一的紧凑双枪<br>
@@ -1016,7 +973,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="190" alt="达达利亚的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/tartaglia.webp" width="190" alt="达达利亚的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>橙色短发、明亮蓝眸、红色发饰与耳饰、灰白制服、红围巾、不对称肩甲、深色手套与长靴，以及水元素神之眼<br>
@@ -1038,7 +995,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="190" alt="柏妮思的待机动画"></td>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/burnice-white.webp" width="190" alt="柏妮思的待机动画"></td>
     <td>
       <b>风格：</b>2D 动漫贴纸风<br>
       <b>标志细节：</b>金色双马尾、橙红色双眼、红黑护目镜、带火焰装饰的短款机车夹克、红围巾、百褶裙、不对称长靴、金色配件与贴身的小型燃料背包<br>
@@ -1052,20 +1009,17 @@
 
 </details>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
 
-## 📦 成品下载
+## 成品下载
 
-> ✦ 选择下方作品分类，点击即可查看角色与下载。
+成品按作品分类。展开分类即可查看角色与下载链接。
 
+<a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>🌙 原神</b>　<kbd>展开下载</kbd></summary>
+<summary><b>原神</b> · 10 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1082,8 +1036,9 @@
 
 </details>
 
+<a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>🚂 崩坏：星穹铁道</b>　<kbd>展开下载</kbd></summary>
+<summary><b>崩坏：星穹铁道</b> · 10 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1100,8 +1055,9 @@
 
 </details>
 
+<a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>⚡ 崩坏3</b>　<kbd>展开下载</kbd></summary>
+<summary><b>崩坏3</b> · 4 位角色 / 5 个版本　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1113,8 +1069,9 @@
 
 </details>
 
+<a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>📼 绝区零</b>　<kbd>展开下载</kbd></summary>
+<summary><b>绝区零</b> · 6 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1127,8 +1084,9 @@
 
 </details>
 
+<a id="downloads-others"></a>
 <details>
-<summary><b>✨ 其他</b>　<kbd>展开下载</kbd></summary>
+<summary><b>其他</b> · 2 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1145,11 +1103,7 @@ spritesheet.webp
 README.md
 ```
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## ⚡ 安装一个宠物
+## 安装
 
 以魈为例：
 
@@ -1169,11 +1123,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## 🧪 动起来之后，仍然要像这个角色
+## 动画规格
 
 一个好的桌面伙伴，应该在小尺寸下依然清楚，动作衔接自然，而且从待机到奔跑、从等待到审阅，都保留角色原本的神态与气质。
 
@@ -1189,11 +1139,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 这些技术检查最终只服务于一件事：每一段动画看起来都还是同一个角色。
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## 🎨 从角色图开始
+## 制作流程
 
 这个系列使用一套可以复用的制作流程：
 
@@ -1213,13 +1159,9 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果你也想制作自己的角色系列，可以从 [Codex Pet Dual Style 制作指南](codex-pet-dual-style/SKILL.md) 开始。里面整理了 2D/3D 配对风格、角色一致性、动作设计、方向检查、打包方式和批量生产思路。
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
 <a id="contribute-a-character"></a>
 
-## 🤝 贡献角色
+## 参与贡献
 
 欢迎提交新宠物、动画修复、展示优化和流程改进。一个可以分发的宠物，最基本的内容是：
 
@@ -1231,11 +1173,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果希望角色出现在上面的动态展示区，请再附上一张完整动作表，或者几张 `192×208` 的 GIF 预览。
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## ⭐ 让代码旁边多一点角色感
+## 关于这个项目
 
 Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，也可以在任务完成时给你一点回应。那些夹在工作之间的安静时刻，也因此多了一点存在感。
 
@@ -1247,8 +1185,13 @@ Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，�
 
 </div>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<p align="center">
+  <img src="assets/readme/collection-footer.zh-CN.webp" width="100%" alt="魈、甘露寺蜜璃、星期日和甘雨站在安静的弯月下">
+</p>
+
+<p align="center">
+  <a href="#contribute-a-character"><kbd>提议新角色</kbd></a>
+  <a href="codex-pet-dual-style/SKILL.md"><kbd>制作自己的宠物</kbd></a>
+</p>
 
 <sub>本项目所使用的米哈游角色及相关原始素材，其原版权归属于米哈游；其他作品角色的相关权利归各自权利人所有。本仓库是非官方的技术与动画展示；公开分发或商业使用前，请确认角色与原始素材的授权范围。</sub>

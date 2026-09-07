@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/anime-pets-header.svg" width="100%" alt="Codex Anime Pets — アニメーション付きキャラクター選択ヘッダー">
+<img src="assets/readme/character-lobby.ja.webp" width="100%" alt="魈、丹恒、キアナ、バーニス、星見雅、甘露寺蜜璃が並ぶアニメーションロビー">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -12,13 +12,13 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>✦ 32 キャラクター</code>
-  <code>✦ 33 エディション</code>
-  <code>✦ 9 アニメーション</code>
-  <code>✦ 16 視線方向</code>
+  <code>32 キャラクター</code>
+  <code>33 エディション</code>
+  <code>9 アニメーション</code>
+  <code>16 視線方向</code>
 </p>
 
-<sub>🌙 キャラクターを選ぶ · パッケージを展開する · コーディングのお供にする</sub>
+<sub>キャラクターを選ぶ · パッケージを入手する · Codex に追加する</sub>
 
 </div>
 
@@ -28,15 +28,39 @@
   <img src="assets/readme/companion-run-parade.gif" width="100%" alt="月夜の下、7人のアニメーションキャラクターが右から左へ走る隊列">
 </p>
 
-## ✦ Codex Anime Pets について ✦
+<p align="center">
+  <img src="assets/readme/motion-film.ja.webp" width="100%" alt="ジャンプ、レビュー、手振り、作業、待機、挨拶の6種類のアニメーション">
+</p>
 
-Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトップペットとして楽しむための非公式コレクションです。待機、移動、手振り、ジャンプ、失敗、入力待ち、作業中、レビューなどの状態に対応し、キャラクターらしさを小さな動きで表現しています。
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.ja.webp" width="100%" alt="バーニスと検証済みの16方向ビュー"></a>
+</p>
+
+<p align="center">
+  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>方向チェックを開く</kbd></a>
+</p>
+
+<p align="center">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="キアナ、タルタリヤ、バーニスの新着アニメーション展示">
+</p>
+
+<p align="center">
+  <a href="#downloads-honkai-impact-3rd"><kbd>キアナ</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>タルタリヤ</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>バーニス</kbd></a>
+</p>
 
 <div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
+
+## キャラクターを選ぶ
+
+<sub>一覧からキャラクターを選び、ダウンロード先へ進めます。</sub>
+
 </div>
 
-## ✦ キャラクターを選ぶ ✦
+<p align="center">
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="32キャラクター、33エディションのコレクション一覧"></a>
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -44,76 +68,87 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
       <a href="https://github.com/liu-weida/elysia_codex_pet"><img src="assets/readme/elysia-community-preview.gif" width="145" alt="周囲を見渡すエリシアのアニメーションプレビュー"></a>
     </td>
     <td valign="middle" width="76%">
-      <sub>✦ クリエイター特集 · エリシアコレクション ✦</sub><br>
-      <b>ひとりのキャラクター、いくつものエリシア。</b><br>
-      <sub>liu-weida による独立した Codex ペット企画。さまざまな表現スタイル、衣装、今後のスキンをエリシアだけに絞って展開します。</sub><br><br>
+      <sub>コミュニティプロジェクト</sub><br>
+      <b>エリシアだけを、もっと深く。</b><br>
+      <sub>liu-weida のプロジェクトはエリシアに特化し、別衣装や今後のスキンも継続して追加します。</sub><br><br>
       <code>エリシア専門</code> <code>2D + 3D</code> <code>継続更新</code><br><br>
-      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>専用プロジェクトを見る ↗</kbd></a>
+      <a href="https://github.com/liu-weida/elysia_codex_pet"><kbd>エリシアのプロジェクトを見る ↗</kbd></a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="#downloads-genshin-impact"><kbd>原神 · 10</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 10</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 4</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 6</kbd></a>
+  <a href="#downloads-others"><kbd>その他 · 2</kbd></a>
+</p>
+
+<details>
+<summary><b>全コレクション · 32キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+
+<br>
+
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="33%"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 」</b><br><sub>◇ 凛とした静けさ · 仙人の気配 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒 」</b><br><sub>◇ 冷静 · 優雅 · 静かな存在感 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 」</b><br><sub>◇ 余裕 · 自信 · 鋭い眼差し ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>01</sub><br><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>02</sub><br><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>03</sub><br><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 」</b></td>
-    <td align="center" valign="top"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 」</b></td>
-    <td align="center" valign="top"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 」</b></td>
+    <td align="center" valign="top"><sub>04</sub><br><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 」</b></td>
+    <td align="center" valign="top"><sub>05</sub><br><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 」</b></td>
+    <td align="center" valign="top"><sub>06</sub><br><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 」</b></td>
-    <td align="center" valign="top"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ 」</b></td>
-    <td align="center" valign="top"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 」</b></td>
+    <td align="center" valign="top"><sub>07</sub><br><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 」</b></td>
+    <td align="center" valign="top"><sub>08</sub><br><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ 」</b></td>
+    <td align="center" valign="top"><sub>09</sub><br><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー 」</b></td>
-    <td align="center" valign="top"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 」</b></td>
-    <td align="center" valign="top"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン 」</b></td>
+    <td align="center" valign="top"><sub>10</sub><br><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー 」</b></td>
+    <td align="center" valign="top"><sub>11</sub><br><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 」</b></td>
+    <td align="center" valign="top"><sub>12</sub><br><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア 」</b></td>
-    <td align="center" valign="top"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル 」</b></td>
-    <td align="center" valign="top"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン 」</b><br><sub>◇ 冷徹な決意 · 静かな力 · 揺るがぬ意志 ◇</sub></td>
+    <td align="center" valign="top"><sub>13</sub><br><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア 」</b></td>
+    <td align="center" valign="top"><sub>14</sub><br><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル 」</b></td>
+    <td align="center" valign="top"><sub>15</sub><br><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 綾華 」</b><br><sub>◇ 凛とした気品 · 霜色の優雅さ · 静かな温もり ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 」</b><br><sub>◇ 秘めた激情 · 緋色の剣気 · 不滅の執念 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ 」</b><br><sub>◇ 静かな知性 · 花の気品 · 穏やかな旋律 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>16</sub><br><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 綾華 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>17</sub><br><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>18</sub><br><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 万葉 」</b><br><sub>◇ 楓の静けさ · 旅の風雅 · 風に宿る決意 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 雅 」</b><br><sub>◇ 静かな集中 · 緋色の眼差し · 凛とした剣意 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン 」</b><br><sub>◇ 余裕の駆け引き · 黄金の輝き · 勝機を見据える眼差し ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>19</sub><br><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 万葉 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>20</sub><br><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 雅 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>21</sub><br><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 22 ✦</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 」</b><br><sub>◇ 穏やかな気配 · 霜色の気品 · 仙麟の静けさ ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 23 ✦</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー 」</b><br><sub>◇ 静かな気品 · 黄金の眼差し · 穏やかな調律 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 24 ✦</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 蜜璃 」</b><br><sub>◇ 素直な温かさ · 明るい活力 · 揺るぎない優しさ ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>22</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>23</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>24</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 蜜璃 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 25 ✦</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b><br><sub>◇ 優雅な余裕 · 危うい魅力 · 揺るがぬ支配 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 26 ✦</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b><br><sub>◇ 宮廷の気品 · 静かな緑の瞳 · 数手先を読む余裕 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 27 ✦</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b><br><sub>◇ 街角の機転 · 明るい自信 · 抜け目ない商才 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>25</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>26</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>27</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 28 ✦</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b><br><sub>◇ 余裕ある身のこなし · 鋭い勘 · 静かな危うさ ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ キャラクター 29 ✦</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b><br><sub>◇ 冷静な集中 · 静かな規律 · 揺るがぬ決意 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b><br><sub>◇ 明るい勇気 · 白銀の双編み · 揺るがぬ戦乙女の心 ◇</sub></td>
+    <td align="center" valign="top" width="33%"><sub>28</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>29</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>30</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b><br><sub>◇ 飄々とした自信 · 戦いへの情熱 · 水の決意 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 新登場 ✦</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b><br><sub>◇ 恐れ知らずの温かさ · 爆発的な活力 · 明るい笑顔 ◇</sub></td>
-    <td align="center" valign="top" width="33%"><sub>✦ 次の仲間 ✦</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>31</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>NEXT</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+</details>
 
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="夕暮れの空の下、5人のアニメーションキャラクターが左から右へ跳ぶ隊列">
@@ -121,12 +156,13 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 <a id="character-list"></a>
 
-## 📦 キャラクター一覧とダウンロード
+## キャラクター一覧とダウンロード
 
-> ✦ 下の作品を選び、クリックしてキャラクターとダウンロードを表示できます。
+パッケージは作品別にまとめています。各グループを開くと、キャラクターとダウンロード先を確認できます。
 
+<a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>🌙 原神</b>　<kbd>ダウンロードを表示</kbd></summary>
+<summary><b>原神</b> · 10キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -143,8 +179,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 </details>
 
+<a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>🚂 崩壊：スターレイル</b>　<kbd>ダウンロードを表示</kbd></summary>
+<summary><b>崩壊：スターレイル</b> · 10キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -161,8 +198,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 </details>
 
+<a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>⚡ 崩壊3rd</b>　<kbd>ダウンロードを表示</kbd></summary>
+<summary><b>崩壊3rd</b> · 4キャラクター / 5エディション　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -174,8 +212,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 </details>
 
+<a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>📼 ゼンレスゾーンゼロ</b>　<kbd>ダウンロードを表示</kbd></summary>
+<summary><b>ゼンレスゾーンゼロ</b> · 6キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -188,8 +227,9 @@ Codex Anime Pets は、キャラクターを Codex v2 形式のデスクトッ�
 
 </details>
 
+<a id="downloads-others"></a>
 <details>
-<summary><b>✨ その他</b>　<kbd>ダウンロードを表示</kbd></summary>
+<summary><b>その他</b> · 2キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -206,11 +246,7 @@ spritesheet.webp
 README.md
 ```
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## ⚡ インストール
+## インストール
 
 魈を例にすると、次のコマンドでインストールできます。
 
@@ -228,11 +264,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 └── README.md
 ```
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
-
-## 🧪 Codex v2 仕様
+## Codex v2 仕様
 
 | 項目 | 内容 |
 | --- | --- |
@@ -245,11 +277,9 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 制作方法の詳細は [Codex Pet Dual Style 制作ガイド](codex-pet-dual-style/SKILL.md) を参照してください。
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<a id="contribute-a-character"></a>
 
-## 🤝 コントリビューション
+## コントリビューション
 
 新しいペット、アニメーションの修正、表示の改善、制作フローの改良を歓迎します。配布可能なペットには、少なくとも次のファイルが必要です。
 
@@ -267,8 +297,13 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 </div>
 
-<div align="center">
-  <img src="assets/readme/star-divider.svg" width="92%" alt="">
-</div>
+<p align="center">
+  <img src="assets/readme/collection-footer.ja.webp" width="100%" alt="静かな三日月の下に並ぶ魈、甘露寺蜜璃、サンデー、甘雨">
+</p>
+
+<p align="center">
+  <a href="#contribute-a-character"><kbd>キャラクターを提案する</kbd></a>
+  <a href="codex-pet-dual-style/SKILL.md"><kbd>自分のペットを作る</kbd></a>
+</p>
 
 <sub>本プロジェクトで使用しているmiHoYoキャラクターおよび関連する原素材の原著作権は、miHoYoに帰属します。その他の作品のキャラクターに関する権利は、それぞれの権利者に帰属します。本リポジトリは非公式の技術・アニメーション展示であり、公開配布または商用利用の前に、適用されるライセンス範囲をご確認ください。</sub>
