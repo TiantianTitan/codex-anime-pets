@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>32 CHARACTERS</code>
-  <code>33 EDITIONS</code>
+  <code>33 CHARACTERS</code>
+  <code>34 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Kiana, Tartaglia, and Burnice">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Tartaglia, Burnice, and Sparkle">
 </p>
 
 <p align="center">
-  <a href="#character-30-kiana-kaslana"><kbd>Kiana</kbd></a>
   <a href="#character-31-tartaglia"><kbd>Tartaglia</kbd></a>
   <a href="#character-32-burnice-white"><kbd>Burnice</kbd></a>
+  <a href="#character-33-sparkle"><kbd>Sparkle</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 32 characters and 33 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 33 characters and 34 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,14 +81,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 10</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 10</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 4</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 6</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 32 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 33 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -275,13 +275,18 @@
       <b>「 Burnice 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub>NEXT</sub><br>
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
-      <b>「 Who&nbsp;joins&nbsp;next? 」</b><br>
-      <sub>Bring a reference · Hatch a companion</sub>
+      <sub>33</sub><br>
+      <a href="#character-33-sparkle"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="Sparkle idle animation"></a><br>
+      <b>「 Sparkle 」</b><br>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
+  <b>Who joins next?</b><br>
+  <sub>Bring a reference · Hatch a companion</sub>
+</p>
 
 </details>
 
@@ -1011,6 +1016,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-33-sparkle" name="character-33-sparkle"></a>
+<details>
+<summary><b>33 · Sparkle</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/sparkle.webp" width="190" alt="Sparkle idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> dark twin tails, crimson bows, vivid magenta eyes, cheek beauty marks, a tilted fox mask, bell choker, and an ornate red-black-white stage outfit with gold cords and patterned sash ends<br>
+      <b>Mood:</b> playful and theatrical, with a sly smile that makes every desktop moment feel like part of the performance<br><br>
+      <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-star-rail/Sparkle/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-star-rail/Sparkle/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1040,7 +1067,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai: Star Rail</b> · 10 companions　<kbd>Open</kbd></summary>
+<summary><b>Honkai: Star Rail</b> · 11 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1054,6 +1081,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Aventurine | 2D | `aventurine` | [Download ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
 | Sunday | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| Sparkle | 2D | `sparkle` | [Download ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 
 </details>
 

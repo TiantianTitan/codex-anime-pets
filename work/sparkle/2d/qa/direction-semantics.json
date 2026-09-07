@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "directions": [
+    {"degree":"000","verdict":"pass","expected":"up","horizontal_axis":"neutral","vertical_axis":"up","evidence":"Raised pupils, opened upper gaze, and lifted chin."},
+    {"degree":"022.5","verdict":"pass","expected":"up-right","horizontal_axis":"screen-right","vertical_axis":"up","evidence":"Right nose/pupil offset with retained raised gaze."},
+    {"degree":"045","verdict":"pass","expected":"up-right","horizontal_axis":"screen-right","vertical_axis":"up","evidence":"Three-quarter right turn with elevated pupil and chin."},
+    {"degree":"067.5","verdict":"pass","expected":"up-right","horizontal_axis":"screen-right","vertical_axis":"up","evidence":"Near-profile right yaw with visible upward pitch."},
+    {"degree":"090","verdict":"pass","expected":"right","horizontal_axis":"screen-right","vertical_axis":"neutral","evidence":"Nose and face plane project unmistakably toward the right edge."},
+    {"degree":"112.5","verdict":"warning","expected":"down-right","horizontal_axis":"screen-right","vertical_axis":"down","evidence":"Right turn is clear; pupil, lid, and chin lowering is subtle but present."},
+    {"degree":"135","verdict":"pass","expected":"down-right","horizontal_axis":"screen-right","vertical_axis":"down","evidence":"Right three-quarter turn with lowered gaze and tucked chin."},
+    {"degree":"157.5","verdict":"pass","expected":"down-right","horizontal_axis":"screen-right","vertical_axis":"down","evidence":"Near-front downcast face retains a small right bias."},
+    {"degree":"180","verdict":"pass","expected":"down","horizontal_axis":"neutral","vertical_axis":"down","evidence":"Bowed head, lowered lids and pupils, and tucked chin."},
+    {"degree":"202.5","verdict":"pass","expected":"down-left","horizontal_axis":"screen-left","vertical_axis":"down","evidence":"Left yaw with downcast eyes and chin."},
+    {"degree":"225","verdict":"pass","expected":"down-left","horizontal_axis":"screen-left","vertical_axis":"down","evidence":"Three-quarter left face with low gaze."},
+    {"degree":"247.5","verdict":"pass","expected":"down-left","horizontal_axis":"screen-left","vertical_axis":"down","evidence":"Strong left turn retaining downward head pitch."},
+    {"degree":"270","verdict":"pass","expected":"left","horizontal_axis":"screen-left","vertical_axis":"neutral","evidence":"Nose and face project unmistakably left; rear hair mass falls right."},
+    {"degree":"292.5","verdict":"warning","expected":"up-left","horizontal_axis":"screen-left","vertical_axis":"up","evidence":"Left profile is clear; raised pupil and chin cue is subtle but present."},
+    {"degree":"315","verdict":"pass","expected":"up-left","horizontal_axis":"screen-left","vertical_axis":"up","evidence":"Three-quarter left face with raised pupil line and lifted head."},
+    {"degree":"337.5","verdict":"pass","expected":"up-left","horizontal_axis":"screen-left","vertical_axis":"up","evidence":"Near-front raised gaze retains a small left bias."}
+  ],
+  "continuity_verdict": "pass",
+  "continuity_reason": "All 16 directions form one clockwise loop with stable feet and torso. Metric outliers are explained by attached twin-tail occlusion and silhouette opening; no visible reversal, scale pop, registration jump, identity drift, or broken attachment remains.",
+  "edge_verdict": "pass",
+  "edge_reason": "Every normalized cell has visible padding and no clipping, seam, accidental hole, or detached accessory.",
+  "reviewed_warnings": ["112.5 vertical cue is subtle", "292.5 vertical cue is subtle"],
+  "severity": "minor",
+  "repair_note": "none"
+}

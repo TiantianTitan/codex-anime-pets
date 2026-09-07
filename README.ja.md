@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>32 キャラクター</code>
-  <code>33 エディション</code>
+  <code>33 キャラクター</code>
+  <code>34 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="キアナ、タルタリヤ、バーニスの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="タルタリヤ、バーニス、花火の新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="#downloads-honkai-impact-3rd"><kbd>キアナ</kbd></a>
   <a href="#downloads-genshin-impact"><kbd>タルタリヤ</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>バーニス</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>花火</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="32キャラクター、33エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="33キャラクター、34エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 10</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 10</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 4</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 6</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 32キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 33キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -144,9 +144,15 @@
   <tr>
     <td align="center" valign="top" width="33%"><sub>31</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b></td>
     <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>NEXT</sub><br><a href="#character-list"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>「 次は誰？ 」</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br>
+  <b>次は誰？</b><br>
+  <sub>参考画像から、新しい仲間を孵化させよう</sub>
+</p>
 
 </details>
 
@@ -181,7 +187,7 @@
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>崩壊：スターレイル</b> · 10キャラクター　<kbd>開く</kbd></summary>
+<summary><b>崩壊：スターレイル</b> · 11キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -195,6 +201,7 @@
 | アベンチュリン | 2D | `aventurine` | [ZIP](honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip) |
 | サンデー | 2D | `sunday` | [ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | カフカ | 2D | `kafka` | [ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
+| 花火 | 2D | `sparkle` | [ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 
 </details>
 

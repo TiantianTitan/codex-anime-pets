@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose and pupils bias left; B biases right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"Opposing three-quarter turns."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"Opposing left and right profiles."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"Nose, chin, and exposed face edge point left in A and right in B."},
+    {"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"A profile projects left; B projects right."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A turns right; B turns left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Subtle near-frontal yaw from nose and pupils."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A has lowered lids and tucked chin; B has upward eyes and lifted face."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A pupils and chin rise; B settles downward."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A face is lifted; B brow and chin angle down."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A nose and chin pitch down; B profile is raised."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A lids and chin lower; B pupils and face rise."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A profile is tucked; B nose and chin lift."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A profile slopes down; B holds the face higher."}
+  ]
+}
