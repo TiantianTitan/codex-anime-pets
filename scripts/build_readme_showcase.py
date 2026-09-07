@@ -7,6 +7,7 @@ import math
 import argparse
 import subprocess
 import sys
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -17,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "assets" / "readme"
 SERIF = "/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf"
 SANS = "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf"
+SANS_BOLD = "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf"
 SERIF_BOLD = "/usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf"
 CJK_SANS = "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
 CJK_SERIF_BOLD = "/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc"
@@ -363,6 +365,26 @@ def universe_for_slug(slug: str) -> str:
     raise KeyError(f"No universe palette configured for {slug}")
 
 
+def archive_number_labels() -> list[str]:
+    """Number characters once and letter multiple editions of the same character."""
+    character_keys = [
+        slug.removesuffix("-2d").removesuffix("-3d") for slug, _ in ARCHIVE_SOURCES
+    ]
+    edition_counts = Counter(character_keys)
+    character_numbers: dict[str, int] = {}
+    edition_indices: defaultdict[str, int] = defaultdict(int)
+    labels: list[str] = []
+    for key in character_keys:
+        number = character_numbers.setdefault(key, len(character_numbers) + 1)
+        if edition_counts[key] > 1:
+            suffix = chr(ord("A") + edition_indices[key])
+            edition_indices[key] += 1
+            labels.append(f"{number:02d}{suffix}")
+        else:
+            labels.append(f"{number:02d}")
+    return labels
+
+
 def build_archive_previews() -> None:
     preview_dir = OUT / "archive-previews"
     preview_dir.mkdir(parents=True, exist_ok=True)
@@ -431,6 +453,7 @@ def build_collection_wall(locale: str = "en") -> None:
     header_height = 134
     footer_height = 32
     rows = math.ceil(len(ARCHIVE_SOURCES) / columns)
+    number_labels = archive_number_labels()
     wall_height = header_height + rows * card_height + (rows - 1) * row_gap + footer_height
 
     canvas = gradient((1200, wall_height), (5, 9, 25), (29, 15, 35)).convert("RGB")
@@ -477,6 +500,27 @@ def build_collection_wall(locale: str = "en") -> None:
             card = card.convert("RGB").resize((card_width, card_height), Image.Resampling.LANCZOS)
             left = row_left + column * (card_width + column_gap)
             canvas.paste(card, (left, top))
+            palette = UNIVERSE_PALETTES[universe_for_slug(slug)]
+            label = number_labels[start + column]
+            label_font = font(SANS_BOLD, 15)
+            label_width = max(38, round(draw.textlength(label, font=label_font)) + 18)
+            badge_right = left + card_width - 10
+            badge_top = top + 9
+            badge_left = badge_right - label_width
+            draw.rounded_rectangle(
+                (badge_left, badge_top, badge_right, badge_top + 24),
+                radius=8,
+                fill=(4, 8, 21, 225),
+                outline=(*palette["primary"], 190),
+                width=1,
+            )
+            draw.text(
+                ((badge_left + badge_right) / 2, badge_top + 12),
+                label,
+                font=label_font,
+                fill=(*palette["primary"], 255),
+                anchor="mm",
+            )
 
     draw = ImageDraw.Draw(canvas, "RGBA")
     draw.rounded_rectangle((2, 2, 1197, wall_height - 3), radius=28, outline=(243, 190, 210, 145), width=2)
