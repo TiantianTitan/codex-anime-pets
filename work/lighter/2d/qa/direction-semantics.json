@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "overall_verdict": "pass_with_reviewed_warnings",
+  "review_basis": [
+    "approved four-cardinal anchors at normal pet size",
+    "independent registered row-9 labeled review",
+    "independent shared-scale row-10 labeled review",
+    "three-reviewer blind consensus",
+    "ordered-loop continuity metrics",
+    "independent final contact-sheet and GIF review"
+  ],
+  "directions": [
+    {
+      "degree": "000",
+      "expected": "up",
+      "observed": "broadly frontal lifted-chin pose",
+      "horizontal_evidence": "face remains centered",
+      "vertical_evidence": "high pupils, open upper lids, and lifted chin",
+      "verdict": "pass",
+      "reason": "unmistakable approved up anchor"
+    },
+    {
+      "degree": "022.5",
+      "expected": "up-right",
+      "observed": "first clockwise step toward screen-right while retaining upward pitch",
+      "horizontal_evidence": "face begins a subtle screen-right yaw",
+      "vertical_evidence": "chin and gaze remain lifted",
+      "verdict": "warning",
+      "reason": "labeled up-right cue is continuous, but blind horizontal consensus was ambiguous near the vertical axis"
+    },
+    {
+      "degree": "045",
+      "expected": "up-right",
+      "observed": "balanced up-right three-quarter pose",
+      "horizontal_evidence": "face plane projects screen-right",
+      "vertical_evidence": "gaze and chin stay elevated",
+      "verdict": "pass",
+      "reason": "both axes are clear"
+    },
+    {
+      "degree": "067.5",
+      "expected": "up-right",
+      "observed": "stronger screen-right projection before 090",
+      "horizontal_evidence": "nose and face advance toward image-right",
+      "vertical_evidence": "mild upward cue remains",
+      "verdict": "warning",
+      "reason": "labeled rightward progression is clear, but blind vertical consensus was ambiguous near the horizontal cardinal"
+    },
+    {
+      "degree": "090",
+      "expected": "screen-right",
+      "observed": "clear screen-right profile family",
+      "horizontal_evidence": "nose, chin, and face plane project to image-right",
+      "vertical_evidence": "pitch is approximately level",
+      "verdict": "pass",
+      "reason": "unmistakable approved right anchor"
+    },
+    {
+      "degree": "112.5",
+      "expected": "down-right",
+      "observed": "right profile beginning a gradual chin tuck",
+      "horizontal_evidence": "face remains in the screen-right family",
+      "vertical_evidence": "gaze and chin begin lowering",
+      "verdict": "pass",
+      "reason": "continuous first down-right step"
+    },
+    {
+      "degree": "135",
+      "expected": "down-right",
+      "observed": "clear down-right pose",
+      "horizontal_evidence": "nose and cheek remain projected screen-right",
+      "vertical_evidence": "lowered gaze and increased crown visibility",
+      "verdict": "warning",
+      "reason": "labeled loop preserves the screen-right cheek and nose projection, while blind horizontal consensus read the isolated pose oppositely"
+    },
+    {
+      "degree": "157.5",
+      "expected": "down-right",
+      "observed": "near-down pose with residual screen-right bias",
+      "horizontal_evidence": "small screen-right face projection remains",
+      "vertical_evidence": "tucked chin and lowered gaze read down",
+      "verdict": "warning",
+      "reason": "down axis and 157.5-to-180 continuity are clear, while blind horizontal consensus read the residual right cue oppositely"
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "observed": "frontal tucked-chin pose",
+      "horizontal_evidence": "face returns to centered frontal family",
+      "vertical_evidence": "low gaze, lowered lids, and crown-forward silhouette",
+      "verdict": "pass",
+      "reason": "unmistakable approved down anchor"
+    },
+    {
+      "degree": "202.5",
+      "expected": "down-left",
+      "observed": "first clockwise step from down toward screen-left",
+      "horizontal_evidence": "face and chin begin moving image-left",
+      "vertical_evidence": "downward pitch remains",
+      "verdict": "pass",
+      "reason": "smooth continuation after 180"
+    },
+    {
+      "degree": "225",
+      "expected": "down-left",
+      "observed": "clear down-left three-quarter pose",
+      "horizontal_evidence": "face plane projects screen-left",
+      "vertical_evidence": "gaze and chin remain lowered",
+      "verdict": "pass",
+      "reason": "both axes are clear"
+    },
+    {
+      "degree": "247.5",
+      "expected": "down-left",
+      "observed": "stronger screen-left yaw before profile",
+      "horizontal_evidence": "face advances toward the approved left cardinal",
+      "vertical_evidence": "remaining downward pitch is visible",
+      "verdict": "pass",
+      "reason": "continuous approach to 270"
+    },
+    {
+      "degree": "270",
+      "expected": "screen-left",
+      "observed": "clear opposing screen-left profile",
+      "horizontal_evidence": "nose, chin, and face plane project to image-left",
+      "vertical_evidence": "pitch is approximately level",
+      "verdict": "pass",
+      "reason": "unmistakable approved left anchor"
+    },
+    {
+      "degree": "292.5",
+      "expected": "up-left",
+      "observed": "left profile beginning a restrained upward lift",
+      "horizontal_evidence": "face remains on the screen-left half",
+      "vertical_evidence": "gaze and chin begin lifting",
+      "verdict": "warning",
+      "reason": "labeled left profile begins a continuous upward lift, while blind vertical consensus found the subtle pitch ambiguous"
+    },
+    {
+      "degree": "315",
+      "expected": "up-left",
+      "observed": "up-left three-quarter pose reopening toward frontal",
+      "horizontal_evidence": "screen-left bias remains visible",
+      "vertical_evidence": "raised gaze and chin read up",
+      "verdict": "pass",
+      "reason": "both axes are clear"
+    },
+    {
+      "degree": "337.5",
+      "expected": "up-left",
+      "observed": "near-up pose retaining a slight screen-left cue",
+      "horizontal_evidence": "small screen-left face bias remains",
+      "vertical_evidence": "high gaze and lifted chin are clear",
+      "verdict": "warning",
+      "reason": "up axis and 337.5-to-000 boundary pass, while blind horizontal consensus found the near-vertical left cue ambiguous"
+    }
+  ],
+  "review_warnings": [
+    "Stable-slots warnings for rows 0-8 are accepted because every final GIF is stable, unclipped, and free of zoom or popping.",
+    "Blind intermediate uncertainties at 022.5, 067.5, 135, 157.5, 292.5, and 337.5 are accepted because labeled axes and clockwise continuity remain coherent.",
+    "The y199/200 alpha-hole candidates are natural transparent gaps between separated boot soles and feet, not interior seams.",
+    "The 157.5-to-180 and 247.5-to-270 metric outliers are visibly smooth head-turn/profile-occlusion transitions with stable scale, body anchor, scarf, and gauntlet attachment."
+  ],
+  "hard_failures": [],
+  "independent_final_qa": {
+    "visual_qa": "pass",
+    "qa_note": "All 11 rows preserve Lighter identity, palette, proportions, and anatomical-right gold gauntlet, with correct stable motion, real jump travel, coherent gaze progression, and passing deterministic validation and despill.",
+    "repair_rows": [],
+    "review_warnings": [
+      "Stable-slots warnings for rows 0-8 are accepted because every final GIF is stable, unclipped, and free of zoom or popping.",
+      "Blind intermediate uncertainties at 022.5, 067.5, 135, 157.5, 292.5, and 337.5 are accepted because labeled axes and clockwise continuity remain coherent.",
+      "The y199/200 alpha-hole candidates are natural transparent gaps between separated boot soles and feet, not interior seams.",
+      "The 157.5-to-180 and 247.5-to-270 metric outliers are visibly smooth head-turn/profile-occlusion transitions with stable scale, body anchor, scarf, and gauntlet attachment."
+    ]
+  }
+}

@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>35 个角色</code>
-  <code>36 个版本</code>
+  <code>36 个角色</code>
+  <code>37 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="花火、温迪和符华的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="温迪、符华和莱特的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-33-sparkle"><kbd>花火</kbd></a>
   <a href="#character-34-venti"><kbd>温迪</kbd></a>
   <a href="#character-35-fu-hua"><kbd>符华</kbd></a>
+  <a href="#character-36-lighter"><kbd>莱特</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十五位角色、三十六个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十六位角色、三十七个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 11</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 5</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 6</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 7</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 35 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 36 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -279,15 +279,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
       <a href="#character-34-venti"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="温迪的待机动画"></a><br>
       <b>「 温迪 」</b><br>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
       <a href="#character-35-fu-hua"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="符华的待机动画"></a><br>
       <b>「 符华 」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>36</sub><br>
+      <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="莱特的待机动画"></a><br>
+      <b>「 莱特 」</b><br>
     </td>
   </tr>
 </table>
@@ -1092,6 +1097,28 @@
 
 </details>
 
+<a id="character-36-lighter" name="character-36-lighter"></a>
+<details>
+<summary><b>36 · 莱特</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/lighter.webp" width="190" alt="莱特的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>墨绿色凌乱短发、深色墨镜、长款红围巾、炭黑机车夹克、深绿色长裤、金色铆钉与配件、装甲长靴，以及标志性的金色机械拳套<br>
+      <b>神态：</b>冷静、自信，带着冠军拳手从容而锋利的气场<br><br>
+      <a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/lighter/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/lighter/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1157,7 +1184,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>绝区零</b> · 6 位角色　<kbd>展开</kbd></summary>
+<summary><b>绝区零</b> · 7 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1167,6 +1194,7 @@
 | 简·杜 | 2D | `jane-doe` | [下载 ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | 安比·德玛拉 | 2D | `anby-demara` | [下载 ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | 柏妮思 | 2D | `burnice-white` | [下载 ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
+| 莱特 | 2D | `lighter` | [下载 ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 
 </details>
 

@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>35 PERSONNAGES</code>
-  <code>36 ÉDITIONS</code>
+  <code>36 PERSONNAGES</code>
+  <code>37 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Sparkle, Venti et Fu Hua">
+  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Venti, Fu Hua et Lighter">
 </p>
 
 <p align="center">
-  <a href="#character-33-sparkle"><kbd>Sparkle</kbd></a>
   <a href="#character-34-venti"><kbd>Venti</kbd></a>
   <a href="#character-35-fu-hua"><kbd>Fu Hua</kbd></a>
+  <a href="#character-36-lighter"><kbd>Lighter</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 35 personnages et 36 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 36 personnages et 37 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 11</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 5</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 6</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 7</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 35 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 36 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -279,15 +279,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
       <a href="#character-34-venti"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="Animation d'attente de Venti"></a><br>
       <b>「 Venti 」</b><br>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
       <a href="#character-35-fu-hua"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="Animation d'attente de Fu Hua"></a><br>
       <b>「 Fu&nbsp;Hua 」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>36</sub><br>
+      <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Lighter"></a><br>
+      <b>「 Lighter 」</b><br>
     </td>
   </tr>
 </table>
@@ -1092,6 +1097,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-36-lighter" name="character-36-lighter"></a>
+<details>
+<summary><b>36 · Lighter</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/lighter.webp" width="190" alt="Lighter au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux bleu pétrole ébouriffés, lunettes de soleil sombres, longue écharpe rouge, blouson de motard anthracite, pantalon vert sombre, éléments dorés, bottes blindées et imposant gantelet mécanique doré<br>
+      <b>Présence :</b> calme, sûr de lui et discrètement compétitif<br><br>
+      <a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/lighter/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/lighter/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1157,7 +1184,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 6 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 7 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1167,6 +1194,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Jane Doe | 2D | `jane-doe` | [Télécharger](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | Anby Demara | 2D | `anby-demara` | [Télécharger](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | Burnice White | 2D | `burnice-white` | [Télécharger](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
+| Lighter | 2D | `lighter` | [Télécharger](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 
 </details>
 

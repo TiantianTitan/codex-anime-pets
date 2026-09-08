@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>35 キャラクター</code>
-  <code>36 エディション</code>
+  <code>36 キャラクター</code>
+  <code>37 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="花火、ウェンティ、フカの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="ウェンティ、フカ、ライトの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="#downloads-honkai-star-rail"><kbd>花火</kbd></a>
   <a href="#downloads-genshin-impact"><kbd>ウェンティ</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>フカ</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>ライト</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="35キャラクター、36エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="36キャラクター、37エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 11</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 5</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 6</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 7</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 35キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 36キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -147,8 +147,9 @@
     <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
-    <td align="center" valign="top" width="50%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>36</sub><br><a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="ライトの待機アニメーション"></a><br><b>「 ライト 」</b></td>
   </tr>
 </table>
 
@@ -227,7 +228,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>ゼンレスゾーンゼロ</b> · 6キャラクター　<kbd>開く</kbd></summary>
+<summary><b>ゼンレスゾーンゼロ</b> · 7キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -237,6 +238,7 @@
 | ジェーン・ドゥ | 2D | `jane-doe` | [ZIP](zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip) |
 | アンビー・デマラ | 2D | `anby-demara` | [ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | バーニス | 2D | `burnice-white` | [ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
+| ライト | 2D | `lighter` | [ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 
 </details>
 
