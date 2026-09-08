@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "decision": "accept",
+  "reviewers": 5,
+  "hard_gates": {
+    "horizontal_090_270": "pass",
+    "vertical_000_180": "pass"
+  },
+  "resolution": "Five fresh isolated reviews were combined by strict per-cell majority. The two hard cardinal pairs pass. Remaining warnings concern only subtle intermediate horizontal cues; the labeled full-size loop keeps the intended quadrant progression and does not reverse at either cardinal.",
+  "accepted_warnings": [
+    "337.5 is near-frontal enough that its subtle screen-left component can read ambiguous without labels.",
+    "135 is near-frontal/down enough that its subtle screen-right component can read ambiguous without labels.",
+    "157.5 retains a very light screen-right component that can be obscured by hair and the near-frontal down pose."
+  ],
+  "repair_required": false
+}

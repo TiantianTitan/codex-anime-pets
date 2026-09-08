@@ -1,0 +1,12 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve Venti's identity and attached lyre, remain unclipped with correct unused transparency, and the GIFs show stable scale and baseline without zoom, pop, jitter, forbidden effects, or visible chroma fringe; all deterministic and cardinal gates pass.",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/venti/2d/qa/direction-semantics.json",
+  "review_warnings": [
+    "Accepted non-cardinal blind-axis uncertainty at 135, 157.5, and 337.5 after labeled full-loop review.",
+    "Accepted the 090 to 112.5 continuity-metric outlier because normal-size playback shows no visible snap, scale pop, reversal, or attachment break."
+  ],
+  "repair_rows": [],
+  "repair_notes": null,
+  "reviewed_by": "venti_final_visual_qa"
+}

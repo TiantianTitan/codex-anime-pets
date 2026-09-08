@@ -1,0 +1,155 @@
+{
+  "ok": true,
+  "reviewRequired": true,
+  "medianDiffPixels": 1387.5,
+  "warnings": [
+    "090->112.5 diff is a local outlier (1858 pixels vs neighbor average 1142)"
+  ],
+  "alphaHoles": [],
+  "pairs": [
+    {
+      "from": "000",
+      "to": "022.5",
+      "firstPixels": 10391,
+      "secondPixels": 10217,
+      "diffPixels": 1245,
+      "centerDelta": 0.7071067811865476,
+      "areaRatio": 1.0170304394636391
+    },
+    {
+      "from": "022.5",
+      "to": "045",
+      "firstPixels": 10217,
+      "secondPixels": 10069,
+      "diffPixels": 1417,
+      "centerDelta": 0.0,
+      "areaRatio": 1.0146985797993842
+    },
+    {
+      "from": "045",
+      "to": "067.5",
+      "firstPixels": 10069,
+      "secondPixels": 9821,
+      "diffPixels": 1660,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0252520109968435
+    },
+    {
+      "from": "067.5",
+      "to": "090",
+      "firstPixels": 9821,
+      "secondPixels": 9623,
+      "diffPixels": 1191,
+      "centerDelta": 0.0,
+      "areaRatio": 1.0205757040423984
+    },
+    {
+      "from": "090",
+      "to": "112.5",
+      "firstPixels": 9623,
+      "secondPixels": 10071,
+      "diffPixels": 1858,
+      "centerDelta": 0.5,
+      "areaRatio": 1.046555128338356
+    },
+    {
+      "from": "112.5",
+      "to": "135",
+      "firstPixels": 10071,
+      "secondPixels": 9785,
+      "diffPixels": 1094,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0292284108329075
+    },
+    {
+      "from": "135",
+      "to": "157.5",
+      "firstPixels": 9785,
+      "secondPixels": 9668,
+      "diffPixels": 1601,
+      "centerDelta": 1.5,
+      "areaRatio": 1.0121017790649565
+    },
+    {
+      "from": "157.5",
+      "to": "180",
+      "firstPixels": 9668,
+      "secondPixels": 10008,
+      "diffPixels": 1810,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0351675630947454
+    },
+    {
+      "from": "180",
+      "to": "202.5",
+      "firstPixels": 10008,
+      "secondPixels": 9608,
+      "diffPixels": 1330,
+      "centerDelta": 0.0,
+      "areaRatio": 1.041631973355537
+    },
+    {
+      "from": "202.5",
+      "to": "225",
+      "firstPixels": 9608,
+      "secondPixels": 9401,
+      "diffPixels": 1358,
+      "centerDelta": 0.5,
+      "areaRatio": 1.022018934155941
+    },
+    {
+      "from": "225",
+      "to": "247.5",
+      "firstPixels": 9401,
+      "secondPixels": 9183,
+      "diffPixels": 1355,
+      "centerDelta": 0.5,
+      "areaRatio": 1.023739518675814
+    },
+    {
+      "from": "247.5",
+      "to": "270",
+      "firstPixels": 9183,
+      "secondPixels": 9216,
+      "diffPixels": 1250,
+      "centerDelta": 0.5,
+      "areaRatio": 1.00359359686377
+    },
+    {
+      "from": "270",
+      "to": "292.5",
+      "firstPixels": 9216,
+      "secondPixels": 9526,
+      "diffPixels": 1547,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.0336371527777777
+    },
+    {
+      "from": "292.5",
+      "to": "315",
+      "firstPixels": 9526,
+      "secondPixels": 9536,
+      "diffPixels": 997,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0010497585555322
+    },
+    {
+      "from": "315",
+      "to": "337.5",
+      "firstPixels": 9536,
+      "secondPixels": 9647,
+      "diffPixels": 2022,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0116401006711409
+    },
+    {
+      "from": "337.5",
+      "to": "000",
+      "firstPixels": 9647,
+      "secondPixels": 10391,
+      "diffPixels": 2234,
+      "centerDelta": 3.5355339059327378,
+      "areaRatio": 1.0771224214781798
+    }
+  ]
+}

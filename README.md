@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>33 CHARACTERS</code>
-  <code>34 EDITIONS</code>
+  <code>35 CHARACTERS</code>
+  <code>36 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Tartaglia, Burnice, and Sparkle">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Sparkle, Venti, and Fu Hua">
 </p>
 
 <p align="center">
-  <a href="#character-31-tartaglia"><kbd>Tartaglia</kbd></a>
-  <a href="#character-32-burnice-white"><kbd>Burnice</kbd></a>
   <a href="#character-33-sparkle"><kbd>Sparkle</kbd></a>
+  <a href="#character-34-venti"><kbd>Venti</kbd></a>
+  <a href="#character-35-fu-hua"><kbd>Fu Hua</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 33 characters and 34 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 35 characters and 36 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,15 +80,15 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 10</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 11</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 4</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 5</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 6</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 33 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 35 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -278,6 +278,18 @@
       <sub>33</sub><br>
       <a href="#character-33-sparkle"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="Sparkle idle animation"></a><br>
       <b>「 Sparkle 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <sub>34</sub><br>
+      <a href="#character-34-venti"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="Venti idle animation"></a><br>
+      <b>「 Venti 」</b><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <sub>35</sub><br>
+      <a href="#character-35-fu-hua"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="Fu Hua idle animation"></a><br>
+      <b>「 Fu&nbsp;Hua 」</b><br>
     </td>
   </tr>
 </table>
@@ -1038,6 +1050,50 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-34-venti" name="character-34-venti"></a>
+<details>
+<summary><b>34 · Venti</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/venti.webp" width="190" alt="Venti idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> teal eyes, navy hair with teal-tipped braids, green bard cap with cream flower and feather, green-and-cream cape, white ruffled shirt, green shorts, white tights, brown shoes, and an attached wooden lyre<br>
+      <b>Mood:</b> bright and easygoing, with the playful charm of a bard who always seems to bring a little breeze with him<br><br>
+      <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="genshin-impact/Venti/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="genshin-impact/Venti/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-35-fu-hua" name="character-35-fu-hua"></a>
+<details>
+<summary><b>35 · Fu Hua</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/fu-hua.webp" width="190" alt="Fu Hua idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> cyan eyes, red rectangular glasses, slate blue-violet hair, a low side ponytail with a red bead, blue-and-white Accipiter combat tunic, dark fitted trousers, and brown lace-up boots<br>
+      <b>Mood:</b> calm and disciplined, with the measured confidence of a martial artist who never wastes a movement<br><br>
+      <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="honkai-impact-3rd/Fu%20Hua/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="honkai-impact-3rd/Fu%20Hua/qa/direction-qa.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1048,7 +1104,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 10 companions　<kbd>Open</kbd></summary>
+<summary><b>Genshin Impact</b> · 11 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1062,6 +1118,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Kaedehara Kazuha | 2D | `kazuha-chibi` | [Download ZIP](genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip) |
 | Ganyu | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Tartaglia | 2D | `tartaglia` | [Download ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
+| Venti | 2D | `venti` | [Download ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1087,7 +1144,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 4 characters / 5 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 5 characters / 6 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1096,6 +1153,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Kevin Kaslana | 2D | `kevin-kaslana` | [Download ZIP](honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip) |
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | Kiana Kaslana | 2D | `kiana-kaslana` | [Download ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
+| Fu Hua | 2D | `fu-hua` | [Download ZIP](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 
 </details>
 

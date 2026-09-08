@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "directions": ["000", "090", "180", "270"],
+  "screen_coordinate_basis": "viewer-relative",
+  "reviewed_at_size": "192x208",
+  "repairs": {
+    "000": "regenerated as a complete single cardinal anchor after the original read as near-front rather than unmistakably up"
+  },
+  "evidence": {
+    "000": "broad frontal face with elevated gaze, lifted chin, and more visible neck ruffle",
+    "090": "nose, pupils, and facial plane project toward screen-right with the far eye narrowed",
+    "180": "lowered irises and eyelids with a tucked chin read unmistakably down",
+    "270": "nose, pupils, and facial plane project toward screen-left, visibly opposing 090"
+  },
+  "identity_and_attachment": "pass",
+  "scale_baseline_and_clipping": "pass"
+}

@@ -1,0 +1,20 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Stable-slots extraction fixes the jumping row: Fu Hua keeps a consistent scale and identity through a clear low-to-high-to-low arc without visible zoom, pop, jitter, clipping, or edge contact; the other eight rows remain unchanged and passing.",
+  "rows": {
+    "idle": "pass: unchanged six-frame calm loop with stable registration and visible micro-motion",
+    "running-right": "pass: unchanged eight-frame alternating gait clearly faces and travels screen-right",
+    "running-left": "pass: unchanged eight-frame alternating gait clearly faces and travels screen-left",
+    "waving": "pass: unchanged four-frame hand-only wave with no detached effects",
+    "jumping": "pass: five frames preserve consistent scale and identity through a clear vertical arc with safe padding",
+    "failed": "pass: unchanged dejected loop reads clearly as failure without forbidden effects",
+    "waiting": "pass: unchanged expectant gesture remains distinct from idle and review",
+    "running": "pass: unchanged standing processing loop remains active without literal locomotion",
+    "review": "pass: unchanged focused arms-crossed and chin-touching loop reads as review"
+  },
+  "review_warnings": [
+    "review.json notes stable-slots extraction for jumping; normal-size visual review confirms playback is stable, unclipped, and semantically correct."
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

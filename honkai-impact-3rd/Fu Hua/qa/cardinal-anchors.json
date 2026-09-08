@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "directions": [
+    {"degree":"000","verdict":"pass","observed":"up","reason":"Both cyan irises and pupils sit high in the eye apertures, the chin is pitched upward, lower eyelid exposure increases, and the red glasses remain frontally symmetric."},
+    {"degree":"090","verdict":"pass","observed":"screen-right","reason":"The nose tip projects to screen-right, the visible iris tracks right, the chin and face profile point right, and the glasses compress into a right-facing side profile."},
+    {"degree":"180","verdict":"pass","observed":"down","reason":"The head and chin bow downward, pupils and irises sit low beneath lowered lids, and the glasses angle with the downturned face."},
+    {"degree":"270","verdict":"pass","observed":"screen-left","reason":"The nose tip projects to screen-left, the visible iris tracks left, the chin and face profile point left, and glasses foreshortening opposes the 090 pose."}
+  ],
+  "edges": {"verdict":"pass","reason":"All four sprites retain safe hair, side, and boot margins; no feature is clipped, and the feet share a stable baseline at consistent final-cell scale."},
+  "identity": {"verdict":"pass","reason":"Every cardinal preserves Fu Hua's cyan eyes, red glasses, blue-gray hair and side ponytail, blue-and-white Accipiter uniform, dark trousers, brown boots, facial proportions, and compact silhouette."},
+  "repair_note": "none"
+}

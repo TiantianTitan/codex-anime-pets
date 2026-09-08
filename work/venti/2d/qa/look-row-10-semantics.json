@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "directions": [
+    {"degree": "180", "expected": "down", "verdict": "pass", "observed": "head and eyes clearly lowered in a centered downward view", "reason": "reads unmistakably as down while retaining the canonical silhouette"},
+    {"degree": "202.5", "expected": "down-left", "verdict": "pass", "observed": "lowered three-quarter pose faces screen-left", "reason": "turns left cleanly from 180 without reversal"},
+    {"degree": "225", "expected": "down-left", "verdict": "pass", "observed": "clearer screen-left three-quarter downward pose", "reason": "maintains leftward progression and consistent identity"},
+    {"degree": "247.5", "expected": "down-left", "verdict": "pass", "observed": "near-profile screen-left pose with lowered gaze", "reason": "continues the expected leftward arc"},
+    {"degree": "270", "expected": "left", "verdict": "pass", "observed": "unmistakable screen-left profile", "reason": "strong left-facing read with lyre and hat attached"},
+    {"degree": "292.5", "expected": "up-left", "verdict": "pass", "observed": "screen-left three-quarter pose begins lifting the gaze", "reason": "progresses upward from the left profile"},
+    {"degree": "315", "expected": "up-left", "verdict": "pass", "observed": "further lifted screen-left three-quarter view", "reason": "keeps the left-facing side while transitioning toward front"},
+    {"degree": "337.5", "expected": "up-left", "verdict": "pass", "observed": "near-front pose with subtle screen-left and clear upward cues", "reason": "flows smoothly into 000 without reversal"}
+  ],
+  "continuity": {"verdict": "pass", "reason": "157.5 to 180 and 337.5 to 000 preserve size, feet baseline, registration, and canonical prop and hat placement"},
+  "edges": {"verdict": "pass", "reason": "all eight full-body cells are complete without clipping or visible inter-cell seams; pre-despill fringe is intentionally excluded"},
+  "repair_note": "none"
+}

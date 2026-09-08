@@ -1,0 +1,15 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Frame-by-frame review confirms stable identity and nine readable animation rows, a natural jumping arc, correct left and right running motion, clean transparency and edges, no clipping, and all four cardinal direction gates. The three blind-review warnings do not produce a real reversal or snap in the ordered loop.",
+  "direction_semantics": "/home/ubuntu23/Bureau/codex-anime-pets/work/fu-hua/2d/qa/direction-semantics.json",
+  "review_warnings": [
+    "The jumping stable-slots extraction warning was reviewed; playback is stable and unclipped.",
+    "Horizontal pair 6 has restrained secondary yaw cues at 135 and 225, but the ordered loop has no horizontal reversal.",
+    "Vertical pair 6 has restrained pitch at 225 and 315, but the ordered loop remains continuous.",
+    "Vertical pair 7 is close to the level 270 cardinal at 247.5 and 292.5; its secondary pitch is subtle but does not reverse.",
+    "Continuity metrics flag area changes at 067.5-to-090, 090-to-112.5, and 247.5-to-270 plus a local 337.5-to-000 difference; normal-size playback has no visible scale pop, snap, or translation jump."
+  ],
+  "repair_rows": [],
+  "repair_notes": null,
+  "reviewed_by": "fu_hua_final_visual_qa"
+}
