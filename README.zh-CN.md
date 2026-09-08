@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>36 个角色</code>
-  <code>37 个版本</code>
+  <code>37 个角色</code>
+  <code>38 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="温迪、符华和莱特的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="符华、莱特和雷电将军的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-34-venti"><kbd>温迪</kbd></a>
   <a href="#character-35-fu-hua"><kbd>符华</kbd></a>
   <a href="#character-36-lighter"><kbd>莱特</kbd></a>
+  <a href="#character-37-raiden-shogun"><kbd>雷电将军</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十六位角色、三十七个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十七位角色、三十八个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 11</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 5</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 7</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>完整收藏 · 36 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 37 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -293,6 +293,16 @@
       <sub>36</sub><br>
       <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="莱特的待机动画"></a><br>
       <b>「 莱特 」</b><br>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="34%">
+  <tr>
+    <td align="center" valign="top">
+      <sub>37</sub><br>
+      <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷电将军的待机动画"></a><br>
+      <b>「 雷电将军 」</b><br>
     </td>
   </tr>
 </table>
@@ -1119,6 +1129,28 @@
 
 </details>
 
+<a id="character-37-raiden-shogun" name="character-37-raiden-shogun"></a>
+<details>
+<summary><b>37 · 雷电将军</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-shogun.webp" width="190" alt="雷电将军的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>紫色眼睛、紫色长发与粗辫、紫花金饰、颈间红绳、层叠的白紫稻妻服饰、编织腰绳，以及紫金色纹样<br>
+      <b>神态：</b>沉静而威严，平和目光中带着鲜明的雷元素气息<br><br>
+      <a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/raiden-shogun/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/raiden-shogun/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1129,7 +1161,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 11 位角色　<kbd>展开</kbd></summary>
+<summary><b>原神</b> · 12 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1144,6 +1176,7 @@
 | 甘雨 | 2D | `ganyu` | [下载 ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | 达达利亚 | 2D | `tartaglia` | [下载 ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | 温迪 | 2D | `venti` | [下载 ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
+| 雷电将军 | 2D | `raiden-shogun` | [下载 ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 
 </details>
 

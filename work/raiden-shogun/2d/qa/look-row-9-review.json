@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "row": "look-row-9",
+  "registered_path": "qa/look-row-9-registered.png",
+  "scale_and_edges": "pass: one shared scale and foot baseline; all eight complete silhouettes retain visible outer padding",
+  "continuity": "pass: eyes, head yaw, neck, upper torso, ornament, and braid progress without reversal, snap, or side flip",
+  "directions": [
+    {"degree": "000", "expected": "up", "verdict": "pass", "reason": "broad frontal face with raised gaze and lifted chin"},
+    {"degree": "022.5", "expected": "up-right", "verdict": "pass", "reason": "raised gaze begins moving toward image-right"},
+    {"degree": "045", "expected": "up-right", "verdict": "pass", "reason": "clear rightward three-quarter turn retains upward eye line"},
+    {"degree": "067.5", "expected": "up-right", "verdict": "pass", "reason": "near-profile right turn one step before the cardinal"},
+    {"degree": "090", "expected": "right", "verdict": "pass", "reason": "nose tip and facial plane project unmistakably toward image-right"},
+    {"degree": "112.5", "expected": "down-right", "verdict": "pass", "reason": "right profile begins lowering eyes and chin"},
+    {"degree": "135", "expected": "down-right", "verdict": "pass", "reason": "downward eye line and rightward three-quarter face are both visible"},
+    {"degree": "157.5", "expected": "down-right", "verdict": "pass", "reason": "broad near-front pose retains a subtle image-right cue with tucked chin"}
+  ]
+}

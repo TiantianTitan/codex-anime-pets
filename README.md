@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>36 CHARACTERS</code>
-  <code>37 EDITIONS</code>
+  <code>37 CHARACTERS</code>
+  <code>38 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Venti, Fu Hua, and Lighter">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Fu Hua, Lighter, and Raiden Shogun">
 </p>
 
 <p align="center">
-  <a href="#character-34-venti"><kbd>Venti</kbd></a>
   <a href="#character-35-fu-hua"><kbd>Fu Hua</kbd></a>
   <a href="#character-36-lighter"><kbd>Lighter</kbd></a>
+  <a href="#character-37-raiden-shogun"><kbd>Raiden Shogun</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 36 characters and 37 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 37 characters and 38 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,7 +80,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 11</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 5</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 7</kbd></a>
@@ -88,7 +88,7 @@
 </p>
 
 <details>
-<summary><b>Full roster · 36 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 37 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -295,6 +295,16 @@
       <sub>36</sub><br>
       <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="Lighter idle animation"></a><br>
       <b>「 Lighter 」</b><br>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="34%">
+  <tr>
+    <td align="center" valign="top">
+      <sub>37</sub><br>
+      <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Shogun idle animation"></a><br>
+      <b>「 Raiden&nbsp;Shogun 」</b><br>
     </td>
   </tr>
 </table>
@@ -1121,6 +1131,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-37-raiden-shogun" name="character-37-raiden-shogun"></a>
+<details>
+<summary><b>37 · Raiden Shogun</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/raiden-shogun.webp" width="190" alt="Raiden Shogun idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> violet eyes, long braided purple hair, violet flower hairpiece with gold ornaments, red neck ribbon, layered white-and-violet Inazuman robes, braided obi cords, and purple-gold trim<br>
+      <b>Mood:</b> serene and authoritative, with a calm gaze and an unmistakable Electro presence<br><br>
+      <a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/raiden-shogun/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/raiden-shogun/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1131,7 +1163,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 11 companions　<kbd>Open</kbd></summary>
+<summary><b>Genshin Impact</b> · 12 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1146,6 +1178,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Ganyu | 2D | `ganyu` | [Download ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | Tartaglia | 2D | `tartaglia` | [Download ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | Venti | 2D | `venti` | [Download ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
+| Raiden Shogun | 2D | `raiden-shogun` | [Download ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 
 </details>
 

@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>36 キャラクター</code>
-  <code>37 エディション</code>
+  <code>37 キャラクター</code>
+  <code>38 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="ウェンティ、フカ、ライトの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="フカ、ライト、雷電将軍の新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>ウェンティ</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>フカ</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ライト</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>雷電将軍</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="36キャラクター、37エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="37キャラクター、38エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 11</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 5</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 7</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>全コレクション · 36キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 37キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -153,6 +153,12 @@
   </tr>
 </table>
 
+<table align="center" width="34%">
+  <tr>
+    <td align="center" valign="top"><sub>37</sub><br><a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷電将軍の待機アニメーション"></a><br><b>「 雷電将軍 」</b></td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br>
   <b>次は誰？</b><br>
@@ -173,7 +179,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 11キャラクター　<kbd>開く</kbd></summary>
+<summary><b>原神</b> · 12キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -188,6 +194,7 @@
 | 甘雨 | 2D | `ganyu` | [ZIP](genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip) |
 | タルタリヤ | 2D | `tartaglia` | [ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | ウェンティ | 2D | `venti` | [ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
+| 雷電将軍 | 2D | `raiden-shogun` | [ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 
 </details>
 

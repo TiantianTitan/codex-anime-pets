@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "row": "look-row-10",
+  "source_path": "decoded/look-row-10.png",
+  "scale_and_edges": "pass: eight complete separated silhouettes share a stable foot baseline and retain safe outer padding",
+  "continuity": "pass: the down-to-left-to-up-left arc stays on the image-left half without reversal; the braid and rear hair move continuously behind the head; 337.5 closes into 000 without a visible scale, center, or silhouette snap",
+  "deterministic_evidence": "pass with review: 337.5 to 000 has 1.090 area ratio and 3.0 px center delta; the two local diff warnings correspond to natural frontal-to-three-quarter opening rather than a direction reversal or identity jump",
+  "directions": [
+    {"degree": "180", "expected": "down", "verdict": "pass", "reason": "broad frontal face, low irises, and tucked chin clearly read as down"},
+    {"degree": "202.5", "expected": "down-left", "verdict": "pass", "reason": "frontal-down pose begins a visible turn toward image-left"},
+    {"degree": "225", "expected": "down-left", "verdict": "pass", "reason": "downward eye line and leftward three-quarter face are both visible"},
+    {"degree": "247.5", "expected": "down-left", "verdict": "pass", "reason": "near-profile left turn forms a continuous lead-in to the cardinal"},
+    {"degree": "270", "expected": "left", "verdict": "pass", "reason": "nose tip, pupil, and facial plane project unmistakably toward image-left while braid and rear hair remain image-right"},
+    {"degree": "292.5", "expected": "up-left", "verdict": "pass", "reason": "left profile begins lifting its iris and chin without reversing yaw"},
+    {"degree": "315", "expected": "up-left", "verdict": "pass", "reason": "raised gaze and leftward three-quarter face reopen naturally toward frontal"},
+    {"degree": "337.5", "expected": "up-left", "verdict": "pass", "reason": "broad near-front face retains a subtle image-left cue and closely matches the following 000 up pose"}
+  ]
+}

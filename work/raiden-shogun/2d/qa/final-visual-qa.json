@@ -1,0 +1,31 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve Raiden Shogun's identity, palette, silhouette, proportions, and props with correct motion, facing, transparency, and cohesive direction progression; only accepted minor intermediate-direction and continuity warnings remain.",
+  "direction_semantics": {
+    "000": "pass: centered face with pupils visibly raised",
+    "022.5": "warning: slight screen-right face and pupil bias with raised pupils; blind horizontal cue ambiguous",
+    "045": "warning: moderate screen-right head turn with raised eyes; blind horizontal vote conflicted",
+    "067.5": "pass: near-right profile with visible eye raised",
+    "090": "pass: nose and face plane unmistakably screen-right",
+    "112.5": "pass: strong screen-right turn with pupil and lids lowered",
+    "135": "pass: right three-quarter face with lowered gaze",
+    "157.5": "pass: subtle screen-right bias with head and eyes strongly lowered",
+    "180": "pass: centered face with unmistakably lowered gaze",
+    "202.5": "warning: initial screen-left turn with lowered head and eyes; minor braid-side continuity snap",
+    "225": "pass: clear left three-quarter face with lowered eyes",
+    "247.5": "warning: near-left profile with visible eye and head pitched down; blind vertical vote conflicted",
+    "270": "pass: nose and face plane unmistakably screen-left",
+    "292.5": "warning: strong screen-left profile with visible pupil raised; blind vertical vote conflicted",
+    "315": "warning: front-left facial bias with both eyes raised; blind horizontal vote and continuity conflicted",
+    "337.5": "warning: subtle screen-left pupil and face bias with high pupils; blind horizontal cue ambiguous"
+  },
+  "review_warnings": [
+    "Blind uncertainty for the subtle horizontal cues at 022.5 and 337.5",
+    "Blind horizontal reversal for 045 and 315 despite correct labeled quadrants",
+    "Blind vertical reversal for 247.5 and 292.5 despite correct labeled quadrants",
+    "Minor braid and silhouette snap at 180→202.5",
+    "Minor frontality and hair-layout snap at 292.5→315"
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}

@@ -1,0 +1,19 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "horizontal-1 blind majority found the near-frontal 337.5 and 022.5 horizontal cues ambiguous",
+    "horizontal-2 blind majority reversed the subtle horizontal distinction between 315 and 045",
+    "vertical-7 blind majority reversed the subtle vertical distinction between 247.5 and 292.5",
+    "continuity metrics flagged 180→202.5 and 292.5→315 as local pixel-difference outliers"
+  ],
+  "evidence": [
+    "Both cardinal hard-gate pairs passed strict three-reviewer majority: 000 up versus 180 down, and 090 screen-right versus 270 screen-left.",
+    "Labeled normal-size ordered-loop review confirms 022.5 and 045 remain in the up-right quadrant and 315 and 337.5 remain in the up-left quadrant.",
+    "Labeled review confirms 247.5 remains down-left and 292.5 remains up-left around the unmistakable 270 screen-left cardinal.",
+    "No pose enters a wrong quadrant, reverses the clockwise yaw order, clips, or detaches an identity feature.",
+    "The two continuity outliers keep center deltas under 3.2 px and area ratios under 1.08; their visible braid/frontality changes were independently rated warnings rather than major failures."
+  ],
+  "rationale": "The unresolved votes concern intermediate axes viewed as isolated pairs. The labeled ordered loop preserves the intended quadrants and all cardinal hard gates, so these are retained as documented intermediate readability and continuity warnings under the skill policy."
+}
