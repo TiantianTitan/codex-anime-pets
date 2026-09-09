@@ -1,0 +1,3 @@
+2ec877ff3a7078ab6b11ee5ee5af718e8b554958c7554b66c77015cfd511d17f  bronya-zaychik-2d-codex-pet-v2.zip
+f14d0a6f6877320ad3156c6ce6da77b628a6d31223b3ae147367bcd4282ee486  bronya-zaychik-2d/pet.json
+1a590385723d44dbfa2d64f01b6733df9514bc691142b8e56a81bc935612266f  bronya-zaychik-2d/spritesheet.webp

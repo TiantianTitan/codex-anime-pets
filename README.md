@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>37 CHARACTERS</code>
-  <code>38 EDITIONS</code>
+  <code>38 CHARACTERS</code>
+  <code>39 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Fu Hua, Lighter, and Raiden Shogun">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Lighter, Raiden Shogun, and Bronya">
 </p>
 
 <p align="center">
-  <a href="#character-35-fu-hua"><kbd>Fu Hua</kbd></a>
   <a href="#character-36-lighter"><kbd>Lighter</kbd></a>
   <a href="#character-37-raiden-shogun"><kbd>Raiden Shogun</kbd></a>
+  <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 37 characters and 38 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 38 characters and 39 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,13 +82,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 5</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 6</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 7</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 37 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 38 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -299,12 +299,17 @@
   </tr>
 </table>
 
-<table align="center" width="34%">
+<table align="center" width="68%">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <sub>37</sub><br>
       <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Shogun idle animation"></a><br>
       <b>「 Raiden&nbsp;Shogun 」</b><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <sub>38</sub><br>
+      <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="Bronya idle animation"></a><br>
+      <b>「 Bronya 」</b><br>
     </td>
   </tr>
 </table>
@@ -1153,6 +1158,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-38-bronya-zaychik" name="character-38-bronya-zaychik"></a>
+<details>
+<summary><b>38 · Bronya</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/bronya-zaychik.webp" width="190" alt="Bronya idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> silver-gray drill twin-tails, large navy bows, gray eyes, a deep-blue military jacket and pleated skirt, red accents, gold shoulder braid, white mechanical gauntlets, and white-red armored boots<br>
+      <b>Mood:</b> calm, exacting, and quietly resolute<br><br>
+      <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1204,7 +1231,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 5 characters / 6 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 6 characters / 7 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1214,6 +1241,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Download ZIP](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | Kiana Kaslana | 2D | `kiana-kaslana` | [Download ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 | Fu Hua | 2D | `fu-hua` | [Download ZIP](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
+| Bronya | 2D | `bronya-zaychik` | [Download ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 
 </details>
 

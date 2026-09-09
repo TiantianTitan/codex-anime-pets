@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>37 PERSONNAGES</code>
-  <code>38 ÉDITIONS</code>
+  <code>38 PERSONNAGES</code>
+  <code>39 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Fu Hua, Lighter et Shogun Raiden">
+  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Lighter, Shogun Raiden et Bronya">
 </p>
 
 <p align="center">
-  <a href="#character-35-fu-hua"><kbd>Fu Hua</kbd></a>
   <a href="#character-36-lighter"><kbd>Lighter</kbd></a>
   <a href="#character-37-raiden-shogun"><kbd>Shogun Raiden</kbd></a>
+  <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 37 personnages et 38 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 38 personnages et 39 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 5</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 6</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 7</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 37 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 38 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -297,12 +297,17 @@
   </tr>
 </table>
 
-<table align="center" width="34%">
+<table align="center" width="68%">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <sub>37</sub><br>
       <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Shogun Raiden"></a><br>
       <b>「 Shogun&nbsp;Raiden 」</b><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <sub>38</sub><br>
+      <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Bronya"></a><br>
+      <b>「 Bronya 」</b><br>
     </td>
   </tr>
 </table>
@@ -1151,6 +1156,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-38-bronya-zaychik" name="character-38-bronya-zaychik"></a>
+<details>
+<summary><b>38 · Bronya</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/bronya-zaychik.webp" width="190" alt="Bronya au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> couettes tire-bouchonnées gris argent, grands nœuds bleu marine, yeux gris, veste militaire bleu nuit et jupe plissée, touches rouges, cordon d'épaule doré, gantelets mécaniques blancs et bottes renforcées blanches et rouges<br>
+      <b>Présence :</b> calme, précise et résolue sans ostentation<br><br>
+      <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1202,7 +1229,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 5 personnages / 6 éditions　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 6 personnages / 7 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1212,6 +1239,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Otto Apocalypse | 2D | `otto-apocalypse` | [Télécharger](honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip) |
 | Kiana Kaslana | 2D | `kiana-kaslana` | [Télécharger](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 | Fu Hua | 2D | `fu-hua` | [Télécharger](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
+| Bronya | 2D | `bronya-zaychik` | [Télécharger](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 
 </details>
 
