@@ -209,12 +209,13 @@ ARCHIVE_SOURCES = [
     ("kiana-kaslana", "work/kiana-kaslana/2d/qa/previews-final/idle.gif"),
     ("tartaglia", "work/tartaglia/2d/qa/previews-final/idle.gif"),
     ("burnice-white", "work/burnice-white/2d/qa/previews/idle.gif"),
-    ("sparkle", "honkai-star-rail/Sparkle/qa/previews/idle.gif"),
-    ("venti", "genshin-impact/Venti/qa/previews/idle.gif"),
-    ("fu-hua", "honkai-impact-3rd/Fu Hua/qa/previews/idle.gif"),
+    ("sparkle", "work/sparkle/2d/qa/previews-final/idle.gif"),
+    ("venti", "work/venti/2d/qa/previews-final/idle.gif"),
+    ("fu-hua", "work/fu-hua/2d/qa/previews-final/idle.gif"),
     ("lighter", "work/lighter/2d/qa/previews-final/idle.gif"),
     ("raiden-shogun", "work/raiden-shogun/2d/qa/previews-final/idle.gif"),
     ("bronya-zaychik", "work/bronya-zaychik/2d/qa/previews-final/idle.gif"),
+    ("zhu-yuan", "work/zhu-yuan/2d/qa/previews-final/idle.gif"),
 ]
 
 
@@ -234,7 +235,7 @@ UNIVERSE_SLUGS = {
     },
     "zenless": {
         "ellen-joe", "hoshimi-miyabi", "nicole-demara", "jane-doe",
-        "anby-demara", "burnice-white", "lighter",
+        "anby-demara", "burnice-white", "lighter", "zhu-yuan",
     },
     "others": {"obanai", "mitsuri-kanroji"},
 }
@@ -288,7 +289,7 @@ LOCALES = {
         "arrival_kicker": "COLLECTION UPDATE",
         "arrival_lines": ("NEW", "ARRIVALS"),
         "arrival_available": "NOW AVAILABLE",
-        "arrival_names": ("LIGHTER", "RAIDEN SHOGUN", "BRONYA"),
+        "arrival_names": ("RAIDEN SHOGUN", "BRONYA", "ZHU YUAN"),
         "collection_title": "COMPANION COLLECTION",
         "collection_count": "{characters} CHARACTERS / {editions} EDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "OTHERS"),
@@ -309,7 +310,7 @@ LOCALES = {
         "arrival_kicker": "MISE À JOUR DE LA COLLECTION",
         "arrival_lines": ("NOUVEAUX", "PERSONNAGES"),
         "arrival_available": "DISPONIBLES",
-        "arrival_names": ("LIGHTER", "SHOGUN RAIDEN", "BRONYA"),
+        "arrival_names": ("SHOGUN RAIDEN", "BRONYA", "ZHU YUAN"),
         "collection_title": "COLLECTION DE COMPAGNONS",
         "collection_count": "{characters} PERSONNAGES / {editions} ÉDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "AUTRES"),
@@ -330,7 +331,7 @@ LOCALES = {
         "arrival_kicker": "收藏更新",
         "arrival_lines": ("新角色", "现已加入"),
         "arrival_available": "现已开放下载",
-        "arrival_names": ("莱特", "雷电将军", "布洛妮娅"),
+        "arrival_names": ("雷电将军", "布洛妮娅", "朱鸢"),
         "collection_title": "角色收藏",
         "collection_count": "{characters} 个角色 / {editions} 个版本",
         "universe_labels": ("原神", "星穹铁道", "崩坏3", "绝区零", "其他"),
@@ -351,7 +352,7 @@ LOCALES = {
         "arrival_kicker": "コレクション更新",
         "arrival_lines": ("新着", "キャラクター"),
         "arrival_available": "配布中",
-        "arrival_names": ("ライト", "雷電将軍", "ブローニャ"),
+        "arrival_names": ("雷電将軍", "ブローニャ", "朱鳶"),
         "collection_title": "キャラクターコレクション",
         "collection_count": "{characters}キャラクター / {editions}エディション",
         "universe_labels": ("原神", "スターレイル", "崩壊3rd", "ゼンレス", "その他"),
@@ -705,7 +706,7 @@ def build_hero(locale: str = "en") -> None:
         (GifClip.open("work/xiao/2d/qa/previews-final/idle.gif"), 100, 430, 0.96, 0, (86, 225, 232)),
         (GifClip.open("work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif"), 285, 432, 1.18, 250, (99, 189, 214)),
         (GifClip.open("work/kiana-kaslana/2d/qa/previews-final/idle.gif"), 475, 438, 1.34, 500, (255, 210, 148)),
-        (GifClip.open("zenless-zone-zero/Burnice White/qa/previews/idle.gif"), 715, 438, 1.34, 700, (255, 126, 95)),
+        (GifClip.open("work/burnice-white/2d/qa/previews/idle.gif"), 715, 438, 1.34, 700, (255, 126, 95)),
         (GifClip.open("work/miyabi/2d/qa/previews-final/idle.gif"), 920, 432, 1.18, 900, (193, 157, 255)),
         (GifClip.open("assets/readme/mitsuri-kanroji-idle.gif"), 1092, 430, 0.96, 150, (255, 137, 181)),
     ]
@@ -755,9 +756,9 @@ def build_hero(locale: str = "en") -> None:
 def build_arrivals(locale: str = "en") -> None:
     copy = LOCALES[locale]
     clips = [
-        (GifClip.open("work/lighter/2d/qa/previews-final/idle.gif"), 555, 292, 1.28, 0, copy["arrival_names"][0], (255, 126, 183)),
-        (GifClip.open("work/raiden-shogun/2d/qa/previews-final/idle.gif"), 790, 292, 1.28, 360, copy["arrival_names"][1], (103, 222, 203)),
-        (GifClip.open("work/bronya-zaychik/2d/qa/previews-final/idle.gif"), 1025, 292, 1.28, 720, copy["arrival_names"][2], (126, 220, 250)),
+        (GifClip.open("work/raiden-shogun/2d/qa/previews-final/idle.gif"), 555, 292, 1.28, 0, copy["arrival_names"][0], (103, 222, 203)),
+        (GifClip.open("work/bronya-zaychik/2d/qa/previews-final/idle.gif"), 790, 292, 1.28, 360, copy["arrival_names"][1], (126, 220, 250)),
+        (GifClip.open("work/zhu-yuan/2d/qa/previews-final/idle.gif"), 1025, 292, 1.28, 720, copy["arrival_names"][2], (255, 213, 91)),
     ]
     frames: list[Image.Image] = []
     for index in range(FRAME_COUNT):
@@ -773,7 +774,7 @@ def build_arrivals(locale: str = "en") -> None:
         tracking_text(draw, (52, 47), copy["arrival_kicker"], locale_font(locale, 13), (133, 231, 237, 230), 4)
         draw.text((50, 82), copy["arrival_lines"][0], font=locale_font(locale, 54, bold=True), fill=(255, 239, 192), anchor="la")
         draw.text((50, 137), copy["arrival_lines"][1], font=locale_font(locale, 42 if locale == "fr" else 47, bold=True), fill=(255, 239, 192), anchor="la")
-        tracking_text(draw, (53, 211), "036 — 038", font(SANS, 17), (255, 146, 180, 235), 5)
+        tracking_text(draw, (53, 211), "037 — 039", font(SANS, 17), (255, 146, 180, 235), 5)
         tracking_text(draw, (53, 252), copy["arrival_available"], locale_font(locale, 12), (221, 214, 238, 175), 3)
 
         for _, x, _, scale, _, _, color in clips:

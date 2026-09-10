@@ -1,0 +1,58 @@
+{
+  "row": 9,
+  "registered_strip": "qa/look-row-9-registered.png",
+  "edge_check": "pass",
+  "semantic_check": "pass",
+  "continuity_check": "pass",
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "observed": "up",
+      "reason": "Broad frontal face with both irises high and chin lifted."
+    },
+    {
+      "direction": "022.5",
+      "verdict": "pass",
+      "observed": "up-right",
+      "reason": "High irises persist while the face begins a small screen-right yaw."
+    },
+    {
+      "direction": "045",
+      "verdict": "pass",
+      "observed": "up-right",
+      "reason": "Upward eye line combines with a clearer screen-right facial plane."
+    },
+    {
+      "direction": "067.5",
+      "verdict": "pass",
+      "observed": "up-right",
+      "reason": "The head approaches the right profile while retaining raised eyes and chin."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "observed": "right",
+      "reason": "Nose tip, pupils, and facial plane project unmistakably toward the image-right edge."
+    },
+    {
+      "direction": "112.5",
+      "verdict": "pass",
+      "observed": "down-right",
+      "reason": "Right-facing profile remains while the irises and chin begin moving downward."
+    },
+    {
+      "direction": "135",
+      "verdict": "pass",
+      "observed": "down-right",
+      "reason": "Lower eye line and tucked chin combine with a readable screen-right three-quarter face."
+    },
+    {
+      "direction": "157.5",
+      "verdict": "pass",
+      "observed": "down-right",
+      "reason": "Near-frontal down pose keeps a subtle screen-right nose and facial-plane bias one step before 180."
+    }
+  ],
+  "continuity_note": "All adjacent steps progress clockwise without reversal; head size, body height, foot baseline, lower-body anchor, ponytail, armor, holster, and sidearm remain continuous."
+}

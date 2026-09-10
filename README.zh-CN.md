@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>38 个角色</code>
-  <code>39 个版本</code>
+  <code>39 个角色</code>
+  <code>40 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -33,21 +33,21 @@
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.zh-CN.webp" width="100%" alt="柏妮思与经过检查的十六个观察方向"></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.zh-CN.webp" width="100%" alt="柏妮思与经过检查的十六个观察方向"></a>
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>打开完整方向检查图</kbd></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>打开完整方向检查图</kbd></a>
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="莱特、雷电将军和布洛妮娅的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="雷电将军、布洛妮娅和朱鸢的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-36-lighter"><kbd>莱特</kbd></a>
   <a href="#character-37-raiden-shogun"><kbd>雷电将军</kbd></a>
   <a href="#character-38-bronya-zaychik"><kbd>布洛妮娅</kbd></a>
+  <a href="#character-39-zhu-yuan"><kbd>朱鸢</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十八位角色、三十九个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含三十九位角色、四十个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 6</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 7</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 8</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 38 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 39 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -269,24 +269,24 @@
     </td>
     <td align="center" valign="top" width="33%">
       <sub>32</sub><br>
-      <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
+      <a href="#character-32-burnice-white"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
       <b>「 柏妮思 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>33</sub><br>
-      <a href="#character-33-sparkle"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="花火的待机动画"></a><br>
+      <a href="#character-33-sparkle"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="花火的待机动画"></a><br>
       <b>「 花火 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
-      <a href="#character-34-venti"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="温迪的待机动画"></a><br>
+      <a href="#character-34-venti"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="温迪的待机动画"></a><br>
       <b>「 温迪 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
-      <a href="#character-35-fu-hua"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="符华的待机动画"></a><br>
+      <a href="#character-35-fu-hua"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="符华的待机动画"></a><br>
       <b>「 符华 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
@@ -297,17 +297,22 @@
   </tr>
 </table>
 
-<table align="center" width="68%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>37</sub><br>
       <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷电将军的待机动画"></a><br>
       <b>「 雷电将军 」</b><br>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>38</sub><br>
       <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="布洛妮娅的待机动画"></a><br>
       <b>「 布洛妮娅 」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>39</sub><br>
+      <a href="#character-39-zhu-yuan"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="朱鸢的待机动画"></a><br>
+      <b>「 朱鸢 」</b><br>
     </td>
   </tr>
 </table>
@@ -437,13 +442,13 @@
   <tr>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D</b></a><br>
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-look-directions.png">16 向视线</a>
+      <a href="work/raiden-mei/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/raiden-mei/2d/qa/look-directions.png">16 向视线</a>
     </td>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ 下载 3D 风格</b></a><br>
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-look-directions.png">16 向视线</a>
+      <a href="work/raiden-mei/3d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/raiden-mei/3d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -466,8 +471,8 @@
       <b>标志细节：</b>异色瞳、黑白条纹羽织，以及依偎在身旁的镝丸<br>
       <b>气质：</b>安静、警觉，注意力始终很集中<br><br>
       <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="others/obanai-iguro/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="others/obanai-iguro/qa/direction-qa.png">16 向视线</a>
+      <a href="work/obanai/2d/qa/contact-sheet.png">完整动作表</a> ·
+      <a href="work/obanai/2d/qa/direction-qa.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -862,8 +867,8 @@
       <b>标志细节：</b>由粉色渐变至草绿色的粗双辫、明亮绿眸、深色队服外的白色羽织、绿色条纹长袜与草履<br>
       <b>气质：</b>真诚热烈、活力十足；她表达喜欢时毫不扭捏，温柔与坚定也同样坦荡<br><br>
       <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="others/mitsuri-kanroji/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="others/mitsuri-kanroji/qa/direction-qa.png">16 向视线</a>
+      <a href="work/mitsuri-kanroji/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/mitsuri-kanroji/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -884,8 +889,8 @@
       <b>标志细节：</b>酒紫色层次短发与修长鬓发、稳稳架在头顶的墨镜、紫粉色双眼、白色高领上衣、带蛛网纹样的黑紫色不对称外套、深色丝袜与洋红色腿带、酒紫色手套和黑色短靴<br>
       <b>气质：</b>优雅而神秘，总是不疾不徐，仿佛故事的结局早已在她掌握之中<br><br>
       <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="honkai-star-rail/Kafka/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-star-rail/Kafka/qa/direction-qa.png">16 向视线</a>
+      <a href="work/kafka/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kafka/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -906,8 +911,8 @@
       <b>标志细节：</b>束成低侧马尾的浅金色层次长发、绿色双眼、带金色滚边与肩饰的深蓝紫长外套、白色荷叶边衬衫、玫瑰色领结、淡紫马甲、白手套、深灰长裤和棕色长靴<br>
       <b>气质：</b>举止优雅而沉着，安静的目光里总像已经想好了接下来的几步<br><br>
       <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/direction-qa.png">16 向视线</a>
+      <a href="work/otto-apocalypse/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/otto-apocalypse/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1038,8 +1043,8 @@
       <b>标志细节：</b>金色双马尾、橙红色双眼、红黑护目镜、带火焰装饰的短款机车夹克、红围巾、百褶裙、不对称长靴、金色配件与贴身的小型燃料背包<br>
       <b>气质：</b>热烈、无畏又充满感染力，明亮笑意里仿佛随时都能把安静片刻点燃成一场庆祝<br><br>
       <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="zenless-zone-zero/Burnice%20White/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png">16 向视线</a>
+      <a href="work/burnice-white/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/burnice-white/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1060,8 +1065,8 @@
       <b>标志细节：</b>深色双马尾、绯红蝴蝶结、粉紫色眼睛、面颊小痣、斜戴狐面、铃铛颈饰，以及带有金色绳结与纹样飘带的红黑白舞台服装<br>
       <b>神态：</b>俏皮、戏剧感十足，狡黠的笑容让桌面上的每个瞬间都像一场即兴演出<br><br>
       <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="honkai-star-rail/Sparkle/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-star-rail/Sparkle/qa/direction-qa.png">16 向视线</a>
+      <a href="work/sparkle/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/sparkle/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1082,8 +1087,8 @@
       <b>标志细节：</b>青绿色眼睛、带青色发梢的深蓝双辫、饰有米白花朵与羽毛的绿色吟游诗人帽、绿白披风、荷叶领白衫、绿色短裤、白色长袜、棕色鞋子与固定在身侧的木制竖琴<br>
       <b>神态：</b>明快又自在，像一阵随时会带来歌声的蒙德清风<br><br>
       <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="genshin-impact/Venti/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="genshin-impact/Venti/qa/direction-qa.png">16 向视线</a>
+      <a href="work/venti/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/venti/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1104,8 +1109,8 @@
       <b>标志细节：</b>青蓝色眼睛、红色矩形眼镜、蓝紫色短发、带红珠的低侧马尾、蓝白色女武神·迅羽作战服、深色长裤与棕色系带长靴<br>
       <b>神态：</b>沉静而自律，举手投足都带着习武者精准从容的气质<br><br>
       <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="honkai-impact-3rd/Fu%20Hua/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="honkai-impact-3rd/Fu%20Hua/qa/direction-qa.png">16 向视线</a>
+      <a href="work/fu-hua/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/fu-hua/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1172,6 +1177,28 @@
       <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
       <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
       <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-39-zhu-yuan" name="character-39-zhu-yuan"></a>
+<details>
+<summary><b>39 · 朱鸢</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/zhu-yuan.webp" width="190" alt="朱鸢的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>琥珀红眼睛、带橙红挑染的炭黑高马尾、蓝色短款治安局外套、银色肩甲、黑色战斗服、荧光绿点缀、装甲靴、枪套与配枪<br>
+      <b>神态：</b>沉着警觉，可靠而不张扬<br><br>
+      <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/zhu-yuan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/zhu-yuan/2d/qa/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1245,7 +1272,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>绝区零</b> · 7 位角色　<kbd>展开</kbd></summary>
+<summary><b>绝区零</b> · 8 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1256,6 +1283,7 @@
 | 安比·德玛拉 | 2D | `anby-demara` | [下载 ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | 柏妮思 | 2D | `burnice-white` | [下载 ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | 莱特 | 2D | `lighter` | [下载 ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
+| 朱鸢 | 2D | `zhu-yuan` | [下载 ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 
 </details>
 

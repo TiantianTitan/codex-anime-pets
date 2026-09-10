@@ -1,0 +1,8 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve identity and state semantics; row 4 now maintains stable scale through crouch, ascent, apex, landing, and stand with a clean loop boundary.",
+  "direction_semantics": "000 pass—clear up gaze;022.5 pass—subtle up-right onset;045 pass—clear up-right turn;067.5 pass—strong up-right pose;090 pass—unmistakable screen-right profile;112.5 pass—clear down-right onset;135 pass—clear down-right gaze;157.5 pass—mostly down with retained right cue;180 pass—unmistakable centered down gaze;202.5 warning—left onset is subtle but loop-coherent;225 pass—clear down-left gaze;247.5 pass—strong down-left turn;270 pass—unmistakable screen-left profile;292.5 pass—clear up-left onset;315 pass—clear up-left gaze;337.5 warning—left cue is subtle but closes coherently into 000",
+  "review_warnings": "row 4 stable-slots extraction visually accepted with no scale pop or clipping;202.5 and 337.5 have subtle horizontal cues;blind intermediate warnings for 202.5, 225, and 337.5 are accepted minor resolutions;157.5→180 widening and continuity metric/hole-candidate warnings show no visible snap, seam, or broken silhouette",
+  "repair_rows": "none",
+  "repair_notes": "none"
+}

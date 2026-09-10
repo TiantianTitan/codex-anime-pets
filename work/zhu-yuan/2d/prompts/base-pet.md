@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Zhu Yuan.
+
+Pet identity: Humanoid Zhu Yuan in compact chibi proportions: charcoal-black high side ponytail with a vivid orange-red streak, amber-red eyes, blue cropped Public Security jacket over a black fitted combat uniform, silver shoulder armor, lime-green tie and waist accents, segmented black thigh armor, blue shoes, dark gloves, and compact blue-red sidearm kept physically attached or holstered. Preserve her alert professional composure. No readable logos or text..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Polished 2D anime sticker matching the existing Codex Anime Pets collection; crisp dark outlines, clean cel shading, compact whole-body silhouette, large expressive head, no pixel art..
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

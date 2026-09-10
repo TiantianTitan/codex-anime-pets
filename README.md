@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>38 CHARACTERS</code>
-  <code>39 EDITIONS</code>
+  <code>39 CHARACTERS</code>
+  <code>40 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -34,22 +34,22 @@
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.webp" width="100%" alt="Burnice White surrounded by all 16 validated look directions"></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.webp" width="100%" alt="Burnice White surrounded by all 16 validated look directions"></a>
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>Open the full direction QA</kbd></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>Open the full direction QA</kbd></a>
 </p>
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Lighter, Raiden Shogun, and Bronya">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Raiden Shogun, Bronya, and Zhu Yuan">
 </p>
 
 <p align="center">
-  <a href="#character-36-lighter"><kbd>Lighter</kbd></a>
   <a href="#character-37-raiden-shogun"><kbd>Raiden Shogun</kbd></a>
   <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
+  <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 38 characters and 39 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 39 characters and 40 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -83,12 +83,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 6</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 7</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 8</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 38 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 39 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -271,24 +271,24 @@
     </td>
     <td align="center" valign="top" width="33%">
       <sub>32</sub><br>
-      <a href="#character-32-burnice-white"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="Burnice White idle animation"></a><br>
+      <a href="#character-32-burnice-white"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="Burnice White idle animation"></a><br>
       <b>「 Burnice 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>33</sub><br>
-      <a href="#character-33-sparkle"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="Sparkle idle animation"></a><br>
+      <a href="#character-33-sparkle"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="Sparkle idle animation"></a><br>
       <b>「 Sparkle 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
-      <a href="#character-34-venti"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="Venti idle animation"></a><br>
+      <a href="#character-34-venti"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="Venti idle animation"></a><br>
       <b>「 Venti 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
-      <a href="#character-35-fu-hua"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="Fu Hua idle animation"></a><br>
+      <a href="#character-35-fu-hua"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="Fu Hua idle animation"></a><br>
       <b>「 Fu&nbsp;Hua 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
@@ -299,17 +299,22 @@
   </tr>
 </table>
 
-<table align="center" width="68%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>37</sub><br>
       <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Shogun idle animation"></a><br>
       <b>「 Raiden&nbsp;Shogun 」</b><br>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>38</sub><br>
       <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="Bronya idle animation"></a><br>
       <b>「 Bronya 」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>39</sub><br>
+      <a href="#character-39-zhu-yuan"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Zhu Yuan idle animation"></a><br>
+      <b>「 Zhu&nbsp;Yuan 」</b><br>
     </td>
   </tr>
 </table>
@@ -439,13 +444,13 @@ One character, two distinct visual editions:
   <tr>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D</b></a><br>
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-2d-look-directions.png">16 look directions</a>
+      <a href="work/raiden-mei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/raiden-mei/2d/qa/look-directions.png">16 look directions</a>
     </td>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Download 3D style</b></a><br>
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-impact-3rd/raiden-mei/qa/raiden-mei-3d-look-directions.png">16 look directions</a>
+      <a href="work/raiden-mei/3d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/raiden-mei/3d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -468,8 +473,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> heterochromia, striped haori, and Kaburamaru curled close by<br>
       <b>Mood:</b> reserved, watchful, and sharply attentive<br><br>
       <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="others/obanai-iguro/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="others/obanai-iguro/qa/direction-qa.png">16 look directions</a>
+      <a href="work/obanai/2d/qa/contact-sheet.png">Animation sheet</a> ·
+      <a href="work/obanai/2d/qa/direction-qa.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -864,8 +869,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> thick twin braids fading from pink to lime green, vivid green eyes, a white haori over her dark uniform, green striped socks, and sandals<br>
       <b>Mood:</b> warm, candid, and full of bright energy, with an affection that feels every bit as strong as her resolve<br><br>
       <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="others/mitsuri-kanroji/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="others/mitsuri-kanroji/qa/direction-qa.png">16 look directions</a>
+      <a href="work/mitsuri-kanroji/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/mitsuri-kanroji/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -886,8 +891,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered wine-purple hair with long side locks, sunglasses resting on her crown, mauve-pink eyes, a white high-collar blouse, an asymmetric black-violet coat with web accents, dark tights with magenta thigh straps, wine-purple gloves, and black ankle boots<br>
       <b>Mood:</b> poised and enigmatic, with the unhurried confidence of someone who already knows how the scene will end<br><br>
       <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="honkai-star-rail/Kafka/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-star-rail/Kafka/qa/direction-qa.png">16 look directions</a>
+      <a href="work/kafka/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kafka/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -908,8 +913,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered pale-gold hair tied into a low side ponytail, green eyes, a navy-violet long coat with gold piping and shoulder capelet, a white ruffled shirt, rose cravat, lavender waistcoat, white gloves, charcoal trousers, and brown knee-high boots<br>
       <b>Mood:</b> polished and composed, with the quiet authority of someone already considering the next several moves<br><br>
       <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-impact-3rd/Otto-Apocalypse/qa/direction-qa.png">16 look directions</a>
+      <a href="work/otto-apocalypse/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/otto-apocalypse/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1040,8 +1045,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> blonde twin ponytails, red-orange eyes, red-and-black goggles, flame-accented cropped biker jacket, red scarf, pleated skirt, asymmetric boots, gold fittings, and an attached compact fuel backpack<br>
       <b>Mood:</b> lively, fearless, and warmly exuberant, with an irrepressible grin and the energy to turn every quiet moment into a celebration<br><br>
       <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="zenless-zone-zero/Burnice%20White/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png">16 look directions</a>
+      <a href="work/burnice-white/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/burnice-white/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1062,8 +1067,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> dark twin tails, crimson bows, vivid magenta eyes, cheek beauty marks, a tilted fox mask, bell choker, and an ornate red-black-white stage outfit with gold cords and patterned sash ends<br>
       <b>Mood:</b> playful and theatrical, with a sly smile that makes every desktop moment feel like part of the performance<br><br>
       <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="honkai-star-rail/Sparkle/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-star-rail/Sparkle/qa/direction-qa.png">16 look directions</a>
+      <a href="work/sparkle/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/sparkle/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1084,8 +1089,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> teal eyes, navy hair with teal-tipped braids, green bard cap with cream flower and feather, green-and-cream cape, white ruffled shirt, green shorts, white tights, brown shoes, and an attached wooden lyre<br>
       <b>Mood:</b> bright and easygoing, with the playful charm of a bard who always seems to bring a little breeze with him<br><br>
       <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="genshin-impact/Venti/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="genshin-impact/Venti/qa/direction-qa.png">16 look directions</a>
+      <a href="work/venti/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/venti/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1106,8 +1111,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> cyan eyes, red rectangular glasses, slate blue-violet hair, a low side ponytail with a red bead, blue-and-white Accipiter combat tunic, dark fitted trousers, and brown lace-up boots<br>
       <b>Mood:</b> calm and disciplined, with the measured confidence of a martial artist who never wastes a movement<br><br>
       <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="honkai-impact-3rd/Fu%20Hua/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="honkai-impact-3rd/Fu%20Hua/qa/direction-qa.png">16 look directions</a>
+      <a href="work/fu-hua/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/fu-hua/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1174,6 +1179,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
       <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
       <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-39-zhu-yuan" name="character-39-zhu-yuan"></a>
+<details>
+<summary><b>39 · Zhu Yuan</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/zhu-yuan.webp" width="190" alt="Zhu Yuan idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> amber-red eyes, charcoal-black high ponytail with an orange-red streak, a cropped blue Public Security jacket, silver shoulder armor, black combat uniform, lime accents, armored boots, holster, and sidearm<br>
+      <b>Mood:</b> disciplined, alert, and quietly dependable<br><br>
+      <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/zhu-yuan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/zhu-yuan/2d/qa/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1247,7 +1274,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 7 companions　<kbd>Open</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 8 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1258,6 +1285,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Anby Demara | 2D | `anby-demara` | [Download ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | Burnice White | 2D | `burnice-white` | [Download ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | Lighter | 2D | `lighter` | [Download ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
+| Zhu Yuan | 2D | `zhu-yuan` | [Download ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 
 </details>
 

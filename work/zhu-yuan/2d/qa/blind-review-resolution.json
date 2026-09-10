@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "resolution": "accepted_minor_intermediate_warnings",
+  "cardinal_gates": "pass",
+  "reviewed_directions": [
+    {
+      "direction": "337.5",
+      "blind_warning": "horizontal cue was read as screen-right by two reviewers",
+      "labeled_review": "warning",
+      "resolution": "Accepted as a subtle up-left intermediate: the facial plane and pupils retain a small screen-left offset, the vertical-up cue is clear, and the ordered loop closes into 000 without reversal or ponytail-side snap."
+    },
+    {
+      "direction": "225",
+      "blind_warning": "horizontal cue was read as screen-right by two reviewers",
+      "labeled_review": "pass",
+      "resolution": "Accepted after labeled normal-size review: nose, pupil, and cheek plane progress screen-left between 202.5 and 247.5 while the low iris and tucked chin preserve down; no wrong-quadrant reversal is visible in the loop."
+    },
+    {
+      "direction": "202.5",
+      "blind_warning": "horizontal cue was read as screen-right by two reviewers",
+      "labeled_review": "warning",
+      "resolution": "Accepted as the intentionally subtle first step after 180: the down cue is unmistakable and the face begins a coherent screen-left turn that strengthens through 225 and 247.5."
+    }
+  ],
+  "evidence": [
+    "qa/look-directions.png",
+    "qa/look-continuity.json",
+    "qa/look-row-10-stage-review.json",
+    "qa/direction-blind-validation.json"
+  ]
+}

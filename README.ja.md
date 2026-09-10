@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>38 キャラクター</code>
-  <code>39 エディション</code>
+  <code>39 キャラクター</code>
+  <code>40 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -33,21 +33,21 @@
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><img src="assets/readme/direction-orbit.ja.webp" width="100%" alt="バーニスと検証済みの16方向ビュー"></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.ja.webp" width="100%" alt="バーニスと検証済みの16方向ビュー"></a>
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Burnice%20White/qa/direction-qa.png"><kbd>方向チェックを開く</kbd></a>
+  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>方向チェックを開く</kbd></a>
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="ライト、雷電将軍、ブローニャの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="雷電将軍、ブローニャ、朱鳶の新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="#downloads-zenless-zone-zero"><kbd>ライト</kbd></a>
   <a href="#downloads-genshin-impact"><kbd>雷電将軍</kbd></a>
   <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><kbd>ブローニャ</kbd></a>
+  <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><kbd>朱鳶</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="38キャラクター、39エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="39キャラクター、40エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 6</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 7</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 8</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 38キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 39キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -143,20 +143,21 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%"><sub>31</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="zenless-zone-zero/Burnice%20White/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="honkai-star-rail/Sparkle/qa/previews/idle.gif" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="genshin-impact/Venti/qa/previews/idle.gif" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="honkai-impact-3rd/Fu%20Hua/qa/previews/idle.gif" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
     <td align="center" valign="top" width="33%"><sub>36</sub><br><a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="ライトの待機アニメーション"></a><br><b>「 ライト 」</b></td>
   </tr>
 </table>
 
-<table align="center" width="68%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%"><sub>37</sub><br><a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷電将軍の待機アニメーション"></a><br><b>「 雷電将軍 」</b></td>
-    <td align="center" valign="top" width="50%"><sub>38</sub><br><a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="ブローニャの待機アニメーション"></a><br><b>「 ブローニャ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>37</sub><br><a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷電将軍の待機アニメーション"></a><br><b>「 雷電将軍 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>38</sub><br><a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="ブローニャの待機アニメーション"></a><br><b>「 ブローニャ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>39</sub><br><a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="朱鳶の待機アニメーション"></a><br><b>「 朱鳶 」</b></td>
   </tr>
 </table>
 
@@ -237,7 +238,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>ゼンレスゾーンゼロ</b> · 7キャラクター　<kbd>開く</kbd></summary>
+<summary><b>ゼンレスゾーンゼロ</b> · 8キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -248,6 +249,7 @@
 | アンビー・デマラ | 2D | `anby-demara` | [ZIP](zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip) |
 | バーニス | 2D | `burnice-white` | [ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | ライト | 2D | `lighter` | [ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
+| 朱鳶 | 2D | `zhu-yuan` | [ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 
 </details>
 
