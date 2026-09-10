@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>39 PERSONNAGES</code>
-  <code>40 ÉDITIONS</code>
+  <code>40 PERSONNAGES</code>
+  <code>41 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Shogun Raiden, Bronya et Zhu Yuan">
+  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Bronya, Zhu Yuan et Seele">
 </p>
 
 <p align="center">
-  <a href="#character-37-raiden-shogun"><kbd>Shogun Raiden</kbd></a>
   <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
   <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
+  <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 39 personnages et 40 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 40 personnages et 41 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 6</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 8</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 39 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 40 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -315,13 +315,19 @@
       <b>「 Zhu&nbsp;Yuan 」</b><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <sub>40</sub><br>
+      <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Seele Vollerei"></a><br>
+      <b>「 Seele 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>Qui nous rejoindra ?</b><br>
+      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
-  <b>Qui nous rejoindra ?</b><br>
-  <sub>Apportez une référence · Faites éclore un compagnon</sub>
-</p>
 
  </details>
 
@@ -1205,6 +1211,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-40-seele-vollerei" name="character-40-seele-vollerei"></a>
+<details>
+<summary><b>40 · Seele Vollerei</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/seele-vollerei.webp" width="190" alt="Seele Vollerei au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> carré court bleu-noir aux pointes cobalt et violettes, yeux bleu vif, manches courtes blanches, robe-gilet cobalt, jupe superposée bleu nuit et violette aux motifs papillon, bas blancs montant aux cuisses et babies bleu nuit<br>
+      <b>Présence :</b> douce et réservée, avec un courage discret derrière son regard paisible<br><br>
+      <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/seele-vollerei/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/seele-vollerei/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1256,7 +1284,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 6 personnages / 7 éditions　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 7 personnages / 8 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1267,6 +1295,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Kiana Kaslana | 2D | `kiana-kaslana` | [Télécharger](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 | Fu Hua | 2D | `fu-hua` | [Télécharger](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 | Bronya | 2D | `bronya-zaychik` | [Télécharger](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
+| Seele Vollerei | 2D | `seele-vollerei` | [Télécharger](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 
 </details>
 

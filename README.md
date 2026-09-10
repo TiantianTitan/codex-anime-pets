@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>39 CHARACTERS</code>
-  <code>40 EDITIONS</code>
+  <code>40 CHARACTERS</code>
+  <code>41 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Raiden Shogun, Bronya, and Zhu Yuan">
+  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Bronya, Zhu Yuan, and Seele">
 </p>
 
 <p align="center">
-  <a href="#character-37-raiden-shogun"><kbd>Raiden Shogun</kbd></a>
   <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
   <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
+  <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 39 characters and 40 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 40 characters and 41 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,13 +82,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 6</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 8</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 39 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 40 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -317,13 +317,19 @@
       <b>「 Zhu&nbsp;Yuan 」</b><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <sub>40</sub><br>
+      <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="Seele Vollerei idle animation"></a><br>
+      <b>「 Seele 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
+      <b>Who joins next?</b><br>
+      <sub>Bring a reference · Hatch a companion</sub>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
-  <b>Who joins next?</b><br>
-  <sub>Bring a reference · Hatch a companion</sub>
-</p>
 
 </details>
 
@@ -1207,6 +1213,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-40-seele-vollerei" name="character-40-seele-vollerei"></a>
+<details>
+<summary><b>40 · Seele Vollerei</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/seele-vollerei.webp" width="190" alt="Seele Vollerei idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> short blue-black bob with cobalt-violet tips, bright blue eyes, white short sleeves, a deep-cobalt fitted vest dress, layered navy-violet butterfly skirt, white thigh-highs, and dark Mary Jane shoes<br>
+      <b>Mood:</b> gentle and soft-spoken, with quiet courage beneath her calm gaze<br><br>
+      <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/seele-vollerei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/seele-vollerei/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1258,7 +1286,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 6 characters / 7 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 7 characters / 8 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1269,6 +1297,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Kiana Kaslana | 2D | `kiana-kaslana` | [Download ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 | Fu Hua | 2D | `fu-hua` | [Download ZIP](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 | Bronya | 2D | `bronya-zaychik` | [Download ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
+| Seele Vollerei | 2D | `seele-vollerei` | [Download ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 
 </details>
 

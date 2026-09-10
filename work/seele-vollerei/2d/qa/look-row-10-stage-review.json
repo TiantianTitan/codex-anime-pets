@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "severity": "none",
+  "issue": "none",
+  "recommended_action": "accept_row10",
+  "review_scope": "assembled 192x208 direction cells including the 337.5-to-000 wrap",
+  "directions": [
+    "180",
+    "202.5",
+    "225",
+    "247.5",
+    "270",
+    "292.5",
+    "315",
+    "337.5"
+  ]
+}

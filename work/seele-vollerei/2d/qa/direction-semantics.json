@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction":"000","classification":"up","pass":true,"note":"Eyes and chin lift clearly upward."},
+    {"direction":"022.5","classification":"up-right","pass":true,"note":"Eyes remain raised while the face begins shifting screen-right."},
+    {"direction":"045","classification":"up-right","pass":true,"note":"Upward gaze combines with a clear screen-right head turn."},
+    {"direction":"067.5","classification":"up-right","pass":true,"note":"Face points strongly screen-right with a retained upward eye cue."},
+    {"direction":"090","classification":"right","pass":true,"note":"Head, nose, and pupils unmistakably point toward screen-right."},
+    {"direction":"112.5","classification":"down-right","pass":true,"note":"Face remains screen-right while eyes and chin begin lowering."},
+    {"direction":"135","classification":"down-right","pass":true,"note":"Lowered gaze and bowed head retain a visible screen-right bias."},
+    {"direction":"157.5","classification":"down-right","pass":true,"note":"Deep downward pose preserves a subtle screen-right facial offset."},
+    {"direction":"180","classification":"down","pass":true,"note":"Centered bowed head and lowered eyes unmistakably indicate down."},
+    {"direction":"202.5","classification":"down-left","pass":true,"note":"Eyes and face stay lowered while shifting toward screen-left."},
+    {"direction":"225","classification":"down-left","pass":true,"note":"Downward gaze combines with a clear screen-left head turn."},
+    {"direction":"247.5","classification":"down-left","pass":true,"note":"Face points strongly screen-left with a retained downward cue."},
+    {"direction":"270","classification":"left","pass":true,"note":"Head, nose, and pupils unmistakably point toward screen-left."},
+    {"direction":"292.5","classification":"up-left","pass":true,"note":"Face remains screen-left while eyes and chin begin lifting."},
+    {"direction":"315","classification":"up-left","pass":true,"note":"Raised gaze retains a clear screen-left facial offset."},
+    {"direction":"337.5","classification":"up-left","pass":true,"note":"Subtle screen-left bias and lifted eyes transition continuously into 000."}
+  ]
+}

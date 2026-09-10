@@ -1,0 +1,17 @@
+{
+  "visual_qa": "pass",
+  "severity": "none",
+  "issue": "none",
+  "recommended_action": "accept_row9",
+  "review_scope": "registered 1536x208 row at normal cell size",
+  "directions": [
+    "000",
+    "022.5",
+    "045",
+    "067.5",
+    "090",
+    "112.5",
+    "135",
+    "157.5"
+  ]
+}

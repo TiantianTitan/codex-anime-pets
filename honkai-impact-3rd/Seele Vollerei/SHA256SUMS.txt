@@ -1,0 +1,3 @@
+f921c245e82c15bfee7dd63ebe9cea288b445f14c053673b6b13a762c7235c9c  seele-vollerei-2d-codex-pet-v2.zip
+b03fbea06c6a52e8a565bf277a86e2a42ba64f0405283cb9aad9e238bfd6a89f  seele-vollerei-2d/pet.json
+9b4065b88077c4dba8891fda7a27c8a6bec2c05282127d120d82614d2ca6f3f0  seele-vollerei-2d/spritesheet.webp

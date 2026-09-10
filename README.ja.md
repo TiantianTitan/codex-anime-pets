@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>39 キャラクター</code>
-  <code>40 エディション</code>
+  <code>40 キャラクター</code>
+  <code>41 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="雷電将軍、ブローニャ、朱鳶の新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp" width="100%" alt="ブローニャ、朱鳶、ゼーレの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>雷電将軍</kbd></a>
   <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><kbd>ブローニャ</kbd></a>
   <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><kbd>朱鳶</kbd></a>
+  <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><kbd>ゼーレ</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="39キャラクター、40エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp" width="100%" alt="40キャラクター、41エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 6</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 7</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 8</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 39キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 40キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -159,13 +159,11 @@
     <td align="center" valign="top" width="33%"><sub>38</sub><br><a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="ブローニャの待機アニメーション"></a><br><b>「 ブローニャ 」</b></td>
     <td align="center" valign="top" width="33%"><sub>39</sub><br><a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="朱鳶の待機アニメーション"></a><br><b>「 朱鳶 」</b></td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><sub>40</sub><br><a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="ゼーレの待機アニメーション"></a><br><b>「 ゼーレ 」</b></td>
+    <td align="center" valign="middle" width="50%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br>
-  <b>次は誰？</b><br>
-  <sub>参考画像から、新しい仲間を孵化させよう</sub>
-</p>
 
 </details>
 
@@ -222,7 +220,7 @@
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>崩壊3rd</b> · 6キャラクター / 7エディション　<kbd>開く</kbd></summary>
+<summary><b>崩壊3rd</b> · 7キャラクター / 8エディション　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -233,6 +231,7 @@
 | キアナ・カスラナ | 2D | `kiana-kaslana` | [ZIP](honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip) |
 | フカ | 2D | `fu-hua` | [ZIP](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 | ブローニャ | 2D | `bronya-zaychik` | [ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
+| ゼーレ | 2D | `seele-vollerei` | [ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 
 </details>
 
