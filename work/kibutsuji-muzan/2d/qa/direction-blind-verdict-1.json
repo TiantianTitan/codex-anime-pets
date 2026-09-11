@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A nose projects left of the hair mass; B nose projects right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A pale profile extends left; B pale profile extends right."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A shows a clear left-facing nose profile; B shows a right-facing profile."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A nose and face project right from the hair; B projects left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A lowered face extends to the right; B lowered face extends to the left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A face projection and nose sit right of the head center; B mirrors them left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A nose offsets left with the ear visible on the right; B reverses that offset."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A has a tucked chin and lower gaze; B lifts the chin with higher irises and visible brim underside."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A face angles beneath the brim; B exposes more underside and raises the face."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A eyes and chin are lowered; B eyes sit higher with the chin lifted."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A profile tilts upward with more brim underside; B tucks downward under the brim."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A chin and irises are raised; B chin and gaze are lowered."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A face lifts away from the brim; B face is tucked beneath it."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A gaze is lowered under the brim; B profile lifts with a higher chin and iris."}
+  ]
+}

@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>41 个角色</code>
-  <code>42 个版本</code>
+  <code>42 个角色</code>
+  <code>43 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=41" width="100%" alt="朱鸢、希儿和薇薇安的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=42" width="100%" alt="希儿、薇薇安和无惨的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-39-zhu-yuan"><kbd>朱鸢</kbd></a>
   <a href="#character-40-seele-vollerei"><kbd>希儿</kbd></a>
   <a href="#character-41-vivian-banshee"><kbd>薇薇安</kbd></a>
+  <a href="#character-42-kibutsuji-muzan"><kbd>无惨</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=41" width="100%" alt="包含四十一位角色、四十二个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=42" width="100%" alt="包含四十二位角色、四十三个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,11 +82,11 @@
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 7</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 9</kbd></a>
-  <a href="#downloads-others"><kbd>其他 · 2</kbd></a>
+  <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 41 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 42 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -326,7 +326,14 @@
       <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="薇薇安的待机动画"></a><br>
       <b>「 薇薇安 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>42</sub><br>
+      <a href="#character-42-kibutsuji-muzan"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="无惨的待机动画"></a><br>
+      <b>「 无惨 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图 · 孵化新的伙伴</sub>
@@ -1260,6 +1267,28 @@
 
 </details>
 
+<a id="character-42-kibutsuji-muzan" name="character-42-kibutsuji-muzan"></a>
+<details>
+<summary><b>42 · 无惨</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kibutsuji-muzan.webp" width="190" alt="无惨的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>黑色帽带的宽檐白礼帽、狭长的猩红眼睛、带两缕卷曲鬓发的黑色短发、修身黑色西装、宽松白色长裤与黑色礼鞋<br>
+      <b>神态：</b>举止无可挑剔，平静里藏着不动声色的压迫感<br><br>
+      <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kibutsuji-muzan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kibutsuji-muzan/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1346,12 +1375,13 @@
 
 <a id="downloads-others"></a>
 <details>
-<summary><b>其他</b> · 2 位角色　<kbd>展开</kbd></summary>
+<summary><b>其他</b> · 3 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
 | 伊黑小芭内 | 2D | `obanai` | [下载 ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
 | 甘露寺蜜璃 | 2D | `mitsuri-kanroji` | [下载 ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| 鬼舞辻无惨 | 2D | `kibutsuji-muzan` | [下载 ZIP](others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip) |
 
 </details>
 

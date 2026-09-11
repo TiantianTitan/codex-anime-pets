@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's pale face and nose project left of the hair mass; B's project right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's nose projects toward the left edge; B's nose projects toward the right edge."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A shows a leftward facial profile; B shows the mirrored rightward profile."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's pale face projects right from beneath the brim; B's projects left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's visible face and nose sit on the head's right side; B's sit on its left side."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's lowered face still projects to the right; B's pale facial profile projects left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A's face emerges on the left of the black hair; B's emerges on the right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A has a tucked chin and low gaze; B lifts the chin and exposes more brim underside."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's eyes and face angle downward beneath the brim; B's irises and chin are raised."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A has a lowered gaze and tucked face; B looks upward with a lifted chin."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A's side profile lifts the chin; B lowers the face beneath the brim."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A shows raised irises and more hat underside; B has a lowered gaze and tucked chin."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's face tilts upward with elevated eyes; B angles downward under the brim."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's eyes and chin are lowered; B's profile has a distinctly raised chin and gaze."}
+  ]
+}

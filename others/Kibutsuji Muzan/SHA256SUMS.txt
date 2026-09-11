@@ -1,0 +1,3 @@
+cc014559dba89c06a6d52ce83e7640f64b8b41d4f62a67eeecf0fad6d97e9929  kibutsuji-muzan-2d-codex-pet-v2.zip
+15d61943de5bd1e504d70a8c8f72cba1ff618751a074dd711f4d9e1bce171ae9  kibutsuji-muzan-2d/pet.json
+81a03b26f87e7607754ea8519df08572d5014534b7cee8bd1ac4cdf5250bbbd4  kibutsuji-muzan-2d/spritesheet.webp

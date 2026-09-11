@@ -1,0 +1,20 @@
+{
+  "overall": "pass",
+  "standard_rows_overall": "pass",
+  "directions_overall": "pass",
+  "validation": "pass",
+  "native_animation_frames_reviewed": 57,
+  "direction_semantics_reviewed": 16,
+  "repaired_rows": {
+    "running-left": "pass; no detached shoe or fragment remains",
+    "jumping": "pass; stable character scale across a low-rise-apex-fall-low path",
+    "review": "pass; head-to-body proportion remains consistent with idle"
+  },
+  "accepted_warnings": [
+    "jumping uses stable-slots extraction to preserve source scale and vertical travel",
+    "067.5->090 numeric difference is not a visible snap at normal size",
+    "247.5->270 numeric difference and center shift are not a visible snap at normal size"
+  ],
+  "repair_note": "No further repair required after the post-repair full playback review.",
+  "reviewed_by": "independent final visual QA worker"
+}

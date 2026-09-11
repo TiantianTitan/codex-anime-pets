@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>41 CHARACTERS</code>
-  <code>42 EDITIONS</code>
+  <code>42 CHARACTERS</code>
+  <code>43 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=41" width="100%" alt="Animated new arrivals showcase with Zhu Yuan, Seele, and Vivian">
+  <img src="assets/readme/new-arrivals-stage.webp?v=42" width="100%" alt="Animated new arrivals showcase with Seele, Vivian, and Muzan">
 </p>
 
 <p align="center">
-  <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
   <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
   <a href="#character-41-vivian-banshee"><kbd>Vivian</kbd></a>
+  <a href="#character-42-kibutsuji-muzan"><kbd>Muzan</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=41" width="100%" alt="Complete Codex Anime Pets collection wall with 41 characters and 42 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=42" width="100%" alt="Complete Codex Anime Pets collection wall with 42 characters and 43 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -84,11 +84,11 @@
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 9</kbd></a>
-  <a href="#downloads-others"><kbd>Others · 2</kbd></a>
+  <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 41 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 42 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -328,7 +328,14 @@
       <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="Vivian Banshee idle animation"></a><br>
       <b>「 Vivian 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>42</sub><br>
+      <a href="#character-42-kibutsuji-muzan"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="Kibutsuji Muzan idle animation"></a><br>
+      <b>「 Muzan 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference · Hatch a companion</sub>
@@ -1262,6 +1269,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-42-kibutsuji-muzan" name="character-42-kibutsuji-muzan"></a>
+<details>
+<summary><b>42 · Muzan</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kibutsuji-muzan.webp" width="190" alt="Kibutsuji Muzan idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> broad white fedora with a black band, narrow crimson eyes, short wavy black hair with curled cheek locks, fitted black tailoring, loose white trousers, and black dress shoes<br>
+      <b>Mood:</b> immaculate composure edged with quiet menace<br><br>
+      <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kibutsuji-muzan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kibutsuji-muzan/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1348,12 +1377,13 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-others"></a>
 <details>
-<summary><b>Others</b> · 2 companions　<kbd>Open</kbd></summary>
+<summary><b>Others</b> · 3 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
 | Obanai | 2D | `obanai` | [Download ZIP](others/obanai-iguro/obanai-2d-codex-pet-v2.zip) |
 | Mitsuri Kanroji | 2D | `mitsuri-kanroji` | [Download ZIP](others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip) |
+| Kibutsuji Muzan | 2D | `kibutsuji-muzan` | [Download ZIP](others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip) |
 
 </details>
 
