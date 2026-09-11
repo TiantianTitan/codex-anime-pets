@@ -1465,6 +1465,12 @@ New pets, animation repairs, presentation improvements, and workflow refinements
 
 If you would like a character featured in the animated gallery, include a contact sheet or a few `192×208` GIF previews.
 
+## Copyright and fan-work notice
+
+This repository contains unofficial fan-created character animations. Some visual assets were generated with Codex or other AI tools and may constitute derivative fan works. Statements such as “non-commercial,” “for study and exchange only,” “all rights belong to their respective owners,” “AI-generated,” “fan work,” or “contact us for removal” express the project’s position only. They do **not** grant permission from any rights holder, transfer third-party rights, create a copyright exception, prevent a claim or takedown, or otherwise resolve possible copyright issues.
+
+Any open-source license in this repository applies only to original code and material that the relevant contributor has the right to license. It does not license third-party character names, character designs, artwork, trademarks, or source material. Rights to third-party works remain with their respective owners. Before redistributing, publishing, or commercially using any character asset, you are responsible for determining whether permission is required and obtaining it where necessary.
+
 ## About this collection
 
 Codex may live in a text box, but its companion does not have to. These pets wait with you, react with you, and make the quiet moments between tasks feel a little less empty.
@@ -1485,5 +1491,3 @@ If this collection made you smile, leave a Star, make a Fork, or bring the next 
   <a href="#contribute-a-character"><kbd>Request a character</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>Build your own pet</kbd></a>
 </p>
-
-<sub>The original copyrights of miHoYo characters and related source material belong to miHoYo. Rights to characters from other works remain with their respective owners. This repository is an unofficial technical and animation showcase; please confirm the applicable licensing scope before public distribution or commercial use.</sub>

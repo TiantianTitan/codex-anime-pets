@@ -1463,6 +1463,12 @@ Les nouveaux compagnons, corrections d’animation, améliorations de présentat
 
 Pour faire apparaître un personnage dans la galerie animée, ajoutez une planche de contact ou quelques aperçus GIF en `192×208`.
 
+## Avis relatif aux droits d’auteur et aux créations de fans
+
+Ce dépôt contient des animations non officielles créées par des fans. Certains éléments visuels ont été générés avec Codex ou d’autres outils d’IA et peuvent constituer des œuvres dérivées. Les mentions telles que « usage non commercial », « uniquement à des fins d’étude et d’échange », « tous les droits appartiennent à leurs titulaires respectifs », « généré par IA », « création de fan » ou « contactez-nous pour demander le retrait » expriment uniquement la position du projet. Elles ne constituent **pas** une autorisation accordée par les titulaires de droits, ne transfèrent aucun droit de tiers, ne créent aucune exception au droit d’auteur, n’empêchent aucune réclamation ou demande de retrait et ne règlent pas autrement les éventuelles questions de droits d’auteur.
+
+Toute licence open source présente dans ce dépôt s’applique uniquement au code original et aux éléments que le contributeur concerné a le droit de placer sous licence. Elle ne couvre pas les noms ou designs de personnages, illustrations, marques ou sources appartenant à des tiers. Les droits sur les œuvres de tiers restent la propriété de leurs titulaires respectifs. Avant de redistribuer, publier ou exploiter commercialement un élément lié à un personnage, il appartient à l’utilisateur de vérifier si une autorisation est requise et, le cas échéant, de l’obtenir.
+
 ## À propos de la collection
 
 Codex habite peut-être dans une zone de texte, mais son compagnon peut respirer, attendre et réagir à vos côtés. Même les instants calmes entre deux tâches ont alors un peu plus de présence.
@@ -1483,5 +1489,3 @@ Si cette collection vous a plu, laissez une Star, créez un Fork ou proposez le 
   <a href="#contribute-a-character"><kbd>Proposer un personnage</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>Créer votre propre compagnon</kbd></a>
 </p>
-
-<sub>Les droits sur les personnages appartiennent à leurs détenteurs respectifs. Ce dépôt est une présentation technique et animée non officielle ; vérifiez les licences des personnages et des sources avant toute diffusion publique ou utilisation commerciale.</sub>
