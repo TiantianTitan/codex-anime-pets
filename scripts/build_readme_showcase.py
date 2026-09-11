@@ -217,6 +217,7 @@ ARCHIVE_SOURCES = [
     ("bronya-zaychik", "work/bronya-zaychik/2d/qa/previews-final/idle.gif"),
     ("zhu-yuan", "work/zhu-yuan/2d/qa/previews-final/idle.gif"),
     ("seele-vollerei", "work/seele-vollerei/2d/qa/previews-final/idle.gif"),
+    ("vivian-banshee", "work/vivian-banshee/2d/qa/previews-final/idle.gif"),
 ]
 
 
@@ -236,7 +237,7 @@ UNIVERSE_SLUGS = {
     },
     "zenless": {
         "ellen-joe", "hoshimi-miyabi", "nicole-demara", "jane-doe",
-        "anby-demara", "burnice-white", "lighter", "zhu-yuan",
+        "anby-demara", "burnice-white", "lighter", "zhu-yuan", "vivian-banshee",
     },
     "others": {"obanai", "mitsuri-kanroji"},
 }
@@ -290,7 +291,7 @@ LOCALES = {
         "arrival_kicker": "COLLECTION UPDATE",
         "arrival_lines": ("NEW", "ARRIVALS"),
         "arrival_available": "NOW AVAILABLE",
-        "arrival_names": ("BRONYA", "ZHU YUAN", "SEELE"),
+        "arrival_names": ("ZHU YUAN", "SEELE", "VIVIAN"),
         "collection_title": "COMPANION COLLECTION",
         "collection_count": "{characters} CHARACTERS / {editions} EDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "OTHERS"),
@@ -311,7 +312,7 @@ LOCALES = {
         "arrival_kicker": "MISE À JOUR DE LA COLLECTION",
         "arrival_lines": ("NOUVEAUX", "PERSONNAGES"),
         "arrival_available": "DISPONIBLES",
-        "arrival_names": ("BRONYA", "ZHU YUAN", "SEELE"),
+        "arrival_names": ("ZHU YUAN", "SEELE", "VIVIAN"),
         "collection_title": "COLLECTION DE COMPAGNONS",
         "collection_count": "{characters} PERSONNAGES / {editions} ÉDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "AUTRES"),
@@ -332,7 +333,7 @@ LOCALES = {
         "arrival_kicker": "收藏更新",
         "arrival_lines": ("新角色", "现已加入"),
         "arrival_available": "现已开放下载",
-        "arrival_names": ("布洛妮娅", "朱鸢", "希儿"),
+        "arrival_names": ("朱鸢", "希儿", "薇薇安"),
         "collection_title": "角色收藏",
         "collection_count": "{characters} 个角色 / {editions} 个版本",
         "universe_labels": ("原神", "星穹铁道", "崩坏3", "绝区零", "其他"),
@@ -353,7 +354,7 @@ LOCALES = {
         "arrival_kicker": "コレクション更新",
         "arrival_lines": ("新着", "キャラクター"),
         "arrival_available": "配布中",
-        "arrival_names": ("ブローニャ", "朱鳶", "ゼーレ"),
+        "arrival_names": ("朱鳶", "ゼーレ", "ビビアン"),
         "collection_title": "キャラクターコレクション",
         "collection_count": "{characters}キャラクター / {editions}エディション",
         "universe_labels": ("原神", "スターレイル", "崩壊3rd", "ゼンレス", "その他"),
@@ -757,9 +758,9 @@ def build_hero(locale: str = "en") -> None:
 def build_arrivals(locale: str = "en") -> None:
     copy = LOCALES[locale]
     clips = [
-        (GifClip.open("work/bronya-zaychik/2d/qa/previews-final/idle.gif"), 555, 292, 1.28, 0, copy["arrival_names"][0], (126, 220, 250)),
-        (GifClip.open("work/zhu-yuan/2d/qa/previews-final/idle.gif"), 790, 292, 1.28, 360, copy["arrival_names"][1], (255, 213, 91)),
-        (GifClip.open("work/seele-vollerei/2d/qa/previews-final/idle.gif"), 1025, 292, 1.28, 720, copy["arrival_names"][2], (126, 220, 250)),
+        (GifClip.open("work/zhu-yuan/2d/qa/previews-final/idle.gif"), 555, 292, 1.28, 0, copy["arrival_names"][0], (126, 220, 250)),
+        (GifClip.open("work/seele-vollerei/2d/qa/previews-final/idle.gif"), 790, 292, 1.28, 360, copy["arrival_names"][1], (255, 213, 91)),
+        (GifClip.open("work/vivian-banshee/2d/qa/previews-final/idle.gif"), 1025, 292, 1.28, 720, copy["arrival_names"][2], (126, 220, 250)),
     ]
     frames: list[Image.Image] = []
     for index in range(FRAME_COUNT):
@@ -775,7 +776,7 @@ def build_arrivals(locale: str = "en") -> None:
         tracking_text(draw, (52, 47), copy["arrival_kicker"], locale_font(locale, 13), (133, 231, 237, 230), 4)
         draw.text((50, 82), copy["arrival_lines"][0], font=locale_font(locale, 54, bold=True), fill=(255, 239, 192), anchor="la")
         draw.text((50, 137), copy["arrival_lines"][1], font=locale_font(locale, 42 if locale == "fr" else 47, bold=True), fill=(255, 239, 192), anchor="la")
-        tracking_text(draw, (53, 211), "038 — 040", font(SANS, 17), (255, 146, 180, 235), 5)
+        tracking_text(draw, (53, 211), "039 — 041", font(SANS, 17), (255, 146, 180, 235), 5)
         tracking_text(draw, (53, 252), copy["arrival_available"], locale_font(locale, 12), (221, 214, 238, 175), 3)
 
         for _, x, _, scale, _, _, color in clips:

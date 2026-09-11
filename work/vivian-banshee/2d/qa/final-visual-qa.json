@@ -1,0 +1,24 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All eleven rows retain Vivian's lavender gothic identity, attached parasol, clean transparency, coherent motion, and a readable sixteen-direction loop.",
+  "review_warnings": [
+    "The jumping row uses stable-slot extraction; playback is stable, unclipped, and preserves the complete low-to-apex-to-low path.",
+    "Blind intermediate ambiguity and opposite votes are accepted because the labeled normal-size loop has no wrong quadrant or reversal.",
+    "Continuity metric outliers at 157.5 to 180 and 337.5 to 000 show no visible snap, scale pop, or baseline jump.",
+    "Alpha-hole candidates are natural negative space between the legs and skirt edges, not interior artifacts."
+  ],
+  "repair_rows": [],
+  "repair_notes": null,
+  "reviewed_assets": {
+    "standard_contact_sheet": "qa/contact-sheet.png",
+    "extended_contact_sheet": "qa/contact-sheet-extended.png",
+    "direction_sheet": "qa/look-directions.png",
+    "final_previews": "qa/previews-final",
+    "frame_review": "qa/review.json",
+    "direction_semantics": "qa/direction-semantics.json",
+    "blind_validation": "qa/direction-blind-validation.json",
+    "continuity": "qa/look-continuity.json",
+    "v2_validation": "final/validation-extended.json",
+    "despill": "qa/chroma-despill-extended.json"
+  }
+}

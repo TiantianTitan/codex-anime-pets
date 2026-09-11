@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>40 个角色</code>
-  <code>41 个版本</code>
+  <code>41 个角色</code>
+  <code>42 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp" width="100%" alt="布洛妮娅、朱鸢和希儿的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=41" width="100%" alt="朱鸢、希儿和薇薇安的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-38-bronya-zaychik"><kbd>布洛妮娅</kbd></a>
   <a href="#character-39-zhu-yuan"><kbd>朱鸢</kbd></a>
   <a href="#character-40-seele-vollerei"><kbd>希儿</kbd></a>
+  <a href="#character-41-vivian-banshee"><kbd>薇薇安</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp" width="100%" alt="包含四十位角色、四十一个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=41" width="100%" alt="包含四十一位角色、四十二个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 7</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 8</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 9</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 40 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 41 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -316,12 +316,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>40</sub><br>
       <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="希儿的待机动画"></a><br>
       <b>「 希儿 」</b><br>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="top" width="33%">
+      <sub>41</sub><br>
+      <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="薇薇安的待机动画"></a><br>
+      <b>「 薇薇安 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图 · 孵化新的伙伴</sub>
@@ -1233,6 +1238,28 @@
 
 </details>
 
+<a id="character-41-vivian-banshee" name="character-41-vivian-banshee"></a>
+<details>
+<summary><b>41 · 薇薇安</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/vivian-banshee.webp" width="190" alt="薇薇安的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>薰衣草色长发、紫色眼睛、黑紫配色的哥特连衣裙、层叠荷叶边、深色长袜、花朵饰物与淡紫色阳伞<br>
+      <b>神态：</b>优雅从容，安静中带着一丝俏皮<br><br>
+      <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1301,7 +1328,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>绝区零</b> · 8 位角色　<kbd>展开</kbd></summary>
+<summary><b>绝区零</b> · 9 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1313,6 +1340,7 @@
 | 柏妮思 | 2D | `burnice-white` | [下载 ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | 莱特 | 2D | `lighter` | [下载 ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 | 朱鸢 | 2D | `zhu-yuan` | [下载 ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
+| 薇薇安 | 2D | `vivian-banshee` | [下载 ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 
 </details>
 

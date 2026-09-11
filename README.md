@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>40 CHARACTERS</code>
-  <code>41 EDITIONS</code>
+  <code>41 CHARACTERS</code>
+  <code>42 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp" width="100%" alt="Animated new arrivals showcase with Bronya, Zhu Yuan, and Seele">
+  <img src="assets/readme/new-arrivals-stage.webp?v=41" width="100%" alt="Animated new arrivals showcase with Zhu Yuan, Seele, and Vivian">
 </p>
 
 <p align="center">
-  <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
   <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
   <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
+  <a href="#character-41-vivian-banshee"><kbd>Vivian</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp" width="100%" alt="Complete Codex Anime Pets collection wall with 40 characters and 41 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=41" width="100%" alt="Complete Codex Anime Pets collection wall with 41 characters and 42 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -83,12 +83,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 8</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 9</kbd></a>
   <a href="#downloads-others"><kbd>Others · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 40 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 41 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -318,12 +318,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>40</sub><br>
       <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="Seele Vollerei idle animation"></a><br>
       <b>「 Seele 」</b><br>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="top" width="33%">
+      <sub>41</sub><br>
+      <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="Vivian Banshee idle animation"></a><br>
+      <b>「 Vivian 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference · Hatch a companion</sub>
@@ -1235,6 +1240,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-41-vivian-banshee" name="character-41-vivian-banshee"></a>
+<details>
+<summary><b>41 · Vivian</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/vivian-banshee.webp" width="190" alt="Vivian idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> long lavender hair, violet eyes, a black-and-lilac gothic dress, layered ruffles, dark stockings, flower accents, and her lilac parasol<br>
+      <b>Mood:</b> poised and elegant, with a quietly mischievous charm<br><br>
+      <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1303,7 +1330,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 8 companions　<kbd>Open</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 9 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1315,6 +1342,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Burnice White | 2D | `burnice-white` | [Download ZIP](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | Lighter | 2D | `lighter` | [Download ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 | Zhu Yuan | 2D | `zhu-yuan` | [Download ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
+| Vivian Banshee | 2D | `vivian-banshee` | [Download ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 
 </details>
 

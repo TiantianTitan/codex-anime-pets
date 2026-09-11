@@ -1,0 +1,169 @@
+{
+  "ok": true,
+  "reviewed_by": [
+    "vivian_row9_qa",
+    "vivian_row10_qa"
+  ],
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "classification": "up",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "Both red pupils sit high while the lifted chin and upward face plane make the near-frontal pose read clearly upward.",
+      "note": "Pupils and lifted face plane read upward."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "classification": "up-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The eyes and chin retain the upward pitch while the face begins a small ordered shift toward screen-right.",
+      "note": "Subtle but ordered up-right cue."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "classification": "up-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "High red pupils and an open chin provide the vertical cue while the nose and face plane turn visibly screen-right.",
+      "note": "Clear up-right three-quarter turn."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "classification": "up-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The strong screen-right head turn and far-eye occlusion retain a readable upward eye and chin cue.",
+      "note": "Strong up-right turn."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "classification": "right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The nose, pupils, and face plane point unmistakably toward the screen-right edge with the far eye occluded.",
+      "note": "Unmistakable screen-right turn."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "classification": "down-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The face remains shifted screen-right while lowered pupils, eyelids, and chin introduce the downward axis.",
+      "note": "Readable down-right transition."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "classification": "down-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "A bowed face and lowered gaze remain paired with a clear screen-right nose and cheek offset.",
+      "note": "Clear down-right turn."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "classification": "down-right",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The deep downward pose keeps a slight screen-right facial offset and advances continuously toward the centered 180 pose.",
+      "note": "Down-right arc continues without reversal."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "classification": "down",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The face is horizontally centered while the tucked chin, lowered pupils, and downcast eyelids make the vertical direction unmistakable.",
+      "note": "Centered bowed and downcast face."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "classification": "down-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The gaze remains lowered while the nose and face plane begin a small ordered shift toward screen-left.",
+      "note": "Slight screen-left turn with lowered gaze."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "classification": "down-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "A clearer screen-left head turn combines with the downcast eye and chin angle.",
+      "note": "Clear down-left turn."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "classification": "down-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The nose and face plane turn strongly screen-left while the eyes and chin retain the downward cue.",
+      "note": "Strong screen-left turn with lowered gaze."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "classification": "left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The nose, visible pupil, and profile plane point unmistakably toward the screen-left edge.",
+      "note": "Unmistakable screen-left profile."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "classification": "up-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The screen-left profile is retained while the pupils and chin begin to rise.",
+      "note": "Left profile with raised gaze."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "classification": "up-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "The face reopens toward frontal but keeps a visible screen-left offset as the eyes and chin lift.",
+      "note": "Upward face angle with easing left turn."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "classification": "up-left",
+      "verdict": "pass",
+      "pass": true,
+      "reason": "A near-frontal raised gaze retains a subtle screen-left face offset and forms one ordinary step into 000.",
+      "note": "Near-frontal up-left closing pose."
+    }
+  ]
+}

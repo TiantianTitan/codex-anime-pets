@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>40 PERSONNAGES</code>
-  <code>41 ÉDITIONS</code>
+  <code>41 PERSONNAGES</code>
+  <code>42 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp" width="100%" alt="Présentation animée des nouveautés Bronya, Zhu Yuan et Seele">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=41" width="100%" alt="Présentation animée des nouveautés Zhu Yuan, Seele et Vivian">
 </p>
 
 <p align="center">
-  <a href="#character-38-bronya-zaychik"><kbd>Bronya</kbd></a>
   <a href="#character-39-zhu-yuan"><kbd>Zhu Yuan</kbd></a>
   <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
+  <a href="#character-41-vivian-banshee"><kbd>Vivian</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp" width="100%" alt="Collection complète de 40 personnages et 41 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=41" width="100%" alt="Collection complète de 41 personnages et 42 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 8</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 9</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 2</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 40 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 41 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -316,12 +316,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>40</sub><br>
       <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Seele Vollerei"></a><br>
       <b>「 Seele 」</b><br>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="top" width="33%">
+      <sub>41</sub><br>
+      <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Vivian Banshee"></a><br>
+      <b>「 Vivian 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence · Faites éclore un compagnon</sub>
@@ -1233,6 +1238,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-41-vivian-banshee" name="character-41-vivian-banshee"></a>
+<details>
+<summary><b>41 · Vivian</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/vivian-banshee.webp" width="190" alt="Vivian au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure lavande, yeux violets, robe gothique noire et lilas, volants superposés, bas sombres, ornements floraux et ombrelle lilas<br>
+      <b>Présence :</b> posée et élégante, avec une malice discrète<br><br>
+      <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1301,7 +1328,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 8 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 9 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1313,6 +1340,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Burnice White | 2D | `burnice-white` | [Télécharger](zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip) |
 | Lighter | 2D | `lighter` | [Télécharger](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 | Zhu Yuan | 2D | `zhu-yuan` | [Télécharger](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
+| Vivian Banshee | 2D | `vivian-banshee` | [Télécharger](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 
 </details>
 
