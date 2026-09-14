@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>43 キャラクター</code>
-  <code>44 エディション</code>
+  <code>44 キャラクター</code>
+  <code>45 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=43" width="100%" alt="ビビアン、無惨、テレサの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=44" width="100%" alt="無惨、テレサ、ライカンの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><kbd>ビビアン</kbd></a>
   <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><kbd>無惨</kbd></a>
   <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><kbd>テレサ</kbd></a>
+  <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><kbd>ライカン</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=43" width="100%" alt="43キャラクター、44エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=44" width="100%" alt="44キャラクター、45エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 8</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 9</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 10</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 43キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 44キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -166,7 +166,8 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="33%"><sub>43</sub><br><a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="テレサの待機アニメーション"></a><br><b>「 テレサ 」</b></td>
-    <td align="center" valign="middle" colspan="2"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>44</sub><br><a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="ライカンの待機アニメーション"></a><br><b>「 ライカン 」</b></td>
+    <td align="center" valign="middle" width="33%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -243,7 +244,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>ゼンレスゾーンゼロ</b> · 9キャラクター　<kbd>開く</kbd></summary>
+<summary><b>ゼンレスゾーンゼロ</b> · 10キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -256,6 +257,7 @@
 | ライト | 2D | `lighter` | [ZIP](zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip) |
 | 朱鳶 | 2D | `zhu-yuan` | [ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 | ビビアン | 2D | `vivian-banshee` | [ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
+| ライカン | 2D | `von-lycaon` | [ZIP](zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip) |
 
 </details>
 

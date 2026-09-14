@@ -1,0 +1,122 @@
+{
+  "directions": [
+    {
+      "direction": "000 up",
+      "verdict": "pass",
+      "expected": "Upward look with a centered, raised facial orientation.",
+      "observed": "Centered frontal silhouette; chin and muzzle are lifted, with both eyes symmetrically placed beneath the crest.",
+      "reason": "Cardinal up reads cleanly at normal size."
+    },
+    {
+      "direction": "022.5 up-right",
+      "verdict": "pass",
+      "expected": "Slight rightward turn while retaining a strongly upward look.",
+      "observed": "Horizontal: visible face and chest shift slightly toward screen-right. Vertical: raised chin and eye line remain close to the 000-up height.",
+      "reason": "Both landmarks advance smoothly from up toward right without losing the elevated look."
+    },
+    {
+      "direction": "045 up-right",
+      "verdict": "pass",
+      "expected": "Balanced diagonal up-right orientation.",
+      "observed": "Horizontal: right-facing muzzle and near-side torso become clearly dominant. Vertical: eyes and chin remain higher than the neutral or downward poses.",
+      "reason": "Horizontal rotation and upward facial pitch are both concrete and legible."
+    },
+    {
+      "direction": "067.5 up-right",
+      "verdict": "pass",
+      "expected": "Near-right profile with a residual upward look.",
+      "observed": "Horizontal: muzzle, chest, and legs are close to right-profile alignment; far-side features are reduced. Vertical: eye and chin placement stay raised relative to 090-right.",
+      "reason": "The pose bridges 045 and the right cardinal with distinct horizontal and vertical progression."
+    },
+    {
+      "direction": "090 right",
+      "verdict": "pass",
+      "expected": "Clear right-facing profile.",
+      "observed": "Strong right profile with one dominant eye, a projecting muzzle, and a narrow torso.",
+      "reason": "Cardinal right is unambiguous at normal size."
+    },
+    {
+      "direction": "112.5 down-right",
+      "verdict": "pass",
+      "expected": "Rightward turn with a slight downward look.",
+      "observed": "Horizontal: the profile remains right-facing with the muzzle and near arm leading screen-right. Vertical: the head and eye line settle below the 090-right pose and the shoulders read more forward and downward.",
+      "reason": "Both the rightward landmark arrangement and downward pitch transition are visible."
+    },
+    {
+      "direction": "135 down-right",
+      "verdict": "pass",
+      "expected": "Balanced diagonal down-right orientation.",
+      "observed": "Horizontal: the right-side face and body remain dominant. Vertical: the chin is lowered and the eye line slopes into the torso more than in 112.5.",
+      "reason": "Diagonal down-right reads through both side exposure and lowered facial landmarks."
+    },
+    {
+      "direction": "157.5 down-right",
+      "verdict": "pass",
+      "expected": "Near-front downward pose, still biased right.",
+      "observed": "Horizontal: the face recenters but the right-side facial and torso plane remains slightly more exposed. Vertical: the muzzle and chin are visibly lowered toward the chest.",
+      "reason": "The rotation approaches 180 smoothly while preserving a readable downward component."
+    },
+    {
+      "direction": "180 down",
+      "verdict": "pass",
+      "expected": "Centered downward look.",
+      "observed": "Near-symmetric frontal body and face with lowered eyes and chin; both arms and boots balance around the centerline.",
+      "reason": "Cardinal down is clearly distinguishable from 000 up."
+    },
+    {
+      "direction": "202.5 down-left",
+      "verdict": "pass",
+      "expected": "Slight leftward turn while retaining a downward look.",
+      "observed": "Horizontal: the facial and torso mass shift toward screen-left. Vertical: the chin remains tucked and the eye line stays low like the 180-down pose.",
+      "reason": "Concrete leftward displacement and maintained downward pitch make the diagonal readable in the labeled loop."
+    },
+    {
+      "direction": "225 down-left",
+      "verdict": "pass",
+      "expected": "Balanced diagonal down-left orientation.",
+      "observed": "Horizontal: the left-facing muzzle and near torso are dominant. Vertical: the lowered chin and eye placement remain clearly below the up-left sequence.",
+      "reason": "Both axes are expressed consistently in the normal-size cell."
+    },
+    {
+      "direction": "247.5 down-left",
+      "verdict": "pass",
+      "expected": "Near-left profile with residual downward look.",
+      "observed": "Horizontal: the muzzle and body approach a left profile with little far-side facial exposure. Vertical: the head remains lowered relative to 270-left.",
+      "reason": "The pose transitions steadily toward the left cardinal while preserving downward pitch."
+    },
+    {
+      "direction": "270 left",
+      "verdict": "pass",
+      "expected": "Clear left-facing profile.",
+      "observed": "Strong left profile with one dominant eye, a projecting left muzzle, and a narrow torso.",
+      "reason": "Cardinal left is unambiguous at normal size."
+    },
+    {
+      "direction": "292.5 up-left",
+      "verdict": "warning",
+      "expected": "Leftward turn with a slight upward look.",
+      "observed": "Horizontal: the left-facing muzzle remains clear. Vertical: the eye and chin line lift above the 270-left profile and the shoulders open upward.",
+      "reason": "The intended up-left direction is legible on both axes; the 1.17 area ratio is retained as a reviewed silhouette-broadening warning rather than a visible scale failure."
+    },
+    {
+      "direction": "315 up-left",
+      "verdict": "pass",
+      "expected": "Balanced diagonal up-left orientation.",
+      "observed": "Horizontal: the left-facing face and near torso remain dominant. Vertical: the raised chin and higher eye line match the up-left trajectory.",
+      "reason": "Horizontal left exposure and vertical uplift are both clear."
+    },
+    {
+      "direction": "337.5 up-left",
+      "verdict": "pass",
+      "expected": "Near-front upward pose, still biased left.",
+      "observed": "Horizontal: the face recenters while left-side facial and torso exposure remains slightly stronger. Vertical: the muzzle and chin rise toward the 000-up position.",
+      "reason": "The loop closes smoothly toward up with explicit leftward and upward landmarks."
+    }
+  ],
+  "review_warnings": [
+    "Blind review found intermediate horizontal uncertainty at 292.5, 202.5, and 157.5, plus vertical uncertainty at 067.5 and 112.5; labeled normal-size review confirms the intended quadrants without a visible reversal.",
+    "The 270-to-292.5 transition has a 1.17 alpha-area ratio as the side profile opens to a three-quarter view; independent labeled review found no visible scale or baseline pop.",
+    "Transparent interior-hole metrics correspond to natural negative space between the legs and body, not a seam or missing sprite material."
+  ],
+  "overall": "pass"
+}
