@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/character-lobby.ja.webp" width="100%" alt="魈、丹恒、キアナ、バーニス、星見雅、甘露寺蜜璃が並ぶアニメーションロビー">
+<img src="assets/readme/character-lobby.ja.webp" width="100%" alt="魈、丹恒、キアナ、バーニス、星見雅、甘雨が並ぶアニメーションロビー">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>42 キャラクター</code>
-  <code>43 エディション</code>
+  <code>43 キャラクター</code>
+  <code>44 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=42" width="100%" alt="ゼーレ、ビビアン、無惨の新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=43" width="100%" alt="ビビアン、無惨、テレサの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><kbd>ゼーレ</kbd></a>
   <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><kbd>ビビアン</kbd></a>
   <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><kbd>無惨</kbd></a>
+  <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><kbd>テレサ</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=42" width="100%" alt="42キャラクター、43エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=43" width="100%" alt="43キャラクター、44エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 7</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 9</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 42キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 43キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -165,7 +165,8 @@
     <td align="center" valign="top" width="33%"><sub>42</sub><br><a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="無惨の待機アニメーション"></a><br><b>「 無惨 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="3"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>43</sub><br><a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="テレサの待機アニメーション"></a><br><b>「 テレサ 」</b></td>
+    <td align="center" valign="middle" colspan="2"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -224,7 +225,7 @@
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>崩壊3rd</b> · 7キャラクター / 8エディション　<kbd>開く</kbd></summary>
+<summary><b>崩壊3rd</b> · 8キャラクター / 9エディション　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -236,6 +237,7 @@
 | フカ | 2D | `fu-hua` | [ZIP](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 | ブローニャ | 2D | `bronya-zaychik` | [ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 | ゼーレ | 2D | `seele-vollerei` | [ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
+| テレサ | 2D | `theresa` | [ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 
 </details>
 

@@ -1,0 +1,18 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "horizontal-1 B: 337.5 horizontal axis ambiguous by blind majority",
+    "horizontal-6 A/B: 135 and 225 horizontal axes ambiguous by blind majority",
+    "horizontal-7 A/B: 157.5 and 202.5 horizontal axes ambiguous by blind majority",
+    "vertical-7 A/B: 247.5 and 292.5 vertical axes ambiguous by blind majority"
+  ],
+  "evidence": {
+    "cardinals": "Both hard cardinal pairs passed unanimously enough for strict majority: 000 is up, 180 is down, 090 is screen-right, and 270 is screen-left.",
+    "labeled_review": "At normal labeled size, 337.5 retains a slight image-left face cue while clearly looking up; 135 and 225 retain their respective right/left head planes while looking down; 157.5 and 202.5 remain the intended shallow down-right/down-left boundary steps; 247.5 and 292.5 preserve down-left/up-left pitch inside the continuous leftward arc.",
+    "ordered_loop": "The full 16-pose sequence advances clockwise without a wrong-quadrant pose, reversal, curl-side flip, identity change, or registration jump.",
+    "continuity": "Maximum reported center displacement at the reviewed row boundary is about 1.4 pixels and the corresponding area ratio is about 1.04; the three local diff warnings have no visible snap or scale pop."
+  },
+  "reason": "The warnings affect only subtle intermediate axes at normal size. They are permitted review warnings under the direction acceptance policy because all cardinals pass, labeled quadrant semantics are correct, and the ordered loop remains cohesive."
+}

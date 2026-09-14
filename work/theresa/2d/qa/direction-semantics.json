@@ -1,0 +1,123 @@
+{
+  "ok": true,
+  "reviewed_at_normal_size": true,
+  "coordinate_system": "viewer/screen coordinates",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "reason": "Both cyan irises sit high, the chin is lifted, and the broad near-front face exposes more lower eye and neck while the feet remain anchored."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "High irises preserve the upward axis while the pupils, nose, and face plane begin a small image-right shift."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "The lifted chin and high gaze remain clear as the rightward cheek and nose projection increase by one coherent step."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "reason": "The face is visibly image-right three-quarter with an upward gaze; the nearby continuity metric is a natural approach to the profile anchor, not a visible snap."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "reason": "The nose tip, mouth center, pupils, and facial plane project unmistakably toward the image-right edge, opposing 270."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "reason": "The rightward head plane remains intact while the irises lower and the chin begins to tuck."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "reason": "Low irises and a lowered face establish down, while the visible cheek and nose remain on the image-right side. Blind horizontal classification was ambiguous, but labeled loop review confirms the intended quadrant without reversal."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "reason": "The face opens toward near-front but retains a small image-right cue, with low eyes and tucked chin one step before 180. Blind horizontal classification was ambiguous at this shallow boundary step."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "reason": "Both irises sit low under the fringe and the chin tucks toward the chest cross in a broad near-front pose."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "reason": "Low irises preserve the downward axis while the nose and face plane begin moving toward image-left. Blind horizontal classification was ambiguous at this shallow boundary step."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "reason": "The tucked chin and low gaze remain clear as the image-left cheek and curl occlusion increase smoothly. Blind horizontal classification was ambiguous, but labeled loop review confirms the leftward quadrant."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "reason": "The face is visibly image-left three-quarter with a lowered gaze and no return toward the right. Blind vertical classification was ambiguous, but the labeled pitch progression is continuous."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "reason": "The nose tip, mouth center, pupils, and facial plane project unmistakably toward the image-left edge, opposing 090."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "reason": "The image-left head turn remains clear while the irises rise and the chin begins lifting from the profile anchor. Blind vertical classification was ambiguous, but the labeled pitch progression is continuous."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "reason": "High irises, lifted chin, and a still-left-biased three-quarter face advance smoothly toward near-front."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "reason": "The broad near-front face retains a small image-left cue with high eyes and lifted chin, forming one normal step before 000. Blind horizontal classification was ambiguous at this shallow boundary step."
+    }
+  ],
+  "continuity_resolution": {
+    "verdict": "pass",
+    "reason": "All feet share one baseline and the full loop keeps stable scale and center. The reported local diff outliers at 067.5-to-090, 112.5-to-135, and 157.5-to-180 are visible as ordinary yaw or pitch completion without a snap, reversal, identity change, curl detachment, or scale pop."
+  }
+}

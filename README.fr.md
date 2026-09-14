@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/character-lobby.fr.webp" width="100%" alt="Xiao, Dan Heng, Kiana, Burnice, Miyabi et Mitsuri dans le hall animé de Codex Anime Pets">
+<img src="assets/readme/character-lobby.fr.webp" width="100%" alt="Xiao, Dan Heng, Kiana, Burnice, Miyabi et Ganyu dans le hall animé de Codex Anime Pets">
 
 <p>
   <a href="README.md"><kbd>English</kbd></a>
@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>42 PERSONNAGES</code>
-  <code>43 ÉDITIONS</code>
+  <code>43 PERSONNAGES</code>
+  <code>44 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=42" width="100%" alt="Présentation animée des nouveautés Seele, Vivian et Muzan">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=43" width="100%" alt="Présentation animée des nouveautés Vivian, Muzan et Theresa">
 </p>
 
 <p align="center">
-  <a href="#character-40-seele-vollerei"><kbd>Seele</kbd></a>
   <a href="#character-41-vivian-banshee"><kbd>Vivian</kbd></a>
   <a href="#character-42-kibutsuji-muzan"><kbd>Muzan</kbd></a>
+  <a href="#character-43-theresa"><kbd>Theresa</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=42" width="100%" alt="Collection complète de 42 personnages et 43 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=43" width="100%" alt="Collection complète de 43 personnages et 44 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 7</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 9</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 42 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 43 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -333,7 +333,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>43</sub><br>
+      <a href="#character-43-theresa"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Theresa"></a><br>
+      <b>「 Theresa 」</b><br>
+    </td>
+    <td align="center" valign="middle" colspan="2">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence · Faites éclore un compagnon</sub>
@@ -1289,6 +1294,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-43-theresa" name="character-43-theresa"></a>
+<details>
+<summary><b>43 · Theresa</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/theresa.webp" width="190" alt="Theresa au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> cheveux blanc argenté dégradés avec de longues mèches latérales bouclées, yeux cyan vif, corsage sombre ajusté, gants noirs, bordures dorées en croix, jupe blanche à volants, bas clairs et bottines sombres rehaussées d'or<br>
+      <b>Présence :</b> petite et résolue, avec l'assurance calme d'une cheffe<br><br>
+      <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
+      <a href="work/theresa/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="work/theresa/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1340,7 +1367,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 7 personnages / 8 éditions　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 8 personnages / 9 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1352,6 +1379,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Fu Hua | 2D | `fu-hua` | [Télécharger](honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip) |
 | Bronya | 2D | `bronya-zaychik` | [Télécharger](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 | Seele Vollerei | 2D | `seele-vollerei` | [Télécharger](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
+| Theresa | 2D | `theresa` | [Télécharger](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 
 </details>
 
