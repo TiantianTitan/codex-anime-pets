@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>44 PERSONNAGES</code>
-  <code>45 ÉDITIONS</code>
+  <code>45 PERSONNAGES</code>
+  <code>46 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=44" width="100%" alt="Présentation animée des nouveautés Muzan, Theresa et Lycaon">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=45" width="100%" alt="Présentation animée des nouveautés Theresa, Lycaon et Black Swan">
 </p>
 
 <p align="center">
-  <a href="#character-42-kibutsuji-muzan"><kbd>Muzan</kbd></a>
   <a href="#character-43-theresa"><kbd>Theresa</kbd></a>
   <a href="#character-44-von-lycaon"><kbd>Lycaon</kbd></a>
+  <a href="#character-45-black-swan"><kbd>Black Swan</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=44" width="100%" alt="Collection complète de 44 personnages et 45 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=45" width="100%" alt="Collection complète de 45 personnages et 46 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 44 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 45 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -343,13 +343,18 @@
       <a href="#character-44-von-lycaon"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Von Lycaon"></a><br>
       <b>「 Lycaon 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Portail animé du prochain compagnon mystère"></a><br>
-      <b>Qui nous rejoindra ?</b><br>
-      <sub>Apportez une référence · Faites éclore un compagnon</sub>
+    <td align="center" valign="top" width="33%">
+      <sub>45</sub><br>
+      <a href="#character-45-black-swan"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Black Swan"></a><br>
+      <b>「 Black&nbsp;Swan 」</b><br>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
+  <b>Qui nous rejoindra ?</b> · <sub>Apportez une référence et faites éclore un compagnon</sub>
+</p>
 
  </details>
 
@@ -1343,6 +1348,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-45-black-swan" name="character-45-black-swan"></a>
+<details>
+<summary><b>45 · Black Swan</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/black-swan.webp" width="190" alt="Black Swan au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> longue chevelure blanc lavande, yeux ambre et magenta à demi clos, voile violet bordé de papillons, tenue ouvragée violet-noir, longs gants, bas transparents à motifs et bottines noires pointues<br>
+      <b>Présence :</b> élégante et énigmatique, avec le calme de celle qui connaît déjà la fin de l’histoire<br><br>
+      <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
+      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="work/black-swan/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1374,7 +1401,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai : Star Rail</b> · 11 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai : Star Rail</b> · 12 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1389,6 +1416,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Sunday | 2D | `sunday` | [Télécharger](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Télécharger](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Sparkle | 2D | `sparkle` | [Télécharger](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
+| Black Swan | 2D | `black-swan` | [Télécharger](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 
 </details>
 

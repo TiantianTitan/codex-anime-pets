@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>44 キャラクター</code>
-  <code>45 エディション</code>
+  <code>45 キャラクター</code>
+  <code>46 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=44" width="100%" alt="無惨、テレサ、ライカンの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=45" width="100%" alt="テレサ、ライカン、ブラックスワンの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><kbd>無惨</kbd></a>
   <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><kbd>テレサ</kbd></a>
   <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><kbd>ライカン</kbd></a>
+  <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><kbd>ブラックスワン</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=44" width="100%" alt="44キャラクター、45エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=45" width="100%" alt="45キャラクター、46エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 11</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 10</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 44キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 45キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -167,9 +167,14 @@
   <tr>
     <td align="center" valign="top" width="33%"><sub>43</sub><br><a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="テレサの待機アニメーション"></a><br><b>「 テレサ 」</b></td>
     <td align="center" valign="top" width="33%"><sub>44</sub><br><a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="ライカンの待機アニメーション"></a><br><b>「 ライカン 」</b></td>
-    <td align="center" valign="middle" width="33%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%"><sub>45</sub><br><a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="ブラックスワンの待機アニメーション"></a><br><b>「 ブラックスワン 」</b></td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br>
+  <b>次は誰？</b> · <sub>参考画像から、新しい仲間を孵化させよう</sub>
+</p>
 
 </details>
 
@@ -206,7 +211,7 @@
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>崩壊：スターレイル</b> · 11キャラクター　<kbd>開く</kbd></summary>
+<summary><b>崩壊：スターレイル</b> · 12キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -221,6 +226,7 @@
 | サンデー | 2D | `sunday` | [ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | カフカ | 2D | `kafka` | [ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | 花火 | 2D | `sparkle` | [ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
+| ブラックスワン | 2D | `black-swan` | [ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 
 </details>
 

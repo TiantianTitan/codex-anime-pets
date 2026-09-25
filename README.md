@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>44 CHARACTERS</code>
-  <code>45 EDITIONS</code>
+  <code>45 CHARACTERS</code>
+  <code>46 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=44" width="100%" alt="Animated new arrivals showcase with Muzan, Theresa, and Lycaon">
+  <img src="assets/readme/new-arrivals-stage.webp?v=45" width="100%" alt="Animated new arrivals showcase with Theresa, Lycaon, and Black Swan">
 </p>
 
 <p align="center">
-  <a href="#character-42-kibutsuji-muzan"><kbd>Muzan</kbd></a>
   <a href="#character-43-theresa"><kbd>Theresa</kbd></a>
   <a href="#character-44-von-lycaon"><kbd>Lycaon</kbd></a>
+  <a href="#character-45-black-swan"><kbd>Black Swan</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=44" width="100%" alt="Complete Codex Anime Pets collection wall with 44 characters and 45 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=45" width="100%" alt="Complete Codex Anime Pets collection wall with 45 characters and 46 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,14 +81,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 11</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 44 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 45 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -345,13 +345,18 @@
       <a href="#character-44-von-lycaon"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="Von Lycaon idle animation"></a><br>
       <b>「 Lycaon 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="Animated mystery companion portal"></a><br>
-      <b>Who joins next?</b><br>
-      <sub>Bring a reference · Hatch a companion</sub>
+    <td align="center" valign="top" width="33%">
+      <sub>45</sub><br>
+      <a href="#character-45-black-swan"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="Black Swan idle animation"></a><br>
+      <b>「 Black&nbsp;Swan 」</b><br>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
+  <b>Who joins next?</b> · <sub>Bring a reference and hatch a companion</sub>
+</p>
 
 </details>
 
@@ -1345,6 +1350,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-45-black-swan" name="character-45-black-swan"></a>
+<details>
+<summary><b>45 · Black Swan</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/black-swan.webp" width="190" alt="Black Swan idle"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> pale lavender-white hair, half-lidded amber-magenta eyes, a butterfly-trimmed violet veil, an ornate purple-black bodysuit, long gloves, patterned sheer stockings, and pointed black boots<br>
+      <b>Mood:</b> poised and enigmatic, with the calm gaze of someone who already knows how the story ends<br><br>
+      <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/black-swan/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1376,7 +1403,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai: Star Rail</b> · 11 companions　<kbd>Open</kbd></summary>
+<summary><b>Honkai: Star Rail</b> · 12 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1391,6 +1418,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Sunday | 2D | `sunday` | [Download ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Sparkle | 2D | `sparkle` | [Download ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
+| Black Swan | 2D | `black-swan` | [Download ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 
 </details>
 

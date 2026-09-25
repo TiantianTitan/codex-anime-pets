@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>44 个角色</code>
-  <code>45 个版本</code>
+  <code>45 个角色</code>
+  <code>46 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=44" width="100%" alt="无惨、德丽莎和莱卡恩的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=45" width="100%" alt="德丽莎、莱卡恩和黑天鹅的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-42-kibutsuji-muzan"><kbd>无惨</kbd></a>
   <a href="#character-43-theresa"><kbd>德丽莎</kbd></a>
   <a href="#character-44-von-lycaon"><kbd>莱卡恩</kbd></a>
+  <a href="#character-45-black-swan"><kbd>黑天鹅</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=44" width="100%" alt="包含四十四位角色、四十五个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=45" width="100%" alt="包含四十五位角色、四十六个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 11</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 10</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 44 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 45 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -343,13 +343,18 @@
       <a href="#character-44-von-lycaon"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="莱卡恩的待机动画"></a><br>
       <b>「 莱卡恩 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
-      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="92" alt="下一位神秘伙伴的动态召唤门"></a><br>
-      <b>下一位会是谁？</b><br>
-      <sub>带来参考图 · 孵化新的伙伴</sub>
+    <td align="center" valign="top" width="33%">
+      <sub>45</sub><br>
+      <a href="#character-45-black-swan"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="黑天鹅的待机动画"></a><br>
+      <b>「 黑天鹅 」</b><br>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
+  <b>下一位会是谁？</b> · <sub>带来参考图，孵化新的伙伴</sub>
+</p>
 
 </details>
 
@@ -1343,6 +1348,28 @@
 
 </details>
 
+<a id="character-45-black-swan" name="character-45-black-swan"></a>
+<details>
+<summary><b>45 · 黑天鹅</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/black-swan.webp" width="190" alt="黑天鹅待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>淡紫白色长发、半垂的琥珀紫眼、蝴蝶饰边的深紫头纱、紫黑色礼服式战衣、长手套、纹样丝袜与尖头短靴<br>
+      <b>气质：</b>优雅、从容而神秘，仿佛早已知晓故事的结局<br><br>
+      <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/black-swan/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1374,7 +1401,7 @@
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>崩坏：星穹铁道</b> · 11 位角色　<kbd>展开</kbd></summary>
+<summary><b>崩坏：星穹铁道</b> · 12 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1389,6 +1416,7 @@
 | 星期日 | 2D | `sunday` | [下载 ZIP](honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip) |
 | 卡芙卡 | 2D | `kafka` | [下载 ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | 花火 | 2D | `sparkle` | [下载 ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
+| 黑天鹅 | 2D | `black-swan` | [下载 ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 
 </details>
 
