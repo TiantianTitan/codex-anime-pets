@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>45 PERSONNAGES</code>
-  <code>46 ÉDITIONS</code>
+  <code>46 PERSONNAGES</code>
+  <code>47 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=45" width="100%" alt="Présentation animée des nouveautés Theresa, Lycaon et Black Swan">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=46" width="100%" alt="Présentation animée des nouveautés Lycaon, Black Swan et Nomade">
 </p>
 
 <p align="center">
-  <a href="#character-43-theresa"><kbd>Theresa</kbd></a>
   <a href="#character-44-von-lycaon"><kbd>Lycaon</kbd></a>
   <a href="#character-45-black-swan"><kbd>Black Swan</kbd></a>
+  <a href="#character-46-wanderer"><kbd>Nomade</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=45" width="100%" alt="Collection complète de 45 personnages et 46 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=46" width="100%" alt="Collection complète de 46 personnages et 47 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 12</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 13</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>Collection complète · 45 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 46 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -351,10 +351,20 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
-  <b>Qui nous rejoindra ?</b> · <sub>Apportez une référence et faites éclore un compagnon</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <sub>46</sub><br>
+      <a href="#character-46-wanderer"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="Animation d'attente de Nomade"></a><br>
+      <b>「 Nomade 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
+      <b>Qui nous rejoindra ?</b><br>
+      <sub>Apportez une référence et faites éclore un compagnon</sub>
+    </td>
+  </tr>
+</table>
 
  </details>
 
@@ -1370,6 +1380,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-46-wanderer" name="character-46-wanderer"></a>
+<details>
+<summary><b>46 · Nomade</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/wanderer.webp" width="190" alt="Nomade au repos"></td>
+    <td>
+      <b>Style :</b> autocollant anime 2D<br>
+      <b>Détails emblématiques :</b> large chapeau indigo et or aux rubans turquoise, cheveux courts indigo, yeux violets, tenue bleu nuit et blanche, et ornement turquoise sur la poitrine<br>
+      <b>Présence :</b> un regard vif, une allure légère et une distance qu’il garde avec soin<br><br>
+      <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
+      <a href="work/wanderer/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="work/wanderer/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1380,7 +1412,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 12 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Genshin Impact</b> · 13 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1396,6 +1428,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Tartaglia | 2D | `tartaglia` | [Télécharger](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | Venti | 2D | `venti` | [Télécharger](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
 | Shogun Raiden | 2D | `raiden-shogun` | [Télécharger](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
+| Nomade | 2D | `wanderer` | [Télécharger](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 
 </details>
 

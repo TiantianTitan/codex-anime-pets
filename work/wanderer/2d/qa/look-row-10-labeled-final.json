@@ -1,0 +1,17 @@
+{
+  "verdict": "pass",
+  "directions": {
+    "180": "pass",
+    "202.5": "pass",
+    "225": "pass",
+    "247.5": "pass",
+    "270": "pass",
+    "292.5": "pass",
+    "315": "pass",
+    "337.5": "pass"
+  },
+  "scale": "pass",
+  "edge": "pass",
+  "continuity": "pass",
+  "notes": "Slots 2-8 consistently face image-left; 270 is unmistakably left-profile. Baseline and hat scale are stable, 315 has safe edge clearance, and both 157.5-to-180 and 337.5-to-000 transitions are coherent."
+}

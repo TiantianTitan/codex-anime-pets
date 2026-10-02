@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>45 个角色</code>
-  <code>46 个版本</code>
+  <code>46 个角色</code>
+  <code>47 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=45" width="100%" alt="德丽莎、莱卡恩和黑天鹅的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=46" width="100%" alt="莱卡恩、黑天鹅和流浪者的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-43-theresa"><kbd>德丽莎</kbd></a>
   <a href="#character-44-von-lycaon"><kbd>莱卡恩</kbd></a>
   <a href="#character-45-black-swan"><kbd>黑天鹅</kbd></a>
+  <a href="#character-46-wanderer"><kbd>流浪者</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=45" width="100%" alt="包含四十五位角色、四十六个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=46" width="100%" alt="包含四十六位角色、四十七个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 13</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 10</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>完整收藏 · 45 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 46 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -351,10 +351,20 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
-  <b>下一位会是谁？</b> · <sub>带来参考图，孵化新的伙伴</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <sub>46</sub><br>
+      <a href="#character-46-wanderer"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="流浪者的待机动画"></a><br>
+      <b>「 流浪者 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
+      <b>下一位会是谁？</b><br>
+      <sub>带来参考图，孵化新的伙伴</sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -1370,6 +1380,28 @@
 
 </details>
 
+<a id="character-46-wanderer" name="character-46-wanderer"></a>
+<details>
+<summary><b>46 · 流浪者</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/wanderer.webp" width="190" alt="流浪者的待机动画"></td>
+    <td>
+      <b>风格：</b>2D 动漫贴纸<br>
+      <b>标志细节：</b>宽大的蓝金斗笠、青色垂带、靛蓝短发、紫色眼睛、黑白青蓝相间的衣装与金青胸饰<br>
+      <b>气质：</b>目光锐利、步伐轻盈，偶尔露出一点不服输的笑意<br><br>
+      <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/wanderer/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/wanderer/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1380,7 +1412,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 12 位角色　<kbd>展开</kbd></summary>
+<summary><b>原神</b> · 13 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1396,6 +1428,7 @@
 | 达达利亚 | 2D | `tartaglia` | [下载 ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | 温迪 | 2D | `venti` | [下载 ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
 | 雷电将军 | 2D | `raiden-shogun` | [下载 ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
+| 流浪者 | 2D | `wanderer` | [下载 ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 
 </details>
 

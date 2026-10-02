@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>45 キャラクター</code>
-  <code>46 エディション</code>
+  <code>46 キャラクター</code>
+  <code>47 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=45" width="100%" alt="テレサ、ライカン、ブラックスワンの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=46" width="100%" alt="ライカン、ブラックスワン、放浪者の新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><kbd>テレサ</kbd></a>
   <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><kbd>ライカン</kbd></a>
   <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><kbd>ブラックスワン</kbd></a>
+  <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><kbd>放浪者</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=45" width="100%" alt="45キャラクター、46エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=46" width="100%" alt="46キャラクター、47エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 12</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 13</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 12</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 8</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 10</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>全コレクション · 45キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 46キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -171,10 +171,12 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br>
-  <b>次は誰？</b> · <sub>参考画像から、新しい仲間を孵化させよう</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%"><sub>46</sub><br><a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="放浪者の待機アニメーション"></a><br><b>「 放浪者 」</b></td>
+    <td align="center" valign="middle" width="50%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+  </tr>
+</table>
 
 </details>
 
@@ -190,7 +192,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 12キャラクター　<kbd>開く</kbd></summary>
+<summary><b>原神</b> · 13キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -206,6 +208,7 @@
 | タルタリヤ | 2D | `tartaglia` | [ZIP](genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip) |
 | ウェンティ | 2D | `venti` | [ZIP](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
 | 雷電将軍 | 2D | `raiden-shogun` | [ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
+| 放浪者 | 2D | `wanderer` | [ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 
 </details>
 

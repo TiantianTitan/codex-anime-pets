@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "pet": {
+    "id": "wanderer",
+    "displayName": "Wanderer",
+    "edition": "2d",
+    "spriteVersionNumber": 2
+  },
+  "atlas": {
+    "path": "final/spritesheet-extended.webp",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "sha256": "d1d0e0ef187f38002624395f06d95dba789f78aba6bae970ab143bbee7824acf",
+    "validation": "pass",
+    "errors": [],
+    "warnings": []
+  },
+  "animation": {
+    "standardStateCount": 9,
+    "states": ["idle", "running-right", "running-left", "waving", "jumping", "failed", "waiting", "running", "review"],
+    "visualQA": "pass"
+  },
+  "lookDirections": {
+    "count": 16,
+    "stepDegrees": 22.5,
+    "semanticQA": "pass",
+    "blindReviewCount": 3,
+    "blindPairsPassed": 14,
+    "blindWarnings": [],
+    "continuityWarningsAccepted": true,
+    "continuityResolution": "Transparent gaps are intentional negative space around the kasa, ornaments, limbs, and garments. The 157.5-to-180 and 337.5-to-000 pixel outliers are visually coherent pose rotations with stable body scale and baseline."
+  },
+  "chromaCleanup": {
+    "status": "pass",
+    "alphaPreserved": true,
+    "visibleGreenFringe": false,
+    "transparentRgbResiduePixels": 0
+  },
+  "release": {
+    "directory": "genshin-impact/Wanderer/wanderer-2d",
+    "zip": "genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip",
+    "zipSha256": "5a961304d2ff6b2d54642dc06a284a12b2822e2cb629ccc562449291c4be1716",
+    "zipRootFiles": ["README.md", "pet.json", "spritesheet.webp"],
+    "installed": false,
+    "pushed": false
+  },
+  "completedAt": "2026-10-02T14:57:20Z"
+}

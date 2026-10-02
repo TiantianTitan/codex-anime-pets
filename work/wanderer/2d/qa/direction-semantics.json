@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"Centered face with chin, eyes, and head pitched upward.","reason":"Unmistakable vertical-up cardinal with anchored torso and base."},
+    {"direction":"022.5","verdict":"pass","expected":"up-right","observed":"Upward gaze retained with a slight screen-right head and eye turn.","reason":"Both required axes are visible and the step follows 000 coherently."},
+    {"direction":"045","verdict":"pass","expected":"up-right","observed":"Clear diagonal up-right gaze and head turn.","reason":"Horizontal and vertical cues are balanced and identity remains stable."},
+    {"direction":"067.5","verdict":"pass","expected":"up-right","observed":"Stronger screen-right turn while the gaze remains elevated.","reason":"Correct quadrant and smooth progression toward the right cardinal."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"Head and eyes clearly aim screen-right in a readable three-quarter/profile pose.","reason":"Unambiguous horizontal-right cardinal."},
+    {"direction":"112.5","verdict":"pass","expected":"down-right","observed":"Screen-right head turn with eyes and chin beginning to lower.","reason":"Both axes read correctly and transition naturally from 090."},
+    {"direction":"135","verdict":"pass","expected":"down-right","observed":"Clear diagonal down-right gaze with increased downward pitch.","reason":"Correct quadrant and coherent pose-family progression."},
+    {"direction":"157.5","verdict":"pass","expected":"down-right","observed":"Mostly downward gaze retaining a definite screen-right cue.","reason":"Correct axes; the larger numeric change to 180 visually reads as a natural return to centered down."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"Centered head and eyes distinctly lowered.","reason":"Unmistakable vertical-down cardinal with stable body registration."},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"Downward gaze with a slight screen-left head turn.","reason":"Both required axes are present and progression from 180 is coherent."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"Clear diagonal down-left head and eye orientation.","reason":"Correct quadrant with preserved face and costume identity."},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"Stronger screen-left turn while gaze remains lowered.","reason":"Correct axes and smooth approach to the left cardinal."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"Head and eyes clearly aim screen-left in profile.","reason":"Unambiguous horizontal-left cardinal."},
+    {"direction":"292.5","verdict":"pass","expected":"up-left","observed":"Screen-left profile with eyes and chin beginning to lift.","reason":"Both axes read correctly and follow 270 without reversal."},
+    {"direction":"315","verdict":"pass","expected":"up-left","observed":"Clear up-left gaze in a stable three-quarter/profile pose.","reason":"Correct quadrant and coherent continuation."},
+    {"direction":"337.5","verdict":"pass","expected":"up-left","observed":"Elevated gaze retains a clear screen-left cue near the loop boundary.","reason":"The return to 000 is acceptable: torso and base stay anchored, while the larger contour change comes from profile-to-frontal face and kasa exposure."}
+  ]
+}
