@@ -45,6 +45,15 @@ Extract the ZIP directly into `CODEX_HOME/pets/burnice-white/`
 (default `~/.codex/pets/burnice-white/`). The manifest must be immediately inside that
 directory. Refresh Settings → Pets, select the pet, then use `/pet`.
 
-待机帧已适配当前桌面端的慢速播放，避免眨眼被拉成长时间闭眼。其余动作、neutral 和 16 个观察方向保持原版；ID 和 v2 格式不变。
-The idle frames account for the desktop client's slow idle playback. Other states,
-the neutral frame, all 16 look directions, the ID, and the v2 contract are preserved.
+待机帧已适配当前桌面端的慢速播放，避免眨眼被拉成长时间闭眼。该段记录此前的待机修复；后续动作调整见下节。
+The idle frames account for the desktop client's slow idle playback. The later motion changes are recorded below.
+
+
+<!-- MOTION-REFINEMENT-2026-11-06 -->
+## 动作优化 / Motion refinement · 2026-11-06
+
+调整动作：失败反馈。保持原帧数与客户端时序，改善配准、动作衔接或原图中的明显断裂。
+本次未修改待机、neutral、16 个观察方向与宠物 ID。
+
+Updated states: failed. Frame counts and client timing are unchanged.
+Idle, the neutral cell, all 16 look directions, and the pet ID are unchanged in this update.

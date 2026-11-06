@@ -1,0 +1,12 @@
+Use case: stylized-concept.
+Asset: one coherent 8-frame 2D desktop-pet sprite strip, a replacement RUNNING-LEFT action for Seele Vollerei.
+
+References: Image 1 is the authoritative canonical identity; Image 2 is the same identity reference. Image 3 is an invisible eight-slot layout guide ONLY: never draw its lines, marks, colors, panels or labels. Image 4 is existing right-running art for exact rendering style, face, costume and proportions ONLY; create a new left-running sequence rather than mirroring or copying that strip.
+
+Draw exactly EIGHT complete full-body poses in ONE horizontal left-to-right row, all facing and running toward SCREEN LEFT. True transparent alpha background. Wide landscape strip with eight separated equally spaced pose groups; adequate empty transparent padding around every head, hand, skirt and shoe. Every pose must stay wholly inside its own invisible slot with a generous gap to neighbors. No extra characters or stray body fragments.
+
+Lock identity to the canonical: chin-length blue-black bob with vivid cobalt-blue/violet tips, bright blue eyes, gentle face, small ahoge; white short puff-sleeve blouse under deep cobalt fitted sleeveless vest-dress, dark navy/violet pleated skirt with subtle butterfly detail, white thigh-high socks, dark navy Mary Jane shoes. Exact existing polished 2D anime sticker style, crisp clean dark linework and restrained highlights; keep the canonical head/body ratio and costume construction. No weapons, new accessories, changed costume, or 3D rendering.
+
+The eight drawings form one smooth repeatable run in place: leftward forward lean, alternating legs and counter-swinging arms, contact -> compression -> passing -> lift -> opposite-leg contact -> compression -> passing -> lift, so the last pose flows into the first. Both legs and both complete shoes remain present and attached in all eight frames; distinguish the near and far leg. Use moderate controlled strides that fit comfortably within the slot. Stable apparent body/head size, stable horizontal body center and gentle natural vertical bob only. Hair and skirt follow the gait without changing their length or mass.
+
+No visible ground, shadows, backdrop, checkerboard, text, frame labels, borders, guide marks, speed lines, dust, trails, smears, glow, floating effects or detached fragments. Do not crop any anatomy. Deliver the complete coherent transparent strip as one image.

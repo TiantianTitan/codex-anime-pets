@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:,">
+<title>宠物动作 · 前后对比</title>
+<style>
+:root{--bg:#f4f3ee;--surface:#fffefa;--ink:#262e29;--muted:#626b64;--line:#d5dbd2;--accent:#285a43;--tint:#e5ede5;font-family:system-ui,-apple-system,"Noto Sans SC",sans-serif;color:var(--ink);background:var(--bg);font-size:16px}*{box-sizing:border-box}body{margin:0}main{max-width:1056px;margin:auto;padding:32px 24px 48px}header{display:flex;justify-content:space-between;gap:24px;align-items:end;margin-bottom:28px}.eyebrow{font-size:12px;letter-spacing:.12em;color:var(--accent);font-weight:700}h1{font-size:30px;line-height:1.25;margin:8px 0}p{line-height:1.65;margin:8px 0}.muted{color:var(--muted)}.summary{text-align:right;font-size:14px}.filters{display:grid;grid-template-columns:1.8fr 1fr;gap:16px;margin-bottom:16px}label{display:block;font-size:13px;font-weight:650}select,button{font:inherit;color:inherit;border:1px solid var(--line);background:var(--surface);border-radius:8px;min-height:44px;padding:8px 12px}select{width:100%;margin-top:7px;cursor:pointer}button{cursor:pointer}button:hover{background:var(--tint)}button:active{transform:translateY(1px)}:focus-visible{outline:3px solid #60866b;outline-offset:3px}.comparison{display:grid;grid-template-columns:1fr 1fr;gap:16px}figure{margin:0;border:1px solid var(--line);border-radius:12px;background:var(--surface);overflow:hidden}figcaption{min-height:56px;padding:14px 18px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);font-size:14px}.tag{font-size:12px;color:var(--accent);background:var(--tint);padding:4px 8px;border-radius:5px}.stage{min-height:256px;display:flex;justify-content:center;align-items:center;background-color:#fafaf7;background-image:linear-gradient(45deg,#e7e9e240 25%,transparent 25%),linear-gradient(-45deg,#e7e9e240 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#e7e9e240 75%),linear-gradient(-45deg,transparent 75%,#e7e9e240 75%);background-size:20px 20px;background-position:0 0,0 10px,10px -10px,-10px 0}canvas{width:192px;height:208px;display:block}.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:18px 0 12px}#play{background:var(--accent);color:white;border-color:var(--accent);min-width:80px}#play:hover{background:#1b4431}.check{display:flex;align-items:center;gap:7px;padding:10px 8px;min-height:44px;font-size:14px;font-weight:400}.check input{width:18px;height:18px;accent-color:var(--accent)}#position{font-variant-numeric:tabular-nums;font-size:13px;color:var(--muted);margin-left:auto}.timeline{display:flex;align-items:center;gap:16px}input[type=range]{width:100%;accent-color:var(--accent);height:32px;cursor:pointer}#note{font-size:15px;min-height:48px;margin-top:16px}details{margin-top:24px;border-top:1px solid var(--line);padding-top:16px;font-size:14px;color:var(--muted)}summary{cursor:pointer;min-height:36px;color:var(--ink)}#coverage{columns:3;line-height:1.8;padding-left:18px;font-size:13px}a{color:var(--accent)}.error{color:#9c3028}footer{font-size:12px;line-height:1.7;color:var(--muted);margin-top:20px}@media(max-width:620px){main{padding:20px 16px 32px}header{display:block;margin-bottom:20px}h1{font-size:25px}.summary{text-align:left;margin-top:10px}.filters{grid-template-columns:1fr}.comparison{grid-template-columns:1fr;gap:12px}.stage{min-height:224px}figcaption{padding:10px 14px}#position{width:100%;margin:2px 0 0}#coverage{columns:1}}
+</style>
+<main>
+<header><div><div class="eyebrow">PET MOTION / 2026.11</div><h1>宠物动作前后对比</h1><p class="muted">同步比较修改前后，按原生 192 × 208 尺寸播放。</p></div><div class="summary" id="summary"></div></header>
+<div class="filters"><label for="pet">角色版本<select id="pet"></select></label><label for="action">动作<select id="action"></select></label></div>
+<div class="comparison"><figure><figcaption><strong>修改前</strong><span class="muted">原版本</span></figcaption><div class="stage"><canvas id="before" width="192" height="208" aria-label="修改前动作"></canvas></div></figure><figure><figcaption><strong>修改后</strong><span class="tag" id="verdict"></span></figcaption><div class="stage"><canvas id="after" width="192" height="208" aria-label="修改后动作"></canvas></div></figure></div>
+<div class="controls"><button id="play" type="button">暂停</button><button id="restart" type="button">重新播放</button><button id="previous" type="button" aria-label="上一帧">上一帧</button><button id="next" type="button" aria-label="下一帧">下一帧</button><label class="check"><input id="loop" type="checkbox">循环此动作</label><output id="position"></output></div>
+<div class="timeline"><input id="scrub" type="range" min="0" step="1" value="0" aria-label="动作播放进度"></div>
+<p id="note" aria-live="polite"></p>
+<details><summary>查看全部版本的处理结果</summary><ul id="coverage"></ul></details>
+<footer>保持 v2 图集、动作帧数和客户端播放时序。非待机动作默认播放三轮后回到待机；勾选循环可反复比较。启用系统“减少动态效果”时默认暂停，可逐帧查看。<br>此页面复现已核对的客户端时序，不代表已在桌面客户端安装验收。</footer>
+</main>
+<script>
+const DATA=/* DATA */;
+const names=['待机','向右跑动','向左跑动','打招呼','跳跃','失败反馈','等待输入','工作中','审阅'];
+const $=id=>document.getElementById(id), pets=$('pet'), actions=$('action');
+let pet,action,images,elapsed=0,last=0,playing=!matchMedia('(prefers-reduced-motion: reduce)').matches,token=0,loading=true;
+const imageCache=new Map();
+function getImage(src){if(!imageCache.has(src))imageCache.set(src,new Promise((resolve,reject)=>{const im=new Image();im.onload=()=>resolve(im);im.onerror=()=>{imageCache.delete(src);reject(new Error('无法载入图片'))};im.src=src}));return imageCache.get(src)}
+DATA.pets.forEach(p=>{const o=new Option(p.name+(p.changes.length?' · '+p.changes.length+' 项调整':' · 保留'),p.id);pets.add(o);const li=document.createElement('li');li.textContent=p.name+'：'+(p.changes.length?p.changes.map(r=>names[r]).join('、'):'九项动作保留');$('coverage').append(li)});
+names.forEach((name,row)=>actions.add(new Option(name,String(row))));
+$('summary').textContent=DATA.pets.length+' 个版本 · '+DATA.pets.reduce((n,p)=>n+p.changes.length,0)+' 行动作调整';
+function sum(ds){return ds.reduce((a,b)=>a+b,0)}
+function frameAt(ds,t){for(let i=0;i<ds.length;i++){if(t<ds[i])return i;t-=ds[i]}return ds.length-1}
+function timeline(){const d=sum(action.durations);const looping=$('loop').checked||action.row===0;return {d,looping,total:looping?d:d*3+sum(pet.rows[0].durations)}}
+function label(){ $('play').textContent=playing?'暂停':'播放'; }
+function render(){if(!images)return;const {d,looping,total}=timeline();let row=action.row,t=elapsed%d,round=Math.min(3,Math.floor(elapsed/d)+1);if(!looping&&elapsed>=d*3){row=0;t=(elapsed-d*3)%sum(pet.rows[0].durations)}const active=pet.rows[row],frame=frameAt(active.durations,t);for(let i=0;i<2;i++){const canvas=$(i?'after':'before'),ctx=canvas.getContext('2d');ctx.clearRect(0,0,192,208);const spec=i?active.after:active.before,im=images[row][i];ctx.drawImage(im,frame*192,spec.y,192,208,0,0,192,208)}$('scrub').max=Math.max(0,total-1);$('scrub').value=Math.min(elapsed,total-1);$('position').textContent=names[row]+' · 第 '+(frame+1)+' / '+active.durations.length+' 帧'+(row!==0&&!looping?' · 第 '+round+' 轮':'')}
+async function load(){const version=++token;loading=true;pet=DATA.pets.find(p=>p.id===pets.value);action=pet.rows[Number(actions.value)];elapsed=0;last=0;images=null;for(const id of ['before','after'])$(id).getContext('2d').clearRect(0,0,192,208);$('note').classList.remove('error');$('note').textContent='正在载入动作…';$('verdict').textContent=pet.changes.includes(action.row)?'已调整':'保留原样';try{const result=await Promise.all(pet.rows.map(async r=>Promise.all([getImage(r.before.src),getImage(r.after.src)])));if(version!==token)return;images=result;loading=false;$('note').textContent=action.note;render()}catch(error){if(version!==token)return;loading=false;$('note').classList.add('error');$('note').textContent='图片载入失败，请确认 HTML 与素材目录完整，然后重新选择角色。'}}
+function restart(){elapsed=0;last=0;playing=true;label();render()}
+pets.addEventListener('change',()=>{const p=DATA.pets.find(x=>x.id===pets.value);actions.value=String(p.changes[0]??0);load()});actions.addEventListener('change',load);
+$('play').onclick=()=>{playing=!playing;last=0;label()};$('restart').onclick=restart;
+$('loop').onchange=()=>{elapsed=0;last=0;render()};$('scrub').oninput=()=>{playing=false;label();elapsed=Number($('scrub').value);render()};
+function step(delta){playing=false;label();const d=sum(action.durations);let t=elapsed%d,frame=frameAt(action.durations,t);frame=(frame+delta+action.durations.length)%action.durations.length;elapsed=sum(action.durations.slice(0,frame));render()}
+$('previous').onclick=()=>step(-1);$('next').onclick=()=>step(1);
+document.addEventListener('visibilitychange',()=>{last=0});
+function tick(now){if(playing&&!loading&&images&&!document.hidden){if(last){const {total,looping}=timeline();elapsed+=now-last;if(elapsed>=total){if(looping)elapsed%=total;else{elapsed=total-1;playing=false;label()}}}render()}last=now;requestAnimationFrame(tick)}
+const query=new URLSearchParams(location.search);pets.value=DATA.pets.some(p=>p.id===query.get('pet'))?query.get('pet'):(DATA.pets.find(p=>p.changes.length)?.id??DATA.pets[0].id);const start=DATA.pets.find(p=>p.id===pets.value);actions.value=query.has('row')&&Number(query.get('row'))>=0&&Number(query.get('row'))<9?query.get('row'):String(start.changes[0]??0);label();load();requestAnimationFrame(tick);
+</script>
+</html>

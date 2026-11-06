@@ -1,0 +1,764 @@
+{
+  "reviewer": "/root/final_motion_qa_a",
+  "reviewed_at_utc": "2026-11-06T15:07:19.616776+00:00",
+  "review_version": "final-source-arc-registration-v2",
+  "independence": "本 reviewer 未制作或修改任何候选素材；仅视觉复审并写 QA 报告。",
+  "scope": "11 action rows in 8 editions; all bound to final atlas and strip hashes",
+  "result_counts": {
+    "pass": 11,
+    "reject": 0
+  },
+  "method": {
+    "visual": "8 条像素未变的非跳跃行动重新目视完整前后对比和原浏览器逐帧/自动回待机证据；3 条新版跳跃重新逐帧观察及真实时间三轮播放截图复审。",
+    "browser": "独立 Playwright Chromium 会话，通过角色选择、重新播放、暂停、下一帧等真实控件；未加速/伪造时钟。每条新版跳跃连续记录三轮至 idle，并保存 5 格逐帧截图和 idle 截图。",
+    "url": "http://127.0.0.1:8873/work/motion-refinement-2026-11-06/preview.html",
+    "native_client_loaded": false,
+    "limitation": "验收针对 HTML 中的已核对客户端时序与原生192×208画布，不是桌面客户端安装验收；固定帧动画仍有姿态绘制差异，不声称连续插帧效果。"
+  },
+  "rows": [
+    {
+      "id": "furina",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "cee379c1b10160200b3b8b2286d4e1677e09f03d162e8fab9518f48a0f889401",
+      "strip_sha256": "2d0504d62c029b62736f7f534a86bb3ff6b0f63b5a67303257234497aa82bbd9",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/furina/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/furina/failed.png",
+      "reason": "低头失落后恢复，循环首尾接近；鞋、帽冠和衣摆完整，身体比例稳定，回待机没有明显缩放突变。",
+      "accepted_notes": [
+        "中间采用已有完整帧往返，保留失败反馈的短暂停顿。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/furina/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-failed-3-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "result": "定时同步播放后截图记录为 idle，再逐帧操作所有 8 格并回首帧；该批 CLI 未返回状态日志，截图已保留。"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/furina-5-frame-0.png": "bea329e7cf0ce4d92955ed307ac1626e0cf555447ebfd7bf8f2749f0998ed81f",
+        "output/playwright/qa-independent-a/furina-5-frame-1.png": "5e7b0d65e25604cc62938daf46b43929b1fcb93fb894e2de382f3b6700ba4993",
+        "output/playwright/qa-independent-a/furina-5-frame-2.png": "e3077f8a0ef88391deaaae87be28906aa6bfe6e423cff9ca8eeed7c1f2e36779",
+        "output/playwright/qa-independent-a/furina-5-frame-3.png": "08761106ac85637fbbfc85e78dfc4109ab86bb3b94bdc432851a80729b6a229f",
+        "output/playwright/qa-independent-a/furina-5-frame-4.png": "3ac58a375fd20011b95645f6bbe4539c88d68ea81b51b05421d42794795b8ebd",
+        "output/playwright/qa-independent-a/furina-5-frame-5.png": "08761106ac85637fbbfc85e78dfc4109ab86bb3b94bdc432851a80729b6a229f",
+        "output/playwright/qa-independent-a/furina-5-frame-6.png": "e3077f8a0ef88391deaaae87be28906aa6bfe6e423cff9ca8eeed7c1f2e36779",
+        "output/playwright/qa-independent-a/furina-5-frame-7.png": "5e7b0d65e25604cc62938daf46b43929b1fcb93fb894e2de382f3b6700ba4993",
+        "output/playwright/qa-independent-a/furina-5-idle.png": "d727757cc8941d71479ea9948e8037d2815f456685649c20bfd6ef09794ec24e"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "ganyu",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "53e52f8767a06f02d24f051007218561ede3b6cb17f68cd747b953c8224fcc1d",
+      "strip_sha256": "26f57526bca90023878d01f7d5d63f23de9e2316c1215006b06423269f85afc0",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/ganyu/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/ganyu/failed.png",
+      "reason": "低头到双手遮脸后恢复；去掉原版末段坐倒时的比例变化。腿脚和长发完整，首尾与待机的接续可接受。",
+      "accepted_notes": [
+        "遮脸手势的进入与退出仍较快；在固定 8 帧中属可接受表情变化。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/ganyu/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-failed-3-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "result": "定时同步播放后截图记录为 idle，再逐帧操作所有 8 格并回首帧；该批 CLI 未返回状态日志，截图已保留。"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/ganyu-5-frame-0.png": "5568fa4a6d7a02238bc5f51e844ab6e878963fe0c79e5b1aa6b559ef492401e3",
+        "output/playwright/qa-independent-a/ganyu-5-frame-1.png": "441844297ab678885aac50e6ebc19bd4cc2a5b686b64a3ad43c6911729a3ffe9",
+        "output/playwright/qa-independent-a/ganyu-5-frame-2.png": "dcb4a0f795b8f8d9edd4077e596703bfe25cfa57261b0ba3d536d498be33a571",
+        "output/playwright/qa-independent-a/ganyu-5-frame-3.png": "23a20a645c4546b6e97b63aa8943313266f3b841109f8188b679b47055c983fe",
+        "output/playwright/qa-independent-a/ganyu-5-frame-4.png": "f101dcadb9e6740b9d9f1087cdd5807c3f3c6adc8bc481c1db7f0b7c3492e54b",
+        "output/playwright/qa-independent-a/ganyu-5-frame-5.png": "23a20a645c4546b6e97b63aa8943313266f3b841109f8188b679b47055c983fe",
+        "output/playwright/qa-independent-a/ganyu-5-frame-6.png": "dcb4a0f795b8f8d9edd4077e596703bfe25cfa57261b0ba3d536d498be33a571",
+        "output/playwright/qa-independent-a/ganyu-5-frame-7.png": "441844297ab678885aac50e6ebc19bd4cc2a5b686b64a3ad43c6911729a3ffe9",
+        "output/playwright/qa-independent-a/ganyu-5-idle.png": "b216bd09fb4c9dd55f6c7ad7b1688d5d92ec836b0b28479ae4b86f0957d01af6"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "hu-tao",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "98d0276cc0e481f45f54ae0e4c1a00d46b3a023d3e92a9d49b89ce7a04bec3e0",
+      "strip_sha256": "3d3af2572233b6c573b624315806902e52f534cd278968dc222a751b180f9d57",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/hu-tao/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/hu-tao/failed.png",
+      "reason": "失落闭眼后恢复睁眼，身体与帽子比例稳定；完整双脚，无前帧碎片，回待机自然。",
+      "accepted_notes": [
+        "中间 4 格复用同一闭眼姿势，形成约 560ms 的情绪停留；动作仍有清楚进入与退出。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/hu-tao/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-failed-3-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "result": "定时同步播放后截图记录为 idle，再逐帧操作所有 8 格并回首帧；该批 CLI 未返回状态日志，截图已保留。"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/hu-tao-5-frame-0.png": "d0aef96aa94f832d37903a787fa09727149755682881cfa2a058ccd6264be414",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-1.png": "50f0048f30b0fcc0adfbdf8819ffec76dc89b69cf68495ac9124ba7323c2c076",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-2.png": "217e1f00a7328fbb7a074a613b4a1480b8df5b15a7c236693d0e08f55c10a095",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-3.png": "217e1f00a7328fbb7a074a613b4a1480b8df5b15a7c236693d0e08f55c10a095",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-4.png": "217e1f00a7328fbb7a074a613b4a1480b8df5b15a7c236693d0e08f55c10a095",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-5.png": "217e1f00a7328fbb7a074a613b4a1480b8df5b15a7c236693d0e08f55c10a095",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-6.png": "031cc53dd142a1d719a0a930bfc366868a6d4958992a32e139a2745d77d74a4a",
+        "output/playwright/qa-independent-a/hu-tao-5-frame-7.png": "7b01b1b37f73d72791cefb08bae81e950cfd3cef3250b6e6b6c56ba84aa2e99f",
+        "output/playwright/qa-independent-a/hu-tao-5-idle.png": "9e1c9e6b87b9f1948dc3428b0b4773cd3c9238ceb064e037963018e2141fe782"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "kazuha-chibi",
+      "state": "jumping",
+      "row": 4,
+      "verdict": "pass",
+      "atlas_sha256": "3bddbbc92653a01efcfdbb5ff9993a1da78380a69397bf969e9ad823f5cfe66d",
+      "strip_sha256": "7121281dcfc82fb7618a752b400fe5c6917430b60f3657e751d0e78ed59caa6f",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/jumping.png",
+      "reason": "五格蹲低—起跳—腾空—下降—落地清楚，头部与躯干尺度接近待机；三轮实播后回待机主要是伸膝起身，没有旧候选整只明显放大的突变。首尾蹲姿接近，完整头发、围巾、手脚，没有跨格残片。",
+      "accepted_notes": "统一体型后压缩跳跃轨迹以适应固定单元格；未增加帧数。保留屈膝/手臂/朝向的合理变化，不要求各格像素轮廓完全一致。",
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/jumping-comparison.jpg",
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png",
+        "output/playwright/qa-independent-a-v2/kazuha-chibi-3cycles.png",
+        "output/playwright/qa-independent-a-v2/kazuha-chibi-idle.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "mode": "actual-wall-clock-three-cycles-then-idle",
+        "durations_ms": [
+          140,
+          140,
+          140,
+          140,
+          280
+        ],
+        "cycles": 3,
+        "idle_seen": true,
+        "samples": 23,
+        "log": "output/playwright/qa-independent-a-v2/browser-log.json"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png": "8e3870ebca63cc5a4d68cb66563f85a408d1b5bbd4a4d9c5fc01283c9a1d7a9a",
+        "output/playwright/qa-independent-a-v2/kazuha-chibi-3cycles.png": "b67639788131ae24827585821aa9a8860f3301dd2586b9ef5b00b6d18e739e61",
+        "output/playwright/qa-independent-a-v2/kazuha-chibi-idle.png": "5be41622e0ea685853910478ac866db102e4cfc0fff94530d9a3d4966acfbf53"
+      },
+      "measurements": {
+        "alpha_bbox_xyxy_exclusive": [
+          [
+            47,
+            47,
+            144,
+            203
+          ],
+          [
+            49,
+            29,
+            142,
+            185
+          ],
+          [
+            47,
+            5,
+            144,
+            164
+          ],
+          [
+            48,
+            26,
+            142,
+            185
+          ],
+          [
+            47,
+            47,
+            144,
+            203
+          ]
+        ],
+        "idle_first_frame_alpha_bbox": [
+          41,
+          5,
+          151,
+          203
+        ],
+        "jump_heights_px": [
+          156,
+          156,
+          159,
+          159,
+          156
+        ],
+        "note": "BBox 高度随屈膝变化，仅作为可用空间约束，不能替代头部尺度视觉比较。"
+      },
+      "minimum_fix": "整行共同缩放到接近 idle 的头部尺度，并只平移完整帧压低弧线，维持起落顺序及完整边距；安全空间不足则保留原版或整行重绘。新 hash 必须复审。",
+      "previous_rejection": "5 帧完整起落且首尾闭环，但跳跃全程头身比待机明显偏小；最后一格回 idle 时突然长大，原生 192×208 浏览器截图可复现。",
+      "review_path": "新版实播三轮后自动 idle，再通过下一帧逐格观察，已实际查看全部新截图。"
+    },
+    {
+      "id": "kazuha-chibi",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "3bddbbc92653a01efcfdbb5ff9993a1da78380a69397bf969e9ad823f5cfe66d",
+      "strip_sha256": "3bbfd08bf5c2f3a8fda01250f57502a6fd8b471c84ea5b2ed2551655e304ddd7",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/failed.png",
+      "reason": "低头、扶额、恢复的语义清楚，移除原坐姿和转背突变；肢体完整，首尾稳定，回待机比例可接受。",
+      "accepted_notes": [
+        "扶额中间保留两格停留。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-kazuha-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "id": "kazuha-chibi",
+        "row": 5,
+        "note": "调整同一动作内的完整帧顺序，保留角色外观，让反应与恢复衔接更自然。",
+        "live": [
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 2 轮"
+        ],
+        "idleStatus": "待机 · 第 1 / 6 帧",
+        "steps": [
+          "失败反馈 · 第 1 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 2 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 4 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 5 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 7 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮"
+        ],
+        "wrap": "失败反馈 · 第 1 / 8 帧 · 第 1 轮"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-0.png": "93c34a0749cc99a154786a773d9c07cced6e31e7bae4d94addec2f3062a49f0e",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-1.png": "67bba1c25003c2cbfd940ad5ffa9f248db6ba04e0a53c8836c3521e27827ff48",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-2.png": "748cfa7b4d2a08ce4244a699056c13aaa05d52205ebe927d8d4d47571e59375f",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-3.png": "967fbefa2a111e55ee81cce93a334b1496aac5d492d500f0c788285e2d26c5b5",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-4.png": "967fbefa2a111e55ee81cce93a334b1496aac5d492d500f0c788285e2d26c5b5",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-5.png": "748cfa7b4d2a08ce4244a699056c13aaa05d52205ebe927d8d4d47571e59375f",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-6.png": "67bba1c25003c2cbfd940ad5ffa9f248db6ba04e0a53c8836c3521e27827ff48",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-frame-7.png": "93c34a0749cc99a154786a773d9c07cced6e31e7bae4d94addec2f3062a49f0e",
+        "output/playwright/qa-independent-a/kazuha-chibi-5-idle.png": "5be41622e0ea685853910478ac866db102e4cfc0fff94530d9a3d4966acfbf53"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "kazuha-chibi",
+      "state": "waiting",
+      "row": 6,
+      "verdict": "pass",
+      "atlas_sha256": "3bddbbc92653a01efcfdbb5ff9993a1da78380a69397bf969e9ad823f5cfe66d",
+      "strip_sha256": "ecef9af36bd9f84063f29048f80ee8f9b19e5dd44ff66226179300ee5c204de7",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/waiting.png",
+      "reason": "举手询问与合手等待后回到起姿，身体尺度和重心稳定；完整头发与鞋，末帧至首帧及回待机都可接受。",
+      "accepted_notes": [
+        "合手两格短暂停留；手势变化比身体位移更明显。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/waiting-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-kazuha-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "id": "kazuha-chibi",
+        "row": 6,
+        "note": "调整同一动作内的完整帧顺序，保留角色外观，让反应与恢复衔接更自然。",
+        "live": [
+          "等待输入 · 第 3 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 6 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 2 / 6 帧 · 第 2 轮",
+          "等待输入 · 第 4 / 6 帧 · 第 2 轮"
+        ],
+        "idleStatus": "待机 · 第 1 / 6 帧",
+        "steps": [
+          "等待输入 · 第 1 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 2 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 3 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 4 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 5 / 6 帧 · 第 1 轮",
+          "等待输入 · 第 6 / 6 帧 · 第 1 轮"
+        ],
+        "wrap": "等待输入 · 第 1 / 6 帧 · 第 1 轮"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-0.png": "4e60d05a2232f300431dda6740cfedab55b2c8d510ec3723b39b843434a9f929",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-1.png": "ce63247bb5efa56a08d7ec7875217b4cb4e2a1aa493696f0d680fc7506fa6bbb",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-2.png": "950e5bb5287e987f812821d73a0fa0093977352bc9122beb4d844c357b100de2",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-3.png": "950e5bb5287e987f812821d73a0fa0093977352bc9122beb4d844c357b100de2",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-4.png": "ce63247bb5efa56a08d7ec7875217b4cb4e2a1aa493696f0d680fc7506fa6bbb",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-frame-5.png": "4e60d05a2232f300431dda6740cfedab55b2c8d510ec3723b39b843434a9f929",
+        "output/playwright/qa-independent-a/kazuha-chibi-6-idle.png": "5be41622e0ea685853910478ac866db102e4cfc0fff94530d9a3d4966acfbf53"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "kazuha-chibi",
+      "state": "running",
+      "row": 7,
+      "verdict": "pass",
+      "atlas_sha256": "3bddbbc92653a01efcfdbb5ff9993a1da78380a69397bf969e9ad823f5cfe66d",
+      "strip_sha256": "68e586bbf0fa119e691a2b7e10e2eb8ac50bbe439694ca9ddbbd333bbdcb3552",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/running.png",
+      "reason": "工作中状态表现为思考手势与细小头部变化，去掉板/书闪现与坐姿尺度断裂；循环连贯、手脚完整，回待机无明显突跳。",
+      "accepted_notes": [
+        "running 此行是工作状态而非横向跑步；动作幅度较轻，和当前状态语义匹配。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/kazuha-chibi/running-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-kazuha-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "id": "kazuha-chibi",
+        "row": 7,
+        "note": "整行动作重绘，保持角色身份，修复道具或姿态断裂；帧数保持不变。",
+        "live": [
+          "工作中 · 第 4 / 6 帧 · 第 1 轮",
+          "工作中 · 第 6 / 6 帧 · 第 1 轮",
+          "工作中 · 第 4 / 6 帧 · 第 2 轮",
+          "工作中 · 第 6 / 6 帧 · 第 2 轮"
+        ],
+        "idleStatus": "待机 · 第 1 / 6 帧",
+        "steps": [
+          "工作中 · 第 1 / 6 帧 · 第 1 轮",
+          "工作中 · 第 2 / 6 帧 · 第 1 轮",
+          "工作中 · 第 3 / 6 帧 · 第 1 轮",
+          "工作中 · 第 4 / 6 帧 · 第 1 轮",
+          "工作中 · 第 5 / 6 帧 · 第 1 轮",
+          "工作中 · 第 6 / 6 帧 · 第 1 轮"
+        ],
+        "wrap": "工作中 · 第 1 / 6 帧 · 第 1 轮"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-0.png": "02ce9009153072a5f18e30510191a1752421de3782af31a189d2169966e308ab",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-1.png": "5c863caab81a23257c102cfaf87008ed91687f1824b27037cbe1fd9b33916751",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-2.png": "1fceae5e982f35ebb6f1d96bbf4f3790a344e90715346679d3fcde3ae5321591",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-3.png": "70211e91e795929ea95b9c5bb4f0db59f0217302a4f03f1c809cbe969d259994",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-4.png": "66497b6391f8578c2fa3263e07ac6b86fe46e4ad5a19fc168da66c0e00598787",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-frame-5.png": "c0c461907fb09be9700198751a23814fc69b08fd49e119a35255f0c26df03d17",
+        "output/playwright/qa-independent-a/kazuha-chibi-7-idle.png": "5be41622e0ea685853910478ac866db102e4cfc0fff94530d9a3d4966acfbf53"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "kafka",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "bc8d3cfbae18ef8a132d0427da6a95cfee8d460e69aaa23d5b5fbecc6b932781",
+      "strip_sha256": "3decc52b90867a07bc4e71698af1c9172ac61c57d7e87abc3d53892fd33d4441",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/kafka/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/kafka/failed.png",
+      "reason": "低头失落后逐步恢复，统一角色比例，保留有意头部下沉；靴子、长衣与双手完整，循环首尾和回待机衔接可接受。",
+      "accepted_notes": [
+        "姿态幅度较小，但失败反馈足够可辨。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/kafka/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-misc-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "id": "kafka",
+        "row": 5,
+        "note": "从原始完整素材统一缩放、重新提取，保留动作起伏并修复原有配准问题。",
+        "live": [
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 2 轮"
+        ],
+        "idleStatus": "待机 · 第 1 / 6 帧",
+        "steps": [
+          "失败反馈 · 第 1 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 2 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 4 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 5 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 7 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮"
+        ],
+        "wrap": "失败反馈 · 第 1 / 8 帧 · 第 1 轮"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/kafka-5-frame-0.png": "db5d6fc6b84791f98b4df906ecb258abc0b067f1250644bc41576dc715b8b8dc",
+        "output/playwright/qa-independent-a/kafka-5-frame-1.png": "d4320dae42c9cecc0650e37d1415a5ddb6c87413cad4279fd0af3bd837d34509",
+        "output/playwright/qa-independent-a/kafka-5-frame-2.png": "cda4bf0f3b5403ec61da1657088f5c760407cbfa8b6443d73e65970165a5b777",
+        "output/playwright/qa-independent-a/kafka-5-frame-3.png": "1bf1f1108262adab9f0cc05762d7f58d5bc61bc79d5d2f0f03d6694f9c5b462c",
+        "output/playwright/qa-independent-a/kafka-5-frame-4.png": "5a0255fa247b78cdfd3e9f0d40e9f4a8d57ba17500f7d32a3fbbfa24dcddf287",
+        "output/playwright/qa-independent-a/kafka-5-frame-5.png": "3cf2b017bcb759765a932e1810809bcc93549b9f31bb7ecafe0de90cf5e49d51",
+        "output/playwright/qa-independent-a/kafka-5-frame-6.png": "7a184341b7eb45a38fed3e6c78422095362c4e9fea4561ddf8809d9708f0f3ca",
+        "output/playwright/qa-independent-a/kafka-5-frame-7.png": "dc4909d8997bd601ad2981a6d6586cfb003776ea0054f8b057eb4e16a5d2f245",
+        "output/playwright/qa-independent-a/kafka-5-idle.png": "b0ba2e370282f7f6b9ab716402176a79588d8b04f53ade7be1fbcbd3fd36c43d"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "state": "jumping",
+      "row": 4,
+      "verdict": "pass",
+      "atlas_sha256": "6fa85372a982c30d7b2cf5b19afdf05305d2e08a194b292d20a6efad2266b85a",
+      "strip_sha256": "1ba06ca40a73c3e61c7306e31e41c4c29afa97e43ed4aa8fcac3bfe376dc9b58",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/jumping.png",
+      "reason": "新版保留蹲低、腾空抬手、下降落地的起伏，头部与辫子体量接近待机；三轮结束是蹲姿回站立，已消除旧候选小头小身体回待机突然变大的主要问题。双手、鞋、羽织和辫子完整，循环落地到起跳连续。",
+      "accepted_notes": "统一体型后压缩跳跃轨迹以适应固定单元格；未增加帧数。保留屈膝/手臂/朝向的合理变化，不要求各格像素轮廓完全一致。",
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/jumping-comparison.jpg",
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png",
+        "output/playwright/qa-independent-a-v2/mitsuri-kanroji-3cycles.png",
+        "output/playwright/qa-independent-a-v2/mitsuri-kanroji-idle.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "mode": "actual-wall-clock-three-cycles-then-idle",
+        "durations_ms": [
+          140,
+          140,
+          140,
+          140,
+          280
+        ],
+        "cycles": 3,
+        "idle_seen": true,
+        "samples": 22,
+        "log": "output/playwright/qa-independent-a-v2/browser-log.json"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png": "8e3870ebca63cc5a4d68cb66563f85a408d1b5bbd4a4d9c5fc01283c9a1d7a9a",
+        "output/playwright/qa-independent-a-v2/mitsuri-kanroji-3cycles.png": "a8d521f145f673c736934e3e81721d4f8b376af9cd2d17876d9d32baf6697f59",
+        "output/playwright/qa-independent-a-v2/mitsuri-kanroji-idle.png": "9785507ac295df12591fb07a2c131239ceb3125b0ad0abf56ba677493a778845"
+      },
+      "measurements": {
+        "alpha_bbox_xyxy_exclusive": [
+          [
+            35,
+            70,
+            155,
+            203
+          ],
+          [
+            33,
+            25,
+            158,
+            181
+          ],
+          [
+            31,
+            5,
+            160,
+            159
+          ],
+          [
+            29,
+            31,
+            162,
+            188
+          ],
+          [
+            36,
+            72,
+            155,
+            203
+          ]
+        ],
+        "idle_first_frame_alpha_bbox": [
+          43,
+          5,
+          149,
+          203
+        ],
+        "jump_heights_px": [
+          133,
+          156,
+          154,
+          157,
+          131
+        ],
+        "note": "BBox 高度随屈膝变化，仅作为可用空间约束，不能替代头部尺度视觉比较。"
+      },
+      "minimum_fix": "整行共同缩放到接近 idle 的头部尺度，并只平移完整帧压低弧线，维持起落顺序及完整边距；安全空间不足则保留原版或整行重绘。新 hash 必须复审。",
+      "previous_rejection": "起跳、腾空、落地顺序清楚，保留真实源 Y 轨迹；但头部在整段跳跃明显小于待机，三轮结束回 idle 时出现放大突变。",
+      "review_path": "新版实播三轮后自动 idle，再通过下一帧逐格观察，已实际查看全部新截图。"
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "state": "failed",
+      "row": 5,
+      "verdict": "pass",
+      "atlas_sha256": "6fa85372a982c30d7b2cf5b19afdf05305d2e08a194b292d20a6efad2266b85a",
+      "strip_sha256": "0e8528c14a6b92b2243e719336c37e7ab1b609525d05c39cb286fbd932085415",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/failed.png",
+      "reason": "闭眼沮丧、蹲低、回站立的完整过程，头部尺度稳定且真实保留屈膝高度变化；辫子、裙摆、腿脚完整，首尾与待机衔接可接受。",
+      "accepted_notes": [
+        "蹲姿造成的身体高度下降是有意动作，不按全身 bbox 等高处理。"
+      ],
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/mitsuri-kanroji/failed-comparison.jpg",
+        "output/playwright/qa-independent-a/browser-misc-montage.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "id": "mitsuri-kanroji",
+        "row": 5,
+        "note": "从原始完整素材统一缩放、重新提取，保留动作起伏并修复原有配准问题。",
+        "live": [
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 2 轮"
+        ],
+        "idleStatus": "待机 · 第 1 / 6 帧",
+        "steps": [
+          "失败反馈 · 第 1 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 2 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 3 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 4 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 5 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 6 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 7 / 8 帧 · 第 1 轮",
+          "失败反馈 · 第 8 / 8 帧 · 第 1 轮"
+        ],
+        "wrap": "失败反馈 · 第 1 / 8 帧 · 第 1 轮"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-0.png": "54b1cc0728c642a229f36d77dda8df024d682cf04a1cd1074303ad0236de5023",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-1.png": "08f693aec4079a3c80cea2d2875e400b52783c3fa8aa5712997a73752ae936dc",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-2.png": "8a67793694e598a8cea1b9ee880af8e6f83e67d01824da226f658c529a56886b",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-3.png": "8dcb23c59db8fd9615916b916c9eff6629fc0ddad235d4f5f509970e422bb6b7",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-4.png": "6558c01ea6b2dc55bed76a9ae53191dbfee61ee8a43f8875b64ac29d835249c0",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-5.png": "8dcb23c59db8fd9615916b916c9eff6629fc0ddad235d4f5f509970e422bb6b7",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-6.png": "8a67793694e598a8cea1b9ee880af8e6f83e67d01824da226f658c529a56886b",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-frame-7.png": "08f693aec4079a3c80cea2d2875e400b52783c3fa8aa5712997a73752ae936dc",
+        "output/playwright/qa-independent-a/mitsuri-kanroji-5-idle.png": "9785507ac295df12591fb07a2c131239ceb3125b0ad0abf56ba677493a778845"
+      },
+      "review_path": "复核完整 before/after 及原生逐帧/回待机证据；确认 strip SHA-256 与此前通过版完全一致。"
+    },
+    {
+      "id": "obanai",
+      "state": "jumping",
+      "row": 4,
+      "verdict": "pass",
+      "atlas_sha256": "d7a4ef115cc9042bf973183ce950fe73226024f549b78733ac1effa62a0778b2",
+      "strip_sha256": "6e2e44c6b1ea2923ff496a5d8bc5fdaf1985638fa48e44a6f3d716bc7b3dd9ea",
+      "atlas": "work/motion-refinement-2026-11-06/candidates/obanai/spritesheet.webp",
+      "strip": "work/motion-refinement-2026-11-06/candidates/obanai/jumping.png",
+      "reason": "新版原生播放中头身尺度已接近待机，起跳、屈膝腾空、落地可辨；三轮回待机时只见站姿恢复，旧候选明显整身缩小后放大的问题已改善到可接受。披风、蛇、双手、鞋均完整，没有相邻帧碎片。",
+      "accepted_notes": "统一体型后压缩跳跃轨迹以适应固定单元格；未增加帧数。保留屈膝/手臂/朝向的合理变化，不要求各格像素轮廓完全一致。",
+      "evidence": [
+        "work/motion-refinement-2026-11-06/candidates/obanai/jumping-comparison.jpg",
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png",
+        "output/playwright/qa-independent-a-v2/obanai-3cycles.png",
+        "output/playwright/qa-independent-a-v2/obanai-idle.png"
+      ],
+      "native_canvas": {
+        "width": 192,
+        "height": 208
+      },
+      "atlas_row_equals_strip": true,
+      "browser_playback": {
+        "mode": "actual-wall-clock-three-cycles-then-idle",
+        "durations_ms": [
+          140,
+          140,
+          140,
+          140,
+          280
+        ],
+        "cycles": 3,
+        "idle_seen": true,
+        "samples": 22,
+        "log": "output/playwright/qa-independent-a-v2/browser-log.json"
+      },
+      "screenshot_sha256": {
+        "output/playwright/qa-independent-a-v2/jump-v2-frames-and-idle.png": "8e3870ebca63cc5a4d68cb66563f85a408d1b5bbd4a4d9c5fc01283c9a1d7a9a",
+        "output/playwright/qa-independent-a-v2/obanai-3cycles.png": "2f238e2a47aaf94dd2248e71c4e9722b96a228ab20ee603295e076a2dc6bf6de",
+        "output/playwright/qa-independent-a-v2/obanai-idle.png": "3cbd7219c85eabb3161a60f7c2335cad9efbcd55c1005a827a5bb6f0d454a918"
+      },
+      "measurements": {
+        "alpha_bbox_xyxy_exclusive": [
+          [
+            51,
+            54,
+            141,
+            200
+          ],
+          [
+            47,
+            23,
+            145,
+            192
+          ],
+          [
+            47,
+            5,
+            145,
+            157
+          ],
+          [
+            47,
+            24,
+            145,
+            194
+          ],
+          [
+            53,
+            52,
+            139,
+            203
+          ]
+        ],
+        "idle_first_frame_alpha_bbox": [
+          44,
+          5,
+          147,
+          203
+        ],
+        "jump_heights_px": [
+          146,
+          169,
+          152,
+          170,
+          151
+        ],
+        "note": "BBox 高度随屈膝变化，仅作为可用空间约束，不能替代头部尺度视觉比较。"
+      },
+      "minimum_fix": "整行共同缩放到接近 idle 的头部尺度，并只平移完整帧压低弧线，维持起落顺序及完整边距；安全空间不足则保留原版或整行重绘。新 hash 必须复审。",
+      "previous_rejection": "五格腾空弧线和屈膝语义成立，完整手脚与披风；全行比 idle 小，站立末帧回待机有明显全身放大突变。",
+      "review_path": "新版实播三轮后自动 idle，再通过下一帧逐格观察，已实际查看全部新截图。"
+    }
+  ],
+  "previous_review": {
+    "reviewer": "/root/motion_audit_zzz_honkai",
+    "reviewed_at_utc": "2026-11-06T14:59:42.406696+00:00",
+    "review_version": "initial-candidates-before-jump-scale-repair",
+    "result_counts": {
+      "pass": 8,
+      "reject": 3
+    }
+  },
+  "candidate_manifest_sha256": "e808fad9721c6a2a989fa0e5804141db792510d3179bf838c67a84ed991e3b63",
+  "negative_checks": "本组未见头顶/鞋/发梢被裁切、跨格碎片、道具凭空闪现；新版三条跳跃没有旧候选那种明显全程缩小后回待机放大的问题。",
+  "public_versioned_preview_recheck": {
+    "reviewed_at_utc": "2026-11-06T15:15:33.840460+00:00",
+    "reviewer": "/root/final_motion_qa_a",
+    "url": "http://127.0.0.1:8873/docs/pet-motion-refinement.html",
+    "fresh_browser_context": true,
+    "method": "新建 Chromium 浏览器及上下文，正式页面带 SHA 查询的图 URL；以正常播放按钮真实运行三轮至 idle，逐一实际查看连续截图。",
+    "rows": [
+      {
+        "id": "kazuha-chibi",
+        "state": "jumping",
+        "verdict": "pass",
+        "atlas_sha256": "3bddbbc92653a01efcfdbb5ff9993a1da78380a69397bf969e9ad823f5cfe66d",
+        "strip_sha256": "7121281dcfc82fb7618a752b400fe5c6917430b60f3657e751d0e78ed59caa6f",
+        "actual_loaded_after_url": "http://127.0.0.1:8873/genshin-impact/kaedehara-kazuha/kazuha-chibi-2d/spritesheet.webp?v=3bddbbc92653",
+        "cycles": 3,
+        "idle_seen": true,
+        "reason": "实看正式版三轮起跳、腾空、落地后回待机，体型与已通过新版一致；没有回到旧版明显缩小的图。",
+        "evidence": [
+          "output/playwright/qa-independent-a-public/kazuha-chibi-live.png",
+          "output/playwright/qa-independent-a-public/browser-log.json"
+        ],
+        "evidence_sha256": "b6ad91307cc48f544d3ea1845d73f72cebebf2a802cd7145ca654031debfa4d5"
+      },
+      {
+        "id": "mitsuri-kanroji",
+        "state": "jumping",
+        "verdict": "pass",
+        "atlas_sha256": "6fa85372a982c30d7b2cf5b19afdf05305d2e08a194b292d20a6efad2266b85a",
+        "strip_sha256": "1ba06ca40a73c3e61c7306e31e41c4c29afa97e43ed4aa8fcac3bfe376dc9b58",
+        "actual_loaded_after_url": "http://127.0.0.1:8873/others/mitsuri-kanroji/mitsuri-kanroji-2d/spritesheet.webp?v=6fa85372a982",
+        "cycles": 3,
+        "idle_seen": true,
+        "reason": "实看正式版三轮及待机，头部体量与之前通过新版一致，完整起落、辫子和鞋未裁切；旧候选的整段缩小未复现。",
+        "evidence": [
+          "output/playwright/qa-independent-a-public/mitsuri-kanroji-live.png",
+          "output/playwright/qa-independent-a-public/browser-log.json"
+        ],
+        "evidence_sha256": "eeac1ea3d77eb92a43842c20ad4d5d231023264b098703a3f18b6dba502efc5b"
+      },
+      {
+        "id": "obanai",
+        "state": "jumping",
+        "verdict": "pass",
+        "atlas_sha256": "d7a4ef115cc9042bf973183ce950fe73226024f549b78733ac1effa62a0778b2",
+        "strip_sha256": "6e2e44c6b1ea2923ff496a5d8bc5fdaf1985638fa48e44a6f3d716bc7b3dd9ea",
+        "actual_loaded_after_url": "http://127.0.0.1:8873/others/obanai-iguro/obanai-2d/spritesheet.webp?v=d7a4ef115cc9",
+        "cycles": 3,
+        "idle_seen": true,
+        "reason": "实看正式版三轮及待机，采用已通过的新尺寸，披风、蛇、脚完整；起落后的待机接续结论保持通过。",
+        "evidence": [
+          "output/playwright/qa-independent-a-public/obanai-live.png",
+          "output/playwright/qa-independent-a-public/browser-log.json"
+        ],
+        "evidence_sha256": "ebe306840fe9b3eae219ed516545267aa4a0f2d15d5d9840b9ce311fd3a3b194"
+      }
+    ],
+    "conclusion": "3 条正式版新图与先前通过候选的视觉效果一致，原 11 pass 结论及素材 hash 均保持不变。"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "running": {
+    "source_sha256": "3cd561d83cfaa63b07d68001f7c61dae9bed3c406c7b9b59ea73a1caa9db37da",
+    "cuts": [
+      0,
+      303,
+      572,
+      851,
+      1127,
+      1400,
+      1717
+    ],
+    "foot_anchors": [
+      [
+        171.9,
+        727
+      ],
+      [
+        443.3,
+        727
+      ],
+      [
+        709.9,
+        727
+      ],
+      [
+        989.2,
+        727
+      ],
+      [
+        1264.2,
+        727
+      ],
+      [
+        1540.7,
+        727
+      ]
+    ],
+    "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/reference-neutral.png",
+    "review_note": "Full decoded row compared with original clipped atlas. Cuts follow the low-occupancy gaps between torso/foot anchors; only narrow touching hair ends cross the boundary. One shared scale and one common foot baseline preserve the original pose deformation. Native-size tip quality remains pending independent QA."
+  }
+}

@@ -1642,3 +1642,5 @@ Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，�
   <a href="#contribute-a-character"><kbd>提议新角色</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>制作自己的宠物</kbd></a>
 </p>
+
+[固定帧数动作更新：全量覆盖与前后对比](docs/pet-motion-refinement-2026-11-06.md)。

@@ -1,0 +1,3332 @@
+{
+  "reviewer": "motion_scope_audit",
+  "scope": "All 13 Genshin Impact editions plus 3 others: 16 editions, 144 standard action rows. Read-only published assets.",
+  "baseline_commit": "c72f04ddea89ff4a403803b2c4e39de237ee3ad5",
+  "method": "Actually viewed all 16 labelled contact sheets; opened native PNG rows for each candidate class and all retained decoded source images referenced below. Static visual inspection plus cell bounds; no new visuals generated, no runtime playback claimed.",
+  "timing_context": "Parent verified current client repeats actions three times; proposed maps require actual durations_ms three-cycle QA before release.",
+  "severity_policy": "major/moderate identify visible geometric/sequence problems; minor candidates must demonstrate enough native benefit to justify change. Numerical seam ratio alone never establishes a defect.",
+  "assets_modified": false,
+  "editions": [
+    {
+      "id": "tartaglia",
+      "atlas": "genshin-impact/Tartaglia/tartaglia-2d/spritesheet.webp",
+      "sha256": "b7af8053f46cc2acb5e719ded50cadc307bc459ac64df1ca6a827e949c33cdff",
+      "contact": "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.893,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.125,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.944,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Intentional gait bounce and alternating leg placement are visible; no random-registration failure confirmed. Do not flatten vertical gait."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.111,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.03,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Clear ascent/apex/descent with consistent head scale; preserve intentional motion."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.705,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.365,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.416,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/tartaglia.jpg",
+            "work/motion-refinement-2026-11-06/rows/tartaglia--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.627,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "venti",
+      "atlas": "genshin-impact/Venti/venti-2d/spritesheet.webp",
+      "sha256": "6a685be4aeaef6dd178a26a57968ccf2aa5bc708172c4cfaaefc0ff0c1cf8c71",
+      "contact": "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.689,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.702,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.883,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.399,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.931,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "minor",
+          "issue": "Five cells are normalized to the same y=5..203 bounds; native strip shows leg-pose changes but little whole-body ascent. This is a low-priority readability candidate, not a diagnosed random jitter.",
+          "minimum_repair": "whole_row_redraw_if_benefit_confirmed",
+          "rationale": "No decoded source available; do not invent a jump merely by shifting arbitrary frames. Preserve current row unless a complete coherent alternative clearly improves native playback."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.14,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.253,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.985,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/venti.jpg",
+            "work/motion-refinement-2026-11-06/rows/venti--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.86,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "wanderer",
+      "atlas": "genshin-impact/Wanderer/wanderer-2d/spritesheet.webp",
+      "sha256": "e5ccfea04eab7130af9c703a9677bff92b7944cb44ff632f9315391185fc87da",
+      "contact": "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.372,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.794,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.636,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.427,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.168,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Clear crouch-to-apex-to-crouch trajectory; do not align all feet."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.13,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.172,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.425,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/wanderer.jpg",
+            "work/motion-refinement-2026-11-06/rows/wanderer--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.363,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "furina",
+      "atlas": "genshin-impact/furina/furina-2d/spritesheet.webp",
+      "sha256": "03657db6973c9535aad99a9c0bc0d14602a1dfa07421866a0c90ceed5ddba81b",
+      "contact": "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 3.53,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Known same-state open-eye reuse produces 4 unique frames across 6 slots; no native visible registration defect confirmed despite high seam ratio."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.751,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.948,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.155,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.591,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 5.435,
+          "frames": [
+            5,
+            6,
+            7
+          ],
+          "severity": "major",
+          "issue": "Crouching frames visibly enlarge the head/hat while all full-body bounds remain y=5..203; the final crouch resets directly to standing on repeated playback.",
+          "minimum_repair": "same_state_whole_frame_reassembly",
+          "proposed_mapping": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            3,
+            2,
+            1
+          ],
+          "rationale": "Frames 0–4 retain readable standing disappointment and comparatively consistent scale. Reversing the existing descent provides recovery without new drawing. Requires timed three-cycle QA; not yet approved."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.28,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.14,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/furina.jpg",
+            "work/motion-refinement-2026-11-06/rows/furina--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "ganyu",
+      "atlas": "genshin-impact/ganyu/ganyu-2d/spritesheet.webp",
+      "sha256": "cab535297a38404871c696cebe6597466b6f126d40cb37c052b45824b2e56ec3",
+      "contact": "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 2.755,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Stable quiet open-eye row; high ratio is based on very small absolute differences and is not a defect by itself."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.911,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.349,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.893,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.154,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "moderate",
+          "issue": "Crouch frames 1/3 visibly enlarge the head relative to standing/apex poses while every cell remains y=5..203. Upward body translation is largely absent.",
+          "minimum_repair": "whole_row_redraw_if_no_source",
+          "rationale": "Available atlas frames already have inconsistent pose-dependent scaling; ordering alone does not repair geometry. No decoded source recorded."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.925,
+          "frames": [
+            5
+          ],
+          "severity": "moderate",
+          "issue": "Column 5 seated pose has a visibly enlarged head and abruptly returns to the smaller standing figure in column 6.",
+          "minimum_repair": "same_state_whole_frame_reassembly",
+          "proposed_mapping": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            3,
+            2,
+            1
+          ],
+          "rationale": "Preserves closed-eye/face-cover disappointment using standing frames and adds recovery. Needs native three-cycle playback review."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.279,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.219,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/ganyu.jpg",
+            "work/motion-refinement-2026-11-06/rows/ganyu--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.865,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "hu-tao",
+      "atlas": "genshin-impact/hu-tao/hu-tao-2d/spritesheet.webp",
+      "sha256": "73bcdfdc7b8f4780768a5bdc5d4758a58ce0b75c051ffc22fb93f452454a4acf",
+      "contact": "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.045,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.847,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.438,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.383,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.065,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.509,
+          "frames": [
+            3,
+            4,
+            5
+          ],
+          "severity": "moderate",
+          "issue": "The squat sequence, especially columns 4/5, increases head/hat size substantially while overall height stays fixed; return to standing produces size pop.",
+          "minimum_repair": "same_state_whole_frame_reassembly",
+          "proposed_mapping": [
+            0,
+            1,
+            2,
+            2,
+            2,
+            2,
+            6,
+            7
+          ],
+          "rationale": "Try the existing standing reaction and recovery, omitting enlarged crouching poses. Closed-eye holds are short in this non-idle row. Mapping is a candidate; ensure the reduced pose variety remains expressive rather than static."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.621,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.719,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/hu-tao.jpg",
+            "work/motion-refinement-2026-11-06/rows/hu-tao--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.563,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "kazuha-chibi",
+      "atlas": "genshin-impact/kaedehara-kazuha/kazuha-chibi-2d/spritesheet.webp",
+      "sha256": "23d3f6159fc0af9e0ae1e47e9107bb724dc2dc03badbddd6b91190b28a9b0387",
+      "contact": "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.663,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.009,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.068,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.217,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.324,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "major",
+          "issue": "Crouched endpoints have much larger head/body proportions than the middle airborne poses, with identical top/bottom bounds; the strip reads as zooming between poses.",
+          "minimum_repair": "whole_row_redraw_if_no_source",
+          "rationale": "Pose-dependent geometry and missing rise cannot be solved by reordering. No decoded source available; do not fake a complete fix through independent translations."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.891,
+          "frames": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "severity": "major",
+          "issue": "Large-scale seated/crouched poses mix with standing poses and the last frame turns fully away before resetting to front, creating visible pose and size jumps.",
+          "minimum_repair": "same_state_whole_frame_reassembly",
+          "proposed_mapping": [
+            1,
+            0,
+            2,
+            6,
+            6,
+            2,
+            0,
+            1
+          ],
+          "rationale": "Standing front/quarter disappointment and facepalm frames can make a reaction/recovery loop while retaining failed semantics. Timed native review must verify that head-turn changes are comfortable."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.721,
+          "frames": [
+            3,
+            4,
+            5
+          ],
+          "severity": "moderate",
+          "issue": "Final frame abruptly sits down with a visibly enlarged head, then resets to standing; preceding poses also differ in scale.",
+          "minimum_repair": "same_state_whole_frame_reassembly",
+          "proposed_mapping": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            0
+          ],
+          "rationale": "Three standing attentive/request poses retain state meaning and allow recovery, with holds rather than added artwork. Verify that the gesture does not become distracting back-and-forth waving."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.456,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "major",
+          "issue": "Working row alternates standing/kneeling and switches between a board, book, blank hands and another book; native frames do not form one coherent motion.",
+          "minimum_repair": "whole_row_redraw",
+          "rationale": "Reordering cannot remove prop and torso discontinuities while retaining a useful work gesture; generate a complete consistent working row only if approved within main task scope."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kazuha-chibi.jpg",
+            "work/motion-refinement-2026-11-06/rows/kazuha-chibi--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.186,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "kaeya",
+      "atlas": "genshin-impact/kaeya/kaeya-2d/spritesheet.webp",
+      "sha256": "28e8c513d0e30daac8746f09689bacb88c4ddd024ad7ce867eb8b0f7608249cc",
+      "contact": "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.21,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 2.482,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Metric seam ratio is elevated, but native contact shows an ordinary stride transition rather than confirmed whole-character misregistration; retain until motion evidence shows an issue."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.043,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.379,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.089,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.901,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.85,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.802,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kaeya.jpg",
+            "work/motion-refinement-2026-11-06/rows/kaeya--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.678,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "kamisato-ayaka",
+      "atlas": "genshin-impact/kamisato-ayaka/kamisato-ayaka-2d/spritesheet.webp",
+      "sha256": "c946a455c6b80e0ce7f5992923f45750359bd07bf5bd42fde6ed35295ef6ed46",
+      "contact": "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.655,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.016,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.289,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.322,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.515,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Native inspection shows modest head rise and distinct leg extension/fold; outer bounds also include wide hanging costume ends. Bounding-box changes do not by themselves establish a defect; keep."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.693,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.717,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.319,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kamisato-ayaka.jpg",
+            "work/motion-refinement-2026-11-06/rows/kamisato-ayaka--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.448,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "raiden-shogun",
+      "atlas": "genshin-impact/raiden-shogun/raiden-shogun-2d/spritesheet.webp",
+      "sha256": "90ae6dd1029dfee0eaed75b4ddec3ccfc6c316cc64c4f47067fe891cef0ab3fa",
+      "contact": "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.964,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.973,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.791,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.165,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.106,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "moderate",
+          "issue": "Crouched endpoints visibly grow relative to middle poses and all five cells retain the same y=5..203 outer bounds; visible height change is suppressed.",
+          "minimum_repair": "whole_row_redraw_if_no_source",
+          "rationale": "No decoded source available. Require a complete jump preserving character scale, rather than generic alignment of all frames."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 2.163,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.487,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.488,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/raiden-shogun.jpg",
+            "work/motion-refinement-2026-11-06/rows/raiden-shogun--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.757,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "xiao",
+      "atlas": "genshin-impact/xiao/xiao-2d/spritesheet.webp",
+      "sha256": "5aa0a1cc70f85f28d0bb0b7ac135ad87206ac18e2b971e1ff6894bf65379e9c4",
+      "contact": "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.694,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.645,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.851,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.126,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.104,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "moderate",
+          "issue": "Crouched endpoints have larger heads than middle poses; all frames occupy y=5..203 and show little whole-body rise.",
+          "minimum_repair": "whole_row_redraw_if_no_source",
+          "rationale": "Original jumping source is not available in inventory; existing optimized idle/running experimental sources do not authorize cross-state borrowing. Preserve all other current rows."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.495,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.439,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.337,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/xiao.jpg",
+            "work/motion-refinement-2026-11-06/rows/xiao--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.412,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "yae-miko",
+      "atlas": "genshin-impact/yae-miko/yae-miko-2d/spritesheet.webp",
+      "sha256": "acf78c41d40e417e038bfd4a0014e8a0ae84c7445b415343902e36aab57a1d52",
+      "contact": "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.256,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.958,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.537,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.767,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.362,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.987,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.562,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.426,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/yae-miko.jpg",
+            "work/motion-refinement-2026-11-06/rows/yae-miko--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.512,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "zhongli",
+      "atlas": "genshin-impact/zhongli/zhongli-2d/spritesheet.webp",
+      "sha256": "e15eb4d461acc926f221b1e2cd12c3ecb7f0730e9a0f5da2a710088731a4ba46",
+      "contact": "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.514,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.215,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.881,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.3,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.421,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Feet lift and fold under a reasonably consistent head; low head translation is insufficient evidence to mandate redrawing. Keep."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.173,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.152,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.699,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/zhongli.jpg",
+            "work/motion-refinement-2026-11-06/rows/zhongli--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.137,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "kibutsuji-muzan",
+      "atlas": "others/Kibutsuji Muzan/kibutsuji-muzan-2d/spritesheet.webp",
+      "sha256": "8382b1ab213e575c5bd3d59994d0ab3be930032fe4e147cd1b3ad6d4c3fc9440",
+      "contact": "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.638,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.966,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.429,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.416,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.293,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Readable rise and landing, stable character identity; preserve."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.145,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.796,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.529,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/kibutsuji-muzan.jpg",
+            "work/motion-refinement-2026-11-06/rows/kibutsuji-muzan--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.615,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "atlas": "others/mitsuri-kanroji/mitsuri-kanroji-2d/spritesheet.webp",
+      "sha256": "2d39272c8b895b7569abd889ec2878259f6bf9f0bab688c2f7aecc5ec2e15d56",
+      "contact": "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [
+        "work/mitsuri-kanroji/2d/decoded/idle.png",
+        "work/mitsuri-kanroji/2d/decoded/running-right.png",
+        "work/mitsuri-kanroji/2d/decoded/running-left.png",
+        "work/mitsuri-kanroji/2d/decoded/waving.png",
+        "work/mitsuri-kanroji/2d/decoded/jumping.png",
+        "work/mitsuri-kanroji/2d/decoded/failed.png",
+        "work/mitsuri-kanroji/2d/decoded/waiting.png",
+        "work/mitsuri-kanroji/2d/decoded/running.png",
+        "work/mitsuri-kanroji/2d/decoded/review.png"
+      ],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.153,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.479,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Running gait and braid follow-through retained; changes in trailing hair outline are not evidence of full-body jitter."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.419,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "Running gait and braid follow-through retained; no mandatory registration repair confirmed."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.502,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.255,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "major",
+          "issue": "Final cells flatten every pose to y=5..203 and enlarge crouching endpoints. Actual retained decoded strip has consistent head scale and clear ascent/apex/landing.",
+          "minimum_repair": "shared_scale_source_reextraction",
+          "source": "work/mitsuri-kanroji/2d/decoded/jumping.png",
+          "rationale": "Confirmed from actual source view, not inferred: preserve source vertical offsets with common scale and row anchor. Avoid component-wise fit which removes intentional rise."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.667,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "major",
+          "issue": "Current row alternates normalized large-head seated and smaller standing poses, with abrupt recoveries. Retained source has far more consistent head size and shared foot baseline.",
+          "minimum_repair": "shared_scale_source_reextraction_then_same_state_reassembly",
+          "source": "work/mitsuri-kanroji/2d/decoded/failed.png",
+          "proposed_mapping": [
+            6,
+            1,
+            2,
+            3,
+            4,
+            3,
+            2,
+            1
+          ],
+          "alternative_existing_atlas_mapping": [
+            6,
+            1,
+            2,
+            7,
+            7,
+            2,
+            1,
+            6
+          ],
+          "rationale": "Preferred route retains sitting semantics with uniform source scale and a reaction/recovery order; existing-atlas alternative uses standing disappointment only if source recovery is impractical. Both need independent playback QA."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.279,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.729,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/mitsuri-kanroji.jpg",
+            "work/motion-refinement-2026-11-06/rows/mitsuri-kanroji--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.066,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    },
+    {
+      "id": "obanai",
+      "atlas": "others/obanai-iguro/obanai-2d/spritesheet.webp",
+      "sha256": "f006e051c563daf51e37ba6e92011aeb25bd655b5e87bf023de948fcffd9cdca",
+      "contact": "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+      "contact_actually_viewed": true,
+      "source_availability": [
+        "work/obanai/2d/decoded/idle.png",
+        "work/obanai/2d/decoded/running-right.png",
+        "work/obanai/2d/decoded/running-left.png",
+        "work/obanai/2d/decoded/waving.png",
+        "work/obanai/2d/decoded/jumping.png",
+        "work/obanai/2d/decoded/failed.png",
+        "work/obanai/2d/decoded/waiting.png",
+        "work/obanai/2d/decoded/running.png",
+        "work/obanai/2d/decoded/review.png"
+      ],
+      "rows": [
+        {
+          "row": 0,
+          "state": "idle",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--idle.png"
+          ],
+          "seam_ratio_diagnostic_only": 1.568,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 1,
+          "state": "running-right",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--running-right.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.732,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 2,
+          "state": "running-left",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--running-left.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.926,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 3,
+          "state": "waving",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--waving.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.52,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 4,
+          "state": "jumping",
+          "status": "candidate",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--jumping.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.579,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "severity": "moderate",
+          "issue": "Final cells share y=5..203, suppressing the actual source ascent. Actual decoded strip has intact rising and falling character centers with no source clipping.",
+          "minimum_repair": "shared_scale_source_reextraction",
+          "source": "work/obanai/2d/decoded/jumping.png",
+          "rationale": "Recover the source y offsets and common scale, rather than aligning every foot to ground. This is a confirmed extraction loss; no new visual generation needed."
+        },
+        {
+          "row": 5,
+          "state": "failed",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--failed.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.401,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 6,
+          "state": "waiting",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--waiting.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.361,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 7,
+          "state": "running",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--running.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.105,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        },
+        {
+          "row": 8,
+          "state": "review",
+          "status": "keep",
+          "evidence": [
+            "work/motion-refinement-2026-11-06/contacts/obanai.jpg",
+            "work/motion-refinement-2026-11-06/rows/obanai--review.png"
+          ],
+          "seam_ratio_diagnostic_only": 0.087,
+          "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "severity": "none_confirmed",
+          "minimum_repair": "none",
+          "observation": "No clear native-visible registration, catastrophic first/last transition or shape-scale failure confirmed in inspected contact. Preserve current row; ordinary facial, cloth and gesture changes remain intentional."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "editions": 16,
+    "rows": 144,
+    "candidate_rows": 14,
+    "keep_rows": 130,
+    "source_reextraction_candidates": 3,
+    "candidate_maps_not_approvals": true
+  }
+}

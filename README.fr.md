@@ -1642,3 +1642,5 @@ Si cette collection vous a plu, laissez une Star, créez un Fork ou proposez le 
   <a href="#contribute-a-character"><kbd>Proposer un personnage</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>Créer votre propre compagnon</kbd></a>
 </p>
+
+[Mise à jour des animations à nombre de frames constant : couverture et comparaison](docs/pet-motion-refinement-2026-11-06.md).

@@ -1,0 +1,29 @@
+{
+  "selected_source": "/home/ubuntu23/.codex/generated_images/01a1b13c-6bc1-7c52-b342-499ec1b7e504/exec-7169e5f8-e516-4aea-8ffc-a884337eedc4.png",
+  "source_sha256": "2c30be405b3535c55a3f3143473976064f7fd5a4b5c635fa71186eb9b04d4988",
+  "source_size": [
+    2170,
+    725
+  ],
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "fully_transparent_pixels": 1078028,
+  "generation_mode": "built-in image_gen; transparent_background=true",
+  "prompt": "work/motion-refinement-2026-11-06/generation/kazuha-chibi/prompts/jumping-motion-refinement.txt",
+  "reference_inputs": [
+    "references/canonical-base.png",
+    "references/layout-guides/jumping.png",
+    "references/reference-01.png"
+  ],
+  "visual_implementation_observations": [
+    "Exactly five separate complete poses arranged grounded/rising/apex/falling/grounded.",
+    "Whole head and torso visibly translate upwards, while head scale appears stable across grounded and airborne frames.",
+    "Grounded endpoints have close posture and the same apparent sole baseline.",
+    "Canonical red streak, asymmetric arm sleeves, attached sheathed sword and costume remain visible.",
+    "No new props, ground shadows, trails or particles are drawn as intentional effects.",
+    "Source alpha edges contain sparse bright/color fringes around hair and clothing; extraction must avoid treating detached edge specks as additional figures and final native edge QA is necessary."
+  ],
+  "qa_note": "Candidate only. No extraction, no source copying, no release edits. Parent will copy selected source and use one shared scale preserving source vertical trajectory, then obtain independent native-size motion and transparency review."
+}

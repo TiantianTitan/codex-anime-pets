@@ -1,3 +1,3 @@
 7242db37e06c171e8d458428490bafe96cb097d8d5631fc39525dace52b69fbd  burnice-white-2d/pet.json
-5a30c7a355dc06d806c3054e5db51528933f36fb42241b9fa76287b99fc60541  burnice-white-2d/spritesheet.webp
-e02ea9e9d6355cc14e7ecdadea3201b1133c1b4e33d3199b580535d250c01ffc  burnice-white-2d-codex-pet-v2.zip
+057c18475fc9df41415be90b85cc57a96a95540df0794fc2c20f39c358bd81b6  burnice-white-2d/spritesheet.webp
+2e2142c3492219a7e640f48417e4f9469cc32fdc872425156bb5707188ba0758  burnice-white-2d-codex-pet-v2.zip

@@ -1,3 +1,3 @@
 18d96f7e64a362bd0273518a5154329224085edf0aaf1b8fdd6b958751001d43  obanai-2d/pet.json
-f006e051c563daf51e37ba6e92011aeb25bd655b5e87bf023de948fcffd9cdca  obanai-2d/spritesheet.webp
-5b07b9e4ab598ac750efab9ccc428a826277af767d8cac483d1e859145256137  obanai-2d-codex-pet-v2.zip
+d7a4ef115cc9042bf973183ce950fe73226024f549b78733ac1effa62a0778b2  obanai-2d/spritesheet.webp
+8a2cfe4c65cf942b53627db46c62655fa85e569ff8fb5ddd41767e94af662be0  obanai-2d-codex-pet-v2.zip

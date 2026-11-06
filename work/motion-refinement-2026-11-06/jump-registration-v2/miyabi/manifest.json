@@ -1,0 +1,266 @@
+{
+  "id": "miyabi",
+  "state": "jumping",
+  "status": "pending-independent-visual-QA",
+  "method": "complete-original-pose/shared-scale/compressed-source-arc",
+  "source": "work/miyabi/2d/decoded/jumping.png",
+  "source_sha256": "11c2045461de5ed6c5ee19669fe4f8d7436ea5f20d21adfd7572b661232fe610",
+  "source_method": "reviewed-cuts",
+  "source_record": "reextracted-zzz-honkai/report.json",
+  "source_boxes": [
+    [
+      104,
+      255,
+      346,
+      687
+    ],
+    [
+      537,
+      89,
+      780,
+      638
+    ],
+    [
+      971,
+      31,
+      1216,
+      493
+    ],
+    [
+      1398,
+      129,
+      1638,
+      653
+    ],
+    [
+      1819,
+      129,
+      2061,
+      692
+    ]
+  ],
+  "source_baseline_y": 692,
+  "source_frame_mapping": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "neutral_atlas": "zenless-zone-zero/hoshimi-miyabi/miyabi-2d/spritesheet.webp",
+  "neutral_atlas_sha256": "dfe97b270d0436fed797933bea8be642d00a79ae531e065b26a1ed164e71febf",
+  "neutral_reference": "work/motion-refinement-2026-11-06/jump-registration-v2/miyabi/neutral-reference.png",
+  "neutral_reference_sha256": "88ffa0ad7c8b9d29423c58f55e64da41834dd0ebc1d7cfcb2eb4b9688bf2de13",
+  "shared_scale": 0.3285968028419183,
+  "target_max_pose_height_px": 185,
+  "actual_max_pose_height_px": 185,
+  "target_ground_y": 203,
+  "source_arc_compression_factor": 0.7034632622572322,
+  "natural_scaled_lifts_px": [
+    0,
+    17.744227353463586,
+    65.39076376554173,
+    12.815275310834814,
+    0
+  ],
+  "final_lifts_px": [
+    0,
+    12,
+    46,
+    9,
+    0
+  ],
+  "translations": [
+    {
+      "frame": 0,
+      "source_box": [
+        104,
+        255,
+        346,
+        687
+      ],
+      "source_anchor_x": 225,
+      "shared_scale": 0.3285968028419183,
+      "scaled_size": [
+        80,
+        142
+      ],
+      "destination_xy": [
+        53,
+        61
+      ],
+      "source_to_cell_translation_xy": [
+        18.8259325044405,
+        -22.792184724689164
+      ],
+      "natural_lift_after_scale_px": 0,
+      "compressed_lift_px": 0,
+      "target_bottom_y": 203
+    },
+    {
+      "frame": 1,
+      "source_box": [
+        537,
+        89,
+        780,
+        638
+      ],
+      "source_anchor_x": 658,
+      "shared_scale": 0.3285968028419183,
+      "scaled_size": [
+        80,
+        180
+      ],
+      "destination_xy": [
+        53,
+        11
+      ],
+      "source_to_cell_translation_xy": [
+        -123.45648312611013,
+        -18.245115452930726
+      ],
+      "natural_lift_after_scale_px": 17.744227353463586,
+      "compressed_lift_px": 12,
+      "target_bottom_y": 191
+    },
+    {
+      "frame": 2,
+      "source_box": [
+        971,
+        31,
+        1216,
+        493
+      ],
+      "source_anchor_x": 1094,
+      "shared_scale": 0.3285968028419183,
+      "scaled_size": [
+        81,
+        152
+      ],
+      "destination_xy": [
+        52,
+        5
+      ],
+      "source_to_cell_translation_xy": [
+        -267.0674955595027,
+        -5.1865008880994665
+      ],
+      "natural_lift_after_scale_px": 65.39076376554173,
+      "compressed_lift_px": 46,
+      "target_bottom_y": 157
+    },
+    {
+      "frame": 3,
+      "source_box": [
+        1398,
+        129,
+        1638,
+        653
+      ],
+      "source_anchor_x": 1522,
+      "shared_scale": 0.3285968028419183,
+      "scaled_size": [
+        79,
+        172
+      ],
+      "destination_xy": [
+        52,
+        22
+      ],
+      "source_to_cell_translation_xy": [
+        -407.37833037300175,
+        -20.388987566607454
+      ],
+      "natural_lift_after_scale_px": 12.815275310834814,
+      "compressed_lift_px": 9,
+      "target_bottom_y": 194
+    },
+    {
+      "frame": 4,
+      "source_box": [
+        1819,
+        129,
+        2061,
+        692
+      ],
+      "source_anchor_x": 1942,
+      "shared_scale": 0.3285968028419183,
+      "scaled_size": [
+        80,
+        185
+      ],
+      "destination_xy": [
+        52,
+        18
+      ],
+      "source_to_cell_translation_xy": [
+        -545.7175843694494,
+        -24.388987566607454
+      ],
+      "natural_lift_after_scale_px": 0,
+      "compressed_lift_px": 0,
+      "target_bottom_y": 203
+    }
+  ],
+  "arc_peak_lift_at_least_10px": true,
+  "chroma_key": "#FF00FF",
+  "chroma_removal": true,
+  "despill_passes": 1,
+  "despill": {
+    "algorithm": "edge-local-chroma-spill-suppression",
+    "strength": 1,
+    "edge_radius": 5,
+    "spill_tolerance": 0.15,
+    "minimum_saturation": 0.1,
+    "changed_pixels": 6948,
+    "decontaminated_pixels": 6198,
+    "spill_suppressed_pixels": 6948,
+    "rejected_pixels": 0,
+    "changed_by_cell": {
+      "r0c4": 1545,
+      "r0c1": 1506,
+      "r0c3": 1442,
+      "r0c2": 1230,
+      "r0c0": 1225
+    },
+    "alpha_preserved": true
+  },
+  "alpha_preserved_during_despill": true,
+  "candidate": "work/motion-refinement-2026-11-06/jump-registration-v2/miyabi/jumping.png",
+  "candidate_sha256": "2cc40c2d10c05de370ea68311a1e26140f93242029f610709cab00b1a9e1e543",
+  "bounds_alpha_gt16": [
+    [
+      53,
+      61,
+      133,
+      203
+    ],
+    [
+      53,
+      11,
+      133,
+      191
+    ],
+    [
+      52,
+      5,
+      133,
+      157
+    ],
+    [
+      52,
+      22,
+      131,
+      194
+    ],
+    [
+      52,
+      18,
+      132,
+      203
+    ]
+  ],
+  "comparison": "work/motion-refinement-2026-11-06/jump-registration-v2/miyabi/comparison.png",
+  "transition_preview": "work/motion-refinement-2026-11-06/jump-registration-v2/miyabi/jump-to-neutral.webp",
+  "release_assets_edited": false
+}

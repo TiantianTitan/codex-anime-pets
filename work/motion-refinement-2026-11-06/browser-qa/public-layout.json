@@ -1,0 +1,37 @@
+{
+  "mobileChecks": [
+    {
+      "width": 390,
+      "overflow": false,
+      "paused": true,
+      "canvas": [
+        {
+          "w": 192,
+          "h": 208
+        },
+        {
+          "w": 192,
+          "h": 208
+        }
+      ],
+      "smallControls": 0
+    },
+    {
+      "width": 320,
+      "overflow": false,
+      "paused": true,
+      "canvas": [
+        {
+          "w": 192,
+          "h": 208
+        },
+        {
+          "w": 192,
+          "h": 208
+        }
+      ],
+      "smallControls": 0
+    }
+  ],
+  "offlineOk": true
+}

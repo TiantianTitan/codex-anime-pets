@@ -1,0 +1,342 @@
+{
+  "ok": true,
+  "editions": 48,
+  "rows": [
+    {
+      "id": "tartaglia",
+      "archive": "genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "venti",
+      "archive": "genshin-impact/Venti/venti-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "wanderer",
+      "archive": "genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "furina",
+      "archive": "genshin-impact/furina/furina-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "ganyu",
+      "archive": "genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "hu-tao",
+      "archive": "genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kazuha-chibi",
+      "archive": "genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kaeya",
+      "archive": "genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kamisato-ayaka",
+      "archive": "genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "raiden-shogun",
+      "archive": "genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "xiao",
+      "archive": "genshin-impact/xiao/xiao-2d.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "yae-miko",
+      "archive": "genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "zhongli",
+      "archive": "genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "black-swan",
+      "archive": "honkai-star-rail/Black Swan/black-swan-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kafka",
+      "archive": "honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "sparkle",
+      "archive": "honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "acheron",
+      "archive": "honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "aventurine",
+      "archive": "honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "blade",
+      "archive": "honkai-star-rail/blade/blade-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "dan-heng-imbibitor-lunae",
+      "archive": "honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "firefly",
+      "archive": "honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "jing-yuan",
+      "archive": "honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "robin",
+      "archive": "honkai-star-rail/robin/robin-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "ruan-mei",
+      "archive": "honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "sunday",
+      "archive": "honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "bronya-zaychik",
+      "archive": "honkai-impact-3rd/Bronya Zaychik/bronya-zaychik-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "fu-hua",
+      "archive": "honkai-impact-3rd/Fu Hua/fu-hua-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kallen-kaslana",
+      "archive": "honkai-impact-3rd/Kallen Kaslana/kallen-kaslana-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kiana-kaslana",
+      "archive": "honkai-impact-3rd/Kiana Kaslana/kiana-kaslana-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "otto-apocalypse",
+      "archive": "honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "seele-vollerei",
+      "archive": "honkai-impact-3rd/Seele Vollerei/seele-vollerei-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "theresa",
+      "archive": "honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kevin-kaslana",
+      "archive": "honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "raiden-mei",
+      "archive": "honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "raiden-mei-3d",
+      "archive": "honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "burnice-white",
+      "archive": "zenless-zone-zero/Burnice White/burnice-white-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "lighter",
+      "archive": "zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "vivian-banshee",
+      "archive": "zenless-zone-zero/Vivian Banshee/vivian-banshee-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "von-lycaon",
+      "archive": "zenless-zone-zero/Von Lycaon/von-lycaon-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "zhu-yuan",
+      "archive": "zenless-zone-zero/Zhu Yuan/zhu-yuan-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "anby-demara",
+      "archive": "zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "ellen-joe",
+      "archive": "zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "miyabi",
+      "archive": "zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "jane-doe",
+      "archive": "zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "nicole-demara",
+      "archive": "zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "kibutsuji-muzan",
+      "archive": "others/Kibutsuji Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "archive": "others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    },
+    {
+      "id": "obanai",
+      "archive": "others/obanai-iguro/obanai-2d-codex-pet-v2.zip",
+      "unique_id_match": true,
+      "exact_loose_bytes": true,
+      "flat_three_files": true
+    }
+  ]
+}

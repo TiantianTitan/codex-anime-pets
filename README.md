@@ -1644,3 +1644,5 @@ If this collection made you smile, leave a Star, make a Fork, or bring the next 
   <a href="#contribute-a-character"><kbd>Request a character</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>Build your own pet</kbd></a>
 </p>
+
+[Fixed-frame motion update: coverage and before/after preview](docs/pet-motion-refinement-2026-11-06.md).

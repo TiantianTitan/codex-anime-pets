@@ -369,3 +369,5 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
   <a href="#contribute-a-character"><kbd>キャラクターを提案する</kbd></a>
   <a href="codex-pet-dual-style/SKILL.md"><kbd>自分のペットを作る</kbd></a>
 </p>
+
+[フレーム数を維持した動作更新：対象一覧と前後比較](docs/pet-motion-refinement-2026-11-06.md)。

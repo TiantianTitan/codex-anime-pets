@@ -1,0 +1,483 @@
+{
+  "status": "candidate-awaiting-independent-review",
+  "release_assets_modified": false,
+  "script": "work/motion-refinement-2026-11-06/reextract_genshin_others.py",
+  "script_sha256": "d82c32d88a73a830c9a61a292cf2250d769aa09ef9b564675a7d6c7c8feff808",
+  "helpers": {
+    "extract_strip_frames.py": {
+      "path": "/home/ubuntu23/.codex/skills/hatch-pet/scripts/extract_strip_frames.py",
+      "sha256": "d72154480acad8e80c89a8b66caf3aef352470b53987f5276ef3cddda598cf73"
+    },
+    "despill_chroma_edges.py": {
+      "path": "/home/ubuntu23/.codex/skills/hatch-pet/scripts/despill_chroma_edges.py",
+      "sha256": "dc93a5e752f4100e55010205462a8e7272bac451ee7e29b525abd6157a7fe309"
+    }
+  },
+  "rows": [
+    {
+      "id": "mitsuri-kanroji",
+      "state": "jumping",
+      "atlas_row": 4,
+      "original_atlas": "others/mitsuri-kanroji/mitsuri-kanroji-2d/spritesheet.webp",
+      "original_atlas_sha256": "2d39272c8b895b7569abd889ec2878259f6bf9f0bab688c2f7aecc5ec2e15d56",
+      "source": "work/mitsuri-kanroji/2d/decoded/jumping.png",
+      "source_sha256": "cae47da3a61c9e23b78345d487c9c9c10dc7c3899e68194e6b9b227ed4fcc504",
+      "source_size": [
+        2172,
+        724
+      ],
+      "source_request": "work/mitsuri-kanroji/2d/pet_request.json",
+      "chroma_key": "#00FFFF",
+      "key_threshold": 96.0,
+      "method": "extract_stable_slot_frames: complete component groups; common viewport and common scale",
+      "source_group_bboxes": [
+        [
+          94,
+          267,
+          412,
+          623
+        ],
+        [
+          503,
+          143,
+          836,
+          560
+        ],
+        [
+          916,
+          84,
+          1257,
+          499
+        ],
+        [
+          1329,
+          160,
+          1690,
+          580
+        ],
+        [
+          1766,
+          272,
+          2079,
+          624
+        ]
+      ],
+      "source_group_pixel_counts": [
+        78333,
+        87346,
+        88980,
+        92057,
+        76115
+      ],
+      "shared_source_viewport": {
+        "top": 80,
+        "bottom": 628,
+        "width": 369,
+        "height": 548
+      },
+      "shared_scale": 0.3613138686131387,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "positioning": "Each complete source group centered horizontally in one shared-width viewport. Jumping retains source y offsets from shared_top without foot alignment. Failed uses small translation-only ground-baseline correction after common-scale extraction; no frame is independently scaled.",
+      "nonjump_ground_translation_dy_px": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 6779,
+        "decontaminated_pixels": 6243,
+        "spill_suppressed_pixels": 6779,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c2": 1502,
+          "r0c3": 1446,
+          "r0c1": 1367,
+          "r0c0": 1241,
+          "r0c4": 1223
+        },
+        "alpha_preserved": true
+      },
+      "candidate": "work/motion-refinement-2026-11-06/reextracted-genshin-others/mitsuri-kanroji/jumping.png",
+      "candidate_sha256": "f287f422d8eaa2a674b4eef31641713249cf55cc73ce8577358be79052ac9c3f",
+      "candidate_bounds_alpha_gt_16": [
+        [
+          38,
+          72,
+          153,
+          202
+        ],
+        [
+          35,
+          27,
+          156,
+          179
+        ],
+        [
+          34,
+          6,
+          157,
+          157
+        ],
+        [
+          30,
+          33,
+          161,
+          186
+        ],
+        [
+          39,
+          74,
+          152,
+          202
+        ]
+      ],
+      "before_after": "work/motion-refinement-2026-11-06/reextracted-genshin-others/mitsuri-kanroji/jumping-before-after.png",
+      "structural_checks": {
+        "all_frames_nonempty": true,
+        "no_cell_edge_contact": true,
+        "despill_alpha_preserved": true
+      },
+      "independent_visual_review": "pending"
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "state": "failed",
+      "atlas_row": 5,
+      "original_atlas": "others/mitsuri-kanroji/mitsuri-kanroji-2d/spritesheet.webp",
+      "original_atlas_sha256": "2d39272c8b895b7569abd889ec2878259f6bf9f0bab688c2f7aecc5ec2e15d56",
+      "source": "work/mitsuri-kanroji/2d/decoded/failed.png",
+      "source_sha256": "55bbf4616192c405df9c96d40c8a3bfcf8da3e1fd1d4c398ed7d5497a0ce75d9",
+      "source_size": [
+        1881,
+        836
+      ],
+      "source_request": "work/mitsuri-kanroji/2d/pet_request.json",
+      "chroma_key": "#00FFFF",
+      "key_threshold": 96.0,
+      "method": "extract_stable_slot_frames: complete component groups; common viewport and common scale",
+      "source_group_bboxes": [
+        [
+          29,
+          289,
+          251,
+          629
+        ],
+        [
+          277,
+          227,
+          492,
+          639
+        ],
+        [
+          508,
+          261,
+          728,
+          630
+        ],
+        [
+          745,
+          321,
+          960,
+          630
+        ],
+        [
+          976,
+          309,
+          1191,
+          627
+        ],
+        [
+          1196,
+          314,
+          1411,
+          628
+        ],
+        [
+          1428,
+          228,
+          1642,
+          639
+        ],
+        [
+          1647,
+          242,
+          1856,
+          630
+        ]
+      ],
+      "source_group_pixel_counts": [
+        62955,
+        65243,
+        59453,
+        54840,
+        55380,
+        54287,
+        65043,
+        58206
+      ],
+      "shared_source_viewport": {
+        "top": 223,
+        "bottom": 643,
+        "width": 230,
+        "height": 420
+      },
+      "shared_scale": 0.4714285714285714,
+      "source_frame_mapping": [
+        6,
+        1,
+        2,
+        3,
+        4,
+        3,
+        2,
+        1
+      ],
+      "positioning": "Each complete source group centered horizontally in one shared-width viewport. Jumping retains source y offsets from shared_top without foot alignment. Failed uses small translation-only ground-baseline correction after common-scale extraction; no frame is independently scaled.",
+      "nonjump_ground_translation_dy_px": [
+        1,
+        1,
+        6,
+        6,
+        7,
+        6,
+        6,
+        1
+      ],
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 9902,
+        "decontaminated_pixels": 9422,
+        "spill_suppressed_pixels": 9902,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c1": 1407,
+          "r0c7": 1407,
+          "r0c0": 1404,
+          "r0c2": 1221,
+          "r0c6": 1221,
+          "r0c4": 1082,
+          "r0c3": 1080,
+          "r0c5": 1080
+        },
+        "alpha_preserved": true
+      },
+      "candidate": "work/motion-refinement-2026-11-06/reextracted-genshin-others/mitsuri-kanroji/failed.png",
+      "candidate_sha256": "0e8528c14a6b92b2243e719336c37e7ab1b609525d05c39cb286fbd932085415",
+      "candidate_bounds_alpha_gt_16": [
+        [
+          45,
+          8,
+          147,
+          203
+        ],
+        [
+          45,
+          7,
+          147,
+          203
+        ],
+        [
+          44,
+          28,
+          148,
+          203
+        ],
+        [
+          45,
+          57,
+          147,
+          203
+        ],
+        [
+          45,
+          52,
+          147,
+          203
+        ],
+        [
+          45,
+          57,
+          147,
+          203
+        ],
+        [
+          44,
+          28,
+          148,
+          203
+        ],
+        [
+          45,
+          7,
+          147,
+          203
+        ]
+      ],
+      "before_after": "work/motion-refinement-2026-11-06/reextracted-genshin-others/mitsuri-kanroji/failed-before-after.png",
+      "structural_checks": {
+        "all_frames_nonempty": true,
+        "no_cell_edge_contact": true,
+        "despill_alpha_preserved": true
+      },
+      "independent_visual_review": "pending"
+    },
+    {
+      "id": "obanai",
+      "state": "jumping",
+      "atlas_row": 4,
+      "original_atlas": "others/obanai-iguro/obanai-2d/spritesheet.webp",
+      "original_atlas_sha256": "f006e051c563daf51e37ba6e92011aeb25bd655b5e87bf023de948fcffd9cdca",
+      "source": "work/obanai/2d/decoded/jumping.png",
+      "source_sha256": "b2d6df1e9e485b00bca0716d21baf0fa5c1c127cdc4f36b707d3e0055f81d9a0",
+      "source_size": [
+        1983,
+        793
+      ],
+      "source_request": "work/obanai/2d/pet_request.json",
+      "chroma_key": "#00FF00",
+      "key_threshold": 96.0,
+      "method": "extract_stable_slot_frames: complete component groups; common viewport and common scale",
+      "source_group_bboxes": [
+        [
+          80,
+          245,
+          352,
+          696
+        ],
+        [
+          449,
+          143,
+          755,
+          670
+        ],
+        [
+          834,
+          82,
+          1135,
+          559
+        ],
+        [
+          1226,
+          146,
+          1529,
+          677
+        ],
+        [
+          1633,
+          238,
+          1895,
+          710
+        ]
+      ],
+      "source_group_pixel_counts": [
+        88378,
+        94985,
+        97061,
+        94327,
+        86275
+      ],
+      "shared_source_viewport": {
+        "top": 78,
+        "bottom": 714,
+        "width": 314,
+        "height": 636
+      },
+      "shared_scale": 0.3113207547169811,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "positioning": "Each complete source group centered horizontally in one shared-width viewport. Jumping retains source y offsets from shared_top without foot alignment. Failed uses small translation-only ground-baseline correction after common-scale extraction; no frame is independently scaled.",
+      "nonjump_ground_translation_dy_px": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 6317,
+        "decontaminated_pixels": 5738,
+        "spill_suppressed_pixels": 6317,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c1": 1440,
+          "r0c3": 1424,
+          "r0c2": 1195,
+          "r0c0": 1161,
+          "r0c4": 1097
+        },
+        "alpha_preserved": true
+      },
+      "candidate": "work/motion-refinement-2026-11-06/reextracted-genshin-others/obanai/jumping.png",
+      "candidate_sha256": "61de4312d03b4f6a60cd35f23f7733e10f652c855126c55f6fc4d7301397341b",
+      "candidate_bounds_alpha_gt_16": [
+        [
+          53,
+          56,
+          139,
+          198
+        ],
+        [
+          48,
+          25,
+          144,
+          190
+        ],
+        [
+          48,
+          6,
+          143,
+          155
+        ],
+        [
+          48,
+          26,
+          144,
+          192
+        ],
+        [
+          55,
+          54,
+          137,
+          202
+        ]
+      ],
+      "before_after": "work/motion-refinement-2026-11-06/reextracted-genshin-others/obanai/jumping-before-after.png",
+      "structural_checks": {
+        "all_frames_nonempty": true,
+        "no_cell_edge_contact": true,
+        "despill_alpha_preserved": true
+      },
+      "independent_visual_review": "pending"
+    }
+  ]
+}

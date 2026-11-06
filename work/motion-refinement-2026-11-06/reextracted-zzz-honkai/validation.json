@@ -1,0 +1,118 @@
+{
+  "rows": [
+    {
+      "id": "raiden-mei",
+      "state": "jumping",
+      "candidate_sha256": "2f4cbc2f0bda7beaf13f78aed6d1f22216a79cb88670cfe0dca66ab0b54d9c51",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true,
+        "apex_above_grounded_endpoints": true
+      },
+      "pass": true
+    },
+    {
+      "id": "raiden-mei",
+      "state": "failed",
+      "candidate_sha256": "984c4ddc60b108d32f65d865fde78728a4a4c1a718b47443f5b6822f42a17e54",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true
+      },
+      "pass": true
+    },
+    {
+      "id": "raiden-mei",
+      "state": "waiting",
+      "candidate_sha256": "63c20730c4164f2411ecbe5df9f92411d19d41611f33eb6dd4fa3706f89cd6ce",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true
+      },
+      "pass": true
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "jumping",
+      "candidate_sha256": "ebb4e25c33d804d8f40e0b3fd1945a0d50f6a5e47918428acfc91719c9ca804d",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true,
+        "apex_above_grounded_endpoints": true
+      },
+      "pass": true
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "waiting",
+      "candidate_sha256": "dba209b2114ece3d3ac19abdfde90a3e5e45d65c6c8c0d52d981ec3b602cc040",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true
+      },
+      "pass": true
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "running",
+      "candidate_sha256": "156a98f07eefe065167f71f262dc8e82043970b62cd5661e09d14448556ff09e",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true
+      },
+      "pass": true
+    },
+    {
+      "id": "miyabi",
+      "state": "jumping",
+      "candidate_sha256": "6a55919d9832beb15e522e02387fb562781098fda3085f52ba503677f23e4d38",
+      "checks": {
+        "candidate_hash_matches": true,
+        "source_hash_matches": true,
+        "geometry": true,
+        "all_frames_nonempty": true,
+        "all_frames_clear_outer_margin": true,
+        "transparent_rgb_zero": true,
+        "one_despill_preserved_alpha": true,
+        "apex_above_grounded_endpoints": true
+      },
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "independent_visual_approval": "pending parent cross-QA",
+  "known_limitations": [
+    "Original adjoining hair-tip contact endpoints remain in non-jump source rows; verify native-size severity rather than claiming entirely independent source silhouettes.",
+    "Original jump arc uses a single scale sized to the 192x208 cell; all jumps now retain that source arc instead of fitting each individual figure to full height."
+  ]
+}

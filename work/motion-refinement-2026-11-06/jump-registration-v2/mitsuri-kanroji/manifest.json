@@ -1,0 +1,266 @@
+{
+  "id": "mitsuri-kanroji",
+  "state": "jumping",
+  "status": "pending-independent-visual-QA",
+  "method": "complete-original-pose/shared-scale/compressed-source-arc",
+  "source": "work/mitsuri-kanroji/2d/decoded/jumping.png",
+  "source_sha256": "cae47da3a61c9e23b78345d487c9c9c10dc7c3899e68194e6b9b227ed4fcc504",
+  "source_method": "chroma-groups",
+  "source_record": "reextracted-genshin-others/manifest.json",
+  "source_boxes": [
+    [
+      94,
+      267,
+      412,
+      623
+    ],
+    [
+      503,
+      143,
+      836,
+      560
+    ],
+    [
+      916,
+      84,
+      1257,
+      499
+    ],
+    [
+      1329,
+      160,
+      1690,
+      580
+    ],
+    [
+      1766,
+      272,
+      2079,
+      624
+    ]
+  ],
+  "source_baseline_y": 624,
+  "source_frame_mapping": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "neutral_atlas": "others/mitsuri-kanroji/mitsuri-kanroji-2d/spritesheet.webp",
+  "neutral_atlas_sha256": "2d39272c8b895b7569abd889ec2878259f6bf9f0bab688c2f7aecc5ec2e15d56",
+  "neutral_reference": "work/motion-refinement-2026-11-06/jump-registration-v2/mitsuri-kanroji/neutral-reference.png",
+  "neutral_reference_sha256": "3a30492af00a1d27ba6c3d5bc5916c4547fbdaf78c945682f865c9828f8fb791",
+  "shared_scale": 0.44047619047619047,
+  "target_max_pose_height_px": 185,
+  "actual_max_pose_height_px": 185,
+  "target_ground_y": 203,
+  "source_arc_compression_factor": 0.2724324324324324,
+  "natural_scaled_lifts_px": [
+    0,
+    28.19047619047619,
+    55.05952380952381,
+    19.38095238095238,
+    0
+  ],
+  "final_lifts_px": [
+    0,
+    8,
+    15,
+    5,
+    0
+  ],
+  "translations": [
+    {
+      "frame": 0,
+      "source_box": [
+        94,
+        267,
+        412,
+        623
+      ],
+      "source_anchor_x": 253.0,
+      "shared_scale": 0.44047619047619047,
+      "scaled_size": [
+        140,
+        157
+      ],
+      "destination_xy": [
+        25,
+        46
+      ],
+      "source_to_cell_translation_xy": [
+        -16.404761904761905,
+        -71.60714285714286
+      ],
+      "natural_lift_after_scale_px": 0,
+      "compressed_lift_px": 0,
+      "target_bottom_y": 203
+    },
+    {
+      "frame": 1,
+      "source_box": [
+        503,
+        143,
+        836,
+        560
+      ],
+      "source_anchor_x": 669.5,
+      "shared_scale": 0.44047619047619047,
+      "scaled_size": [
+        147,
+        184
+      ],
+      "destination_xy": [
+        22,
+        11
+      ],
+      "source_to_cell_translation_xy": [
+        -199.5595238095238,
+        -51.988095238095234
+      ],
+      "natural_lift_after_scale_px": 28.19047619047619,
+      "compressed_lift_px": 8,
+      "target_bottom_y": 195
+    },
+    {
+      "frame": 2,
+      "source_box": [
+        916,
+        84,
+        1257,
+        499
+      ],
+      "source_anchor_x": 1086.5,
+      "shared_scale": 0.44047619047619047,
+      "scaled_size": [
+        150,
+        183
+      ],
+      "destination_xy": [
+        20,
+        5
+      ],
+      "source_to_cell_translation_xy": [
+        -383.4761904761905,
+        -32.0
+      ],
+      "natural_lift_after_scale_px": 55.05952380952381,
+      "compressed_lift_px": 15,
+      "target_bottom_y": 188
+    },
+    {
+      "frame": 3,
+      "source_box": [
+        1329,
+        160,
+        1690,
+        580
+      ],
+      "source_anchor_x": 1509.5,
+      "shared_scale": 0.44047619047619047,
+      "scaled_size": [
+        159,
+        185
+      ],
+      "destination_xy": [
+        16,
+        13
+      ],
+      "source_to_cell_translation_xy": [
+        -569.3928571428571,
+        -57.47619047619048
+      ],
+      "natural_lift_after_scale_px": 19.38095238095238,
+      "compressed_lift_px": 5,
+      "target_bottom_y": 198
+    },
+    {
+      "frame": 4,
+      "source_box": [
+        1766,
+        272,
+        2079,
+        624
+      ],
+      "source_anchor_x": 1922.5,
+      "shared_scale": 0.44047619047619047,
+      "scaled_size": [
+        138,
+        155
+      ],
+      "destination_xy": [
+        26,
+        48
+      ],
+      "source_to_cell_translation_xy": [
+        -751.8809523809524,
+        -71.80952380952381
+      ],
+      "natural_lift_after_scale_px": 0,
+      "compressed_lift_px": 0,
+      "target_bottom_y": 203
+    }
+  ],
+  "arc_peak_lift_at_least_10px": true,
+  "chroma_key": "#00FFFF",
+  "chroma_removal": true,
+  "despill_passes": 1,
+  "despill": {
+    "algorithm": "edge-local-chroma-spill-suppression",
+    "strength": 1,
+    "edge_radius": 5,
+    "spill_tolerance": 0.15,
+    "minimum_saturation": 0.1,
+    "changed_pixels": 8135,
+    "decontaminated_pixels": 7257,
+    "spill_suppressed_pixels": 8135,
+    "rejected_pixels": 0,
+    "changed_by_cell": {
+      "r0c2": 1828,
+      "r0c3": 1753,
+      "r0c1": 1603,
+      "r0c0": 1505,
+      "r0c4": 1446
+    },
+    "alpha_preserved": true
+  },
+  "alpha_preserved_during_despill": true,
+  "candidate": "work/motion-refinement-2026-11-06/jump-registration-v2/mitsuri-kanroji/jumping.png",
+  "candidate_sha256": "1ba06ca40a73c3e61c7306e31e41c4c29afa97e43ed4aa8fcac3bfe376dc9b58",
+  "bounds_alpha_gt16": [
+    [
+      25,
+      46,
+      165,
+      203
+    ],
+    [
+      22,
+      11,
+      169,
+      195
+    ],
+    [
+      20,
+      5,
+      170,
+      188
+    ],
+    [
+      16,
+      13,
+      175,
+      198
+    ],
+    [
+      26,
+      48,
+      164,
+      203
+    ]
+  ],
+  "comparison": "work/motion-refinement-2026-11-06/jump-registration-v2/mitsuri-kanroji/comparison.png",
+  "transition_preview": "work/motion-refinement-2026-11-06/jump-registration-v2/mitsuri-kanroji/jump-to-neutral.webp",
+  "release_assets_edited": false
+}

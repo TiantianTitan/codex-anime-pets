@@ -1,0 +1,1047 @@
+{
+  "skill_script": "/home/ubuntu23/.codex/skills/hatch-pet/scripts/extract_strip_frames.py",
+  "skill_script_sha256": "d72154480acad8e80c89a8b66caf3aef352470b53987f5276ef3cddda598cf73",
+  "runtime": "/home/ubuntu23/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "baseline_commit": "c72f04ddea89ff4a403803b2c4e39de237ee3ad5",
+  "records": [
+    {
+      "id": "raiden-mei",
+      "state": "jumping",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/jumping.png",
+      "candidate_sha256": "2f4cbc2f0bda7beaf13f78aed6d1f22216a79cb88670cfe0dca66ab0b54d9c51",
+      "baseline_atlas_sha256": "24677923c3e80669b3e00e10daeb6783a82bd1fc75b127ec0d0097348c11ddc0",
+      "source": "work/raiden-mei/2d/decoded/jumping.png",
+      "source_sha256": "d898a64b212ca26bfd0ba163e7919db61159ab7bbca729829705f5eeedb51a31",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 6517,
+        "decontaminated_pixels": 5993,
+        "spill_suppressed_pixels": 6517,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c2": 1374,
+          "r0c3": 1363,
+          "r0c1": 1354,
+          "r0c0": 1230,
+          "r0c4": 1196
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/jumping-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          382,
+          764,
+          1146,
+          1524,
+          1910
+        ],
+        "foot_anchors": [
+          [
+            204,
+            708
+          ],
+          [
+            576,
+            708
+          ],
+          [
+            953,
+            708
+          ],
+          [
+            1325,
+            708
+          ],
+          [
+            1695,
+            708
+          ]
+        ],
+        "shared_scale": 0.31528662420382164,
+        "target_anchor": [
+          95.18430034129693,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Complete source figures were visually reviewed. Separated silhouettes; shared grounded baseline for all frames deliberately preserves source Y takeoff/apex/landing. Horizontal anchors follow body center, not a moving raised foot.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/reference-neutral.png",
+        "reference_sha256": "7cce8cad3ba564b7230569f197dd481fc9551496dd579c03b21adce7844099fe"
+      },
+      "frame_count": 5,
+      "dimensions": [
+        960,
+        208
+      ],
+      "bounds": [
+        [
+          43,
+          69,
+          148,
+          203
+        ],
+        [
+          42,
+          31,
+          148,
+          181
+        ],
+        [
+          40,
+          5,
+          148,
+          153
+        ],
+        [
+          42,
+          29,
+          147,
+          177
+        ],
+        [
+          42,
+          71,
+          146,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/jumping-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "raiden-mei",
+      "state": "failed",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/failed.png",
+      "candidate_sha256": "984c4ddc60b108d32f65d865fde78728a4a4c1a718b47443f5b6822f42a17e54",
+      "baseline_atlas_sha256": "24677923c3e80669b3e00e10daeb6783a82bd1fc75b127ec0d0097348c11ddc0",
+      "source": "work/raiden-mei/2d/decoded/failed.png",
+      "source_sha256": "a21c3731a41b366e00a368b6ae8f2118d70f95467b92257708a1d71bd30b0f5b",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 15143,
+        "decontaminated_pixels": 12793,
+        "spill_suppressed_pixels": 15143,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c0": 2044,
+          "r0c5": 2004,
+          "r0c7": 1973,
+          "r0c1": 1960,
+          "r0c6": 1944,
+          "r0c2": 1812,
+          "r0c4": 1757,
+          "r0c3": 1649
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/failed-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          281,
+          549,
+          809,
+          1064,
+          1332,
+          1615,
+          1892,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            141.9,
+            593
+          ],
+          [
+            410.6,
+            593
+          ],
+          [
+            668.8,
+            593
+          ],
+          [
+            927.4,
+            593
+          ],
+          [
+            1188.8,
+            593
+          ],
+          [
+            1467.4,
+            593
+          ],
+          [
+            1749.9,
+            593
+          ],
+          [
+            2028.4,
+            593
+          ]
+        ],
+        "shared_scale": 0.48175182481751827,
+        "target_anchor": [
+          95.18430034129693,
+          203
+        ],
+        "cut_foreground_pixels": [
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Full decoded row compared with original clipped atlas. Cuts follow the low-occupancy gaps between torso/foot anchors; only narrow touching hair ends cross the boundary. One shared scale and one common foot baseline preserve the original pose deformation. Native-size tip quality remains pending independent QA.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/reference-neutral.png",
+        "reference_sha256": "7cce8cad3ba564b7230569f197dd481fc9551496dd579c03b21adce7844099fe"
+      },
+      "frame_count": 8,
+      "dimensions": [
+        1536,
+        208
+      ],
+      "bounds": [
+        [
+          31,
+          5,
+          163,
+          203
+        ],
+        [
+          33,
+          8,
+          162,
+          203
+        ],
+        [
+          38,
+          22,
+          161,
+          203
+        ],
+        [
+          39,
+          38,
+          160,
+          203
+        ],
+        [
+          36,
+          25,
+          162,
+          203
+        ],
+        [
+          30,
+          10,
+          162,
+          203
+        ],
+        [
+          31,
+          12,
+          162,
+          203
+        ],
+        [
+          30,
+          7,
+          161,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/failed-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "raiden-mei",
+      "state": "waiting",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/waiting.png",
+      "candidate_sha256": "63c20730c4164f2411ecbe5df9f92411d19d41611f33eb6dd4fa3706f89cd6ce",
+      "baseline_atlas_sha256": "24677923c3e80669b3e00e10daeb6783a82bd1fc75b127ec0d0097348c11ddc0",
+      "source": "work/raiden-mei/2d/decoded/waiting.png",
+      "source_sha256": "17d24fb513af8f543b6b506d764ab0020b08597e44b19fc201aedf5042a568da",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 11327,
+        "decontaminated_pixels": 9908,
+        "spill_suppressed_pixels": 11327,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c3": 1929,
+          "r0c0": 1918,
+          "r0c5": 1910,
+          "r0c2": 1903,
+          "r0c1": 1887,
+          "r0c4": 1780
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/waiting-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          387,
+          737,
+          1091,
+          1447,
+          1776,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            196.9,
+            630
+          ],
+          [
+            550.1,
+            630
+          ],
+          [
+            902.8,
+            630
+          ],
+          [
+            1251.4,
+            630
+          ],
+          [
+            1603.7,
+            630
+          ],
+          [
+            1940.3,
+            630
+          ]
+        ],
+        "shared_scale": 0.3680297397769517,
+        "target_anchor": [
+          95.18430034129693,
+          203
+        ],
+        "cut_foreground_pixels": [
+          20,
+          27,
+          22,
+          32,
+          14
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Full decoded row compared with original clipped atlas. Cuts follow the low-occupancy gaps between torso/foot anchors; only narrow touching hair ends cross the boundary. One shared scale and one common foot baseline preserve the original pose deformation. Native-size tip quality remains pending independent QA.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/reference-neutral.png",
+        "reference_sha256": "7cce8cad3ba564b7230569f197dd481fc9551496dd579c03b21adce7844099fe"
+      },
+      "frame_count": 6,
+      "dimensions": [
+        1152,
+        208
+      ],
+      "bounds": [
+        [
+          29,
+          8,
+          165,
+          202
+        ],
+        [
+          35,
+          6,
+          164,
+          203
+        ],
+        [
+          34,
+          6,
+          164,
+          203
+        ],
+        [
+          36,
+          5,
+          167,
+          203
+        ],
+        [
+          38,
+          9,
+          159,
+          203
+        ],
+        [
+          35,
+          9,
+          168,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei/_provenance/waiting-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "jumping",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/jumping.png",
+      "candidate_sha256": "ebb4e25c33d804d8f40e0b3fd1945a0d50f6a5e47918428acfc91719c9ca804d",
+      "baseline_atlas_sha256": "ac467b37128f33b5ae59333dd430c22a0825bfedeb59f2d3cb0d268f3a38463e",
+      "source": "work/raiden-mei/3d/decoded/jumping.png",
+      "source_sha256": "f83add646e97d86beff66ce73c4fd3a86cd872466623abc19f4787c78885c1a3",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 6620,
+        "decontaminated_pixels": 6563,
+        "spill_suppressed_pixels": 6620,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c4": 1343,
+          "r0c0": 1338,
+          "r0c1": 1328,
+          "r0c3": 1324,
+          "r0c2": 1287
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/jumping-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          355,
+          710,
+          1064,
+          1419,
+          1774
+        ],
+        "foot_anchors": [
+          [
+            190,
+            700
+          ],
+          [
+            540,
+            700
+          ],
+          [
+            892,
+            700
+          ],
+          [
+            1240,
+            700
+          ],
+          [
+            1585,
+            700
+          ]
+        ],
+        "shared_scale": 0.3504424778761062,
+        "target_anchor": [
+          102.22512234910278,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Complete source figures were visually reviewed. Separated silhouettes; shared grounded baseline for all frames deliberately preserves source Y takeoff/apex/landing. Horizontal anchors follow body center, not a moving raised foot.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/reference-neutral.png",
+        "reference_sha256": "15bc7b001d5d962d1b0f58939bbd68642128dc4af7ff71af0ea7888dcafda00c"
+      },
+      "frame_count": 5,
+      "dimensions": [
+        960,
+        208
+      ],
+      "bounds": [
+        [
+          49,
+          51,
+          155,
+          203
+        ],
+        [
+          47,
+          30,
+          156,
+          180
+        ],
+        [
+          44,
+          5,
+          155,
+          143
+        ],
+        [
+          45,
+          34,
+          156,
+          185
+        ],
+        [
+          49,
+          51,
+          156,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/jumping-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "waiting",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/waiting.png",
+      "candidate_sha256": "dba209b2114ece3d3ac19abdfde90a3e5e45d65c6c8c0d52d981ec3b602cc040",
+      "baseline_atlas_sha256": "ac467b37128f33b5ae59333dd430c22a0825bfedeb59f2d3cb0d268f3a38463e",
+      "source": "work/raiden-mei/3d/decoded/waiting.png",
+      "source_sha256": "b6a643150de12523b4f658bc38da9221cd06dd4cbe28399024a531f4377d6fc6",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 9689,
+        "decontaminated_pixels": 9612,
+        "spill_suppressed_pixels": 9689,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c5": 1707,
+          "r0c0": 1655,
+          "r0c4": 1650,
+          "r0c3": 1609,
+          "r0c2": 1579,
+          "r0c1": 1489
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/waiting-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          321,
+          599,
+          888,
+          1171,
+          1456,
+          1778
+        ],
+        "foot_anchors": [
+          [
+            182.2,
+            707
+          ],
+          [
+            467.2,
+            707
+          ],
+          [
+            739.4,
+            707
+          ],
+          [
+            1027.1,
+            707
+          ],
+          [
+            1307.6,
+            707
+          ],
+          [
+            1600.9,
+            707
+          ]
+        ],
+        "shared_scale": 0.3680297397769517,
+        "target_anchor": [
+          102.22512234910278,
+          203
+        ],
+        "cut_foreground_pixels": [
+          31,
+          55,
+          25,
+          20,
+          22
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [
+            {
+              "bbox": [
+                0,
+                228,
+                7,
+                238
+              ],
+              "area": 48
+            }
+          ],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Full decoded row compared with original clipped atlas. Cuts follow the low-occupancy gaps between torso/foot anchors; only narrow touching hair ends cross the boundary. One shared scale and one common foot baseline preserve the original pose deformation. Native-size tip quality remains pending independent QA.",
+        "neighbor_cleanup_note": "The tiny 48-pixel component at source interval 2 local x0..6/y228..237 is the previous pose's angular head ornament beyond the reviewed boundary, not a detached detail of pose 2. Remove that neighbor remnant only; retain main silhouette coordinates.",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/reference-neutral.png",
+        "reference_sha256": "15bc7b001d5d962d1b0f58939bbd68642128dc4af7ff71af0ea7888dcafda00c"
+      },
+      "frame_count": 6,
+      "dimensions": [
+        1152,
+        208
+      ],
+      "bounds": [
+        [
+          39,
+          5,
+          153,
+          203
+        ],
+        [
+          48,
+          8,
+          150,
+          203
+        ],
+        [
+          51,
+          5,
+          157,
+          203
+        ],
+        [
+          51,
+          6,
+          155,
+          203
+        ],
+        [
+          52,
+          5,
+          157,
+          203
+        ],
+        [
+          49,
+          5,
+          162,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/waiting-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "raiden-mei-3d",
+      "state": "running",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/running.png",
+      "candidate_sha256": "156a98f07eefe065167f71f262dc8e82043970b62cd5661e09d14448556ff09e",
+      "baseline_atlas_sha256": "ac467b37128f33b5ae59333dd430c22a0825bfedeb59f2d3cb0d268f3a38463e",
+      "source": "work/raiden-mei/3d/decoded/running.png",
+      "source_sha256": "3cd561d83cfaa63b07d68001f7c61dae9bed3c406c7b9b59ea73a1caa9db37da",
+      "chroma_key": "#00FF00",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 9506,
+        "decontaminated_pixels": 9394,
+        "spill_suppressed_pixels": 9506,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c5": 1615,
+          "r0c2": 1597,
+          "r0c3": 1596,
+          "r0c0": 1574,
+          "r0c4": 1569,
+          "r0c1": 1555
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/running-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          303,
+          572,
+          851,
+          1127,
+          1400,
+          1717
+        ],
+        "foot_anchors": [
+          [
+            171.9,
+            727
+          ],
+          [
+            443.3,
+            727
+          ],
+          [
+            709.9,
+            727
+          ],
+          [
+            989.2,
+            727
+          ],
+          [
+            1264.2,
+            727
+          ],
+          [
+            1540.7,
+            727
+          ]
+        ],
+        "shared_scale": 0.38671875,
+        "target_anchor": [
+          102.22512234910278,
+          203
+        ],
+        "cut_foreground_pixels": [
+          15,
+          17,
+          15,
+          15,
+          14
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Full decoded row compared with original clipped atlas. Cuts follow the low-occupancy gaps between torso/foot anchors; only narrow touching hair ends cross the boundary. One shared scale and one common foot baseline preserve the original pose deformation. Native-size tip quality remains pending independent QA.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/reference-neutral.png",
+        "reference_sha256": "15bc7b001d5d962d1b0f58939bbd68642128dc4af7ff71af0ea7888dcafda00c"
+      },
+      "frame_count": 6,
+      "dimensions": [
+        1152,
+        208
+      ],
+      "bounds": [
+        [
+          42,
+          5,
+          153,
+          203
+        ],
+        [
+          48,
+          5,
+          152,
+          203
+        ],
+        [
+          49,
+          5,
+          157,
+          203
+        ],
+        [
+          49,
+          5,
+          156,
+          203
+        ],
+        [
+          49,
+          5,
+          155,
+          203
+        ],
+        [
+          48,
+          5,
+          163,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/raiden-mei-3d/_provenance/running-comparison.png",
+      "qa": "candidate pending independent review"
+    },
+    {
+      "id": "miyabi",
+      "state": "jumping",
+      "output": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/miyabi/jumping.png",
+      "candidate_sha256": "6a55919d9832beb15e522e02387fb562781098fda3085f52ba503677f23e4d38",
+      "baseline_atlas_sha256": "dfe97b270d0436fed797933bea8be642d00a79ae531e065b26a1ed164e71febf",
+      "source": "work/miyabi/2d/decoded/jumping.png",
+      "source_sha256": "11c2045461de5ed6c5ee19669fe4f8d7436ea5f20d21adfd7572b661232fe610",
+      "chroma_key": "#FF00FF",
+      "chroma_removal_threshold": 96,
+      "despill_passes": 1,
+      "despill_report": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1,
+        "changed_pixels": 6220,
+        "decontaminated_pixels": 5638,
+        "spill_suppressed_pixels": 6220,
+        "rejected_pixels": 0,
+        "changed_by_cell": {
+          "r0c4": 1402,
+          "r0c1": 1328,
+          "r0c3": 1299,
+          "r0c2": 1103,
+          "r0c0": 1088
+        },
+        "alpha_preserved": true
+      },
+      "alpha_unchanged_by_despill": true,
+      "method": "hatch-pet reviewed-layout + shared source-ground baseline",
+      "layout": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/miyabi/_provenance/jumping-layout.json",
+      "extraction": {
+        "cuts": [
+          0,
+          434,
+          869,
+          1303,
+          1738,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            225,
+            692
+          ],
+          [
+            658,
+            692
+          ],
+          [
+            1094,
+            692
+          ],
+          [
+            1522,
+            692
+          ],
+          [
+            1942,
+            692
+          ]
+        ],
+        "shared_scale": 0.29954614220877457,
+        "target_anchor": [
+          92.4257748776509,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Complete source figures were visually reviewed. Separated silhouettes; shared grounded baseline for all frames deliberately preserves source Y takeoff/apex/landing. Horizontal anchors follow body center, not a moving raised foot.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/reextracted-zzz-honkai/miyabi/_provenance/reference-neutral.png",
+        "reference_sha256": "88ffa0ad7c8b9d29423c58f55e64da41834dd0ebc1d7cfcb2eb4b9688bf2de13"
+      },
+      "frame_count": 5,
+      "dimensions": [
+        960,
+        208
+      ],
+      "bounds": [
+        [
+          56,
+          72,
+          128,
+          201
+        ],
+        [
+          56,
+          22,
+          129,
+          186
+        ],
+        [
+          56,
+          5,
+          129,
+          143
+        ],
+        [
+          55,
+          34,
+          127,
+          191
+        ],
+        [
+          56,
+          34,
+          128,
+          203
+        ]
+      ],
+      "comparison": "work/motion-refinement-2026-11-06/reextracted-zzz-honkai/miyabi/_provenance/jumping-comparison.png",
+      "qa": "candidate pending independent review"
+    }
+  ],
+  "release_asset_edits": 0
+}

@@ -1,0 +1,27 @@
+{
+  "selected_source": "/home/ubuntu23/.codex/generated_images/01a1b13c-6bc1-7c52-b342-499ec1b7e504/exec-ec0721a1-0694-4f5e-973b-ff97e6c22964.png",
+  "source_sha256": "b89175031eea340696a4c161e594142c09e9468b3f29d07258238c820758807c",
+  "source_size": [
+    2172,
+    724
+  ],
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "fully_transparent_pixels": 1069503,
+  "generation_mode": "built-in image_gen; transparent_background=true",
+  "prompt": "work/motion-refinement-2026-11-06/generation/kazuha-chibi/prompts/running-motion-refinement.txt",
+  "reference_inputs": [
+    "references/canonical-base.png",
+    "references/layout-guides/running.png"
+  ],
+  "visual_implementation_observations": [
+    "Exactly six complete separated standing characters in one row.",
+    "Consistent ivory/red hair, asymmetrical sleeve sides, retained attached sheathed sword and costume.",
+    "Hand/eye focus gesture stays close to torso; no new book, board or other tool; no kneeling or pose-size jump.",
+    "First and last poses are close; intermediate downward eyes are brief non-idle concentration.",
+    "Thin colored/white edge fringe is visible at enlarged source scale; judge actual extracted 192x208 cells and edge treatment before approval."
+  ],
+  "qa_note": "Candidate only. No frames extracted, no publishing assets changed. Parent will copy selected source, extract the complete row and obtain independent final visual QA."
+}

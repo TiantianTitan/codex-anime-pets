@@ -1,3 +1,3 @@
 60edd1773625c40df1edec4ca65169af4fba2b9e724350abc157b8624c0f64da  kafka-2d/pet.json
-f3b75ecd63e7a0fa6266e03d4bff063396e957810bfafd8716cd0d99efd00a60  kafka-2d/spritesheet.webp
-c8effbc793ad256358adf1329fc375faf696ef38ad8b7a7c110d886252ff649f  kafka-2d-codex-pet-v2.zip
+bc8d3cfbae18ef8a132d0427da6a95cfee8d460e69aaa23d5b5fbecc6b932781  kafka-2d/spritesheet.webp
+4ec62d4d499fc23e2dc726c0bd057298866ad8901507d251ab65e59b12c07ac0  kafka-2d-codex-pet-v2.zip
