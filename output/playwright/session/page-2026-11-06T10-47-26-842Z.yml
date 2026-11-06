@@ -1,0 +1,105 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - link "跳到动作对比" [ref=f2e3] [cursor=pointer]:
+      - /url: "#main"
+      - generic [aria-hidden] [ref=f2e4]: ✳
+      - text: PETS
+      - generic [ref=f2e5]: / MOTION STUDY
+    - link "GitHub 原版" [ref=f2e6] [cursor=pointer]:
+      - /url: https://github.com/TiantianTitan/codex-anime-pets
+      - text: GitHub 原版
+      - generic [aria-hidden] [ref=f2e7]: ↗
+  - main [ref=f2e8]:
+    - generic [ref=f2e10]:
+      - paragraph [ref=f2e11]: CODEX ANIME PETS · 01—03
+      - heading "动作对照室." [level=1] [ref=f2e12]
+      - paragraph [ref=f2e13]: 同一位角色，同一条时间轴。查看真实时序、慢速待机与工作姿态的变化。
+    - tablist "优化项目" [ref=f2e14]:
+      - tab "01 真实时序" [selected] [ref=f2e15] [cursor=pointer]
+      - tab "02 慢速待机" [ref=f2e16] [cursor=pointer]
+      - tab "03 状态辨识" [ref=f2e17] [cursor=pointer]
+    - tabpanel "01 真实时序" [ref=f2e18]:
+      - generic [ref=f2e19]:
+        - generic [ref=f2e20]:
+          - heading "把预览，放回真实的时间里。" [level=2] [ref=f2e21]
+          - paragraph [ref=f2e22]: 同一份原版素材：左侧按旧 GIF 循环，右侧还原本机客户端的播放策略。
+        - generic [ref=f2e23]: 仅改预览时序
+      - generic [ref=f2e24]:
+        - complementary [ref=f2e25]:
+          - group "选择对比角色" [ref=f2e26]:
+            - button "魈 XIAO" [pressed] [ref=f2e27] [cursor=pointer]:
+              - generic [ref=f2e29]:
+                - strong [ref=f2e30]: 魈
+                - generic [ref=f2e31]: XIAO
+            - button "丹恒·饮月 DAN HENG" [ref=f2e32] [cursor=pointer]:
+              - generic [ref=f2e34]:
+                - strong [ref=f2e35]: 丹恒·饮月
+                - generic [ref=f2e36]: DAN HENG
+            - button "景元 JING YUAN" [ref=f2e37] [cursor=pointer]:
+              - generic [ref=f2e39]:
+                - strong [ref=f2e40]: 景元
+                - generic [ref=f2e41]: JING YUAN
+          - button "下载候选宠物包" [ref=f2e42] [cursor=pointer]:
+            - text: 下载候选宠物包
+            - generic [aria-hidden] [ref=f2e43]: ↓
+        - generic [ref=f2e44]:
+          - generic [ref=f2e45]:
+            - group "选择动作" [ref=f2e46]:
+              - button "待机" [pressed] [ref=f2e47] [cursor=pointer]
+              - button "处理中" [ref=f2e48] [cursor=pointer]
+              - button "等待输入" [ref=f2e49] [cursor=pointer]
+              - button "审阅" [ref=f2e50] [cursor=pointer]
+              - button "失败" [ref=f2e51] [cursor=pointer]
+            - generic [ref=f2e52]:
+              - button "深色背景" [ref=f2e53] [cursor=pointer]
+              - button "放大 1.25×" [ref=f2e54] [cursor=pointer]
+          - generic [ref=f2e55]:
+            - article [ref=f2e56]:
+              - generic [ref=f2e57]:
+                - generic [ref=f2e58]: A
+                - heading "原版 GIF 时序" [level=3] [ref=f2e59]
+              - generic [ref=f2e60]:
+                - img "魈，原版，待机，第1帧" [ref=f2e62]
+                - generic [ref=f2e63]: 192 × 208 · 适屏显示
+              - generic [ref=f2e65]:
+                - generic [ref=f2e66]: 待机
+                - generic [ref=f2e67]: FRAME 01 / 6
+            - article [ref=f2e68]:
+              - generic [ref=f2e69]:
+                - generic [ref=f2e70]: B
+                - heading "客户端时序" [level=3] [ref=f2e71]
+              - generic [ref=f2e72]:
+                - img "魈，客户端时序，待机，第1帧" [ref=f2e74]
+                - generic [ref=f2e75]: 192 × 208 · 适屏显示
+              - generic [ref=f2e77]:
+                - generic [ref=f2e78]: 待机
+                - generic [ref=f2e79]: FRAME 01 / 6
+          - generic [ref=f2e80]:
+            - button "暂停播放" [ref=f2e81] [cursor=pointer]:
+              - text: 暂停
+              - generic [aria-hidden] [ref=f2e82]: Ⅱ
+            - button "从头播放" [ref=f2e83] [cursor=pointer]: ↺
+            - generic [ref=f2e84]:
+              - generic [ref=f2e85]: 同步时间轴，单位秒
+              - slider "同步时间轴，单位秒" [ref=f2e86] [cursor=pointer]: "0.12"
+            - status [ref=f2e87]: 00.12 / 12.00s
+          - paragraph [ref=f2e88]: 两侧共用时间轴。切换“处理中”，观察 2.46 秒后的播放差异。
+          - group [ref=f2e89]:
+            - generic "+ 逐帧检查 查看本行动作的 6 个原生帧" [ref=f2e90] [cursor=pointer]:
+              - text: + 逐帧检查
+              - generic [ref=f2e91]: 查看本行动作的 6 个原生帧
+      - generic [ref=f2e92]:
+        - generic [ref=f2e93]: 01 / OBSERVATION
+        - generic [ref=f2e94]:
+          - heading "原版展示较快，实机更安静。" [level=2] [ref=f2e95]
+          - paragraph [ref=f2e96]: 待机一轮从展示用的 1.1 秒还原为 6.6 秒。选择处理中，可看到客户端在约 2.46 秒后回到待机；此项不改宠物素材。
+        - generic [ref=f2e97]:
+          - strong [ref=f2e98]: 1.1 → 6.6
+          - generic [ref=f2e99]: 秒 / 待机一轮
+    - group [ref=f2e100]:
+      - generic "+ 来源与验证 3 位角色 · 候选校验通过" [ref=f2e101] [cursor=pointer]:
+        - text: + 来源与验证
+        - generic [ref=f2e102]: 3 位角色 · 候选校验通过
+  - contentinfo [ref=f2e103]:
+    - generic [ref=f2e104]: CODEX ANIME PETS / MOTION STUDY
+    - generic [ref=f2e105]: 离线可用 · 素材已内嵌

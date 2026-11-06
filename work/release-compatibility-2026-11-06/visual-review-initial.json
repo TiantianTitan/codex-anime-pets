@@ -1,0 +1,328 @@
+{
+  "visual_qa": "fail",
+  "reviewRevision": "initial full review before parent focused repairs",
+  "reviewedAtUtc": "2026-11-06T11:26:38.880384+00:00",
+  "reviewer": "independent visual QA subagent /root/all_pets_idle_visual_qa",
+  "reviewedCount": 47,
+  "passedCount": 45,
+  "failedCount": 2,
+  "reviewedIds": [
+    "tartaglia",
+    "venti",
+    "wanderer",
+    "furina",
+    "ganyu",
+    "hu-tao",
+    "kazuha-chibi",
+    "kaeya",
+    "kamisato-ayaka",
+    "raiden-shogun",
+    "xiao",
+    "yae-miko",
+    "zhongli",
+    "black-swan",
+    "kafka",
+    "sparkle",
+    "acheron",
+    "aventurine",
+    "blade",
+    "dan-heng-imbibitor-lunae",
+    "firefly",
+    "jing-yuan",
+    "robin",
+    "ruan-mei",
+    "sunday",
+    "bronya-zaychik",
+    "fu-hua",
+    "kiana-kaslana",
+    "otto-apocalypse",
+    "seele-vollerei",
+    "theresa",
+    "kevin-kaslana",
+    "raiden-mei",
+    "raiden-mei-3d",
+    "burnice-white",
+    "lighter",
+    "vivian-banshee",
+    "von-lycaon",
+    "zhu-yuan",
+    "anby-demara",
+    "ellen-joe",
+    "miyabi",
+    "jane-doe",
+    "nicole-demara",
+    "kibutsuji-muzan",
+    "mitsuri-kanroji",
+    "obanai"
+  ],
+  "reviewedAfterSheets": [
+    "idle-after-01.png",
+    "idle-after-02.png",
+    "idle-after-03.png",
+    "idle-after-04.png",
+    "idle-after-05.png",
+    "idle-after-06.png",
+    "idle-after-07.png",
+    "idle-after-08.png"
+  ],
+  "comparedOriginalSheets": [
+    "idle-audit-01.png",
+    "idle-audit-02.png",
+    "idle-audit-04.png",
+    "idle-audit-06.png"
+  ],
+  "nativeCellDimensions": [
+    192,
+    208
+  ],
+  "idleHoldsMs": [
+    1680,
+    660,
+    660,
+    840,
+    840,
+    1920
+  ],
+  "failures": [
+    {
+      "id": "furina",
+      "criterion": "visible eyes open in every idle slot",
+      "slotsZeroBased": [
+        3
+      ],
+      "holdMs": [
+        840
+      ],
+      "description": "Slot 3 still has both eyes fully closed. Original slot 2 was replaced, but the second original blink slot was retained.",
+      "evidence": [
+        "idle-after-01.png",
+        "idle-audit-01.png",
+        "validation/independent-visual-qa/occluded-eyes-candidate.png"
+      ],
+      "reviewedCandidateSha256": "049c6a985d00eae6c51f5ef4a6808ccbc42c5f89e32bb96fa21b5245fe71c37e",
+      "requiredRepair": "Replace slot 3 with a coherent clean open-eye frame from Furina’s own original idle row, then re-review."
+    },
+    {
+      "id": "raiden-mei-3d",
+      "criterion": "no visible clipping",
+      "slotsZeroBased": [
+        3,
+        4
+      ],
+      "holdMs": [
+        840,
+        840
+      ],
+      "description": "Right hair shape ends abruptly at a vertical internal crop edge in slots 3 and 4; slot 4 has a prominent hanging section truncated along the same edge. These artifacts are inherited from the original idle row, not introduced by the blink repair. They still fail the requested clean idle visual gate.",
+      "inheritedOriginalArtifact": true,
+      "evidence": [
+        "idle-after-06.png",
+        "idle-audit-06.png",
+        "validation/independent-visual-qa/raiden-mei-3d-original-candidate.png",
+        "validation/independent-visual-qa/raiden-mei-3d-detail.png"
+      ],
+      "reviewedCandidateSha256": "4b3bf4cad6565d198745b783b7f11b98600c53b3eb29525d2bdaf03cd3fbf041",
+      "requiredRepair": "Use only this edition’s clean original open-eye idle frames (0, 1, 5) for damaged slots, then re-review."
+    }
+  ],
+  "notes": [
+    "All eight after contact sheets were visually examined at original resolution, covering six ordered idle slots for each of the 47 editions. Additional atlas crops were inspected for ambiguous eyes and Raiden Mei 3D hair edges.",
+    "No additional closed-eye or prolonged wink failures were found beyond Furina slot 3. Kaeya’s patch, Acheron/Blade/Jing Yuan hair occlusion, and Lighter’s sunglasses remain natural and identity-consistent. Blade’s small visible amber eye area remains open; it is not treated as a blink.",
+    "All editions retain visible body, hair, cloth, or accessory micro-variation across the six-slot sequence. Repeated source frames are accepted intentional holds. Native comparison confirms 3–6 distinct source cells per edition and meaningful changes outside the face; no six-copy freeze was accepted.",
+    "Other than the two failures listed, no material scale, registration, identity, first-to-last seam, clipping, or hole regression was observed in the examined idle rows.",
+    "Xiao, Dan Heng Imbibitor Lunae, and Jing Yuan repaired rows remain coherent with their original character identity and all visible eyes open. Venti and Ellen retain the original artwork.",
+    "This review is limited to idle visuals. The stated unchanged 82 non-idle cells and inherited direction QA are not independently re-approved here.",
+    "No candidate spritesheet, public release, package, installation, commit, or push was modified by this reviewer. QA crop artifacts and this report are the only outputs.",
+    "Parent announced deterministic focused repairs for Furina and Raiden Mei 3D after these observations. This initial report does not approve any subsequently refreshed artifacts; focused visual re-review is required."
+  ],
+  "perEditionResults": [
+    {
+      "id": "tartaglia",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "venti",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "wanderer",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "furina",
+      "visual_qa": "fail"
+    },
+    {
+      "id": "ganyu",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "hu-tao",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kazuha-chibi",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kaeya",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kamisato-ayaka",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "raiden-shogun",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "xiao",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "yae-miko",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "zhongli",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "black-swan",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kafka",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "sparkle",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "acheron",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "aventurine",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "blade",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "dan-heng-imbibitor-lunae",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "firefly",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "jing-yuan",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "robin",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "ruan-mei",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "sunday",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "bronya-zaychik",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "fu-hua",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kiana-kaslana",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "otto-apocalypse",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "seele-vollerei",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "theresa",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kevin-kaslana",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "raiden-mei",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "raiden-mei-3d",
+      "visual_qa": "fail"
+    },
+    {
+      "id": "burnice-white",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "lighter",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "vivian-banshee",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "von-lycaon",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "zhu-yuan",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "anby-demara",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "ellen-joe",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "miyabi",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "jane-doe",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "nicole-demara",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "kibutsuji-muzan",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "visual_qa": "pass"
+    },
+    {
+      "id": "obanai",
+      "visual_qa": "pass"
+    }
+  ]
+}

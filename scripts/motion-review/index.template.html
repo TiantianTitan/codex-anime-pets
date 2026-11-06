@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23176557'/%3E%3Cpath d='M16 6v20M6 16h20M9 9l14 14M9 23L23 9' stroke='%23fffefa' stroke-width='1.5'/%3E%3C/svg%3E">
+  <title>Codex Pets · 动作对照室</title>
+  <style>/* INLINE_CSS */</style>
+</head>
+<body>
+  <header class="masthead wrap">
+    <a class="wordmark" href="#main" aria-label="跳到动作对比"><span class="mark" aria-hidden="true">✳</span> PETS <span class="wordmark-light">/ MOTION STUDY</span></a>
+    <a class="source-link" href="https://github.com/TiantianTitan/codex-anime-pets" target="_blank" rel="noreferrer">GitHub 原版 <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main" class="wrap">
+    <section class="intro">
+      <div><p class="eyebrow">CODEX ANIME PETS · 01—03</p><h1>动作对照室<span class="title-dot">.</span></h1><p class="intro-copy">同一位角色，同一条时间轴。查看真实时序、慢速待机与工作姿态的变化。</p></div>
+      <div class="edition"><span class="live-dot"></span> 本地候选 · 尚未发布<br><span class="edition-date">2026.11.06 / v2</span></div>
+    </section>
+
+    <nav class="study-tabs" aria-label="优化项目" role="tablist">
+      <button id="tab-timing" role="tab" aria-selected="true" aria-controls="study-panel" data-mode="timing"><span>01</span> 真实时序</button>
+      <button id="tab-idle" role="tab" aria-selected="false" aria-controls="study-panel" tabindex="-1" data-mode="idle"><span>02</span> 慢速待机</button>
+      <button id="tab-states" role="tab" aria-selected="false" aria-controls="study-panel" tabindex="-1" data-mode="states"><span>03</span> 可选工作姿态</button>
+    </nav>
+
+    <section id="study-panel" role="tabpanel" aria-labelledby="tab-timing">
+      <div class="study-heading"><div><h2 id="study-title">把预览，放回真实的时间里。</h2><p id="study-description"></p></div><span id="change-type" class="change-type">仅改预览时序</span></div>
+      <div class="workspace">
+        <aside class="character-rail">
+          <p class="small-label">选择角色</p>
+          <div id="characters" class="character-list" role="group" aria-label="选择对比角色"></div>
+          <div class="rail-note"><span class="small-label">本轮范围</span><p>下载包仅改善待机长时间闭眼。工作姿态候选保留在页面中比较，未纳入下载。</p></div>
+          <button id="download" class="download-button" type="button">下载待机优化包 <span aria-hidden="true">↓</span></button>
+          <p id="download-note" class="download-note">v2 格式 · 独立候选 ID</p>
+        </aside>
+
+        <div class="comparison-area">
+          <div class="comparison-tools">
+            <div id="states" class="state-picker" role="group" aria-label="选择动作"></div>
+            <div class="view-tools"><button id="background" class="quiet-button" aria-pressed="false">深色背景</button><button id="size" class="quiet-button" aria-pressed="false">放大检查</button></div>
+          </div>
+          <div class="lanes" id="lanes">
+            <article class="lane lane-before">
+              <div class="lane-title"><span class="lane-index">A</span><h3 id="before-label">原版展示</h3><span id="before-meta" class="lane-meta"></span></div>
+              <div class="stage"><span class="stage-guide top-left" aria-hidden="true"></span><canvas id="before-canvas" width="384" height="416" role="img" aria-label="原版宠物动画"></canvas><span class="stage-scale">192 × 208 · 原生显示</span><span class="stage-guide bottom-right" aria-hidden="true"></span></div>
+              <div class="lane-bottom"><span id="before-state" class="state-name"></span><span id="before-frame" class="frame-label"></span></div>
+            </article>
+            <article class="lane lane-after">
+              <div class="lane-title"><span class="lane-index">B</span><h3 id="after-label">实机时序</h3><span id="after-meta" class="lane-meta"></span></div>
+              <div class="stage"><span class="stage-guide top-left" aria-hidden="true"></span><canvas id="after-canvas" width="384" height="416" role="img" aria-label="优化后宠物动画"></canvas><span class="stage-scale">192 × 208 · 原生显示</span><span class="stage-guide bottom-right" aria-hidden="true"></span></div>
+              <div class="lane-bottom"><span id="after-state" class="state-name"></span><span id="after-frame" class="frame-label"></span></div>
+            </article>
+          </div>
+          <div id="load-status" class="load-status" role="status">正在加载角色素材…</div>
+          <div class="transport">
+            <button id="play" class="play-button" aria-label="暂停播放">暂停 <span aria-hidden="true">Ⅱ</span></button>
+            <button id="restart" class="restart-button" aria-label="从头播放">↺</button>
+            <label class="timeline"><span class="sr-only">同步时间轴，单位秒</span><input id="seek" type="range" min="0" max="12" step="0.01" value="0"></label>
+            <output id="time" for="seek">00.00 / 12.00s</output>
+          </div>
+          <p id="playback-note" class="playback-note"></p>
+          <div id="state-gallery" class="state-gallery" role="group" aria-label="四种状态首帧对照" hidden></div>
+          <details class="frame-details"><summary>逐帧检查 <span id="strip-caption">查看本行动作的 6 个原生帧</span></summary><div class="filmstrips"><div><p>A · 原版</p><canvas id="before-strip" width="1152" height="208" role="img" aria-label="原版动作逐帧图"></canvas></div><div><p id="after-strip-label">B · 客户端时序</p><canvas id="after-strip" width="1152" height="208" role="img" aria-label="候选动作逐帧图"></canvas></div></div></details>
+        </div>
+      </div>
+      <section class="finding"><span class="finding-number" id="finding-number">01 / OBSERVATION</span><div><h2 id="finding-title"></h2><p id="finding-copy"></p></div><div class="measurement"><strong id="measurement-value">1.1 → 6.6</strong><span id="measurement-unit">秒 / 待机一轮</span></div></section>
+    </section>
+
+    <details class="evidence"><summary>来源与验证 <span id="verification-status">检查候选素材</span></summary><div class="evidence-grid"><div><h2>对照基线</h2><p>原版取自 <a href="https://github.com/TiantianTitan/codex-anime-pets/tree/0a7cb6dea9bdbcc476843bf3f07892f6b47acaa1" target="_blank" rel="noreferrer">GitHub main · 0a7cb6d ↗</a>。时序参考本机桌面包 26.1007.21434，未修改客户端。</p><p>第 01 项两侧使用同一份原版图集；第 02、03 项两侧使用相同的客户端时序，分别显示原版与候选素材。</p></div><div><h2>本轮采用的修复</h2><p>下载包只替换待机六格，复用此前已通过视觉检查的 ImageGen 素材。工作姿态只供可选比较。下载包使用独立 ID，可与原版并存。</p><p id="qa-summary"></p><p><a href="https://github.com/openai/codex/issues/28995" target="_blank" rel="noreferrer">持续工作动画的客户端限制 ↗</a></p></div></div></details>
+  </main>
+  <footer class="wrap footer"><span>CODEX ANIME PETS / MOTION STUDY</span><span>离线可用 · 素材已内嵌</span></footer>
+  <script>window.PET_REVIEW_DATA = /* INLINE_DATA */;</script>
+  <script>/* INLINE_JS */</script>
+</body>
+</html>

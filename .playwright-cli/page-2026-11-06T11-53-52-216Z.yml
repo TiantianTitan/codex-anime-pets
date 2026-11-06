@@ -1,0 +1,107 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]: CODEX ANIME PETS / 动作对照室
+    - generic [ref=e5]: 本地修复 · 2026.11.06
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - heading "全部角色，逐个对照。" [level=1] [ref=e8]
+      - paragraph [ref=e9]: 按桌面端的真实待机节奏，检查修复前后的表现。
+    - generic "修复范围" [ref=e10]:
+      - generic [ref=e11]:
+        - strong [ref=e12]: "47"
+        - text: 版本已检查
+      - generic [ref=e13]:
+        - strong [ref=e14]: "45"
+        - text: 待机已修复
+      - generic [ref=e15]:
+        - strong [ref=e16]: "28"
+        - text: 多余目录已移除
+  - generic [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: 选择角色 / 版本
+      - combobox "选择角色 / 版本" [ref=e20]:
+        - option "Tartaglia · 达达利亚"
+        - option "Venti"
+        - option "Wanderer"
+        - option "Furina · 芙宁娜"
+        - option "Ganyu · 甘雨"
+        - option "Hu Tao · 胡桃"
+        - option "Kaedehara Kazuha · 枫原万叶"
+        - option "Kaeya · 凯亚"
+        - option "Kamisato Ayaka · 神里绫华"
+        - option "Raiden Shogun"
+        - option "Xiao 魈" [selected]
+        - option "Yae Miko 八重神子"
+        - option "Zhongli 钟离"
+        - option "Black Swan"
+        - option "Kafka · 卡芙卡"
+        - option "Sparkle"
+        - option "Acheron · 黄泉"
+        - option "Aventurine"
+        - option "Blade · 刃"
+        - option "Dan Heng · Imbibitor Lunae 丹恒·饮月"
+        - option "Firefly · 流萤"
+        - option "Jing Yuan 景元"
+        - option "Robin · 知更鸟"
+        - option "Ruan Mei · 阮·梅"
+        - option "Sunday · 星期日"
+        - option "Bronya Zaychik"
+        - option "Fu Hua"
+        - option "Kiana Kaslana · 琪亚娜·卡斯兰娜"
+        - option "Otto Apocalypse · 奥托·阿波卡利斯"
+        - option "Seele Vollerei"
+        - option "Theresa"
+        - option "Kevin Kaslana · 凯文·卡斯兰娜"
+        - option "雷电芽衣 Raiden Mei · 2D"
+        - option "雷电芽衣 Raiden Mei 3D"
+        - option "Burnice White"
+        - option "Lighter"
+        - option "Vivian Banshee"
+        - option "Von Lycaon · 冯·莱卡恩"
+        - option "Zhu Yuan"
+        - option "Anby Demara"
+        - option "Ellen Joe · 艾莲·乔"
+        - option "Hoshimi Miyabi · 星见雅"
+        - option "Jane Doe · 简·杜"
+        - option "Nicole Demara · 妮可·德玛拉"
+        - option "Kibutsuji Muzan"
+        - option "Mitsuri Kanroji · 甘露寺蜜璃"
+        - option "伊黑小芭内 Obanai"
+    - status [ref=e21]: 待机已修复
+    - generic [ref=e22]: 仅待机与安装结构
+  - alert
+  - region "修复前后同步动画" [ref=e23]:
+    - article [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: A
+          - text: 原版
+        - generic [ref=e28]: 帧 1 / 6
+      - img "原版待机动画" [ref=e30]
+      - paragraph [ref=e31]: 原版每轮闭眼或眨眼停留合计 0.66 秒。
+    - article [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: B
+          - text: 修复后
+        - generic [ref=e36]: 帧 1 / 6
+      - img "修复后的待机动画" [ref=e38]
+      - paragraph [ref=e39]: 保持睁眼，保留平静的待机微动。
+  - generic [ref=e40]:
+    - button "播放" [ref=e41] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e43]: 播放进度
+      - slider "播放进度" [ref=e44] [cursor=pointer]: "0"
+    - status [ref=e45]: 0.00 / 6.60 s
+    - button "定位原版闭眼" [ref=e46] [cursor=pointer]
+  - generic [ref=e47]:
+    - paragraph [ref=e48]: 两侧时序与尺寸相同 · 一轮 6.6 秒
+    - paragraph [ref=e49]: 沿用已通过审查的待机六帧
+  - generic [ref=e50]:
+    - paragraph [ref=e51]: 全部 47 份 ZIP 均可直接解压到角色目录；原有 ID 保留。工作、等待、审阅、neutral 与 16 向观察帧均与原版逐像素一致。
+    - paragraph [ref=e52]:
+      - text: 当前角色的成品包：
+      - code [ref=e53]: genshin-impact/xiao/xiao-2d.zip
+  - group [ref=e54]:
+    - generic "安装与核验说明" [ref=e55] [cursor=pointer]
+  - generic [ref=e56]: 无需联网 · 请保留相邻的对照图目录

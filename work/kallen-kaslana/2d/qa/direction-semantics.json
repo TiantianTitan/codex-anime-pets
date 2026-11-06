@@ -1,0 +1,163 @@
+{
+  "atlas_sha256": "4f10acef0611d2455515c90e94eac2c74578ce35a0e39edfebb8af212ce314b1",
+  "reviewed_by": "parent",
+  "scope": "final cleaned atlas, native labeled ordered direction review",
+  "verdict": "pass_with_minor_warnings",
+  "directions": [
+    {
+      "degree": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": "near-centered, vertical cardinal; lifted chin and pupils high in eye apertures",
+      "horizontal_evidence": "near-centered, vertical cardinal",
+      "vertical_evidence": "lifted chin and pupils high in eye apertures",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "slight rightward facial yaw; high pupils and raised face",
+      "horizontal_evidence": "slight rightward facial yaw",
+      "vertical_evidence": "high pupils and raised face",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "nose/face visibly turned right; upward pupil/chin cue",
+      "horizontal_evidence": "nose/face visibly turned right",
+      "vertical_evidence": "upward pupil/chin cue",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "067.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": "rightward nose and facial yaw; slightly lifted eye line/chin; subtler than 045",
+      "horizontal_evidence": "rightward nose and facial yaw",
+      "vertical_evidence": "slightly lifted eye line/chin; subtler than 045",
+      "reason": "Intermediate isolated blind-axis uncertainty accepted by parent and independent final QA: native labeled ordered family retains expected quadrant without reversal."
+    },
+    {
+      "degree": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": "clear right-facing nose/profile and eyes; near level, horizontal cardinal",
+      "horizontal_evidence": "clear right-facing nose/profile and eyes",
+      "vertical_evidence": "near level, horizontal cardinal",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "112.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "right-facing profile retained; lowered pupils/chin starting",
+      "horizontal_evidence": "right-facing profile retained",
+      "vertical_evidence": "lowered pupils/chin starting",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "135",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "rightward facial yaw remains beneath forward bangs; pupil cue is softer; lowered gaze and tucked chin",
+      "horizontal_evidence": "rightward facial yaw remains beneath forward bangs; pupil cue is softer",
+      "vertical_evidence": "lowered gaze and tucked chin",
+      "reason": "Intermediate isolated blind-axis uncertainty accepted by parent and independent final QA: native labeled ordered family retains expected quadrant without reversal."
+    },
+    {
+      "degree": "157.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "small rightward face/nose bias approaching down; chin/gaze strongly down",
+      "horizontal_evidence": "small rightward face/nose bias approaching down",
+      "vertical_evidence": "chin/gaze strongly down",
+      "reason": "Intermediate isolated blind-axis uncertainty accepted by parent and independent final QA: native labeled ordered family retains expected quadrant without reversal."
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "observed": "near-centered, vertical cardinal; lowered pupils/chin, opposing 000",
+      "horizontal_evidence": "near-centered, vertical cardinal",
+      "vertical_evidence": "lowered pupils/chin, opposing 000",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "202.5",
+      "expected": "down-left",
+      "verdict": "warning",
+      "observed": "small left facial-axis bias; lowered eye line and chin",
+      "horizontal_evidence": "small left facial-axis bias",
+      "vertical_evidence": "lowered eye line and chin",
+      "reason": "Intermediate isolated blind-axis uncertainty accepted by parent and independent final QA: native labeled ordered family retains expected quadrant without reversal."
+    },
+    {
+      "degree": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "left nose/face turn; pupils below level",
+      "horizontal_evidence": "left nose/face turn",
+      "vertical_evidence": "pupils below level",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "247.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": "strong leftward nose/face rotation; slightly lowered gaze/chin",
+      "horizontal_evidence": "strong leftward nose/face rotation",
+      "vertical_evidence": "slightly lowered gaze/chin",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "observed": "clear left-facing profile and pupil aim; near level, horizontal cardinal",
+      "horizontal_evidence": "clear left-facing profile and pupil aim",
+      "vertical_evidence": "near level, horizontal cardinal",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "292.5",
+      "expected": "up-left",
+      "verdict": "warning",
+      "observed": "left nose projection and screen-right ear exposure; eyes/chin lift from left cardinal; cue is subtle at native size",
+      "horizontal_evidence": "left nose projection and screen-right ear exposure",
+      "vertical_evidence": "eyes/chin lift from left cardinal; cue is subtle at native size",
+      "reason": "Intermediate isolated blind-axis uncertainty accepted by parent and independent final QA: native labeled ordered family retains expected quadrant without reversal."
+    },
+    {
+      "degree": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "left facial rotation retained as face returns toward front; raised pupils and chin",
+      "horizontal_evidence": "left facial rotation retained as face returns toward front",
+      "vertical_evidence": "raised pupils and chin",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    },
+    {
+      "degree": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": "subtle left nose bias and visible right ear; strong raised pupil/chin cue approaching 000",
+      "horizontal_evidence": "subtle left nose bias and visible right ear",
+      "vertical_evidence": "strong raised pupil/chin cue approaching 000",
+      "reason": "Native pose and ordered progression agree with expected axes; cardinals are unambiguous."
+    }
+  ],
+  "cardinals": "All four pass strict-majority isolated blind gates.",
+  "continuity_review": {
+    "alpha_holes": 0,
+    "warnings": [
+      "157.5→180 has more pixel change while returning from down-right to centered down; baseline and attachments remain stable, with modest 5.59px bounding-center change.",
+      "270→292.5 adds upward pitch from left profile; 1px bounding-center change and 1.002 area ratio support stable registration."
+    ],
+    "independent_review": "pass; both outliers accepted as documented coherent yaw/pitch changes, no visible snap"
+  },
+  "independent_reviewed_by": "/root/kallen_final_qa",
+  "independent_visual_qa": "pass"
+}

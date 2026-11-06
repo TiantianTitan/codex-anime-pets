@@ -223,6 +223,7 @@ ARCHIVE_SOURCES = [
     ("von-lycaon", "assets/readme/idle/von-lycaon.webp"),
     ("black-swan", "assets/readme/idle/black-swan.webp"),
     ("wanderer", "assets/readme/idle/wanderer.webp"),
+    ("kallen-kaslana", "assets/readme/idle/kallen-kaslana.webp"),
 ]
 
 
@@ -239,7 +240,7 @@ UNIVERSE_SLUGS = {
     },
     "honkai-3rd": {
         "raiden-mei-2d", "raiden-mei-3d", "kevin-kaslana", "otto-apocalypse",
-        "kiana-kaslana", "fu-hua", "bronya-zaychik", "seele-vollerei", "theresa",
+        "kiana-kaslana", "fu-hua", "bronya-zaychik", "seele-vollerei", "theresa", "kallen-kaslana",
     },
     "zenless": {
         "ellen-joe", "hoshimi-miyabi", "nicole-demara", "jane-doe",
@@ -298,7 +299,7 @@ LOCALES = {
         "arrival_kicker": "COLLECTION UPDATE",
         "arrival_lines": ("NEW", "ARRIVALS"),
         "arrival_available": "NOW AVAILABLE",
-        "arrival_names": ("LYCAON", "BLACK SWAN", "WANDERER"),
+        "arrival_names": ("BLACK SWAN", "WANDERER", "KALLEN"),
         "collection_title": "COMPANION COLLECTION",
         "collection_count": "{characters} CHARACTERS / {editions} EDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "OTHERS"),
@@ -319,7 +320,7 @@ LOCALES = {
         "arrival_kicker": "MISE À JOUR DE LA COLLECTION",
         "arrival_lines": ("NOUVEAUX", "PERSONNAGES"),
         "arrival_available": "DISPONIBLES",
-        "arrival_names": ("LYCAON", "BLACK SWAN", "NOMADE"),
+        "arrival_names": ("BLACK SWAN", "NOMADE", "KALLEN"),
         "collection_title": "COLLECTION DE COMPAGNONS",
         "collection_count": "{characters} PERSONNAGES / {editions} ÉDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "AUTRES"),
@@ -340,7 +341,7 @@ LOCALES = {
         "arrival_kicker": "收藏更新",
         "arrival_lines": ("新角色", "现已加入"),
         "arrival_available": "现已开放下载",
-        "arrival_names": ("莱卡恩", "黑天鹅", "流浪者"),
+        "arrival_names": ("黑天鹅", "流浪者", "卡莲"),
         "collection_title": "角色收藏",
         "collection_count": "{characters} 个角色 / {editions} 个版本",
         "universe_labels": ("原神", "星穹铁道", "崩坏3", "绝区零", "其他"),
@@ -361,7 +362,7 @@ LOCALES = {
         "arrival_kicker": "コレクション更新",
         "arrival_lines": ("新着", "キャラクター"),
         "arrival_available": "配布中",
-        "arrival_names": ("ライカン", "ブラックスワン", "放浪者"),
+        "arrival_names": ("ブラックスワン", "放浪者", "カレン"),
         "collection_title": "キャラクターコレクション",
         "collection_count": "{characters}キャラクター / {editions}エディション",
         "universe_labels": ("原神", "スターレイル", "崩壊3rd", "ゼンレス", "その他"),
@@ -402,10 +403,12 @@ def archive_number_labels() -> list[str]:
     return labels
 
 
-def build_archive_previews() -> None:
+def build_archive_previews(slugs: set[str] | None = None) -> None:
     preview_dir = OUT / "archive-previews"
     preview_dir.mkdir(parents=True, exist_ok=True)
     for slug, source in ARCHIVE_SOURCES:
+        if slugs is not None and slug not in slugs:
+            continue
         palette = UNIVERSE_PALETTES[universe_for_slug(slug)]
         primary = palette["primary"]
         secondary = palette["secondary"]
@@ -765,12 +768,16 @@ def build_hero(locale: str = "en") -> None:
 def build_arrivals(locale: str = "en") -> None:
     copy = LOCALES[locale]
     clips = [
-        (GifClip.open("assets/readme/idle/von-lycaon.webp"), 555, 292, 1.28, 0, copy["arrival_names"][0], (126, 220, 250)),
-        (GifClip.open("assets/readme/idle/black-swan.webp"), 790, 292, 1.28, 360, copy["arrival_names"][1], (194, 132, 255)),
-        (GifClip.open("assets/readme/idle/wanderer.webp"), 1025, 292, 1.28, 720, copy["arrival_names"][2], (103, 222, 203)),
+        (GifClip.open(source), x, 292, 1.28, phase, name, UNIVERSE_PALETTES[universe_for_slug(slug)]["primary"])
+        for (slug, source), x, phase, name in zip(
+            ARCHIVE_SOURCES[-3:], (555, 790, 1025), (0, 360, 720), copy["arrival_names"]
+        )
     ]
+    number_labels = archive_number_labels()
+    number_range = f"{number_labels[-3].zfill(3)} — {number_labels[-1].zfill(3)}"
+    frame_count = max(FRAME_COUNT, math.ceil(max(clip.duration for clip, *_ in clips) / FRAME_MS))
     frames: list[Image.Image] = []
-    for index in range(FRAME_COUNT):
+    for index in range(frame_count):
         canvas = gradient((1200, 330), (8, 12, 32), (46, 19, 40)).convert("RGB")
         draw = ImageDraw.Draw(canvas, "RGBA")
         draw.polygon(((0, 0), (370, 0), (210, 330), (0, 330)), fill=(205, 65, 105, 48))
@@ -783,7 +790,7 @@ def build_arrivals(locale: str = "en") -> None:
         tracking_text(draw, (52, 47), copy["arrival_kicker"], locale_font(locale, 13), (133, 231, 237, 230), 4)
         draw.text((50, 82), copy["arrival_lines"][0], font=locale_font(locale, 54, bold=True), fill=(255, 239, 192), anchor="la")
         draw.text((50, 137), copy["arrival_lines"][1], font=locale_font(locale, 42 if locale == "fr" else 47, bold=True), fill=(255, 239, 192), anchor="la")
-        tracking_text(draw, (53, 211), "044 — 046", font(SANS, 17), (255, 146, 180, 235), 5)
+        tracking_text(draw, (53, 211), number_range, font(SANS, 17), (255, 146, 180, 235), 5)
         tracking_text(draw, (53, 252), copy["arrival_available"], locale_font(locale, 12), (221, 214, 238, 175), 3)
 
         for _, x, _, scale, _, _, color in clips:

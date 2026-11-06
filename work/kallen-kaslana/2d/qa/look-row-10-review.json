@@ -1,0 +1,19 @@
+{
+  "verdict": "pass",
+  "source_sha256": "aa74aa78af5da45844222efc843abcec7de6ea51f068a0d7ea4d93d6d4094b28",
+  "reviewed_by": ["parent", "independent /root/kallen_look10_semantic_check"],
+  "source_family": "one complete generated eight-pose row; no pasted cells or mirroring",
+  "registered_against": "approved row-9 transform scale 0.40993788819875776 and neutral lower-body anchor",
+  "semantics": [
+    {"degree":"180","verdict":"pass","horizontal":"nearly centered","vertical":"lowered pupils/chin","reason":"Readable down, opposing upward cardinal."},
+    {"degree":"202.5","verdict":"pass","horizontal":"subtle left facial axis and nose","vertical":"pupils lowered","reason":"Coherent down with mild screen-left bias."},
+    {"degree":"225","verdict":"pass","horizontal":"nose left of head center and left face turn","vertical":"gaze below level","reason":"Readable down-left."},
+    {"degree":"247.5","verdict":"pass","horizontal":"strong left nose/face rotation","vertical":"slightly lowered chin/pupils","reason":"Predominantly left with down cue."},
+    {"degree":"270","verdict":"pass","horizontal":"unmistakable left-facing profile and pupils","vertical":"approximately level","reason":"Matches the approved left cardinal."},
+    {"degree":"292.5","verdict":"pass","horizontal":"nose projects left, visible ear on right","vertical":"eyes/chin lift","reason":"Left/up, no rightward reversal."},
+    {"degree":"315","verdict":"pass","horizontal":"left nose/rotation retained as face returns toward front","vertical":"pupils raised and chin lifted","reason":"Up-left; head rotation carries the softer horizontal eye cue."},
+    {"degree":"337.5","verdict":"pass","horizontal":"nose subtly left and right ear exposed","vertical":"strong upward pupils/chin","reason":"Near-up with mild left cue, smoothly approaching 000 rather than turning right."}
+  ],
+  "major_repair_required": false,
+  "final_atlas_review": "pending after final despill and validation"
+}

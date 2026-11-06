@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "checks": 35,
+  "findings": [
+    "xiao timing: sprites loaded and controls select mode",
+    "xiao timing: timing uses identical assets; artwork comparison uses actual new pixels",
+    "xiao idle: sprites loaded and controls select mode",
+    "xiao idle: timing uses identical assets; artwork comparison uses actual new pixels",
+    "xiao states: sprites loaded and controls select mode",
+    "xiao states: timing uses identical assets; artwork comparison uses actual new pixels",
+    "dan-heng-imbibitor-lunae timing: sprites loaded and controls select mode",
+    "dan-heng-imbibitor-lunae timing: timing uses identical assets; artwork comparison uses actual new pixels",
+    "dan-heng-imbibitor-lunae idle: sprites loaded and controls select mode",
+    "dan-heng-imbibitor-lunae idle: timing uses identical assets; artwork comparison uses actual new pixels",
+    "dan-heng-imbibitor-lunae states: sprites loaded and controls select mode",
+    "dan-heng-imbibitor-lunae states: timing uses identical assets; artwork comparison uses actual new pixels",
+    "jing-yuan timing: sprites loaded and controls select mode",
+    "jing-yuan timing: timing uses identical assets; artwork comparison uses actual new pixels",
+    "jing-yuan idle: sprites loaded and controls select mode",
+    "jing-yuan idle: timing uses identical assets; artwork comparison uses actual new pixels",
+    "jing-yuan states: sprites loaded and controls select mode",
+    "jing-yuan states: timing uses identical assets; artwork comparison uses actual new pixels",
+    "native working boundary is exactly 2460 ms",
+    "old GIF loop remains working beyond native boundary",
+    "native idle loop is exactly 6600 ms",
+    "keyboard timeline exposes three-cycle fallback difference",
+    "idle comparison hides unrelated state controls",
+    "working-pose exploration is explicitly excluded from the download",
+    "eight-frame failure strip displays all frames",
+    "embedded idle-only package downloads with the correct name",
+    "keyboard tabs switch mode and focus",
+    "dark inspection background toggles",
+    "inspection size toggles",
+    "390px mobile layout has no horizontal overflow",
+    "mobile buttons meet 44px touch height",
+    "reduced motion starts paused",
+    "explicit play remains available with reduced motion",
+    "standalone file loads all three approved candidates without a server",
+    "all download packages contain only the demonstrated idle fix"
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "overflow": [],
+    "targets": []
+  },
+  "timing": {
+    "pre": {
+      "state": "running",
+      "frame": 5,
+      "phase": "action"
+    },
+    "post": {
+      "state": "idle",
+      "frame": 0,
+      "phase": "idle-tail"
+    },
+    "raw": {
+      "state": "running",
+      "frame": 2,
+      "phase": "loop"
+    },
+    "idleEnd": {
+      "state": "idle",
+      "frame": 5,
+      "phase": "idle"
+    },
+    "idleStart": {
+      "state": "idle",
+      "frame": 0,
+      "phase": "idle"
+    }
+  },
+  "downloadScope": "idle-only",
+  "suite": "browser-qa.js",
+  "installationEvidence": "installation-validation.json"
+}

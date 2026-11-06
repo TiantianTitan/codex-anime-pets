@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "sourceCommit": "0a7cb6dea9bdbcc476843bf3f07892f6b47acaa1",
+  "sourcePath": "honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "spriteVersionNumber": 2,
+  "generatedFrames": 12,
+  "editedCells": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      4
+    ],
+    [
+      7,
+      5
+    ]
+  ],
+  "preservedCellCount": 76,
+  "preservedUsedCellCount": 62,
+  "neutralAndDirections": "pixel-identical to approved source",
+  "registration": {
+    "idle": {
+      "sourceUnion": [
+        38,
+        5,
+        153,
+        203
+      ],
+      "targetNeutralBox": [
+        38,
+        5,
+        154,
+        203
+      ],
+      "scale": 1.0,
+      "offset": [
+        37,
+        5
+      ],
+      "method": "one shared scale and baseline per complete row; no anatomy deformation"
+    },
+    "running": {
+      "sourceUnion": [
+        40,
+        5,
+        152,
+        203
+      ],
+      "targetNeutralBox": [
+        38,
+        5,
+        154,
+        203
+      ],
+      "scale": 1.0,
+      "offset": [
+        34,
+        5
+      ],
+      "method": "one shared scale and baseline per complete row; no anatomy deformation"
+    }
+  },
+  "sha256": "05fb2a0a122023f1a06b307dbecb7b9ad106a089835e19de9669345f496b2d85",
+  "visualReview": "pass",
+  "visualReviewNote": "Independent final visual QA passed: identity, open visible eyes, fixed feet, compact two-hand working, no material clipping or loop defects.",
+  "reusedDirectionEvidence": "work/dan-heng-imbibitor-lunae/2d/qa/direction-blind-validation.json"
+}

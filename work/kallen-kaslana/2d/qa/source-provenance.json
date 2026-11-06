@@ -1,0 +1,386 @@
+{
+  "created_at": "2026-11-06T13:16:49.861105+00:00",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "source_sha256": "571ffb55c39cbdbcecf16d01ba4396c6e9280d7ba88960f731239d51f5eb0e8d",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b101-dafc-72e0-b997-437cf18ce2de/exec-606c3f2a-c659-43b5-a12b-c11900a553ea.png",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        }
+      ],
+      "qa_note": "Full-body base approved by worker and parent: stable 2D costume, full braid and boots, correct front-view clips/earring/holster sides; all anatomy inside source."
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "f869d47f3d70bea0dc7d26fce315253717d5a15b8f7ff8c45a315062d44b2448",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b103-77f8-7f53-8681-fd4d8406b0f0/exec-a78d6b96-cf63-4f3b-8a98-5e87d36c1eef.png",
+      "prompt_file": "prompts/rows/idle.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms six full-body poses with both eyes open; component extraction and row inspection pass with no errors or warnings."
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "9029d4d01422e736dcfef732a1d2d5d0edecaddfbfd13bad79f4c66ffc83424a",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b103-a28b-7312-8f60-354fea6bda2a/exec-1528554b-f146-4326-b472-9cd484093d3f.png",
+      "prompt_file": "prompts/rows/running-right.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms eight alternating right-facing poses; component extraction and row inspection pass. Left gait must be independently drawn because clips/braid/earring/holster are asymmetric."
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "04450c083390f880c28b9edab1631a4586758455c7aa41cd25b5cfa66f696eec",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b107-168b-7621-9502-e570beb94013/exec-f6fe7606-b94f-4daa-a28a-53ad985ed60f.png",
+      "prompt_file": "prompts/rows/running-left.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "rightward gait reference for leftward row decision"
+        }
+      ],
+      "qa_note": "Independently generated left gait, not mirrored; worker confirms eight left-facing poses. Component extraction and inspection pass without warnings."
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "55e6f5eee376ddba1a9ccf89bcd6aa54d438a8bb34ab5cdc58cb91bc5affdd62",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b103-c9ea-7d10-840b-61a00518ea45/exec-97095c1f-3061-4bbb-8a83-037475df4781.png",
+      "prompt_file": "prompts/rows/waving.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms four greeting poses, stable identity and complete silhouettes; component extraction and row inspection pass with no errors or warnings."
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "a505759815e896895c96655df8539df8f965355c27ff49dd46bb7137147b0a52",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b105-ac1d-73b1-8641-555d00cd6b07/exec-be263403-2e62-48c8-8717-484cbc0e3b14.png",
+      "prompt_file": "prompts/rows/jumping.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Five-frame real jump arc verified in original strip; stable-slots deliberately preserves vertical motion erased by per-component recentering. Inspection has no errors; explicit stable-slot playback warning to review in contact/previews."
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "52301175bf9ba453c49e33a557e8e355126cd3d3b0d5ab06623445b539f759b8",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b105-d700-7f03-a0d1-73f70f8dd97b/exec-121fb70e-b7cc-46a6-a6e9-19ce21bc3d8d.png",
+      "prompt_file": "prompts/rows/failed.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms eight-frame deflate/recovery sequence; component extraction and inspection pass with no errors or warnings."
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "67a3c091fa1c32a35c1fad4f976ca8d7bd882cd8b525d4c4e96f101e8a593fd2",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b106-0108-7172-b07c-0100d5ec0ef1/exec-1df3c55d-299f-4389-a3be-8e77222bf06e.png",
+      "prompt_file": "prompts/rows/waiting.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms six complete expectant open-palm poses; component extraction and inspection pass with no errors or warnings."
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "569bcfb97fc86ae3fc0187501a2445fa316846b8427f499e086f71b1fbbf5d2c",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b108-3209-7341-92cf-de546fc6ce44/exec-0f81b23e-bba6-418b-b53a-b7eaf1b7d947.png",
+      "prompt_file": "prompts/rows/running.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms six standing work/processing gestures, planted feet and purposeful gaze; no locomotion. Component extraction and inspection pass with no errors or warnings."
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_sha256": "2d7221289366819f49d3eaf93e5f6e1308a1d8b5133053a843e2106f9c8b2eb7",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b108-61de-7ce1-8aed-78905e759519/exec-0e7ae0c9-0020-41e3-a7be-7f3fd9551b9e.png",
+      "prompt_file": "prompts/rows/review.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "qa_note": "Worker confirms six chin-touching/downward inspection poses and nod; component extraction and inspection pass with no errors or warnings."
+    },
+    {
+      "id": "look-cardinals",
+      "kind": "look-cardinal-strip",
+      "status": "complete",
+      "source_sha256": "ad0d4880f204e5d4749a87cf232373088afc9ada2212c1af7d3936d02c6fb721",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b110-4ea9-7e83-afda-56cfe6b63cc5/exec-362ec2a7-5c0e-4869-bf7d-945e1415b50c.png",
+      "prompt_file": "prompts/look-cardinals.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/look-cardinals.png",
+          "role": "layout guide for four cardinal slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        }
+      ],
+      "qa_note": "Extracted four anchors passed parent native-size semantics: lifted pupils/chin up, nose/pupils right, lowered pupils/chin down, nose/pupils left. Same identity with planted feet. Chroma is deferred to final v2 pass."
+    },
+    {
+      "id": "look-row-9",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "source_sha256": "1f1bf89d00cddaed0f0c518db07a8ec4164cdcf1e890fe7a6bc99252e46f462c",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b112-4f95-74c3-9191-a4064c9d3fa3/exec-82831cc2-6925-492a-bb4c-9f32e5b51aae.png",
+      "prompt_file": "prompts/rows/look-row-9.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/look-row-9.png",
+          "role": "layout guide for 8 direction slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+        }
+      ],
+      "qa_note": "Eight coherent 000..157.5 poses registered once at scale 0.40993788819875776, passed post-registration edge checks and parent native semantic/adjacent continuity review. Evidence qa/look-row-9-review.json."
+    },
+    {
+      "id": "look-row-10",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "source_sha256": "aa74aa78af5da45844222efc843abcec7de6ea51f068a0d7ea4d93d6d4094b28",
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b115-60db-7042-8d33-c9ec78240f7b/exec-d83da25e-3114-43ba-b676-d11d798d67c1.png",
+      "prompt_file": "prompts/rows/look-row-10.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.jpeg",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/reference-02.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/look-row-10.png",
+          "role": "layout guide for 8 direction slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+        },
+        {
+          "path": "decoded/look-row-9.png",
+          "role": "completed first half of the clockwise look loop for row 10 continuity"
+        }
+      ],
+      "qa_note": "Complete coherent row retained after independent source/anchor review confirmed all eight directions; initial worker misclassified the final left-to-up transition. Native assembled QA confirms coherent quadrants and registration; final independent/blind atlas QA remains mandatory."
+    }
+  ],
+  "completed_at": "2026-11-06T13:53:16Z",
+  "generation_skill": "$imagegen built-in",
+  "editions": [
+    "2d"
+  ],
+  "final_atlas_sha256": "4f10acef0611d2455515c90e94eac2c74578ce35a0e39edfebb8af212ce314b1",
+  "generated_job_count": 13,
+  "source_frame_mapping": "All standard rows use left-to-right generated component order; jump uses reviewed stable slots. Each look row is one coherent eight-pose source; row9 transform persisted and reused unchanged by row10.",
+  "user_originals": "All eight preserved under references/source-originals/; ignored by Git.",
+  "cleanup_policy": "After approval keep final files, source hashes, identity lock, per-row extraction metadata, contacts, direction evidence, previews and validation. Disposable source strips/frames/prompts are recoverably moved to trash."
+}

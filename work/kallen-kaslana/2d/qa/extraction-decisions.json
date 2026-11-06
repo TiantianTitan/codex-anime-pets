@@ -1,0 +1,17 @@
+{
+  "jumping": {
+    "source_sha256": "a505759815e896895c96655df8539df8f965355c27ff49dd46bb7137147b0a52",
+    "source_review": "Original complete strip shows crouch, ascent, apex, descent and landing at one shared camera scale, with separated unclipped silhouettes.",
+    "initial_method": "components",
+    "initial_problem": "All five extracted alpha bounding boxes occupied y=5..203; independent fit-to-cell erased the genuine vertical arc and changed crouch scale.",
+    "chosen_method": "stable-slots",
+    "reason": "Preserve original row viewport, one camera scale and true vertical displacement instead of generating new art for an extraction fault.",
+    "structural_result": "pass",
+    "visual_playback_review": "Intermediate sequence passes: foot baselines 203,190,164,181,203 preserve ascent/apex/descent. Final independent native-size review remains required."
+  },
+  "running-left": {
+    "method": "independent generated complete strip",
+    "mirror_allowed": false,
+    "reason": "Asymmetric clips, braid, earring, jacket details and holster must stay on their real anatomical sides."
+  }
+}

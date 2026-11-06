@@ -1,0 +1,218 @@
+{
+  "cells": [
+    {
+      "index": 0,
+      "bbox": [
+        45,
+        5,
+        135,
+        203
+      ]
+    },
+    {
+      "index": 1,
+      "bbox": [
+        43,
+        5,
+        135,
+        203
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        41,
+        5,
+        135,
+        203
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        41,
+        5,
+        134,
+        203
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        41,
+        6,
+        134,
+        203
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        41,
+        6,
+        132,
+        203
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        40,
+        8,
+        130,
+        203
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        41,
+        11,
+        131,
+        203
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "pair": [
+        0,
+        1
+      ],
+      "firstPixels": 11050,
+      "secondPixels": 10904,
+      "diffPixels": 1726,
+      "centerDelta": 1,
+      "areaRatio": 1.0133895818048422
+    },
+    {
+      "pair": [
+        1,
+        2
+      ],
+      "firstPixels": 10904,
+      "secondPixels": 10871,
+      "diffPixels": 1434,
+      "centerDelta": 1,
+      "areaRatio": 1.0030355993008924
+    },
+    {
+      "pair": [
+        2,
+        3
+      ],
+      "firstPixels": 10871,
+      "secondPixels": 10651,
+      "diffPixels": 1592,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0206553375269927
+    },
+    {
+      "pair": [
+        3,
+        4
+      ],
+      "firstPixels": 10651,
+      "secondPixels": 10379,
+      "diffPixels": 1692,
+      "centerDelta": 0.5,
+      "areaRatio": 1.026206763657385
+    },
+    {
+      "pair": [
+        4,
+        5
+      ],
+      "firstPixels": 10379,
+      "secondPixels": 10174,
+      "diffPixels": 1556,
+      "centerDelta": 1,
+      "areaRatio": 1.020149400432475
+    },
+    {
+      "pair": [
+        5,
+        6
+      ],
+      "firstPixels": 10174,
+      "secondPixels": 9866,
+      "diffPixels": 1644,
+      "centerDelta": 1.8027756377319946,
+      "areaRatio": 1.031218325562538
+    },
+    {
+      "pair": [
+        6,
+        7
+      ],
+      "firstPixels": 9866,
+      "secondPixels": 9800,
+      "diffPixels": 1548,
+      "centerDelta": 1.8027756377319946,
+      "areaRatio": 1.006734693877551
+    }
+  ],
+  "scope": "row9 registered native cells, before final chroma cleanup",
+  "verdict": "pass",
+  "reviewed_by": "parent",
+  "source_sha256": "1f1bf89d00cddaed0f0c518db07a8ec4164cdcf1e890fe7a6bc99252e46f462c",
+  "registration_scale": 0.40993788819875776,
+  "semantics": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "Lifted pupils/chin, visible lower face and upward eye aim.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Strong upward eyes, small rightward facial yaw.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Upward blue gaze with nose/face clearly turning right.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Predominantly right head yaw, still raised eye/chin cue.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "Right-facing nose and pupils at level eye line.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Right-facing nose with slight lowered gaze and chin.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Lowered eyes/chin retain rightward head turn.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Mostly lowered chin/gaze with remaining rightward nose/eye cue.",
+      "reason": "Native ordered family retains intended axes and progresses clockwise without a visible snap."
+    }
+  ]
+}

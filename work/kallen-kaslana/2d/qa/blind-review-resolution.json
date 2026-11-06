@@ -1,0 +1,16 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "scope": "row-10 generating-worker uncertainty, before final blinded reviews",
+  "failed_checks": ["Generating worker described final three source poses as screen-right/up."],
+  "evidence": ["Independent /root/kallen_look10_semantic_check compared all eight source poses with actual LEFT/UP/DOWN anchor images and found no wrong quadrant.", "292.5 retains left-projecting nose with raised eyes/chin; 315 retains left facial yaw with upward gaze; 337.5 becomes near-frontal up with subtle left nose cue and right ear exposure.", "Parent native labeled assembled direction sheet confirms a continuous left-to-up transition, unchanged foot baseline and no reversal."],
+  "reason": "The initial description was not supported by the visible nose/head geometry. Soft near-vertical horizontal cues are review uncertainty, not a major direction error. No pixels were patched, mirrored or redrawn to override the report.",
+  "cardinal_failure_overridden": false,
+  "final_atlas_sha256": "4f10acef0611d2455515c90e94eac2c74578ce35a0e39edfebb8af212ce314b1",
+  "final_blind_result": "ok true; both cardinal pairs pass strict majority; no hard errors",
+  "final_blind_minor_checks": ["135 horizontal cue", "157.5 and 202.5 near-down horizontal cues", "067.5 slight upward cue", "292.5 slight upward cue"],
+  "final_labeled_resolution": "Native labeled ordered poses preserve their face/nose yaw and eye/chin pitch in the expected quadrants. These are softer secondary axes in intermediate poses; no cardinal, labeled wrong-quadrant pose or loop reversal is waived.",
+  "continuity_resolution": "Two pixel-diff outliers at 157.5→180 and 270→292.5 correspond to coherent yaw/pitch changes with planted baselines, intact attachments and no alpha holes; independent final visual review still required.",
+  "final_blind_and_visual_qa": "three blind reviews completed; independent /root/kallen_final_qa approved final atlas hash and accepted these minor warnings; no repair rows"
+}

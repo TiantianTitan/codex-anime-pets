@@ -1,0 +1,64 @@
+{
+  "visual_qa": "pass",
+  "verdict": "pass",
+  "atlas_sha256": "4f10acef0611d2455515c90e94eac2c74578ce35a0e39edfebb8af212ce314b1",
+  "reviewed_by": "independent /root/kallen_final_qa",
+  "review_model": "gpt-6.1-sol",
+  "scope": "complete new 2D v2 pet, final cleaned atlas, native frame sequences and ordered seams",
+  "qa_note": "All native frames and ordered seams reviewed. White dress, black/red jacket, blue eyes and silver braid remain consistent. No major clipping, debris, holes, identity damage or scale pop. All ten WebP previews decode to exact atlas pixels and reported timings. Final v2 validation and despill reports pass.",
+  "standard_states": {
+    "idle": {
+      "verdict": "pass",
+      "note": "Six open-eye quiet facial/jacket/braid variations, planted feet, close seam."
+    },
+    "running-right": {
+      "verdict": "pass",
+      "note": "Eight right-facing alternating gait poses."
+    },
+    "running-left": {
+      "verdict": "pass",
+      "note": "Eight independently drawn left-facing alternating gait poses with identity retained."
+    },
+    "waving": {
+      "verdict": "pass",
+      "note": "Four attached-hand greeting poses, lift and return."
+    },
+    "jumping": {
+      "verdict": "pass",
+      "note": "Five intact silhouettes, crouch/lift/apex/descent/settle, alpha-bottom arc 203,190,164,181,203; no extraction clipping."
+    },
+    "failed": {
+      "verdict": "pass",
+      "note": "Eight-frame readable downcast slump and recovery."
+    },
+    "waiting": {
+      "verdict": "pass",
+      "note": "Six expectant open-hand requesting poses."
+    },
+    "running": {
+      "verdict": "pass",
+      "note": "Six standing focused-thinking poses, not foot-running."
+    },
+    "review": {
+      "verdict": "pass",
+      "note": "Six inspecting glance/chin-gesture poses, distinct from waiting and working."
+    }
+  },
+  "direction_semantics": "All sixteen independently reviewed; see direction-semantics.json. All four cardinals pass, matching hard blind gates; no wrong quadrant or reversal.",
+  "preview_review": {
+    "count": 10,
+    "source_and_timeline_exact": true,
+    "idle": "6600 ms measured compatibility schedule for Desktop 26.1007.21434",
+    "other_states": "source-table timing only, no client repeat-limit claim",
+    "look_loop": "180ms/direction for QA inspection, not client pointer timing"
+  },
+  "accepted_warnings": [
+    "Secondary-axis cues at 067.5,135,157.5,202.5,292.5 are subtle in isolated blind cells; native labeled ordered-family review confirms intended axes.",
+    "157.5→180 is a larger yaw-to-centered-down pixel change, with 5.59px bounding-center change; no visible registration snap, baseline loss or attachment damage.",
+    "270→292.5 pitch change has 1px center change and 1.002 area ratio; coherent left-to-up progression.",
+    "Jump stable-slot warning resolved by intact native silhouettes and preserved airborne arc."
+  ],
+  "repair_rows": [],
+  "repair_notes": [],
+  "pixel_edits_after_approval_allowed": false
+}

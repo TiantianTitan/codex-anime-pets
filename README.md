@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>46 CHARACTERS</code>
-  <code>47 EDITIONS</code>
+  <code>47 CHARACTERS</code>
+  <code>48 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=46" width="100%" alt="Animated new arrivals showcase with Lycaon, Black Swan, and Wanderer">
+  <img src="assets/readme/new-arrivals-stage.webp?v=47" width="100%" alt="Animated new arrivals showcase with Black Swan, Wanderer, and Kallen">
 </p>
 
 <p align="center">
-  <a href="#character-44-von-lycaon"><kbd>Lycaon</kbd></a>
   <a href="#character-45-black-swan"><kbd>Black Swan</kbd></a>
   <a href="#character-46-wanderer"><kbd>Wanderer</kbd></a>
+  <a href="#character-47-kallen-kaslana"><kbd>Kallen</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=46" width="100%" alt="Complete Codex Anime Pets collection wall with 46 characters and 47 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=47" width="100%" alt="Complete Codex Anime Pets collection wall with 47 characters and 48 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,13 +82,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 13</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 12</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 8</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 46 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 47 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -355,12 +355,17 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>46</sub><br>
       <a href="#character-46-wanderer"><img src="assets/readme/idle/wanderer.webp" width="155" alt="Wanderer idle animation"></a><br>
       <b>「 Wanderer 」</b><br>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="top" width="33%">
+      <sub>47</sub><br>
+      <a href="#character-47-kallen-kaslana"><img src="assets/readme/idle/kallen-kaslana.webp" width="155" alt="Kallen idle animation"></a><br>
+      <b>「 Kallen 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1404,6 +1409,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-47-kallen-kaslana" name="character-47-kallen-kaslana"></a>
+<details>
+<summary><b>47 · Kallen</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kallen-kaslana.webp" width="190" alt="Kallen idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> a silver-white braid, blue eyes, cross-shaped hair clips, a white pleated dress and a black jacket with red trim<br>
+      <b>Mood:</b> Calm and quick to smile.<br><br>
+      <a href="honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/kallen-kaslana/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/kallen-kaslana/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1457,7 +1484,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 8 characters / 9 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 9 characters / 10 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1470,6 +1497,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Bronya | 2D | `bronya-zaychik` | [Download ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 | Seele Vollerei | 2D | `seele-vollerei` | [Download ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | Theresa | 2D | `theresa` | [Download ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
+| Kallen | 2D | `kallen-kaslana` | [Download ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1532,11 +1560,11 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 47 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 48 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 
-2026-11-06: All 47 editions were checked against slow desktop idle playback. Prolonged closed-eye holds were fixed in 45; Venti and Ellen retain their original idle. Other states, neutral, all 16 look directions, IDs, and the v2 format are preserved.
+2026-11-06 batch: 47 existing editions were checked against slow desktop idle playback. Prolonged closed-eye holds were fixed in 45; Venti and Ellen retain their original idle. Other states, neutral, all 16 look directions, IDs, and the v2 format are preserved.
 
 [View edition coverage and the offline HTML comparison](docs/pet-compatibility-2026-11-06.md).
 

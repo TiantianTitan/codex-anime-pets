@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>46 个角色</code>
-  <code>47 个版本</code>
+  <code>47 个角色</code>
+  <code>48 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=46" width="100%" alt="莱卡恩、黑天鹅和流浪者的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=47" width="100%" alt="黑天鹅、流浪者和卡莲的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-44-von-lycaon"><kbd>莱卡恩</kbd></a>
   <a href="#character-45-black-swan"><kbd>黑天鹅</kbd></a>
   <a href="#character-46-wanderer"><kbd>流浪者</kbd></a>
+  <a href="#character-47-kallen-kaslana"><kbd>卡莲</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=46" width="100%" alt="包含四十六位角色、四十七个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=47" width="100%" alt="包含四十七位角色、四十八个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 13</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 12</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 8</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 9</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 10</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 46 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 47 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -353,12 +353,17 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <sub>46</sub><br>
       <a href="#character-46-wanderer"><img src="assets/readme/idle/wanderer.webp" width="155" alt="流浪者的待机动画"></a><br>
       <b>「 流浪者 」</b><br>
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="top" width="33%">
+      <sub>47</sub><br>
+      <a href="#character-47-kallen-kaslana"><img src="assets/readme/idle/kallen-kaslana.webp" width="155" alt="卡莲的待机动画"></a><br>
+      <b>「 卡莲 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图，孵化新的伙伴</sub>
@@ -1402,6 +1407,28 @@
 
 </details>
 
+<a id="character-47-kallen-kaslana" name="character-47-kallen-kaslana"></a>
+<details>
+<summary><b>47 · 卡莲</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/kallen-kaslana.webp" width="190" alt="卡莲的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>标志细节：</b> 银白长辫、蓝眼睛和十字发饰，搭配白色百褶裙与黑红外套<br>
+      <b>性格：</b> 神情温和，打招呼时会轻轻挥手。<br><br>
+      <a href="honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/kallen-kaslana/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/kallen-kaslana/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1455,7 +1482,7 @@
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>崩坏3</b> · 8 位角色 / 9 个版本　<kbd>展开</kbd></summary>
+<summary><b>崩坏3</b> · 9 位角色 / 10 个版本　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1468,6 +1495,7 @@
 | 布洛妮娅 | 2D | `bronya-zaychik` | [下载 ZIP](honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip) |
 | 希儿 | 2D | `seele-vollerei` | [下载 ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | 德丽莎 | 2D | `theresa` | [下载 ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
+| 卡莲 | 2D | `kallen-kaslana` | [下载 ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1530,11 +1558,11 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 47 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 48 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 
-2026-11-06：已检查全部 47 个版本的慢速待机，修复其中 45 个版本的长时间闭眼；温迪和艾莲保留原待机。其他状态、neutral 与 16 个观察方向保持原版，ID 和 v2 格式不变。
+2026-11-06 批次：检查了当时已有的 47 个版本的慢速待机，修复其中 45 个版本的长时间闭眼；温迪和艾莲保留原待机。其他状态、neutral 与 16 个观察方向保持原版，ID 和 v2 格式不变。
 
 [查看逐角色修复记录与离线 HTML 对比](docs/pet-compatibility-2026-11-06.md)。
 

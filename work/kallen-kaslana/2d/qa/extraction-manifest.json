@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/idle/05.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/idle.png",
+      "source_sha256": "f869d47f3d70bea0dc7d26fce315253717d5a15b8f7ff8c45a315062d44b2448"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-right/07.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/running-right.png",
+      "source_sha256": "9029d4d01422e736dcfef732a1d2d5d0edecaddfbfd13bad79f4c66ffc83424a"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running-left/07.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/running-left.png",
+      "source_sha256": "04450c083390f880c28b9edab1631a4586758455c7aa41cd25b5cfa66f696eec"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waving/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waving/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waving/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waving/03.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/waving.png",
+      "source_sha256": "55e6f5eee376ddba1a9ccf89bcd6aa54d438a8bb34ab5cdc58cb91bc5affdd62"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/jumping/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/jumping/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/jumping/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/jumping/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/jumping/04.png"
+      ],
+      "method": "stable-slots",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/jumping.png",
+      "source_sha256": "a505759815e896895c96655df8539df8f965355c27ff49dd46bb7137147b0a52"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/failed/07.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/failed.png",
+      "source_sha256": "52301175bf9ba453c49e33a557e8e355126cd3d3b0d5ab06623445b539f759b8"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/waiting/05.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/waiting.png",
+      "source_sha256": "67a3c091fa1c32a35c1fad4f976ca8d7bd882cd8b525d4c4e96f101e8a593fd2"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/running/05.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/running.png",
+      "source_sha256": "569bcfb97fc86ae3fc0187501a2445fa316846b8427f499e086f71b1fbbf5d2c"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/frames/review/05.png"
+      ],
+      "method": "components",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/decoded/review.png",
+      "source_sha256": "2d7221289366819f49d3eaf93e5f6e1308a1d8b5133053a843e2106f9c8b2eb7"
+    }
+  ]
+}

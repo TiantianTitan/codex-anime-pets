@@ -1,0 +1,89 @@
+{
+  "ok": true,
+  "total_checked_links": 1233,
+  "readmes": [
+    {
+      "file": "README.md",
+      "checked_links": 364,
+      "characters": 47,
+      "editions": 48,
+      "archive_entries": 47,
+      "gallery_last_row_columns": 3,
+      "honkai_3rd_editions": 10
+    },
+    {
+      "file": "README.fr.md",
+      "checked_links": 364,
+      "characters": 47,
+      "editions": 48,
+      "archive_entries": 47,
+      "gallery_last_row_columns": 3,
+      "honkai_3rd_editions": 10
+    },
+    {
+      "file": "README.zh-CN.md",
+      "checked_links": 364,
+      "characters": 47,
+      "editions": 48,
+      "archive_entries": 47,
+      "gallery_last_row_columns": 3,
+      "honkai_3rd_editions": 10
+    },
+    {
+      "file": "README.ja.md",
+      "checked_links": 141,
+      "characters": 47,
+      "editions": 48,
+      "archive_entries": 0,
+      "gallery_last_row_columns": 3,
+      "honkai_3rd_editions": 10
+    }
+  ],
+  "assets": [
+    {
+      "locale": "en",
+      "arrival_frames": 16,
+      "arrival_duration_ms": 6600,
+      "wall_size": [
+        1200,
+        1772
+      ]
+    },
+    {
+      "locale": "fr",
+      "arrival_frames": 16,
+      "arrival_duration_ms": 6600,
+      "wall_size": [
+        1200,
+        1772
+      ]
+    },
+    {
+      "locale": "zh-CN",
+      "arrival_frames": 16,
+      "arrival_duration_ms": 6600,
+      "wall_size": [
+        1200,
+        1772
+      ]
+    },
+    {
+      "locale": "ja",
+      "arrival_frames": 16,
+      "arrival_duration_ms": 6600,
+      "wall_size": [
+        1200,
+        1772
+      ]
+    }
+  ],
+  "archive_card_size": [
+    220,
+    240
+  ],
+  "silhouette_height": 198,
+  "baseline": 220,
+  "other_existing_showcase_assets_unchanged": true,
+  "idle_from_exact_final_preview": true,
+  "approved_product_unchanged": true
+}

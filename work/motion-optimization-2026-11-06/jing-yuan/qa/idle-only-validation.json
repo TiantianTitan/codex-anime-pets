@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "scope": "idle-only",
+  "sourceCommit": "0a7cb6dea9bdbcc476843bf3f07892f6b47acaa1",
+  "editedCells": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "preservedCellCount": 82,
+  "preservedUsedCellCount": 68,
+  "visualReview": "pass",
+  "visualReviewSource": "Six idle cells reused byte-for-byte from the previously approved candidate.",
+  "workingRow": "pixel-identical to original release",
+  "sha256": "5b5d92b820369d31883c93c004ffdce843b2d7eb2b65e9591a8e545ebbe315ad"
+}

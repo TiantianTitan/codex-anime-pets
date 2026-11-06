@@ -1,0 +1,36 @@
+{
+  "atlas_sha256": "4f10acef0611d2455515c90e94eac2c74578ce35a0e39edfebb8af212ce314b1",
+  "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/final/spritesheet-extended.webp",
+  "preview": "/home/ubuntu23/Bureau/codex-anime-pets/work/kallen-kaslana/2d/qa/previews-final/look-directions.webp",
+  "cell_size": [
+    192,
+    208
+  ],
+  "direction_order_degrees": [
+    0.0,
+    22.5,
+    45.0,
+    67.5,
+    90.0,
+    112.5,
+    135.0,
+    157.5,
+    180.0,
+    202.5,
+    225.0,
+    247.5,
+    270.0,
+    292.5,
+    315.0,
+    337.5
+  ],
+  "timing_basis": "180 ms per direction for ordered QA inspection only; no claim about client pointer scheduling",
+  "verification": {
+    "ok": true,
+    "total_duration_ms": 2880,
+    "encoded_frames": 16,
+    "interval_samples": 16,
+    "complete_alpha_exact": true,
+    "visible_rgba_exact": true
+  }
+}
