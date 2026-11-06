@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>47 CHARACTERS</code>
-  <code>48 EDITIONS</code>
+  <code>48 CHARACTERS</code>
+  <code>49 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=47" width="100%" alt="Animated new arrivals showcase with Black Swan, Wanderer, and Kallen">
+  <img src="assets/readme/new-arrivals-stage.webp?v=48" width="100%" alt="Animated new arrivals showcase with Wanderer, Kallen, and Jingliu">
 </p>
 
 <p align="center">
-  <a href="#character-45-black-swan"><kbd>Black Swan</kbd></a>
   <a href="#character-46-wanderer"><kbd>Wanderer</kbd></a>
   <a href="#character-47-kallen-kaslana"><kbd>Kallen</kbd></a>
+  <a href="#character-48-jingliu"><kbd>Jingliu</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=47" width="100%" alt="Complete Codex Anime Pets collection wall with 47 characters and 48 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=48" width="100%" alt="Complete Codex Anime Pets collection wall with 48 characters and 49 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,14 +81,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 13</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 12</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 47 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 48 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -365,7 +365,14 @@
       <a href="#character-47-kallen-kaslana"><img src="assets/readme/idle/kallen-kaslana.webp" width="155" alt="Kallen idle animation"></a><br>
       <b>「 Kallen 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>48</sub><br>
+      <a href="#character-48-jingliu"><img src="assets/readme/idle/jingliu.webp" width="155" alt="Jingliu idle animation"></a><br>
+      <b>「 Jingliu 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1431,6 +1438,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-48-jingliu" name="character-48-jingliu"></a>
+<details>
+<summary><b>48 · Jingliu</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/jingliu.webp" width="190" alt="Jingliu idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> silver-white hair, red eyes, a navy-and-white dress, a red hip ribbon and an ice-blue sword<br>
+      <b>Mood:</b> Quiet and watchful, with an unhurried gaze.<br><br>
+      <a href="honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/jingliu/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/jingliu/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1463,7 +1492,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai: Star Rail</b> · 12 companions　<kbd>Open</kbd></summary>
+<summary><b>Honkai: Star Rail</b> · 13 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1479,6 +1508,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Kafka | 2D | `kafka` | [Download ZIP](honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip) |
 | Sparkle | 2D | `sparkle` | [Download ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 | Black Swan | 2D | `black-swan` | [Download ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
+| Jingliu | 2D | `jingliu` | [Download ZIP](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1560,7 +1590,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 48 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 49 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 

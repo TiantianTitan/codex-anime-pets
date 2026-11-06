@@ -1,0 +1,57 @@
+{
+  "ok": true,
+  "checked_at": "2026-11-06 17:23:39 UTC",
+  "post_cleanup_recheck": true,
+  "git_ignored_all": true,
+  "originals": [
+    {
+      "path": "references/source-originals/Jingliu",
+      "sha256": "c0de60ead0fedcda63f2ac60be2673b44f7abb6dd7763ed7e69d54e977361a7a",
+      "original_sha256": "c0de60ead0fedcda63f2ac60be2673b44f7abb6dd7763ed7e69d54e977361a7a",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu2.webp",
+      "sha256": "1fd71b3e951b17d85b18dbfb21dd402d077d5ad2a9729671916f0c8888c8030e",
+      "original_sha256": "1fd71b3e951b17d85b18dbfb21dd402d077d5ad2a9729671916f0c8888c8030e",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu3.png",
+      "sha256": "4043eadd37366e4d3495814beac9c9d1ef970efd9c41bbb6bc21afefd6ee9fde",
+      "original_sha256": "4043eadd37366e4d3495814beac9c9d1ef970efd9c41bbb6bc21afefd6ee9fde",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu4.avif",
+      "sha256": "f1cb15c5fe8b79645d02f26d34b8b4a1fd5d77400ee7db72451de79d39b4591f",
+      "original_sha256": "f1cb15c5fe8b79645d02f26d34b8b4a1fd5d77400ee7db72451de79d39b4591f",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu5.jpeg",
+      "sha256": "c91a4790f45f37f3a8b7922c3298b1ee4fd325cb50ee27266e272a965679b550",
+      "original_sha256": "c91a4790f45f37f3a8b7922c3298b1ee4fd325cb50ee27266e272a965679b550",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu6.jpg",
+      "sha256": "960af5d026338b1e8433310fe36f3828025fd2d49e7426ed8c9e5c5e6e6c24d8",
+      "original_sha256": "960af5d026338b1e8433310fe36f3828025fd2d49e7426ed8c9e5c5e6e6c24d8",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu7.jpeg",
+      "sha256": "0a2deb3f1b9378ad4946dba322045ec513b402eb5a5f7ea2da2c7d82c351629b",
+      "original_sha256": "0a2deb3f1b9378ad4946dba322045ec513b402eb5a5f7ea2da2c7d82c351629b",
+      "unchanged": true
+    },
+    {
+      "path": "references/source-originals/Jingliu8.png",
+      "sha256": "4063d509c86c85d22a5096b36ebf125b311ab193993cfe412db3d039d52a15f5",
+      "original_sha256": "4063d509c86c85d22a5096b36ebf125b311ab193993cfe412db3d039d52a15f5",
+      "unchanged": true
+    }
+  ],
+  "storage": "Moved byte-for-byte from product directory; retained locally, references ignored by Git"
+}

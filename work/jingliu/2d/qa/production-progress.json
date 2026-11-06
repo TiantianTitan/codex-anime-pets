@@ -1,0 +1,36 @@
+{
+  "character": "jingliu",
+  "edition": "2d",
+  "status": "complete",
+  "stage": "delivered-and-validated",
+  "started_at": "2026-11-06T15:43:05.607721+00:00",
+  "updated_at": "2026-11-06T17:23:39Z",
+  "completed_at": "2026-11-06T17:23:39Z",
+  "elapsed_wall_seconds": 6033,
+  "completed_jobs": [
+    "base",
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review",
+    "look-cardinals",
+    "look-row-9",
+    "look-row-10"
+  ],
+  "pending_jobs": [],
+  "target_client": "Codex Desktop 26.1007.21434",
+  "background_checks_only": true,
+  "notes": [
+    "Final independent visual review passed and is bound to the delivered atlas SHA256",
+    "Delivered directory and ZIP pass temporary CODEX_HOME install-layout validation; no live-client installation or playback test",
+    "All 57 standard and 16 look source frames remain reconstructible after recoverable cleanup",
+    "Five subtle intermediate direction cues accepted with parent and independent native-size evidence; no cardinal or major failure remains",
+    "All eight original user references remain byte-identical and Git-ignored after cleanup",
+    "No installation, repository README update, commit or push performed"
+  ]
+}

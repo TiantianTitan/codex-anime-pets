@@ -1,0 +1,143 @@
+{
+  "ok": true,
+  "errors": [],
+  "readmes": [
+    {
+      "file": "README.md",
+      "checked_local_links": 372,
+      "characters": 48,
+      "editions": 49,
+      "archive_entries": 48,
+      "star_rail_packages": 13,
+      "latest_gallery_row": [
+        46,
+        47,
+        48
+      ],
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.fr.md",
+      "checked_local_links": 372,
+      "characters": 48,
+      "editions": 49,
+      "archive_entries": 48,
+      "star_rail_packages": 13,
+      "latest_gallery_row": [
+        46,
+        47,
+        48
+      ],
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.zh-CN.md",
+      "checked_local_links": 372,
+      "characters": 48,
+      "editions": 49,
+      "archive_entries": 48,
+      "star_rail_packages": 13,
+      "latest_gallery_row": [
+        46,
+        47,
+        48
+      ],
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.ja.md",
+      "checked_local_links": 145,
+      "characters": 48,
+      "editions": 49,
+      "archive_entries": 0,
+      "star_rail_packages": 13,
+      "latest_gallery_row": [
+        46,
+        47,
+        48
+      ],
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    }
+  ],
+  "assets": [
+    {
+      "locale": "en",
+      "arrival_names": [
+        "WANDERER",
+        "KALLEN",
+        "JINGLIU"
+      ],
+      "arrivals_sha256": "43a9de64a1bc8abd0cc224dc63f71be059d35c7e7883bd33c9871199fec02005",
+      "wall_sha256": "6f35f760fdb344b565cc17535c527cc343ddf5679f337956d9f0147d37f75340",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "fr",
+      "arrival_names": [
+        "NOMADE",
+        "KALLEN",
+        "JINGLIU"
+      ],
+      "arrivals_sha256": "ccbb5dd1c1f902798edfb69d0680b287690dd3b620d70836673b5a44a0a71ce5",
+      "wall_sha256": "a70ee59060db195c85280aa0d20f04f4ff940a46c2fc2a511921fe6193862e16",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "zh-CN",
+      "arrival_names": [
+        "流浪者",
+        "卡莲",
+        "镜流"
+      ],
+      "arrivals_sha256": "43e40649413d8d2c2025926ea4776742b5b95c8c44eb5393497022e9dafaaabf",
+      "wall_sha256": "fd52a113429bba08b7d681c68befec27c9ae1344ee3ed2a1a643e54ecd9dfe7d",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "ja",
+      "arrival_names": [
+        "放浪者",
+        "カレン",
+        "鏡流"
+      ],
+      "arrivals_sha256": "5b2b282d997733b95c34c991613c46245c7bf7d861084fb24519bd2ef9557263",
+      "wall_sha256": "bfb76e8f1c8dd26952561c271f7350504286a5a59d893c17c565bb26bfb2c7ed",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    }
+  ],
+  "total_checked_local_links": 1261,
+  "protected_existing_assets_unchanged": 119,
+  "idle_final_atlas_pixel_check": true,
+  "archive_card_size": [
+    220,
+    240
+  ],
+  "silhouette_height": 198,
+  "baseline": 220,
+  "background_only": true,
+  "browser_scope": "Separate headless local Markdown approximation, not a live GitHub render"
+}
