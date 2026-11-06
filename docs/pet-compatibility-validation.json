@@ -1,0 +1,1594 @@
+{
+  "date": "2026-11-06",
+  "baseline": "0a7cb6dea9bdbcc476843bf3f07892f6b47acaa1",
+  "clientVersion": "26.1007.21434",
+  "totalVersions": 47,
+  "idleChangedVersions": 45,
+  "unchangedIdleIds": [
+    "venti",
+    "ellen-joe"
+  ],
+  "repackedVersions": 47,
+  "removedWrappingFolders": 28,
+  "originalAtlasFrameReuseVersions": 41,
+  "originalSourceReextractionVersions": 1,
+  "previouslyReviewedIdleArtworkVersions": 3,
+  "preservedNonIdleCellsPerVersion": 82,
+  "atlasValidation": "47/47 pass",
+  "independentVisualReview": "47/47 pass",
+  "browserChecks": 105,
+  "finalReleaseChecks": 378,
+  "updatedChecksumFiles": 16,
+  "previewDurationMs": 6600,
+  "notes": [
+    "Raiden Mei 3D idle was re-extracted from its complete original source strip, correcting the old crop. Tiny source hair-tip endpoint details are accepted as minor at native size."
+  ],
+  "pets": [
+    {
+      "id": "tartaglia",
+      "name": "Tartaglia · 达达利亚",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/Tartaglia/tartaglia-2d",
+      "zip": "genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        3,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "d2a286ed1063d6884830f2e815671d93cf0b3958777e53fafe8e37b1df103395",
+      "spriteSha256": "b7af8053f46cc2acb5e719ded50cadc307bc459ac64df1ca6a827e949c33cdff",
+      "zipSha256": "371ad83d16e16ed6e25ec53cf83960228c4f96964cb177766ae88a656df56cb9",
+      "manifestSha256": "5933e84f18e1dabfa574e88c9cc49ad42958945b85c4ea30556685fcd8750f49",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "venti",
+      "name": "Venti",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/Venti/venti-2d",
+      "zip": "genshin-impact/Venti/venti-2d-codex-pet-v2.zip",
+      "method": "original artwork preserved; no prolonged visible blink",
+      "changedCells": [],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "6a685be4aeaef6dd178a26a57968ccf2aa5bc708172c4cfaaefc0ff0c1cf8c71",
+      "spriteSha256": "6a685be4aeaef6dd178a26a57968ccf2aa5bc708172c4cfaaefc0ff0c1cf8c71",
+      "zipSha256": "98642f7ddaa38f22730993f6cbec4f409403ccfcbacb9c06737057e4e6b865d2",
+      "manifestSha256": "3a0c87e180bce9f13390621874114c77f2710c43fb110b9099ff0490ed0a5bab",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "wanderer",
+      "name": "Wanderer",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/Wanderer/wanderer-2d",
+      "zip": "genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        0,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "d1d0e0ef187f38002624395f06d95dba789f78aba6bae970ab143bbee7824acf",
+      "spriteSha256": "e5ccfea04eab7130af9c703a9677bff92b7944cb44ff632f9315391185fc87da",
+      "zipSha256": "a720b351eb80343198e7a48d7f64b18ae0e3be56fbe0949520ae3cbf0937a480",
+      "manifestSha256": "817126e9ba7791d1accdf8e76d751a4a0f048448239d5fdb8afc0e42e4ebd8d3",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "furina",
+      "name": "Furina · 芙宁娜",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/furina/furina-2d",
+      "zip": "genshin-impact/furina/furina-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        5,
+        5,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "d407e09fa476b95c7787667c8ca21af7c936846bf5d893121b8a72c8df2ac444",
+      "spriteSha256": "03657db6973c9535aad99a9c0bc0d14602a1dfa07421866a0c90ceed5ddba81b",
+      "zipSha256": "a9a88ccf096a00ac91903f70bdc4375a0d638a23232cc31d598306b70cd745dd",
+      "manifestSha256": "eba143e545b673b5a6c75a1c3cefc70ca98e45e69c0fefe9704d30bd2047a835",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "ganyu",
+      "name": "Ganyu · 甘雨",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/ganyu/ganyu-2d",
+      "zip": "genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        2,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "3175b24500eea18c7839106af438bc4b5d6c7e0e2cebd6ed527725d3a085d75a",
+      "spriteSha256": "cab535297a38404871c696cebe6597466b6f126d40cb37c052b45824b2e56ec3",
+      "zipSha256": "3a8febb6e4e08dfc6f8459b67c7f9579930a586d66697f53ec657fbb1984856b",
+      "manifestSha256": "41914ddef5e30c865c3a901b290ecf901e4d9f5c2e91ac23696889457d72c855",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "hu-tao",
+      "name": "Hu Tao · 胡桃",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/hu-tao/hu-tao-2d",
+      "zip": "genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        0,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "2521fc0bfd42655409e8cb3416ffc264e456c5e140d1487dea6b1904fdc1094a",
+      "spriteSha256": "73bcdfdc7b8f4780768a5bdc5d4758a58ce0b75c051ffc22fb93f452454a4acf",
+      "zipSha256": "b5446f18d8f0dcd7329fa778102d6483513e1188b096e13bc5b196f0ef3735a4",
+      "manifestSha256": "75a8e77cd2e92317cac7a3cbd471beb738a029da0382a149297f13969e5adf79",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kazuha-chibi",
+      "name": "Kaedehara Kazuha · 枫原万叶",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/kaedehara-kazuha/kazuha-chibi-2d",
+      "zip": "genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "af335eaf0c68c7498b79bde41e3966e64f5baaf0021e57bc5cb5d08927a94937",
+      "spriteSha256": "23d3f6159fc0af9e0ae1e47e9107bb724dc2dc03badbddd6b91190b28a9b0387",
+      "zipSha256": "4f5e978e2ecefd2b2e92361b7e1759ff7f3f6be5d398e16de4114501c813b958",
+      "manifestSha256": "05c8072216084bc8d43075a8685761bb967ce8d694c705178992d204c12cadb7",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kaeya",
+      "name": "Kaeya · 凯亚",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/kaeya/kaeya-2d",
+      "zip": "genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "b68007d33e1bfa8f9bac4a5a193dfaa35a86fd01488f89ee1c27dee30f7861c8",
+      "spriteSha256": "28e8c513d0e30daac8746f09689bacb88c4ddd024ad7ce867eb8b0f7608249cc",
+      "zipSha256": "1df3b88834e2ad2c400b10bc683684456a0f96e9f135c3f84b70bd42c2d3a0b7",
+      "manifestSha256": "d535545690eae7652dc77b469e21fd9eb07ba0aace4737cd3417284b179700c5",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kamisato-ayaka",
+      "name": "Kamisato Ayaka · 神里绫华",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/kamisato-ayaka/kamisato-ayaka-2d",
+      "zip": "genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "5e1bfaa338560029a9f2ddc1d359286cd69e0c7697e6bbf27424a1beafc12fc2",
+      "spriteSha256": "c946a455c6b80e0ce7f5992923f45750359bd07bf5bd42fde6ed35295ef6ed46",
+      "zipSha256": "bf89af898ebdca2b200c1f7abb6e31abfda6763786b2a24a20eced5c27fed376",
+      "manifestSha256": "b1531f9157326540750b6303d2132b8960e465f424a41adbcf2837f5a8b4d40f",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "raiden-shogun",
+      "name": "Raiden Shogun",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/raiden-shogun/raiden-shogun-2d",
+      "zip": "genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "7b96d5d22c193908955ccff5bec4e83a38c08082cc75406574b90bad7e8fc8bc",
+      "spriteSha256": "90ae6dd1029dfee0eaed75b4ddec3ccfc6c316cc64c4f47067fe891cef0ab3fa",
+      "zipSha256": "0c84b50b72adfd7f0ac293d061dd689b6b23233125ffc8c82be04cd70468d0c5",
+      "manifestSha256": "36bc0610a6ea1b93e156d8e5259cd6253d56e27c136d0fecacc080eb2882a40b",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "xiao",
+      "name": "Xiao 魈",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/xiao/xiao-2d",
+      "zip": "genshin-impact/xiao/xiao-2d.zip",
+      "method": "previously reviewed six-frame idle artwork",
+      "changedCells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": null,
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "c8ca8fae218e3f0e30e0620a67921d4a15df75437e425c5556055b75cffee90a",
+      "spriteSha256": "5aa0a1cc70f85f28d0bb0b7ac135ad87206ac18e2b971e1ff6894bf65379e9c4",
+      "zipSha256": "cbbd3da8030452151d16ccc1bff21d6400637ed30e841b6c412fe0940055db27",
+      "manifestSha256": "bc08ec2d848008610181bc11a0d818f9daede77326145e8835d1e941fc5c3fe8",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "yae-miko",
+      "name": "Yae Miko 八重神子",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/yae-miko/yae-miko-2d",
+      "zip": "genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "217b1bd8e8374d729538eff3d9de0acca50d12903d4050ffcb08deaf99774cab",
+      "spriteSha256": "acf78c41d40e417e038bfd4a0014e8a0ae84c7445b415343902e36aab57a1d52",
+      "zipSha256": "c6ca101def7cae5d516e1077af69d7de53c7e38b86f9de3447b0f7cdafaef233",
+      "manifestSha256": "221cd89e6458cd812e48b2d67c2be9f83f09d0653ca40906efee29bbb75f73cf",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "zhongli",
+      "name": "Zhongli 钟离",
+      "group": "genshin-impact",
+      "directory": "genshin-impact/zhongli/zhongli-2d",
+      "zip": "genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        5,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "6a551970056e0f8cbf4f4e17016c29132269dff30860db1ac8f8c4f5b904bb50",
+      "spriteSha256": "e15eb4d461acc926f221b1e2cd12c3ecb7f0730e9a0f5da2a710088731a4ba46",
+      "zipSha256": "c00dccf766b67d32b129fb289b2b33f42c4885654a3dca0c6dbc4724eb16e560",
+      "manifestSha256": "b94c169851a3ef866936eb3ec368762e3027377d555c9e8c2b0a0c51d5058060",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "black-swan",
+      "name": "Black Swan",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/Black Swan/black-swan-2d",
+      "zip": "honkai-star-rail/Black Swan/black-swan-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        3,
+        2,
+        3,
+        3,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "47d8d7ae061ee8684251ce8991be0b4a34e6ea86b3afc5cfbe01ee9f92ab3d15",
+      "spriteSha256": "a9898857c3589d544f33e17a10c6920294d62b4f73b2608344028db0ab885064",
+      "zipSha256": "f4b57c09848195b8263af6e8f71880315beac5268f090ddb807c9b7863b2f78b",
+      "manifestSha256": "cdde3d454d572cfbb6e065a6298a6fcf9b8471e62a9885a0bdba87b50b7f648c",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka · 卡芙卡",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/Kafka/kafka-2d",
+      "zip": "honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        3,
+        2,
+        3,
+        3,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "4164abcde3d6f8f1d26820d688ce2e2fe0f5715d78d34564df77377a96803887",
+      "spriteSha256": "f3b75ecd63e7a0fa6266e03d4bff063396e957810bfafd8716cd0d99efd00a60",
+      "zipSha256": "c8effbc793ad256358adf1329fc375faf696ef38ad8b7a7c110d886252ff649f",
+      "manifestSha256": "60edd1773625c40df1edec4ca65169af4fba2b9e724350abc157b8624c0f64da",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "sparkle",
+      "name": "Sparkle",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/Sparkle/sparkle-2d",
+      "zip": "honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "83e43a851e09a238b8829eb68bece0fc30e1c5ed81db9e71f8fc3d045c6e2fcb",
+      "spriteSha256": "67944dc6ab516a0dc7375bcd765a9385a665df0f156932d4330e125bb9c3cba1",
+      "zipSha256": "c4e9adf30f88c838552f07c9eb2895b26a86f2b2be1c85a6854c1bb1ef5907dd",
+      "manifestSha256": "86dcf360936fa82ae5ffb02521b52f8613468485996eb3a58b5b616281b8a078",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "acheron",
+      "name": "Acheron · 黄泉",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/acheron/acheron-2d",
+      "zip": "honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        0,
+        0,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "1aa9394c518df3b7a24e9e7c1eb951c7d5da837a7873eb25b2adde4c24f51c61",
+      "spriteSha256": "a62b816470c9087a8a51e6831223d16119ad0cacd4ec7b44b9ddb7cda4178ecf",
+      "zipSha256": "68794f8aad091c6103b6dbfd56d0410ac9fb62b1642a730b06328989b4968466",
+      "manifestSha256": "c85e45d4f4a100da9dfb69e27623c728514a1fa6d64da10f1c135e43f5c94ad6",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "aventurine",
+      "name": "Aventurine",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/aventurine/aventurine-2d",
+      "zip": "honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        1,
+        1,
+        2,
+        2,
+        4,
+        4
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "f025a1a15d363026a03e45b907b7ba4d669ec25a25b6a95c59cb95a14c5e4c99",
+      "spriteSha256": "3ceb26f07af94989815f7d07a2f8d84faaca4392a4cb77c6d0c7d18dc9dc0aa8",
+      "zipSha256": "8d7bc5ec4b67801af2d5aaee855f89b15340c55b830914c9fa99e3393cfd44dd",
+      "manifestSha256": "62fcb18c4613feaff37770a34b4582ffa29ef086d79c01346d28d60a917e8b4f",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "blade",
+      "name": "Blade · 刃",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/blade/blade-2d",
+      "zip": "honkai-star-rail/blade/blade-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        5,
+        1,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "c79e21b33c836c8a00f08d79c133376091095d3502a4094cd19d6670f7ffcd06",
+      "spriteSha256": "9844eec8aaacc68c90eb067b88d73939dbdaf70ad0150e66809aa46eff93b97a",
+      "zipSha256": "5dbafc85b213e8667ed87ec8b73bab4434e1b6d2dd213849f273a56187795c8d",
+      "manifestSha256": "7ebae0aacea1088c6787f7543f21f2c06c2d1b09a0a5c461aee45fa8aafd2efb",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "dan-heng-imbibitor-lunae",
+      "name": "Dan Heng · Imbibitor Lunae 丹恒·饮月",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d",
+      "zip": "honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip",
+      "method": "previously reviewed six-frame idle artwork",
+      "changedCells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": null,
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "12ff878a2462fab5bac103e0ec3fa4ef9f311aaab2d4e5520782f3f1ca6efd72",
+      "spriteSha256": "77f55b68be529885785d567db9ec5a5728b6add517a1cd4c71dabfb7b35148ea",
+      "zipSha256": "86e75553280d4f65324b1bd48d5bdf127ad1e3d423847f2961569ae16cfba813",
+      "manifestSha256": "71efe5cac464f8893493cf5c468a24c80a8e84ce540738d5d78a54053b5b53a3",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "firefly",
+      "name": "Firefly · 流萤",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/firefly/firefly-2d",
+      "zip": "honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "64811169acfbf018f0e2e6829bebd7a7604cdc692c0956be02e038f6f12a8e9c",
+      "spriteSha256": "583ca0770cd72d1e93ad14a13823eead396897ba323c44562201adb329a7245c",
+      "zipSha256": "1de92c50093c8bd765cb8fb355d23f35cad56097b6bb572815e33050ccfe6a52",
+      "manifestSha256": "ccbc4ac05f13125474085d8c81b4791a5bff4a153ff589567470a927dcc1c3d2",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "jing-yuan",
+      "name": "Jing Yuan 景元",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/jing-yuan/jing-yuan-2d",
+      "zip": "honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip",
+      "method": "previously reviewed six-frame idle artwork",
+      "changedCells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": null,
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "0d5ea2ea8e12f22ec27b65538601ef9aaca293a150b73bdd60d5f6164e02540e",
+      "spriteSha256": "5b5d92b820369d31883c93c004ffdce843b2d7eb2b65e9591a8e545ebbe315ad",
+      "zipSha256": "05af109d128a481af0d1556fe60dfa4fa2d3ceee1b59fd9f7a46f8666bbac344",
+      "manifestSha256": "90603c961aec9daba594e0f5c09f53034019f3910ee861c2bd109a4ea7afa551",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "robin",
+      "name": "Robin · 知更鸟",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/robin/robin-2d",
+      "zip": "honkai-star-rail/robin/robin-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        3,
+        2,
+        3,
+        5,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "19fd61c67991f9cc155d6a9cc2a633f4e47cc2c88a1255fa492a156e27a0c919",
+      "spriteSha256": "18d5a01c76c563950635d1e1838e579eaa45e31e674c50ece72554de2f95b4ad",
+      "zipSha256": "bfc1adba906a169a75ed133e849595ac4849e4fbea163d46d35c725d5b0d4ad3",
+      "manifestSha256": "a1168173a8cd8d7319712678b5d4f1cc9ca0c82abb0ed9640eda6ca4ad48c0b9",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "ruan-mei",
+      "name": "Ruan Mei · 阮·梅",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/ruan-mei/ruan-mei-2d",
+      "zip": "honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        2,
+        2,
+        3,
+        5,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "95ac3a7d1e03b38f0a465ee175ea443c9bb9a2d770f8fed7411548d609020135",
+      "spriteSha256": "a69cced67e4d1699a9145bbea377e1a80860f25610ef7120decaaf4b0f89ad86",
+      "zipSha256": "ea892469757939e141bb4a118c2aba5524d2c55b7762aef63d0930bdbf2bef51",
+      "manifestSha256": "949a074b8ce59c6d3787e753257ddad8f5d91d269907f3225881159d1725d7cb",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "sunday",
+      "name": "Sunday · 星期日",
+      "group": "honkai-star-rail",
+      "directory": "honkai-star-rail/sunday/sunday-2d",
+      "zip": "honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        2,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "19a474edf8d23b5fdd7d66038e0fe199e5afc3130512c13457c6f986b97d8869",
+      "spriteSha256": "b5de3b0d581a0b4c3e42cd97daa8e3b7f35e1b6bf2c067664d12b051525a4d82",
+      "zipSha256": "8ca0fae600dd80de2eb85b3212a27fd2125ddbbf1d0f75b4778cc36d826d6e4c",
+      "manifestSha256": "f123e0f856d8af271d3c6fde97ccaba948e709c9503df4008369572913d8eb5a",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "bronya-zaychik",
+      "name": "Bronya Zaychik",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Bronya Zaychik/bronya-zaychik-2d",
+      "zip": "honkai-impact-3rd/Bronya Zaychik/bronya-zaychik-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "1a590385723d44dbfa2d64f01b6733df9514bc691142b8e56a81bc935612266f",
+      "spriteSha256": "d50cf7465c2bc25c9faae561bb2d24d1a8362f98bd67757bd6d0e16ab18e8f23",
+      "zipSha256": "6c469aee46be3352113e39bb1150c2281656c411f8d52c3771430db56e624422",
+      "manifestSha256": "f14d0a6f6877320ad3156c6ce6da77b628a6d31223b3ae147367bcd4282ee486",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "fu-hua",
+      "name": "Fu Hua",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Fu Hua/fu-hua-2d",
+      "zip": "honkai-impact-3rd/Fu Hua/fu-hua-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "53d38761751365d20dd211c21b79e887a447aeba2bf3e46db3b5a19454158a15",
+      "spriteSha256": "7c78ea4a4d43e5ff4c7b9d45f98621f97d11592ef48351df6375085d4b0bfdc0",
+      "zipSha256": "7e8c7d0abf7c2e6e19bb5cb0595b2a9e14a8244c1c9809437b03f334d286f9f7",
+      "manifestSha256": "511ee916a10bb3c1db7338ed11e95db31b31de96689f6f69f27b3ea84e8a21b4",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kiana-kaslana",
+      "name": "Kiana Kaslana · 琪亚娜·卡斯兰娜",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Kiana Kaslana/kiana-kaslana-2d",
+      "zip": "honkai-impact-3rd/Kiana Kaslana/kiana-kaslana-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        2,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "6ba2642b618e76348eb91198d77f5e14e141373045fd59a0b81b356c488f2349",
+      "spriteSha256": "990aa0e8368785287ef03e53060c93fb6b37f95794cb719c0ee8788333c9c59e",
+      "zipSha256": "d25c5a043a602f6b252d20d8eaa2d78384ee2b22d858b6a08a20030f8734d74c",
+      "manifestSha256": "52c665af863f5c841c62f23753b42e696de8953ee0c8ae74cc57da570519932d",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "otto-apocalypse",
+      "name": "Otto Apocalypse · 奥托·阿波卡利斯",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d",
+      "zip": "honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        5,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "a46a6b4ba7812b571f44da93cb60a5df9171928496531224b8eeca04a65b99ee",
+      "spriteSha256": "8788999ee46fb70e71c585b60867e8fa4413e4b1a824f448f73f0214086a0c48",
+      "zipSha256": "39f045da91a6b27f5f8a9ce18e3e947f31f193efe8608369048b2ba52ab57561",
+      "manifestSha256": "d79aebb0d1252bc68f23fe1666da69052b6f51b30c67ae5441e4fc3f5d796e85",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "seele-vollerei",
+      "name": "Seele Vollerei",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Seele Vollerei/seele-vollerei-2d",
+      "zip": "honkai-impact-3rd/Seele Vollerei/seele-vollerei-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        4,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "9b4065b88077c4dba8891fda7a27c8a6bec2c05282127d120d82614d2ca6f3f0",
+      "spriteSha256": "f060c9432659f84fbfcf1720e5fad9a09556b6d9907c0c0c247d6430d76ac293",
+      "zipSha256": "27cb2aaeb6f0ffb63a4c040f71ba34706e6a240ba7852de7f53aa7b079f4c40a",
+      "manifestSha256": "b03fbea06c6a52e8a565bf277a86e2a42ba64f0405283cb9aad9e238bfd6a89f",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "theresa",
+      "name": "Theresa",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/Theresa/theresa-2d",
+      "zip": "honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        1,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "1481e6e8ffc8ff1b1220d0ba29e40d908d20602a774e4be8e8f98c8b6204b443",
+      "spriteSha256": "5568f90f4c7185a1d76566c95e31b3a2aadd2b7d54d75ad832be23ee7db3b7eb",
+      "zipSha256": "471229016eea0d68c3944ac50c2209da8505eaddce004f11e10bfd3486066e16",
+      "manifestSha256": "ac97dbf91e97068741b300f986228b9d843f88f7209abb12ede9de91c3627369",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kevin-kaslana",
+      "name": "Kevin Kaslana · 凯文·卡斯兰娜",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d",
+      "zip": "honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "6bfdbd5afe04bcdb281dda4409d8fbfa3e95459e53709b0ca6a1c5db95e22038",
+      "spriteSha256": "453b047cc7d293a152932bc715b222a48da4b001311685f89f372c985e3d16de",
+      "zipSha256": "993aa89013050f1b0fadc5dd72935ada96bdec45dfc3dc84b64e3bc258727ad8",
+      "manifestSha256": "9f3faed1eaa24e3269d41b64af1067751a8b6cd56dfdbd681845fcd2dced33d6",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "raiden-mei",
+      "name": "雷电芽衣 Raiden Mei",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/raiden-mei/raiden-mei-2d",
+      "zip": "honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        3,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "308bc4d8951f2402a2783fd86911f5d206ce4b8137f2884a0ea00e07d4cc1291",
+      "spriteSha256": "24677923c3e80669b3e00e10daeb6783a82bd1fc75b127ec0d0097348c11ddc0",
+      "zipSha256": "0e69eec9b5bb5374d6742ef38b698f602fe5dd95a1f55a927bcae8a27d2552c8",
+      "manifestSha256": "725cdac7c93112e4a3fb5483433093e0cb3d98d7333bac9bfb77472749c636df",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "raiden-mei-3d",
+      "name": "雷电芽衣 Raiden Mei 3D",
+      "group": "honkai-impact-3rd",
+      "directory": "honkai-impact-3rd/raiden-mei/raiden-mei-3d",
+      "zip": "honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip",
+      "method": "re-extract the complete original idle source; no new artwork",
+      "changedCells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": null,
+      "sourceReextractionMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "originalSpriteSha256": "5def4e22b961797c7ac00b9b41cb6d84d9cd7aa573501d645188410e252bcb4e",
+      "spriteSha256": "ac467b37128f33b5ae59333dd430c22a0825bfedeb59f2d3cb0d268f3a38463e",
+      "zipSha256": "2bf94f6866679c479b34fb61dede50df35c2a8b84f46e9ece50caa32564a6a74",
+      "manifestSha256": "fabcecb7a031e7ddf9fe82ebf212de074f69627ab7c69c143e8b6b8b71d97e26",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "burnice-white",
+      "name": "Burnice White",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/Burnice White/burnice-white-2d",
+      "zip": "zenless-zone-zero/Burnice White/burnice-white-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        0,
+        2,
+        3,
+        5,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "21c744afdb8949db9f1c0d21a9fe68f7cdbdbf699cdf1a9068682d26c4e47319",
+      "spriteSha256": "5a30c7a355dc06d806c3054e5db51528933f36fb42241b9fa76287b99fc60541",
+      "zipSha256": "e02ea9e9d6355cc14e7ecdadea3201b1133c1b4e33d3199b580535d250c01ffc",
+      "manifestSha256": "7242db37e06c171e8d458428490bafe96cb097d8d5631fc39525dace52b69fbd",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/Lighter/lighter-2d",
+      "zip": "zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        4,
+        2,
+        4,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "7539ac1547383eca382faf6c3e052c6d4cf44ba57327c1fa140ef32b00f8bf92",
+      "spriteSha256": "2c620447fe9a874d9899b5c90805e2cd430f480a2f786c0c0b04f3485dbc2da4",
+      "zipSha256": "6c690047309c7f3e2a6c56d74d7aa303afddc0e3d23d507184103f444a3bee01",
+      "manifestSha256": "ee1a3eaa333433fa41e83012229c6293b2baacc0bb8bf20a47cd67f71ad8c9f3",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "vivian-banshee",
+      "name": "Vivian Banshee",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/Vivian Banshee/vivian-banshee-2d",
+      "zip": "zenless-zone-zero/Vivian Banshee/vivian-banshee-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        0,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "946a4e011c54a44595b2453379da7498859e36a3cbba19fb3b22152bfcc4d4bb",
+      "spriteSha256": "c9691299165ab05e9af46ba9aaf073b567a55599f5dd9f8098fb29667bfa4359",
+      "zipSha256": "65a417c46fb0694d469b773e5c792439c951a3352266c8048285195c8ce4ef64",
+      "manifestSha256": "d8f0f4aaa72d0082622284797debf55b7a54557e49e85657f6bd673e04a447f0",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "von-lycaon",
+      "name": "Von Lycaon · 冯·莱卡恩",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/Von Lycaon/von-lycaon-2d",
+      "zip": "zenless-zone-zero/Von Lycaon/von-lycaon-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        2,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "49c8113194a3f74a2a260e7cb3e9ecdd7e653008e6bdd218f177eca12d367f16",
+      "spriteSha256": "2feebe7550c3b7150b88dc8db58536e6fea93d2472d1b158c24cfcbe00f64585",
+      "zipSha256": "1fbab4f9ed296f4f0c861b3122157c03d73c5130b3f171c47a8b5f161b333fae",
+      "manifestSha256": "cf4ba0d7269e9171ebf6d0d2d95635f69c7119140238239b70e7acd6f9c3d77b",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "zhu-yuan",
+      "name": "Zhu Yuan",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/Zhu Yuan/zhu-yuan-2d",
+      "zip": "zenless-zone-zero/Zhu Yuan/zhu-yuan-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        0,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "d03ae10b5ab8670770c8fc38cc7198f29376f577d6b9ecc6d923db7bf3656025",
+      "spriteSha256": "3b17a92026b0fcd559f48ccddf2a24ffa16045a5f52e4b15113bedd236fcf8c5",
+      "zipSha256": "424642ce134834cc061d846a76fc2845664999ecd9dcbf20b472761efcb91dc2",
+      "manifestSha256": "d8642cb0bae4e1f38ebd0003452eb61890cd70d78d7064e0462f8e5e737bc406",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "anby-demara",
+      "name": "Anby Demara",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/anby-demara/anby-demara-2d",
+      "zip": "zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        5,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "801be30ea4db98f835a784c4ee053e690c18145624171dc3cc4956bb2dc79a07",
+      "spriteSha256": "8b1aee4c49665216e3a6e2e597b727f7e83da03c25d76755fd068cc97edd2879",
+      "zipSha256": "79ad3f145a9e2926ea3353a0ca7ed47793dd96b82afffe7a0e7818481e57f9b6",
+      "manifestSha256": "f20c958a482be501f31166163b0d9e471c814809bb4c8c6be1ba964916d56660",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "ellen-joe",
+      "name": "Ellen Joe · 艾莲·乔",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/ellen-joe/ellen-joe-2d",
+      "zip": "zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip",
+      "method": "original artwork preserved; no prolonged visible blink",
+      "changedCells": [],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "44616e85bbca7914a57917d5b1fabbb65b1a17d664255fafc3a26a0460ca012e",
+      "spriteSha256": "44616e85bbca7914a57917d5b1fabbb65b1a17d664255fafc3a26a0460ca012e",
+      "zipSha256": "e371d4604003eeb222434b4abee3b842741c408f5660d31ff6a87b9e453eb805",
+      "manifestSha256": "f39f152bd781e0d2d3493135c1950264c0167238cb95d9511e0fa29cce2afaa1",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "miyabi",
+      "name": "Hoshimi Miyabi · 星见雅",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/hoshimi-miyabi/miyabi-2d",
+      "zip": "zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        4,
+        3,
+        4,
+        4
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "478c4fc240e949f4a2fbd58869200e79ff4936457cc9ff3bdf6f5310c4002b28",
+      "spriteSha256": "dfe97b270d0436fed797933bea8be642d00a79ae531e065b26a1ed164e71febf",
+      "zipSha256": "e69c66a5e1119990d5011e556a0fe74d09efc8ad877bd1dcd7380aa1f6ffe795",
+      "manifestSha256": "2588b714e58c0696b64fdeff3a4deecade107341e55f650588a973b0fedcfd38",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "jane-doe",
+      "name": "Jane Doe · 简·杜",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/jane-doe/jane-doe-2d",
+      "zip": "zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        4,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "d05ddc32e934dcd6c323f1694f045a15fda7597cb72aa765c55a968edacb0578",
+      "spriteSha256": "77fb5d9e13c825e5a64f77068f22981c8e6f45084b3a7c8bcace2b11c972059b",
+      "zipSha256": "ac6c21aed96b9292517e857b5b43e31b48cfee7820bcfa0adcf0d5806a34e197",
+      "manifestSha256": "897940d13483423ea9cfa2734c8462a6a6b0659ed2679de7dc76bc900b13d493",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "nicole-demara",
+      "name": "Nicole Demara · 妮可·德玛拉",
+      "group": "zenless-zone-zero",
+      "directory": "zenless-zone-zero/nicole-demara/nicole-demara-2d",
+      "zip": "zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        5,
+        2,
+        3,
+        3,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "e5350cf96f735933b4550ee71606f45178ffdc032bb3f0c337c620345658ba74",
+      "spriteSha256": "dbb950b6686060611cfb92d12d15848027fa0c3e2c0e031f09fdcaab790e79ea",
+      "zipSha256": "7cecfe5e4afcf531f282239c80f84ac85ca112b10aeac70f7eeb6ff787eb4b0d",
+      "manifestSha256": "cd0870883520e9fbd0b649d6c7659984b9b74219a74fd271f4ae46f59ceec431",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "kibutsuji-muzan",
+      "name": "Kibutsuji Muzan",
+      "group": "others",
+      "directory": "others/Kibutsuji Muzan/kibutsuji-muzan-2d",
+      "zip": "others/Kibutsuji Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "81a03b26f87e7607754ea8519df08572d5014534b7cee8bd1ac4cdf5250bbbd4",
+      "spriteSha256": "8382b1ab213e575c5bd3d59994d0ab3be930032fe4e147cd1b3ad6d4c3fc9440",
+      "zipSha256": "d55ddc5ec51fe04b18c4b9335a282bb0bb52d7e719bad409882e6802ca8e0b68",
+      "manifestSha256": "15d61943de5bd1e504d70a8c8f72cba1ff618751a074dd711f4d9e1bce171ae9",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "mitsuri-kanroji",
+      "name": "Mitsuri Kanroji · 甘露寺蜜璃",
+      "group": "others",
+      "directory": "others/mitsuri-kanroji/mitsuri-kanroji-2d",
+      "zip": "others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          4
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        2,
+        3,
+        1,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "e995c785ffe100692a6b5c27fee12e086f65a319e2168664c9d62fc4624f7161",
+      "spriteSha256": "2d39272c8b895b7569abd889ec2878259f6bf9f0bab688c2f7aecc5ec2e15d56",
+      "zipSha256": "b8c56db9b6223de10000385e4ef4dcc60c9af6fa565de00dfee2bc69be75e199",
+      "manifestSha256": "6f4d1ffb8a98ca4f4ca62addc06b70a390eff6e9ca8c25cecf01208f7e819b49",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    },
+    {
+      "id": "obanai",
+      "name": "伊黑小芭内 Obanai",
+      "group": "others",
+      "directory": "others/obanai-iguro/obanai-2d",
+      "zip": "others/obanai-iguro/obanai-2d-codex-pet-v2.zip",
+      "method": "reuse this pet’s original open-eye idle frames",
+      "changedCells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "preservedNonIdleCells": 82,
+      "sourceFrameMapping": [
+        0,
+        1,
+        0,
+        1,
+        4,
+        5
+      ],
+      "sourceReextractionMapping": null,
+      "originalSpriteSha256": "46ce1739554d9926dc6c01174cfea874438cc64596e3b45f800772c9c0a52ac1",
+      "spriteSha256": "f006e051c563daf51e37ba6e92011aeb25bd655b5e87bf023de948fcffd9cdca",
+      "zipSha256": "5b07b9e4ab598ac750efab9ccc428a826277af767d8cac483d1e859145256137",
+      "manifestSha256": "18d96f7e64a362bd0273518a5154329224085edf0aaf1b8fdd6b958751001d43",
+      "zipFlatRoot": true,
+      "extractionTest": true,
+      "visualReview": "pass"
+    }
+  ]
+}

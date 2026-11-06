@@ -94,204 +94,204 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>01</sub><br>
-      <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈的待机动画"></a><br>
+      <a href="#character-01-xiao"><img src="assets/readme/idle/xiao.webp" width="155" alt="魈的待机动画"></a><br>
       <b>「 魈 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>02</sub><br>
-      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒饮月的待机动画"></a><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="assets/readme/idle/dan-heng-imbibitor-lunae.webp" width="155" alt="丹恒饮月的待机动画"></a><br>
       <b>「 丹恒 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>03</sub><br>
-      <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元的待机动画"></a><br>
+      <a href="#character-03-jing-yuan"><img src="assets/readme/idle/jing-yuan.webp" width="155" alt="景元的待机动画"></a><br>
       <b>「 景元 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>04</sub><br>
-      <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="钟离的待机动画"></a><br>
+      <a href="#character-04-zhongli"><img src="assets/readme/idle/zhongli.webp" width="155" alt="钟离的待机动画"></a><br>
       <b>「 钟离 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>05</sub><br>
-      <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷电芽衣的待机动画"></a><br>
+      <a href="#character-05-raiden-mei"><img src="assets/readme/idle/raiden-mei-2d.webp" width="155" alt="雷电芽衣的待机动画"></a><br>
       <b>「 雷电芽衣 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>06</sub><br>
-      <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黑小芭内的待机动画"></a><br>
+      <a href="#character-06-obanai"><img src="assets/readme/idle/obanai.webp" width="155" alt="伊黑小芭内的待机动画"></a><br>
       <b>「 伊黑小芭内 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>07</sub><br>
-      <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子的待机动画"></a><br>
+      <a href="#character-07-yae-miko"><img src="assets/readme/idle/yae-miko.webp" width="155" alt="八重神子的待机动画"></a><br>
       <b>「 八重神子 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>08</sub><br>
-      <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="芙宁娜的待机动画"></a><br>
+      <a href="#character-08-furina"><img src="assets/readme/idle/furina.webp" width="155" alt="芙宁娜的待机动画"></a><br>
       <b>「 芙宁娜 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>09</sub><br>
-      <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉的待机动画"></a><br>
+      <a href="#character-09-acheron"><img src="assets/readme/idle/acheron.webp" width="155" alt="黄泉的待机动画"></a><br>
       <b>「 黄泉 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>10</sub><br>
-      <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="艾莲·乔的待机动画"></a><br>
+      <a href="#character-10-ellen-joe"><img src="assets/readme/idle/ellen-joe.webp" width="155" alt="艾莲·乔的待机动画"></a><br>
       <b>「 艾莲·乔 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>11</sub><br>
-      <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃的待机动画"></a><br>
+      <a href="#character-11-hu-tao"><img src="assets/readme/idle/hu-tao.webp" width="155" alt="胡桃的待机动画"></a><br>
       <b>「 胡桃 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>12</sub><br>
-      <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="知更鸟的待机动画"></a><br>
+      <a href="#character-12-robin"><img src="assets/readme/idle/robin.webp" width="155" alt="知更鸟的待机动画"></a><br>
       <b>「 知更鸟 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>13</sub><br>
-      <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="凯亚的待机动画"></a><br>
+      <a href="#character-13-kaeya"><img src="assets/readme/idle/kaeya.webp" width="155" alt="凯亚的待机动画"></a><br>
       <b>「 凯亚 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>14</sub><br>
-      <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="流萤的待机动画"></a><br>
+      <a href="#character-14-firefly"><img src="assets/readme/idle/firefly.webp" width="155" alt="流萤的待机动画"></a><br>
       <b>「 流萤 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>15</sub><br>
-      <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
+      <a href="#character-15-kevin-kaslana"><img src="assets/readme/idle/kevin-kaslana.webp" width="155" alt="凯文·卡斯兰娜的待机动画"></a><br>
       <b>「 凯文 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>16</sub><br>
-      <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里绫华的待机动画"></a><br>
+      <a href="#character-16-kamisato-ayaka"><img src="assets/readme/idle/kamisato-ayaka.webp" width="155" alt="神里绫华的待机动画"></a><br>
       <b>「 绫华 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>17</sub><br>
-      <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃的待机动画"></a><br>
+      <a href="#character-17-blade"><img src="assets/readme/idle/blade.webp" width="155" alt="刃的待机动画"></a><br>
       <b>「 刃 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>18</sub><br>
-      <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="阮·梅的待机动画"></a><br>
+      <a href="#character-18-ruan-mei"><img src="assets/readme/idle/ruan-mei.webp" width="155" alt="阮·梅的待机动画"></a><br>
       <b>「 阮·梅 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>19</sub><br>
-      <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="枫原万叶的待机动画"></a><br>
+      <a href="#character-19-kaedehara-kazuha"><img src="assets/readme/idle/kaedehara-kazuha.webp" width="155" alt="枫原万叶的待机动画"></a><br>
       <b>「 万叶 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>20</sub><br>
-      <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星见雅的待机动画"></a><br>
+      <a href="#character-20-hoshimi-miyabi"><img src="assets/readme/idle/hoshimi-miyabi.webp" width="155" alt="星见雅的待机动画"></a><br>
       <b>「 雅 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>21</sub><br>
-      <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="砂金的待机动画"></a><br>
+      <a href="#character-21-aventurine"><img src="assets/readme/idle/aventurine.webp" width="155" alt="砂金的待机动画"></a><br>
       <b>「 砂金 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>22</sub><br>
-      <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨的待机动画"></a><br>
+      <a href="#character-22-ganyu"><img src="assets/readme/idle/ganyu.webp" width="155" alt="甘雨的待机动画"></a><br>
       <b>「 甘雨 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>23</sub><br>
-      <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="星期日的待机动画"></a><br>
+      <a href="#character-23-sunday"><img src="assets/readme/idle/sunday.webp" width="155" alt="星期日的待机动画"></a><br>
       <b>「 星期日 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>24</sub><br>
-      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
+      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/idle/mitsuri-kanroji.webp" width="155" alt="甘露寺蜜璃的待机动画"></a><br>
       <b>「 蜜璃 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>25</sub><br>
-      <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="卡芙卡的待机动画"></a><br>
+      <a href="#character-25-kafka"><img src="assets/readme/idle/kafka.webp" width="155" alt="卡芙卡的待机动画"></a><br>
       <b>「 卡芙卡 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>26</sub><br>
-      <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
+      <a href="#character-26-otto-apocalypse"><img src="assets/readme/idle/otto-apocalypse.webp" width="155" alt="奥托·阿波卡利斯的待机动画"></a><br>
       <b>「 奥托 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>27</sub><br>
-      <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="妮可·德玛拉的待机动画"></a><br>
+      <a href="#character-27-nicole-demara"><img src="assets/readme/idle/nicole-demara.webp" width="155" alt="妮可·德玛拉的待机动画"></a><br>
       <b>「 妮可 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>28</sub><br>
-      <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="简·杜的待机动画"></a><br>
+      <a href="#character-28-jane-doe"><img src="assets/readme/idle/jane-doe.webp" width="155" alt="简·杜的待机动画"></a><br>
       <b>「 简·杜 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>29</sub><br>
-      <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="安比·德玛拉的待机动画"></a><br>
+      <a href="#character-29-anby-demara"><img src="assets/readme/idle/anby-demara.webp" width="155" alt="安比·德玛拉的待机动画"></a><br>
       <b>「 安比 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>30</sub><br>
-      <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="琪亚娜·卡斯兰娜的待机动画"></a><br>
+      <a href="#character-30-kiana-kaslana"><img src="assets/readme/idle/kiana-kaslana.webp" width="155" alt="琪亚娜·卡斯兰娜的待机动画"></a><br>
       <b>「 琪亚娜 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>31</sub><br>
-      <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="达达利亚的待机动画"></a><br>
+      <a href="#character-31-tartaglia"><img src="assets/readme/idle/tartaglia.webp" width="155" alt="达达利亚的待机动画"></a><br>
       <b>「 达达利亚 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>32</sub><br>
-      <a href="#character-32-burnice-white"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="柏妮思的待机动画"></a><br>
+      <a href="#character-32-burnice-white"><img src="assets/readme/idle/burnice-white.webp" width="155" alt="柏妮思的待机动画"></a><br>
       <b>「 柏妮思 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>33</sub><br>
-      <a href="#character-33-sparkle"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="花火的待机动画"></a><br>
+      <a href="#character-33-sparkle"><img src="assets/readme/idle/sparkle.webp" width="155" alt="花火的待机动画"></a><br>
       <b>「 花火 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
-      <a href="#character-34-venti"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="温迪的待机动画"></a><br>
+      <a href="#character-34-venti"><img src="assets/readme/idle/venti.webp" width="155" alt="温迪的待机动画"></a><br>
       <b>「 温迪 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
-      <a href="#character-35-fu-hua"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="符华的待机动画"></a><br>
+      <a href="#character-35-fu-hua"><img src="assets/readme/idle/fu-hua.webp" width="155" alt="符华的待机动画"></a><br>
       <b>「 符华 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>36</sub><br>
-      <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="莱特的待机动画"></a><br>
+      <a href="#character-36-lighter"><img src="assets/readme/idle/lighter.webp" width="155" alt="莱特的待机动画"></a><br>
       <b>「 莱特 」</b><br>
     </td>
   </tr>
@@ -301,51 +301,51 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>37</sub><br>
-      <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷电将军的待机动画"></a><br>
+      <a href="#character-37-raiden-shogun"><img src="assets/readme/idle/raiden-shogun.webp" width="155" alt="雷电将军的待机动画"></a><br>
       <b>「 雷电将军 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>38</sub><br>
-      <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="布洛妮娅的待机动画"></a><br>
+      <a href="#character-38-bronya-zaychik"><img src="assets/readme/idle/bronya-zaychik.webp" width="155" alt="布洛妮娅的待机动画"></a><br>
       <b>「 布洛妮娅 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>39</sub><br>
-      <a href="#character-39-zhu-yuan"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="朱鸢的待机动画"></a><br>
+      <a href="#character-39-zhu-yuan"><img src="assets/readme/idle/zhu-yuan.webp" width="155" alt="朱鸢的待机动画"></a><br>
       <b>「 朱鸢 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>40</sub><br>
-      <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="希儿的待机动画"></a><br>
+      <a href="#character-40-seele-vollerei"><img src="assets/readme/idle/seele-vollerei.webp" width="155" alt="希儿的待机动画"></a><br>
       <b>「 希儿 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>41</sub><br>
-      <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="薇薇安的待机动画"></a><br>
+      <a href="#character-41-vivian-banshee"><img src="assets/readme/idle/vivian-banshee.webp" width="155" alt="薇薇安的待机动画"></a><br>
       <b>「 薇薇安 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>42</sub><br>
-      <a href="#character-42-kibutsuji-muzan"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="无惨的待机动画"></a><br>
+      <a href="#character-42-kibutsuji-muzan"><img src="assets/readme/idle/kibutsuji-muzan.webp" width="155" alt="无惨的待机动画"></a><br>
       <b>「 无惨 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>43</sub><br>
-      <a href="#character-43-theresa"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="德丽莎的待机动画"></a><br>
+      <a href="#character-43-theresa"><img src="assets/readme/idle/theresa.webp" width="155" alt="德丽莎的待机动画"></a><br>
       <b>「 德丽莎 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>44</sub><br>
-      <a href="#character-44-von-lycaon"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="莱卡恩的待机动画"></a><br>
+      <a href="#character-44-von-lycaon"><img src="assets/readme/idle/von-lycaon.webp" width="155" alt="莱卡恩的待机动画"></a><br>
       <b>「 莱卡恩 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>45</sub><br>
-      <a href="#character-45-black-swan"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="黑天鹅的待机动画"></a><br>
+      <a href="#character-45-black-swan"><img src="assets/readme/idle/black-swan.webp" width="155" alt="黑天鹅的待机动画"></a><br>
       <b>「 黑天鹅 」</b><br>
     </td>
   </tr>
@@ -355,7 +355,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <sub>46</sub><br>
-      <a href="#character-46-wanderer"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="流浪者的待机动画"></a><br>
+      <a href="#character-46-wanderer"><img src="assets/readme/idle/wanderer.webp" width="155" alt="流浪者的待机动画"></a><br>
       <b>「 流浪者 」</b><br>
     </td>
     <td align="center" valign="middle" width="50%">
@@ -1529,6 +1529,14 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ```
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
+
+全部 47 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+
+复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
+
+2026-11-06：已检查全部 47 个版本的慢速待机，修复其中 45 个版本的长时间闭眼；温迪和艾莲保留原待机。其他状态、neutral 与 16 个观察方向保持原版，ID 和 v2 格式不变。
+
+[查看逐角色修复记录与离线 HTML 对比](docs/pet-compatibility-2026-11-06.md)。
 
 ## 动画规格
 

@@ -96,204 +96,204 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>01</sub><br>
-      <a href="#character-01-xiao"><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="Xiao idle animation"></a><br>
+      <a href="#character-01-xiao"><img src="assets/readme/idle/xiao.webp" width="155" alt="Xiao idle animation"></a><br>
       <b>「 Xiao 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>02</sub><br>
-      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="Dan Heng Imbibitor Lunae idle animation"></a><br>
+      <a href="#character-02-dan-heng-imbibitor-lunae"><img src="assets/readme/idle/dan-heng-imbibitor-lunae.webp" width="155" alt="Dan Heng Imbibitor Lunae idle animation"></a><br>
       <b>「 Dan&nbsp;Heng 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>03</sub><br>
-      <a href="#character-03-jing-yuan"><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Jing Yuan idle animation"></a><br>
+      <a href="#character-03-jing-yuan"><img src="assets/readme/idle/jing-yuan.webp" width="155" alt="Jing Yuan idle animation"></a><br>
       <b>「 Jing&nbsp;Yuan 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>04</sub><br>
-      <a href="#character-04-zhongli"><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="Zhongli idle animation"></a><br>
+      <a href="#character-04-zhongli"><img src="assets/readme/idle/zhongli.webp" width="155" alt="Zhongli idle animation"></a><br>
       <b>「 Zhongli 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>05</sub><br>
-      <a href="#character-05-raiden-mei"><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Mei idle animation"></a><br>
+      <a href="#character-05-raiden-mei"><img src="assets/readme/idle/raiden-mei-2d.webp" width="155" alt="Raiden Mei idle animation"></a><br>
       <b>「 Raiden&nbsp;Mei 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>06</sub><br>
-      <a href="#character-06-obanai"><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="Obanai idle animation"></a><br>
+      <a href="#character-06-obanai"><img src="assets/readme/idle/obanai.webp" width="155" alt="Obanai idle animation"></a><br>
       <b>「 Obanai 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>07</sub><br>
-      <a href="#character-07-yae-miko"><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="Yae Miko idle animation"></a><br>
+      <a href="#character-07-yae-miko"><img src="assets/readme/idle/yae-miko.webp" width="155" alt="Yae Miko idle animation"></a><br>
       <b>「 Yae&nbsp;Miko 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>08</sub><br>
-      <a href="#character-08-furina"><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="Furina idle animation"></a><br>
+      <a href="#character-08-furina"><img src="assets/readme/idle/furina.webp" width="155" alt="Furina idle animation"></a><br>
       <b>「 Furina 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>09</sub><br>
-      <a href="#character-09-acheron"><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="Acheron idle animation"></a><br>
+      <a href="#character-09-acheron"><img src="assets/readme/idle/acheron.webp" width="155" alt="Acheron idle animation"></a><br>
       <b>「 Acheron 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>10</sub><br>
-      <a href="#character-10-ellen-joe"><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="Ellen Joe idle animation"></a><br>
+      <a href="#character-10-ellen-joe"><img src="assets/readme/idle/ellen-joe.webp" width="155" alt="Ellen Joe idle animation"></a><br>
       <b>「 Ellen&nbsp;Joe 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>11</sub><br>
-      <a href="#character-11-hu-tao"><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="Hu Tao idle animation"></a><br>
+      <a href="#character-11-hu-tao"><img src="assets/readme/idle/hu-tao.webp" width="155" alt="Hu Tao idle animation"></a><br>
       <b>「 Hu&nbsp;Tao 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>12</sub><br>
-      <a href="#character-12-robin"><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="Robin idle animation"></a><br>
+      <a href="#character-12-robin"><img src="assets/readme/idle/robin.webp" width="155" alt="Robin idle animation"></a><br>
       <b>「 Robin 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>13</sub><br>
-      <a href="#character-13-kaeya"><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="Kaeya idle animation"></a><br>
+      <a href="#character-13-kaeya"><img src="assets/readme/idle/kaeya.webp" width="155" alt="Kaeya idle animation"></a><br>
       <b>「 Kaeya 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>14</sub><br>
-      <a href="#character-14-firefly"><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="Firefly idle animation"></a><br>
+      <a href="#character-14-firefly"><img src="assets/readme/idle/firefly.webp" width="155" alt="Firefly idle animation"></a><br>
       <b>「 Firefly 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>15</sub><br>
-      <a href="#character-15-kevin-kaslana"><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="Kevin Kaslana idle animation"></a><br>
+      <a href="#character-15-kevin-kaslana"><img src="assets/readme/idle/kevin-kaslana.webp" width="155" alt="Kevin Kaslana idle animation"></a><br>
       <b>「 Kevin 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>16</sub><br>
-      <a href="#character-16-kamisato-ayaka"><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="Kamisato Ayaka idle animation"></a><br>
+      <a href="#character-16-kamisato-ayaka"><img src="assets/readme/idle/kamisato-ayaka.webp" width="155" alt="Kamisato Ayaka idle animation"></a><br>
       <b>「 Ayaka 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>17</sub><br>
-      <a href="#character-17-blade"><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="Blade idle animation"></a><br>
+      <a href="#character-17-blade"><img src="assets/readme/idle/blade.webp" width="155" alt="Blade idle animation"></a><br>
       <b>「 Blade 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>18</sub><br>
-      <a href="#character-18-ruan-mei"><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="Ruan Mei idle animation"></a><br>
+      <a href="#character-18-ruan-mei"><img src="assets/readme/idle/ruan-mei.webp" width="155" alt="Ruan Mei idle animation"></a><br>
       <b>「 Ruan&nbsp;Mei 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>19</sub><br>
-      <a href="#character-19-kaedehara-kazuha"><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="Kaedehara Kazuha idle animation"></a><br>
+      <a href="#character-19-kaedehara-kazuha"><img src="assets/readme/idle/kaedehara-kazuha.webp" width="155" alt="Kaedehara Kazuha idle animation"></a><br>
       <b>「 Kazuha 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>20</sub><br>
-      <a href="#character-20-hoshimi-miyabi"><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="Hoshimi Miyabi idle animation"></a><br>
+      <a href="#character-20-hoshimi-miyabi"><img src="assets/readme/idle/hoshimi-miyabi.webp" width="155" alt="Hoshimi Miyabi idle animation"></a><br>
       <b>「 Miyabi 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>21</sub><br>
-      <a href="#character-21-aventurine"><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="Aventurine idle animation"></a><br>
+      <a href="#character-21-aventurine"><img src="assets/readme/idle/aventurine.webp" width="155" alt="Aventurine idle animation"></a><br>
       <b>「 Aventurine 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>22</sub><br>
-      <a href="#character-22-ganyu"><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="Ganyu idle animation"></a><br>
+      <a href="#character-22-ganyu"><img src="assets/readme/idle/ganyu.webp" width="155" alt="Ganyu idle animation"></a><br>
       <b>「 Ganyu 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>23</sub><br>
-      <a href="#character-23-sunday"><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="Sunday idle animation"></a><br>
+      <a href="#character-23-sunday"><img src="assets/readme/idle/sunday.webp" width="155" alt="Sunday idle animation"></a><br>
       <b>「 Sunday 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>24</sub><br>
-      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="Mitsuri Kanroji idle animation"></a><br>
+      <a href="#character-24-mitsuri-kanroji"><img src="assets/readme/idle/mitsuri-kanroji.webp" width="155" alt="Mitsuri Kanroji idle animation"></a><br>
       <b>「 Mitsuri 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>25</sub><br>
-      <a href="#character-25-kafka"><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="Kafka idle animation"></a><br>
+      <a href="#character-25-kafka"><img src="assets/readme/idle/kafka.webp" width="155" alt="Kafka idle animation"></a><br>
       <b>「 Kafka 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>26</sub><br>
-      <a href="#character-26-otto-apocalypse"><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="Otto Apocalypse idle animation"></a><br>
+      <a href="#character-26-otto-apocalypse"><img src="assets/readme/idle/otto-apocalypse.webp" width="155" alt="Otto Apocalypse idle animation"></a><br>
       <b>「 Otto 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>27</sub><br>
-      <a href="#character-27-nicole-demara"><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="Nicole Demara idle animation"></a><br>
+      <a href="#character-27-nicole-demara"><img src="assets/readme/idle/nicole-demara.webp" width="155" alt="Nicole Demara idle animation"></a><br>
       <b>「 Nicole 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>28</sub><br>
-      <a href="#character-28-jane-doe"><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="Jane Doe idle animation"></a><br>
+      <a href="#character-28-jane-doe"><img src="assets/readme/idle/jane-doe.webp" width="155" alt="Jane Doe idle animation"></a><br>
       <b>「 Jane&nbsp;Doe 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>29</sub><br>
-      <a href="#character-29-anby-demara"><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="Anby Demara idle animation"></a><br>
+      <a href="#character-29-anby-demara"><img src="assets/readme/idle/anby-demara.webp" width="155" alt="Anby Demara idle animation"></a><br>
       <b>「 Anby 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>30</sub><br>
-      <a href="#character-30-kiana-kaslana"><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="Kiana Kaslana idle animation"></a><br>
+      <a href="#character-30-kiana-kaslana"><img src="assets/readme/idle/kiana-kaslana.webp" width="155" alt="Kiana Kaslana idle animation"></a><br>
       <b>「 Kiana 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>31</sub><br>
-      <a href="#character-31-tartaglia"><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="Tartaglia idle animation"></a><br>
+      <a href="#character-31-tartaglia"><img src="assets/readme/idle/tartaglia.webp" width="155" alt="Tartaglia idle animation"></a><br>
       <b>「 Tartaglia 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>32</sub><br>
-      <a href="#character-32-burnice-white"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="Burnice White idle animation"></a><br>
+      <a href="#character-32-burnice-white"><img src="assets/readme/idle/burnice-white.webp" width="155" alt="Burnice White idle animation"></a><br>
       <b>「 Burnice 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>33</sub><br>
-      <a href="#character-33-sparkle"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="Sparkle idle animation"></a><br>
+      <a href="#character-33-sparkle"><img src="assets/readme/idle/sparkle.webp" width="155" alt="Sparkle idle animation"></a><br>
       <b>「 Sparkle 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>34</sub><br>
-      <a href="#character-34-venti"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="Venti idle animation"></a><br>
+      <a href="#character-34-venti"><img src="assets/readme/idle/venti.webp" width="155" alt="Venti idle animation"></a><br>
       <b>「 Venti 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>35</sub><br>
-      <a href="#character-35-fu-hua"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="Fu Hua idle animation"></a><br>
+      <a href="#character-35-fu-hua"><img src="assets/readme/idle/fu-hua.webp" width="155" alt="Fu Hua idle animation"></a><br>
       <b>「 Fu&nbsp;Hua 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>36</sub><br>
-      <a href="#character-36-lighter"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="Lighter idle animation"></a><br>
+      <a href="#character-36-lighter"><img src="assets/readme/idle/lighter.webp" width="155" alt="Lighter idle animation"></a><br>
       <b>「 Lighter 」</b><br>
     </td>
   </tr>
@@ -303,51 +303,51 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>37</sub><br>
-      <a href="#character-37-raiden-shogun"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="Raiden Shogun idle animation"></a><br>
+      <a href="#character-37-raiden-shogun"><img src="assets/readme/idle/raiden-shogun.webp" width="155" alt="Raiden Shogun idle animation"></a><br>
       <b>「 Raiden&nbsp;Shogun 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>38</sub><br>
-      <a href="#character-38-bronya-zaychik"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="Bronya idle animation"></a><br>
+      <a href="#character-38-bronya-zaychik"><img src="assets/readme/idle/bronya-zaychik.webp" width="155" alt="Bronya idle animation"></a><br>
       <b>「 Bronya 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>39</sub><br>
-      <a href="#character-39-zhu-yuan"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="Zhu Yuan idle animation"></a><br>
+      <a href="#character-39-zhu-yuan"><img src="assets/readme/idle/zhu-yuan.webp" width="155" alt="Zhu Yuan idle animation"></a><br>
       <b>「 Zhu&nbsp;Yuan 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>40</sub><br>
-      <a href="#character-40-seele-vollerei"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="Seele Vollerei idle animation"></a><br>
+      <a href="#character-40-seele-vollerei"><img src="assets/readme/idle/seele-vollerei.webp" width="155" alt="Seele Vollerei idle animation"></a><br>
       <b>「 Seele 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>41</sub><br>
-      <a href="#character-41-vivian-banshee"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="Vivian Banshee idle animation"></a><br>
+      <a href="#character-41-vivian-banshee"><img src="assets/readme/idle/vivian-banshee.webp" width="155" alt="Vivian Banshee idle animation"></a><br>
       <b>「 Vivian 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>42</sub><br>
-      <a href="#character-42-kibutsuji-muzan"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="Kibutsuji Muzan idle animation"></a><br>
+      <a href="#character-42-kibutsuji-muzan"><img src="assets/readme/idle/kibutsuji-muzan.webp" width="155" alt="Kibutsuji Muzan idle animation"></a><br>
       <b>「 Muzan 」</b><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
       <sub>43</sub><br>
-      <a href="#character-43-theresa"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="Theresa idle animation"></a><br>
+      <a href="#character-43-theresa"><img src="assets/readme/idle/theresa.webp" width="155" alt="Theresa idle animation"></a><br>
       <b>「 Theresa 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>44</sub><br>
-      <a href="#character-44-von-lycaon"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="Von Lycaon idle animation"></a><br>
+      <a href="#character-44-von-lycaon"><img src="assets/readme/idle/von-lycaon.webp" width="155" alt="Von Lycaon idle animation"></a><br>
       <b>「 Lycaon 」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>45</sub><br>
-      <a href="#character-45-black-swan"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="Black Swan idle animation"></a><br>
+      <a href="#character-45-black-swan"><img src="assets/readme/idle/black-swan.webp" width="155" alt="Black Swan idle animation"></a><br>
       <b>「 Black&nbsp;Swan 」</b><br>
     </td>
   </tr>
@@ -357,7 +357,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <sub>46</sub><br>
-      <a href="#character-46-wanderer"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="Wanderer idle animation"></a><br>
+      <a href="#character-46-wanderer"><img src="assets/readme/idle/wanderer.webp" width="155" alt="Wanderer idle animation"></a><br>
       <b>「 Wanderer 」</b><br>
     </td>
     <td align="center" valign="middle" width="50%">
@@ -1531,6 +1531,14 @@ The resulting folder should look like this:
 ```
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
+
+All 47 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+
+In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
+
+2026-11-06: All 47 editions were checked against slow desktop idle playback. Prolonged closed-eye holds were fixed in 45; Venti and Ellen retain their original idle. Other states, neutral, all 16 look directions, IDs, and the v2 format are preserved.
+
+[View edition coverage and the offline HTML comparison](docs/pet-compatibility-2026-11-06.md).
 
 ## Animation system
 

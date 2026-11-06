@@ -92,88 +92,88 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="33%"><sub>01</sub><br><img src="work/xiao/2d/qa/previews-final/idle.gif" width="155" alt="魈の待機アニメーション"><br><b>「 魈 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>02</sub><br><img src="work/dan-heng-imbibitor-lunae/2d/qa/previews-final/idle.gif" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>03</sub><br><img src="work/jing-yuan/2d/qa/previews-final/idle.gif" width="155" alt="景元の待機アニメーション"><br><b>「 景元 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>01</sub><br><img src="assets/readme/idle/xiao.webp" width="155" alt="魈の待機アニメーション"><br><b>「 魈 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>02</sub><br><img src="assets/readme/idle/dan-heng-imbibitor-lunae.webp" width="155" alt="丹恒・飲月の待機アニメーション"><br><b>「 丹恒 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>03</sub><br><img src="assets/readme/idle/jing-yuan.webp" width="155" alt="景元の待機アニメーション"><br><b>「 景元 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><sub>04</sub><br><img src="work/zhongli/2d/qa/previews-final/idle.gif" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 」</b></td>
-    <td align="center" valign="top"><sub>05</sub><br><img src="work/raiden-mei/2d/qa/previews-final/idle.gif" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 」</b></td>
-    <td align="center" valign="top"><sub>06</sub><br><img src="work/obanai/2d/qa/previews-final/idle.gif" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 」</b></td>
+    <td align="center" valign="top"><sub>04</sub><br><img src="assets/readme/idle/zhongli.webp" width="155" alt="鍾離の待機アニメーション"><br><b>「 鍾離 」</b></td>
+    <td align="center" valign="top"><sub>05</sub><br><img src="assets/readme/idle/raiden-mei-2d.webp" width="155" alt="雷電芽衣の待機アニメーション"><br><b>「 雷電芽衣 」</b></td>
+    <td align="center" valign="top"><sub>06</sub><br><img src="assets/readme/idle/obanai.webp" width="155" alt="伊黒小芭内の待機アニメーション"><br><b>「 伊黒小芭内 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><sub>07</sub><br><img src="work/yae-miko/2d/qa/previews-final/idle.gif" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 」</b></td>
-    <td align="center" valign="top"><sub>08</sub><br><img src="work/furina/2d/qa/previews-final/idle.gif" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ 」</b></td>
-    <td align="center" valign="top"><sub>09</sub><br><img src="work/acheron/2d/qa/previews-final/idle.gif" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 」</b></td>
+    <td align="center" valign="top"><sub>07</sub><br><img src="assets/readme/idle/yae-miko.webp" width="155" alt="八重神子の待機アニメーション"><br><b>「 八重神子 」</b></td>
+    <td align="center" valign="top"><sub>08</sub><br><img src="assets/readme/idle/furina.webp" width="155" alt="フリーナの待機アニメーション"><br><b>「 フリーナ 」</b></td>
+    <td align="center" valign="top"><sub>09</sub><br><img src="assets/readme/idle/acheron.webp" width="155" alt="黄泉の待機アニメーション"><br><b>「 黄泉 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><sub>10</sub><br><img src="work/ellen-joe/2d/qa/previews-final/idle.gif" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー 」</b></td>
-    <td align="center" valign="top"><sub>11</sub><br><img src="work/hu-tao/2d/qa/previews-final/idle.gif" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 」</b></td>
-    <td align="center" valign="top"><sub>12</sub><br><img src="work/robin/2d/qa/previews-final/idle.gif" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン 」</b></td>
+    <td align="center" valign="top"><sub>10</sub><br><img src="assets/readme/idle/ellen-joe.webp" width="155" alt="エレン・ジョーの待機アニメーション"><br><b>「 エレン・ジョー 」</b></td>
+    <td align="center" valign="top"><sub>11</sub><br><img src="assets/readme/idle/hu-tao.webp" width="155" alt="胡桃の待機アニメーション"><br><b>「 胡桃 」</b></td>
+    <td align="center" valign="top"><sub>12</sub><br><img src="assets/readme/idle/robin.webp" width="155" alt="ロビンの待機アニメーション"><br><b>「 ロビン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><sub>13</sub><br><img src="work/kaeya/2d/qa/previews-final/idle.gif" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア 」</b></td>
-    <td align="center" valign="top"><sub>14</sub><br><img src="work/firefly/2d/qa/previews-final/idle.gif" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル 」</b></td>
-    <td align="center" valign="top"><sub>15</sub><br><img src="work/kevin-kaslana/2d-repair-v3/qa/previews-final/idle.gif" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン 」</b></td>
+    <td align="center" valign="top"><sub>13</sub><br><img src="assets/readme/idle/kaeya.webp" width="155" alt="ガイアの待機アニメーション"><br><b>「 ガイア 」</b></td>
+    <td align="center" valign="top"><sub>14</sub><br><img src="assets/readme/idle/firefly.webp" width="155" alt="ホタルの待機アニメーション"><br><b>「 ホタル 」</b></td>
+    <td align="center" valign="top"><sub>15</sub><br><img src="assets/readme/idle/kevin-kaslana.webp" width="155" alt="ケビン・カスラナの待機アニメーション"><br><b>「 ケビン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>16</sub><br><img src="work/kamisato-ayaka/2d/qa/previews-final/idle.gif" width="155" alt="神里綾華の待機アニメーション"><br><b>「 綾華 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>17</sub><br><img src="work/blade/2d/qa/previews-final/idle.gif" width="155" alt="刃の待機アニメーション"><br><b>「 刃 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>18</sub><br><img src="work/ruan-mei/2d/qa/previews-final/idle.gif" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>16</sub><br><img src="assets/readme/idle/kamisato-ayaka.webp" width="155" alt="神里綾華の待機アニメーション"><br><b>「 綾華 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>17</sub><br><img src="assets/readme/idle/blade.webp" width="155" alt="刃の待機アニメーション"><br><b>「 刃 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>18</sub><br><img src="assets/readme/idle/ruan-mei.webp" width="155" alt="ルアン・メェイの待機アニメーション"><br><b>「 ルアン・メェイ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>19</sub><br><img src="work/kazuha-chibi/2d/qa/previews-final/idle.gif" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 万葉 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>20</sub><br><img src="work/miyabi/2d/qa/previews-final/idle.gif" width="155" alt="星見雅の待機アニメーション"><br><b>「 雅 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>21</sub><br><img src="work/aventurine/2d/qa/previews-final/idle.gif" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>19</sub><br><img src="assets/readme/idle/kaedehara-kazuha.webp" width="155" alt="楓原万葉の待機アニメーション"><br><b>「 万葉 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>20</sub><br><img src="assets/readme/idle/hoshimi-miyabi.webp" width="155" alt="星見雅の待機アニメーション"><br><b>「 雅 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>21</sub><br><img src="assets/readme/idle/aventurine.webp" width="155" alt="アベンチュリンの待機アニメーション"><br><b>「 アベンチュリン 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>22</sub><br><img src="work/ganyu/2d/qa/previews-final/idle.gif" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>23</sub><br><img src="work/sunday/2d/qa/previews-final/idle.gif" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>24</sub><br><img src="assets/readme/mitsuri-kanroji-idle.gif" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 蜜璃 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>22</sub><br><img src="assets/readme/idle/ganyu.webp" width="155" alt="甘雨の待機アニメーション"><br><b>「 甘雨 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>23</sub><br><img src="assets/readme/idle/sunday.webp" width="155" alt="サンデーの待機アニメーション"><br><b>「 サンデー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>24</sub><br><img src="assets/readme/idle/mitsuri-kanroji.webp" width="155" alt="甘露寺蜜璃の待機アニメーション"><br><b>「 蜜璃 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>25</sub><br><img src="work/kafka/2d/qa/previews-final/idle.gif" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>26</sub><br><img src="work/otto-apocalypse/2d/qa/previews-final/idle.gif" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>27</sub><br><img src="work/nicole-demara/2d/qa/previews-final/idle.gif" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>25</sub><br><img src="assets/readme/idle/kafka.webp" width="155" alt="カフカの待機アニメーション"><br><b>「 カフカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>26</sub><br><img src="assets/readme/idle/otto-apocalypse.webp" width="155" alt="オットー・アポカリプスの待機アニメーション"><br><b>「 オットー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>27</sub><br><img src="assets/readme/idle/nicole-demara.webp" width="155" alt="ニコ・デマラの待機アニメーション"><br><b>「 ニコ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>28</sub><br><img src="work/jane-doe/2d/qa/previews-final/idle.gif" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>29</sub><br><img src="work/anby-demara/2d/qa/previews-final/idle.gif" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>30</sub><br><img src="work/kiana-kaslana/2d/qa/previews-final/idle.gif" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>28</sub><br><img src="assets/readme/idle/jane-doe.webp" width="155" alt="ジェーンの待機アニメーション"><br><b>「 ジェーン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>29</sub><br><img src="assets/readme/idle/anby-demara.webp" width="155" alt="アンビー・デマラの待機アニメーション"><br><b>「 アンビー 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>30</sub><br><img src="assets/readme/idle/kiana-kaslana.webp" width="155" alt="キアナ・カスラナの待機アニメーション"><br><b>「 キアナ 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>31</sub><br><img src="work/tartaglia/2d/qa/previews-final/idle.gif" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="work/burnice-white/2d/qa/previews/idle.gif" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="work/sparkle/2d/qa/previews-final/idle.gif" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>31</sub><br><img src="assets/readme/idle/tartaglia.webp" width="155" alt="タルタリヤの待機アニメーション"><br><b>「 タルタリヤ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>32</sub><br><a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><img src="assets/readme/idle/burnice-white.webp" width="155" alt="バーニスの待機アニメーション"></a><br><b>「 バーニス 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>33</sub><br><a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><img src="assets/readme/idle/sparkle.webp" width="155" alt="花火の待機アニメーション"></a><br><b>「 花火 」</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="work/venti/2d/qa/previews-final/idle.gif" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="work/fu-hua/2d/qa/previews-final/idle.gif" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>36</sub><br><a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><img src="work/lighter/2d/qa/previews-final/idle.gif" width="155" alt="ライトの待機アニメーション"></a><br><b>「 ライト 」</b></td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="33%"><sub>37</sub><br><a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><img src="work/raiden-shogun/2d/qa/previews-final/idle.gif" width="155" alt="雷電将軍の待機アニメーション"></a><br><b>「 雷電将軍 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>38</sub><br><a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><img src="work/bronya-zaychik/2d/qa/previews-final/idle.gif" width="155" alt="ブローニャの待機アニメーション"></a><br><b>「 ブローニャ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>39</sub><br><a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><img src="work/zhu-yuan/2d/qa/previews-final/idle.gif" width="155" alt="朱鳶の待機アニメーション"></a><br><b>「 朱鳶 」</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%"><sub>40</sub><br><a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><img src="work/seele-vollerei/2d/qa/previews-final/idle.gif" width="155" alt="ゼーレの待機アニメーション"></a><br><b>「 ゼーレ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>41</sub><br><a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><img src="work/vivian-banshee/2d/qa/previews-final/idle.gif" width="155" alt="ビビアンの待機アニメーション"></a><br><b>「 ビビアン 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>42</sub><br><a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><img src="work/kibutsuji-muzan/2d/qa/previews-final/idle.gif" width="155" alt="無惨の待機アニメーション"></a><br><b>「 無惨 」</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%"><sub>43</sub><br><a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><img src="work/theresa/2d/qa/previews-final/idle.gif" width="155" alt="テレサの待機アニメーション"></a><br><b>「 テレサ 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>44</sub><br><a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><img src="work/von-lycaon/2d/qa/previews-final/idle.gif" width="155" alt="ライカンの待機アニメーション"></a><br><b>「 ライカン 」</b></td>
-    <td align="center" valign="top" width="33%"><sub>45</sub><br><a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><img src="work/black-swan/2d/qa/previews-final/idle.gif" width="155" alt="ブラックスワンの待機アニメーション"></a><br><b>「 ブラックスワン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>34</sub><br><a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><img src="assets/readme/idle/venti.webp" width="155" alt="ウェンティの待機アニメーション"></a><br><b>「 ウェンティ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>35</sub><br><a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><img src="assets/readme/idle/fu-hua.webp" width="155" alt="フカの待機アニメーション"></a><br><b>「 フカ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>36</sub><br><a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><img src="assets/readme/idle/lighter.webp" width="155" alt="ライトの待機アニメーション"></a><br><b>「 ライト 」</b></td>
   </tr>
 </table>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="50%"><sub>46</sub><br><a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><img src="work/wanderer/2d/qa/previews-final/idle.gif" width="155" alt="放浪者の待機アニメーション"></a><br><b>「 放浪者 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>37</sub><br><a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><img src="assets/readme/idle/raiden-shogun.webp" width="155" alt="雷電将軍の待機アニメーション"></a><br><b>「 雷電将軍 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>38</sub><br><a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><img src="assets/readme/idle/bronya-zaychik.webp" width="155" alt="ブローニャの待機アニメーション"></a><br><b>「 ブローニャ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>39</sub><br><a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><img src="assets/readme/idle/zhu-yuan.webp" width="155" alt="朱鳶の待機アニメーション"></a><br><b>「 朱鳶 」</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><sub>40</sub><br><a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><img src="assets/readme/idle/seele-vollerei.webp" width="155" alt="ゼーレの待機アニメーション"></a><br><b>「 ゼーレ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>41</sub><br><a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><img src="assets/readme/idle/vivian-banshee.webp" width="155" alt="ビビアンの待機アニメーション"></a><br><b>「 ビビアン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>42</sub><br><a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><img src="assets/readme/idle/kibutsuji-muzan.webp" width="155" alt="無惨の待機アニメーション"></a><br><b>「 無惨 」</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><sub>43</sub><br><a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><img src="assets/readme/idle/theresa.webp" width="155" alt="テレサの待機アニメーション"></a><br><b>「 テレサ 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>44</sub><br><a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><img src="assets/readme/idle/von-lycaon.webp" width="155" alt="ライカンの待機アニメーション"></a><br><b>「 ライカン 」</b></td>
+    <td align="center" valign="top" width="33%"><sub>45</sub><br><a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><img src="assets/readme/idle/black-swan.webp" width="155" alt="ブラックスワンの待機アニメーション"></a><br><b>「 ブラックスワン 」</b></td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%"><sub>46</sub><br><a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><img src="assets/readme/idle/wanderer.webp" width="155" alt="放浪者の待機アニメーション"></a><br><b>「 放浪者 」</b></td>
     <td align="center" valign="middle" width="50%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
@@ -307,6 +307,14 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 ├── spritesheet.webp
 └── README.md
 ```
+
+全 47 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
+
+デスクトップアプリの **Settings → Pets** で **Refresh** を押し、キャラクターを選んで `/pet` を入力すると表示できます。見つからない場合は、フォルダーの階層と両方のファイルがコピーされているかを確認してください。
+
+2026-11-06：全 47 バージョンをデスクトップ版の低速待機再生で確認し、45 バージョンの長い閉眼を修正しました。ウェンティとエレンの待機は元のままです。ほかの状態、ニュートラル、16 方向の視線、ID、v2 形式は維持しています。
+
+[各バージョンの修正記録とオフライン HTML 比較](docs/pet-compatibility-2026-11-06.md)。
 
 ## Codex v2 仕様
 

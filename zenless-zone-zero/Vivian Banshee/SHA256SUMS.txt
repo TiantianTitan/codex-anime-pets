@@ -1,3 +1,3 @@
-cf8daba82a2b3a03ec70f1c6507b5b225a1f71983f527c562d9d49fc541841fa  vivian-banshee-2d-codex-pet-v2.zip
+65a417c46fb0694d469b773e5c792439c951a3352266c8048285195c8ce4ef64  vivian-banshee-2d-codex-pet-v2.zip
 d8f0f4aaa72d0082622284797debf55b7a54557e49e85657f6bd673e04a447f0  vivian-banshee-2d/pet.json
-946a4e011c54a44595b2453379da7498859e36a3cbba19fb3b22152bfcc4d4bb  vivian-banshee-2d/spritesheet.webp
+c9691299165ab05e9af46ba9aaf073b567a55599f5dd9f8098fb29667bfa4359  vivian-banshee-2d/spritesheet.webp
