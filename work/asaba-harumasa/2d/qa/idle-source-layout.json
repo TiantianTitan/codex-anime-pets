@@ -1,0 +1,42 @@
+{
+  "idle": {
+    "source_sha256": "5901a487759e1c4fd9fd1c4bcac87be7fd869ea980615eaee847a5ea2f2b03f7",
+    "cuts": [
+      0,
+      370,
+      732,
+      1094,
+      1456,
+      1818,
+      2172
+    ],
+    "foot_anchors": [
+      [
+        179.91765873015873,
+        649
+      ],
+      [
+        542.5590793965422,
+        649
+      ],
+      [
+        904.4407479886931,
+        649
+      ],
+      [
+        1266.1930484835068,
+        649
+      ],
+      [
+        1628.2989300044583,
+        650
+      ],
+      [
+        1990.311246537396,
+        649
+      ]
+    ],
+    "reference_cell": "canonical-cell.png",
+    "review_note": "Complete isolated source silhouettes reviewed. Component per-pose fitting normalizes every bounding height independently and erases quiet body motion/changes head size in head bows; shared anatomical scale and measured planted boot anchors preserve the original gesture and canonical scale. No component deletion, per-frame scaling or repaint."
+  }
+}

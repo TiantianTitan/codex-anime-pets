@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>49 CHARACTERS</code>
-  <code>50 EDITIONS</code>
+  <code>50 CHARACTERS</code>
+  <code>51 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=49" width="100%" alt="Animated new arrivals showcase with Kallen, Jingliu, and Albedo">
+  <img src="assets/readme/new-arrivals-stage.webp?v=50" width="100%" alt="Animated new arrivals showcase with Jingliu, Albedo, and Harumasa">
 </p>
 
 <p align="center">
-  <a href="#character-47-kallen-kaslana"><kbd>Kallen</kbd></a>
   <a href="#character-48-jingliu"><kbd>Jingliu</kbd></a>
   <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
+  <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=49" width="100%" alt="Complete Codex Anime Pets collection wall with 49 characters and 50 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=50" width="100%" alt="Complete Codex Anime Pets collection wall with 50 characters and 51 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -83,12 +83,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 49 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 50 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -377,7 +377,12 @@
       <a href="#character-49-albedo"><img src="assets/readme/idle/albedo.webp" width="155" alt="Albedo idle animation"></a><br>
       <b>「 Albedo 」</b><br>
     </td>
-    <td align="center" valign="middle" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>50</sub><br>
+      <a href="#character-50-asaba-harumasa"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="Harumasa idle animation"></a><br>
+      <b>「&nbsp;Harumasa&nbsp;」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1487,6 +1492,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-50-asaba-harumasa" name="character-50-asaba-harumasa"></a>
+<details>
+<summary><b>50 · Harumasa</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/asaba-harumasa.webp" width="190" alt="Harumasa idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> tousled navy hair, golden eyes, a yellow headband, asymmetric tactical sleeves, and teal waist layers<br>
+      <b>Mood:</b> Easygoing, with a watchful glint beneath the fringe.<br><br>
+      <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/asaba-harumasa/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/asaba-harumasa/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1561,7 +1588,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 10 companions　<kbd>Open</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 11 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1575,6 +1602,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Zhu Yuan | 2D | `zhu-yuan` | [Download ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 | Vivian Banshee | 2D | `vivian-banshee` | [Download ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 | Von Lycaon | 2D | `von-lycaon` | [Download ZIP](zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip) |
+| Harumasa | 2D | `asaba-harumasa` | [Download ZIP](zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1618,7 +1646,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 50 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 51 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 

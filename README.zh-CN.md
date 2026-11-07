@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>49 个角色</code>
-  <code>50 个版本</code>
+  <code>50 个角色</code>
+  <code>51 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=49" width="100%" alt="卡莲、镜流和阿贝多的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=50" width="100%" alt="镜流、阿贝多和浅羽悠真的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-47-kallen-kaslana"><kbd>卡莲</kbd></a>
   <a href="#character-48-jingliu"><kbd>镜流</kbd></a>
   <a href="#character-49-albedo"><kbd>阿贝多</kbd></a>
+  <a href="#character-50-asaba-harumasa"><kbd>浅羽悠真</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=49" width="100%" alt="包含四十九位角色、五十个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=50" width="100%" alt="包含五十位角色、五十一个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 13</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 9</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 10</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 11</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 49 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 50 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -375,7 +375,12 @@
       <a href="#character-49-albedo"><img src="assets/readme/idle/albedo.webp" width="155" alt="阿贝多的待机动画"></a><br>
       <b>「 阿贝多 」</b><br>
     </td>
-    <td align="center" valign="middle" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>50</sub><br>
+      <a href="#character-50-asaba-harumasa"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="浅羽悠真的待机动画"></a><br>
+      <b>「 浅羽悠真 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图，孵化新的伙伴</sub>
@@ -1485,6 +1490,28 @@
 
 </details>
 
+<a id="character-50-asaba-harumasa" name="character-50-asaba-harumasa"></a>
+<details>
+<summary><b>50 · 浅羽悠真</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/asaba-harumasa.webp" width="190" alt="浅羽悠真的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>标志细节：</b> 蓬松的藏蓝短发、金色眼睛、黄色头带、不对称战术衣袖，以及腰间的青绿色衣摆<br>
+      <b>性格：</b> 神情松弛，眼里却藏着几分机敏。<br><br>
+      <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/asaba-harumasa/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/asaba-harumasa/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1559,7 +1586,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>绝区零</b> · 10 位角色　<kbd>展开</kbd></summary>
+<summary><b>绝区零</b> · 11 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1573,6 +1600,7 @@
 | 朱鸢 | 2D | `zhu-yuan` | [下载 ZIP](zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip) |
 | 薇薇安 | 2D | `vivian-banshee` | [下载 ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 | 莱卡恩 | 2D | `von-lycaon` | [下载 ZIP](zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip) |
+| 浅羽悠真 | 2D | `asaba-harumasa` | [下载 ZIP](zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1616,7 +1644,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 50 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 51 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 

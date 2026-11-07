@@ -1,0 +1,16 @@
+{"pairs":[
+{"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's nose and chin angle right; B's face and pupils angle left."},
+{"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's exposed face and nose point left; B's point right."},
+{"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's nose projects left with the face left of the hair mass; B shows the reverse."},
+{"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A has a left-facing nose and cheek silhouette; B has a right-facing silhouette."},
+{"pair":"horizontal-5","A":"screen-left","B":"screen-right","reason":"Despite lowered eyelids, A's nose and chin shift left while B's shift right."},
+{"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A's lowered face is displaced left beneath the bangs; B's nose and chin are displaced right."},
+{"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"Eyes are nearly closed, but A's visible cheek and chin angle slightly right; B's angle slightly left."},
+{"pair":"vertical-1","A":"up","B":"down","reason":"A has raised pupils and an exposed lifted chin; B's eyelids and chin are lowered beneath the bangs."},
+{"pair":"vertical-2","A":"up","B":"down","reason":"A's eyes and nose angle upward; B's eyes narrow downward and the chin tucks."},
+{"pair":"vertical-3","A":"down","B":"up","reason":"A looks from beneath lowered bangs with a tucked chin; B has open raised eyes and a lifted face."},
+{"pair":"vertical-4","A":"up","B":"down","reason":"A's gaze and chin are lifted; B's eyelids lower and the face tips downward."},
+{"pair":"vertical-5","A":"up","B":"down","reason":"A's pupils sit high and the chin lifts; B's closed-looking lids and tucked face indicate down."},
+{"pair":"vertical-6","A":"down","B":"up","reason":"A's face tips down beneath the fringe; B's open eyes and raised chin point up."},
+{"pair":"vertical-7","A":"down","B":"up","reason":"A has lowered eyelids and a tucked chin; B's eyes and nose angle upward with more exposed chin."}
+]}

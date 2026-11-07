@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "atlas_sha256": "ce805c7b86189ae7c0bbe3462402cb7d2f0f12506d3bc0e4f09a60c42831af04",
+  "standard_source_frames_verified": 57,
+  "look_source_frames_verified": 16,
+  "whole_atlas_alpha_unchanged_by_single_final_cleanup": true,
+  "rows": [
+    {
+      "state": "idle",
+      "source": "decoded/idle.png",
+      "source_sha256": "5901a487759e1c4fd9fd1c4bcac87be7fd869ea980615eaee847a5ea2f2b03f7",
+      "method": "reviewed-layout",
+      "frame_count": 6,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "running-right",
+      "source": "decoded/running-right.png",
+      "source_sha256": "dce87573ae6381470baba6c6584869d266c42230bd03e450bba12e259f9e532f",
+      "method": "stable-slots",
+      "frame_count": 8,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "running-left",
+      "source": "decoded/running-left.png",
+      "source_sha256": "1dbaf92d8f90c2dc7c3e0a96797d420a1bf6e846d8a11f6f0be550ee41297828",
+      "method": "stable-slots",
+      "frame_count": 8,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "waving",
+      "source": "decoded/waving.png",
+      "source_sha256": "8d143bc6dc7163a7cd516dda7f3844938c3fa005280d6df976d706d0274c1f50",
+      "method": "reviewed-layout",
+      "frame_count": 4,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "jumping",
+      "source": "decoded/jumping.png",
+      "source_sha256": "421068541785c911dddf8a2b1ff1408f57b40ed4e653c88d5ee4fa5ebbb5b64d",
+      "method": "reviewed-jump-arc",
+      "frame_count": 5,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "failed",
+      "source": "decoded/failed.png",
+      "source_sha256": "784cac4b20ee271ce1b8c5aa82a3497b815f20241fa5d49073fe35f940233c6e",
+      "method": "reviewed-layout",
+      "frame_count": 8,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "waiting",
+      "source": "decoded/waiting.png",
+      "source_sha256": "a2c65ecdde69fe231755efab296acd6c25739b45e590cf851b6b8dff9275cdee",
+      "method": "reviewed-layout",
+      "frame_count": 6,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "running",
+      "source": "decoded/running.png",
+      "source_sha256": "697af89dbf5533f2484b75cf18f7c574754a0de131d95b3d459a88daa3221635",
+      "method": "reviewed-layout",
+      "frame_count": 6,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "exact_source_reconstruction": true
+    },
+    {
+      "state": "review",
+      "source": "decoded/review.png",
+      "source_sha256": "60982cb9005abd69d63016f833dd6a592f45714f1821f21040a0319de82fa4b1",
+      "method": "reviewed-layout",
+      "frame_count": 6,
+      "source_frame_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "exact_source_reconstruction": true
+    }
+  ],
+  "look_rows": [
+    {
+      "row": 9,
+      "source": "decoded/look-row-9.png",
+      "source_sha256": "a3caa25b0839fdedeed49438d33eb68bd93631d0ec1afcce1ce47e64fdeb13bd",
+      "frame_count": 8,
+      "shared_scale": 0.37014314928425357,
+      "exact_source_reconstruction": true
+    },
+    {
+      "row": 10,
+      "source": "decoded/look-row-10.png",
+      "source_sha256": "7b6cd1550accefc1816faefeab35744754a1e0177a8d768dabeb63cddd8da36e",
+      "frame_count": 8,
+      "shared_scale": 0.37014314928425357,
+      "exact_source_reconstruction": true
+    }
+  ],
+  "extractor_sha256": "d72154480acad8e80c89a8b66caf3aef352470b53987f5276ef3cddda598cf73",
+  "assembler_sha256": "ca50b13d62858a660e1ae2d15649a1ccb565d03ee185539d22df0e121075eadc"
+}

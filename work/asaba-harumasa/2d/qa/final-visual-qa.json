@@ -1,0 +1,56 @@
+{
+  "visual_qa": "pass",
+  "atlas_sha256": "ce805c7b86189ae7c0bbe3462402cb7d2f0f12506d3bc0e4f09a60c42831af04",
+  "reviewed_by": "independent isolated harumasa_final_visual worker",
+  "qa_note": "All nine states and sixteen directions preserve character identity, complete hair/feet, consistent head scale, attached quiver and anatomical costume sides, with acceptable native ordered-frame loops and action-to-idle seams.",
+  "review_mode": "Background native ordered frames, seams and independently decoded exact-final preview/transition durations; not a live installed-client test",
+  "client_timing_basis": "Historical local Codex Desktop 26.1007.21434 evidence: idle 1680/660/660/840/840/1920ms, nonidle three-cycle QA sequence between complete idle cycles",
+  "evidence": [
+    "contact-sheet-extended.png",
+    "look-directions.png",
+    "native-final/",
+    "motion-seams.png",
+    "previews-final/",
+    "transitions-final/",
+    "preview-validation.json",
+    "transition-validation.json",
+    "source-reconstruction.json",
+    "generation-provenance.json",
+    "direction-semantics.json",
+    "direction-blind-validation.json",
+    "look-continuity.json",
+    "chroma-despill-extended.json",
+    "../final/validation-extended.json"
+  ],
+  "direction_semantics": "Independent verdicts match direction-semantics.json for all sixteen directions; all four cardinals are unambiguous and pass, both axes documented for diagonals",
+  "review_warnings": [
+    "Near-axis diagonal components are subtle; all fourteen blind axis-pairs pass strict majority, including hard cardinals.",
+    "157.5-to-180 and 337.5-to-000 have slightly larger localized head/hair changes, not gross snaps, scale pops or reversals.",
+    "Left gait has deliberately restrained arms and a perceptible 220ms terminal hold, with readable cycling leg rhythm."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none",
+  "selected_source_sha256": {
+    "base": "f9d37333d4c7c8a83c3c0d9807a526977885020fb8ae46176886b768422d736f",
+    "idle": "5901a487759e1c4fd9fd1c4bcac87be7fd869ea980615eaee847a5ea2f2b03f7",
+    "running-right": "dce87573ae6381470baba6c6584869d266c42230bd03e450bba12e259f9e532f",
+    "running-left": "1dbaf92d8f90c2dc7c3e0a96797d420a1bf6e846d8a11f6f0be550ee41297828",
+    "waving": "8d143bc6dc7163a7cd516dda7f3844938c3fa005280d6df976d706d0274c1f50",
+    "jumping": "421068541785c911dddf8a2b1ff1408f57b40ed4e653c88d5ee4fa5ebbb5b64d",
+    "failed": "784cac4b20ee271ce1b8c5aa82a3497b815f20241fa5d49073fe35f940233c6e",
+    "waiting": "a2c65ecdde69fe231755efab296acd6c25739b45e590cf851b6b8dff9275cdee",
+    "running": "697af89dbf5533f2484b75cf18f7c574754a0de131d95b3d459a88daa3221635",
+    "review": "60982cb9005abd69d63016f833dd6a592f45714f1821f21040a0319de82fa4b1",
+    "look-cardinals": "740692987a747c664eed8dee17eb5775cb2c4269a1f7819945d0b25e4c6b5e55",
+    "look-row-9": "a3caa25b0839fdedeed49438d33eb68bd93631d0ec1afcce1ce47e64fdeb13bd",
+    "look-row-10": "7b6cd1550accefc1816faefeab35744754a1e0177a8d768dabeb63cddd8da36e"
+  },
+  "evidence_sha256": {
+    "generation-provenance.json": "aef52e022a8977c4b1f0a29af051f0563300710a32e01f22115e225f8002722b",
+    "source-reconstruction.json": "715ec23452d615c95a17863f8fad9c4f5e683ef8ee1dd6c4ba123bc01fd0a9db",
+    "direction-semantics.json": "39926a4c73f6ce83429a6bc03ee95937620b22e1bd7a8f404275e5428b9097f7",
+    "direction-blind-validation.json": "a4b95a70ce6f02bf389ddd5b1873f57ccf946b1784e376eae7894a148b35f22e",
+    "preview-validation.json": "bf114b6107d9584983c6f5d47a08bca07939ada5dc2aa63ef980dce332b27063",
+    "transition-validation.json": "97cba7681d38e4efae78bda6458cce2b876f1fe90e38e9b7ea06739139ac324b"
+  }
+}

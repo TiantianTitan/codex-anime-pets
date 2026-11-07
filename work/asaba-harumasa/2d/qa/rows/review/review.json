@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "frames_root": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames",
+  "states": [
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "review used extraction method reviewed-layout; component extraction is preferred"
+  ],
+  "rows": [
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "reviewed-layout",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method reviewed-layout; component extraction is preferred"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10642,
+          "bbox": [
+            52,
+            20,
+            138,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        },
+        {
+          "index": 1,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10591,
+          "bbox": [
+            53,
+            21,
+            139,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 2,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10477,
+          "bbox": [
+            52,
+            24,
+            138,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 3,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10477,
+          "bbox": [
+            52,
+            24,
+            138,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 4,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10548,
+          "bbox": [
+            53,
+            20,
+            138,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 5,
+          "file": "/home/ubuntu23/Bureau/codex-anime-pets/work/asaba-harumasa/2d/qa/rows/review/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10656,
+          "bbox": [
+            52,
+            20,
+            138,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        }
+      ]
+    }
+  ]
+}

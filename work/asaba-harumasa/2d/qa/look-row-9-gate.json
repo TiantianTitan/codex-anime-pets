@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "source_sha256": "a3caa25b0839fdedeed49438d33eb68bd93631d0ec1afcce1ce47e64fdeb13bd",
+  "registered_sha256": "ed5aab3fb3feae1202f0494e943999e6af50c139f3993c8ba485326c20146e91",
+  "shared_scale": 0.37014314928425357,
+  "post_registration_edges": "Provided assembler completed without an edge/pose-group failure; eight complete separated registered cells inspected",
+  "continuity": "Planted boots/lower torso remain aligned, skull size stays consistent, head yaw progresses toward screen-right then returns toward centered down; no visible reversal, clipping or scale pop",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "expected": "up", "observed": "Raised chin and upper golden irises", "reason": "Clearly lifted face and gaze; not neutral."},
+    {"degree": "022.5", "verdict": "warning", "expected": "up-right", "observed": {"horizontal": "Small nose/eye bias screen-right", "vertical": "Chin and gaze stay raised"}, "reason": "Near-vertical horizontal component is subtle but consistent with the ordered sweep."},
+    {"degree": "045", "verdict": "pass", "expected": "up-right", "observed": {"horizontal": "Face/nose and pupils advance screen-right", "vertical": "Raised chin and upper eye focus"}, "reason": "Both axes readable."},
+    {"degree": "067.5", "verdict": "warning", "expected": "up-right", "observed": {"horizontal": "Clear screen-right head/eye turn", "vertical": "Small upward chin/eye cue"}, "reason": "Vertical cue softens toward the level right cardinal without reversing."},
+    {"degree": "090", "verdict": "pass", "expected": "right", "observed": "Level face and pupils/nose turned screen-right", "reason": "Unmistakable rightward attention."},
+    {"degree": "112.5", "verdict": "pass", "expected": "down-right", "observed": {"horizontal": "Screen-right yaw and pupils", "vertical": "Chin drops and eye focus lowers"}, "reason": "Both axes readable."},
+    {"degree": "135", "verdict": "warning", "expected": "down-right", "observed": {"horizontal": "Residual rightward face/eye bias", "vertical": "Lower chin, more crown, attentive lower gaze"}, "reason": "Yaw diminishes toward down; no wrong quadrant or snap in the ordered family."},
+    {"degree": "157.5", "verdict": "warning", "expected": "down-right", "observed": {"horizontal": "Small remaining rightward eye/face bias", "vertical": "Clear tucked chin/lowered eyes"}, "reason": "Near-down horizontal cue subtle; end is a small step before the approved down anchor."}
+  ]
+}

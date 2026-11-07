@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "reviewed_by": "parent native-size cardinal strip inspection",
+  "directions": [
+    {"degree": "000", "verdict": "pass", "expected": "up", "observed": "Raised chin and face plane, irises toward upper eye aperture", "reason": "Clear upward eye/head attention distinct from neutral."},
+    {"degree": "090", "verdict": "pass", "expected": "screen-right", "observed": "Nose tip, face and golden pupils shift screen-right of the head center", "reason": "Rightward head yaw and eyes oppose the left anchor."},
+    {"degree": "180", "verdict": "pass", "expected": "down", "observed": "Tucked chin, more crown exposed, irises lower under attentive eyelids", "reason": "Clear downward attention rather than a neutral face or blink."},
+    {"degree": "270", "verdict": "pass", "expected": "screen-left", "observed": "Nose tip, face and golden pupils shift screen-left of the head center", "reason": "Leftward yaw and eyes oppose the right anchor."}
+  ]
+}
