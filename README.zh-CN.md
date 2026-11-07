@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>50 个角色</code>
-  <code>51 个版本</code>
+  <code>51 个角色</code>
+  <code>52 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=50" width="100%" alt="镜流、阿贝多和浅羽悠真的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=51" width="100%" alt="阿贝多、浅羽悠真和丽塔的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-48-jingliu"><kbd>镜流</kbd></a>
   <a href="#character-49-albedo"><kbd>阿贝多</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>浅羽悠真</kbd></a>
+  <a href="#character-51-rita-rossweisse"><kbd>丽塔</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=50" width="100%" alt="包含五十位角色、五十一个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=51" width="100%" alt="包含五十一位角色、五十二个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 13</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 9</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 11</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 50 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 51 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -380,7 +380,14 @@
       <a href="#character-50-asaba-harumasa"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="浅羽悠真的待机动画"></a><br>
       <b>「 浅羽悠真 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>51</sub><br>
+      <a href="#character-51-rita-rossweisse"><img src="assets/readme/idle/rita-rossweisse.webp" width="155" alt="丽塔的待机动画"></a><br>
+      <b>「 丽塔 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图，孵化新的伙伴</sub>
@@ -1512,6 +1519,28 @@
 
 </details>
 
+<a id="character-51-rita-rossweisse" name="character-51-rita-rossweisse"></a>
+<details>
+<summary><b>51 · 丽塔</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/rita-rossweisse.webp" width="190" alt="丽塔的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>外观：</b> 灰棕色短发、酒红色眼睛、玫瑰女仆头饰，搭配黑白荷叶边裙装<br>
+      <b>神态：</b> 温和从容，举止间自有分寸。<br><br>
+      <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
+      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1567,7 +1596,7 @@
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>崩坏3</b> · 9 位角色 / 10 个版本　<kbd>展开</kbd></summary>
+<summary><b>崩坏3</b> · 10 位角色 / 11 个版本　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1581,6 +1610,7 @@
 | 希儿 | 2D | `seele-vollerei` | [下载 ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | 德丽莎 | 2D | `theresa` | [下载 ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | 卡莲 | 2D | `kallen-kaslana` | [下载 ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
+| 丽塔 | 2D | `rita-rossweisse` | [下载 ZIP](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1644,7 +1674,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 51 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 52 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 

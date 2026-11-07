@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-11-07T18:22:03.766080+00:00",
+  "stage": "complete",
+  "scope": "2D only; product/ZIP and work QA; no root README, live installation, commit or push",
+  "completed_jobs": [
+    "base",
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review",
+    "look-cardinals",
+    "look-row-9",
+    "look-row-10"
+  ],
+  "failures": [],
+  "updated_at": "2026-11-07T18:48:57.962940+00:00",
+  "completed_at": "2026-11-07T19:48:36.448530+00:00",
+  "minutes_since_progress_record_started": 86.5
+}

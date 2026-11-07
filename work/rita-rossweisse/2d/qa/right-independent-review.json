@@ -1,0 +1,12 @@
+{
+  "verdict": "pass",
+  "reviewer": "rita_gait_qa — isolated read-only source/native review",
+  "source_sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+  "reasons": [
+    "All eight phases face right and show readable contact, compression, passing and airborne poses; opposite half-cycles include arm and leg-overlap changes, not merely a static repeated pose.",
+    "Frame 7 airborne pose can transition into frame 0 forward contact. The 220ms final hold may add a slight airborne pause, but no major seam repair is required.",
+    "Rose remains on anatomical right; anatomical left eye remains fringe-covered. Maid identity is consistent and both hands stay empty."
+  ],
+  "major_repair_needed": null,
+  "registration_note": "Review approved source cadence; parent subsequently preserves source vertical displacement with one shared scale rather than per-frame fitting. Final atlas review remains mandatory."
+}

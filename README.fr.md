@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>50 PERSONNAGES</code>
-  <code>51 ÉDITIONS</code>
+  <code>51 PERSONNAGES</code>
+  <code>52 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=50" width="100%" alt="Présentation animée des nouveautés Jingliu, Albedo et Harumasa">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=51" width="100%" alt="Présentation animée des nouveautés Albedo, Harumasa et Rita">
 </p>
 
 <p align="center">
-  <a href="#character-48-jingliu"><kbd>Jingliu</kbd></a>
   <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
+  <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=50" width="100%" alt="Collection complète de 50 personnages et 51 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=51" width="100%" alt="Collection complète de 51 personnages et 52 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 50 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 51 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -380,7 +380,14 @@
       <a href="#character-50-asaba-harumasa"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="Animation d'attente de Harumasa"></a><br>
       <b>「&nbsp;Harumasa&nbsp;」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>51</sub><br>
+      <a href="#character-51-rita-rossweisse"><img src="assets/readme/idle/rita-rossweisse.webp" width="155" alt="Animation d'attente de Rita"></a><br>
+      <b>「 Rita 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence et faites éclore un compagnon</sub>
@@ -1512,6 +1519,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-51-rita-rossweisse" name="character-51-rita-rossweisse"></a>
+<details>
+<summary><b>51 · Rita</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/rita-rossweisse.webp" width="190" alt="Animation d'attente de Rita"></td>
+    <td>
+      <b>Style :</b> Autocollant animé 2D<br>
+      <b>Traits distinctifs :</b> un carré brun cendré, un œil rouge lie-de-vin, une coiffe ornée d’une rose et une robe de soubrette noire et blanche à volants<br>
+      <b>Allure :</b> Douce et posée, toujours attentive.<br><br>
+      <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
+      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1567,7 +1596,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 9 personnages / 10 éditions　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 10 personnages / 11 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1581,6 +1610,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Seele Vollerei | 2D | `seele-vollerei` | [Télécharger](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | Theresa | 2D | `theresa` | [Télécharger](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | Kallen | 2D | `kallen-kaslana` | [Télécharger](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
+| Rita | 2D | `rita-rossweisse` | [Télécharger](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1644,7 +1674,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 51 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 52 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 

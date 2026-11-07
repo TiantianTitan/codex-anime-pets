@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse1.webp",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse1.webp",
+    "sha256": "5ddaa4b1523236107dab7284e9dafe98f511d224feb430b1500f15df809aac5b",
+    "format": "WEBP",
+    "size": [
+      400,
+      495
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse2",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse2",
+    "sha256": "108198e85d6693e172f6ee28e786eee6c051df1eb923e6f3e76f6ed8e6e80b92",
+    "format": "WEBP",
+    "size": [
+      720,
+      1544
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse3",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse3",
+    "sha256": "b7a0b61b220bfe8f0c70574e3b07547cb43212226f4917ccf212587072b6bc67",
+    "format": "JPEG",
+    "size": [
+      596,
+      335
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse4.jpeg",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse4.jpeg",
+    "sha256": "e72a8309aa5c1b3312803867637f383484ef0fc658a82a411eaa453d219f8064",
+    "format": "JPEG",
+    "size": [
+      399,
+      501
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse5",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse5",
+    "sha256": "729400e51a992d1b657fa55d6ecd814f0da756291070fd73b3f314d8b8ae140a",
+    "format": "JPEG",
+    "size": [
+      369,
+      542
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse6.jpeg",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse6.jpeg",
+    "sha256": "3cd65c4f5c6b86ede21a9a93cc7b18fcd93423d3101beddaf1549ac879e67949",
+    "format": "JPEG",
+    "size": [
+      376,
+      531
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse7",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse7",
+    "sha256": "3812b1cd76394fb91a44626f7930d64b54a3f0467f4550c3e6549aad4e8953b5",
+    "format": "JPEG",
+    "size": [
+      600,
+      758
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse8",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse8",
+    "sha256": "d87ca174da99e80ccbc61fe8f310fed2082f1a7a117b083b109ec275241b7855",
+    "format": "WEBP",
+    "size": [
+      781,
+      1074
+    ]
+  },
+  {
+    "original": "/home/ubuntu23/Bureau/codex-anime-pets/honkai-impact-3rd/Rita Rossweisse/Rita Rossweisse9",
+    "retained": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/source-originals/Rita Rossweisse9",
+    "sha256": "791914069b689024023beaa981f2f3518a36ee2886279717f50c63b07b6e6541",
+    "format": "WEBP",
+    "size": [
+      1198,
+      1151
+    ]
+  }
+]

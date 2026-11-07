@@ -1,0 +1,301 @@
+{
+  "state": "running-right",
+  "source_sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+  "source_size": [
+    2172,
+    724
+  ],
+  "boxes": [
+    [
+      18,
+      111,
+      288,
+      627
+    ],
+    [
+      299,
+      124,
+      521,
+      627
+    ],
+    [
+      568,
+      111,
+      789,
+      627
+    ],
+    [
+      826,
+      96,
+      1091,
+      590
+    ],
+    [
+      1105,
+      111,
+      1362,
+      626
+    ],
+    [
+      1379,
+      126,
+      1608,
+      624
+    ],
+    [
+      1658,
+      111,
+      1876,
+      624
+    ],
+    [
+      1912,
+      96,
+      2162,
+      568
+    ]
+  ],
+  "foot_anchors": [
+    [
+      238.3859816048208,
+      627
+    ],
+    [
+      409.00850591715977,
+      627
+    ],
+    [
+      594.3847487001733,
+      627
+    ],
+    [
+      847.7114561027837,
+      590
+    ],
+    [
+      1315.2723404255319,
+      626
+    ],
+    [
+      1459.0836969456566,
+      624
+    ],
+    [
+      1695.7877070619006,
+      624
+    ],
+    [
+      1971.096406357982,
+      568
+    ]
+  ],
+  "heights": [
+    516,
+    503,
+    516,
+    494,
+    515,
+    498,
+    513,
+    472
+  ],
+  "shared_scale": 0.3443579766536965,
+  "source_ground": 627,
+  "target_baseline": 200,
+  "target_anchor_x": 94.02094240837697,
+  "contact_boxes": [
+    [
+      18,
+      111,
+      288,
+      627
+    ],
+    [
+      299,
+      124,
+      521,
+      627
+    ],
+    [
+      568,
+      111,
+      789,
+      627
+    ],
+    [
+      1105,
+      111,
+      1362,
+      626
+    ],
+    [
+      1379,
+      126,
+      1608,
+      624
+    ],
+    [
+      1658,
+      111,
+      1876,
+      624
+    ]
+  ],
+  "source_frame_mapping": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "transforms": [
+    {
+      "source_box": [
+        18,
+        111,
+        288,
+        627
+      ],
+      "source_anchor_x": 169.03198019291278,
+      "destination_xy": [
+        42,
+        22
+      ],
+      "destination_size": [
+        93,
+        178
+      ],
+      "source_lift_scaled": 0.0
+    },
+    {
+      "source_box": [
+        299,
+        124,
+        521,
+        627
+      ],
+      "source_anchor_x": 444.1200629425649,
+      "destination_xy": [
+        44,
+        27
+      ],
+      "destination_size": [
+        76,
+        173
+      ],
+      "source_lift_scaled": 0.0
+    },
+    {
+      "source_box": [
+        568,
+        111,
+        789,
+        627
+      ],
+      "source_anchor_x": 711.6888531228908,
+      "destination_xy": [
+        45,
+        22
+      ],
+      "destination_size": [
+        76,
+        178
+      ],
+      "source_lift_scaled": 0.0
+    },
+    {
+      "source_box": [
+        826,
+        96,
+        1091,
+        590
+      ],
+      "source_anchor_x": 981.6006204974497,
+      "destination_xy": [
+        40,
+        17
+      ],
+      "destination_size": [
+        91,
+        170
+      ],
+      "source_lift_scaled": 12.74124513618677
+    },
+    {
+      "source_box": [
+        1105,
+        111,
+        1362,
+        626
+      ],
+      "source_anchor_x": 1255.6626779451208,
+      "destination_xy": [
+        42,
+        22
+      ],
+      "destination_size": [
+        88,
+        177
+      ],
+      "source_lift_scaled": 0.3443579766536965
+    },
+    {
+      "source_box": [
+        1379,
+        126,
+        1608,
+        624
+      ],
+      "source_anchor_x": 1530.7705879245682,
+      "destination_xy": [
+        42,
+        27
+      ],
+      "destination_size": [
+        79,
+        171
+      ],
+      "source_lift_scaled": 1.0330739299610894
+    },
+    {
+      "source_box": [
+        1658,
+        111,
+        1876,
+        624
+      ],
+      "source_anchor_x": 1797.0723528807641,
+      "destination_xy": [
+        46,
+        22
+      ],
+      "destination_size": [
+        75,
+        177
+      ],
+      "source_lift_scaled": 1.0330739299610894
+    },
+    {
+      "source_box": [
+        1912,
+        96,
+        2162,
+        568
+      ],
+      "source_anchor_x": 2066.877666147316,
+      "destination_xy": [
+        41,
+        17
+      ],
+      "destination_size": [
+        86,
+        163
+      ],
+      "source_lift_scaled": 20.317120622568094
+    }
+  ],
+  "review_note": "Automatic per-pose fitting places airborne feet on the ground and alters anatomical scale. Complete separated source figures retain original order, one contact-derived scale, full-strip shared ground and measured head-axis registration. No frame-wise scaling, mirroring, drawing, interpolation or source-pose replacement."
+}

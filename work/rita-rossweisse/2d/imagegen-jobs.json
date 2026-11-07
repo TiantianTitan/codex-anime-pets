@@ -1,0 +1,635 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-07T18:20:40.468969+00:00",
+  "run_dir": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d",
+  "primary_generation_skill": "$imagegen",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        }
+      ],
+      "output_path": "decoded/base.png",
+      "depends_on": [],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b73e-190a-7193-a865-2599c8ad55fd/exec-3f4a116f-761c-4888-a681-c42826188f61.png",
+      "selected_sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f",
+      "completed_at": "2026-11-07T18:22:28.972207+00:00",
+      "qa_note": "Independent base worker confirms one complete short ash-brown maid, correct covered eye and visible wine-red eye/rose sides, clean flat green key and no weapon/effects."
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/idle.md",
+      "retry_prompt_file": "prompts/row-retries/idle.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/idle.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-5323fee9-69fe-474c-8972-2b3a86efcd92.png",
+      "selected_sha256": "03ae57c5b5e52139291e7c196cf617bd6dce7258ab33295ebc3d7f2be63a963e",
+      "completed_at": "2026-11-07T18:28:57.675770+00:00",
+      "qa_note": "Six quiet poses with visible eye open and intentional left-eye fringe occlusion; source silhouette heights 664-675px are preserved by one canonical scale and shared boot baseline instead of equalizing each frame. Full maid silhouette, small head/hair/breath changes, close first/last seam; native size readable."
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-right.md",
+      "retry_prompt_file": "prompts/row-retries/running-right.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running-right.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b73f-c1a7-75f2-a2d5-e0835c4f2244/exec-e52db34a-bea3-433b-8dfb-31ed3d682bf2.png",
+      "selected_sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+      "completed_at": "2026-11-07T18:32:05.363030+00:00",
+      "qa_note": "Independent source/native gait reviewer passed alternating contact, compression, passing and airborne phases; near-similar opposite half cycles remain readable. One shared contact-derived scale and source ground preserve 12.74/20.32px airborne lifts, with empty hands, correct facing/asymmetry and complete silhouette. 220ms last hold gives a slight airborne pause, accepted for source-table contract."
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-left.md",
+      "retry_prompt_file": "prompts/row-retries/running-left.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "rightward gait reference for leftward row decision"
+        }
+      ],
+      "output_path": "decoded/running-left.png",
+      "depends_on": [
+        "base",
+        "running-right"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base",
+        "running-right"
+      ],
+      "derivation_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "mirror_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b748-6a4e-7690-80be-3043ffde1014/exec-7a675bc0-c4dd-4a3f-9743-7afadb79f182.png",
+      "selected_sha256": "b9cb9dba0142e1bdfe2563ace9028603984025176874025ff66fef56b8a97eff",
+      "completed_at": "2026-11-07T18:35:18.535430+00:00",
+      "qa_note": "Independent generated leftward family preserves anatomical rose/fringe sides through natural profile occlusion instead of mirroring. Eight complete phases show alternating contacts, passing and airborne poses; source final shoe ends at x2169 within width2172, complete contour and no canvas clipping. Shared source-ground scale preserves 11.30/13.69px flight and full silhouette."
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waving.md",
+      "retry_prompt_file": "prompts/row-retries/waving.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waving.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b73f-ea66-7ea3-a09a-973672bc3719/exec-e9c08f89-4e63-4558-840d-73c2221cae14.png",
+      "selected_sha256": "a172e2d47c2333c4a578daeefb19642ceeeb97d3d6fd96edc90d0bd05ce10512",
+      "completed_at": "2026-11-07T18:30:17.411427+00:00",
+      "qa_note": "Four complete maid poses lift anatomical right hand to shoulder, small wrist greeting and lower toward rest; empty glove, covered-eye and rose sides preserved, planted feet and shared canonical scale/baseline. Native ordered-frame greeting and return are readable."
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/jumping.md",
+      "retry_prompt_file": "prompts/row-retries/jumping.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/jumping.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b743-3fb2-7e62-a3e9-b7ce1c5febfb/exec-31298f72-9363-4927-a14d-e7db401ff211.png",
+      "selected_sha256": "973585d8e3ff2a19f557934a70161194ef42039ca2afb58d632a62b41b0bebcc",
+      "completed_at": "2026-11-07T18:32:05.429966+00:00",
+      "qa_note": "Five full source poses show shallow preparation, lift, modest peak, descent and near-upright landing. Shared scale preserves skull and torso rather than per-pose fitting; original 26.28px peak foot clearance fits without arc compression. Full headband/hair/skirt/shoes and readable loop/idle return."
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/failed.md",
+      "retry_prompt_file": "prompts/row-retries/failed.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/failed.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png",
+      "selected_sha256": "ba9eb14d4c2424af139cb268d9f3f19dcf5264cbb23b194616790b514ca132bd",
+      "completed_at": "2026-11-07T18:32:05.498597+00:00",
+      "qa_note": "Eight standing phases preserve identity and shared baseline/scale: concern and shoulder/head droop deepen then recover near neutral, no collapse, prop, symbols or detached effects. Native visible eye and mouth convey reaction; proper hair occlusion retained."
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waiting.md",
+      "retry_prompt_file": "prompts/row-retries/waiting.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waiting.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b743-b749-7992-acb0-b0352d504cad/exec-ffdf7bf2-93c5-4b86-b557-ac37b1be3585.png",
+      "selected_sha256": "d5efebcbaee63e2976d1fa942f63d5eae69c72d832a9c15ec03abac9204e04f6",
+      "completed_at": "2026-11-07T18:32:05.563821+00:00",
+      "qa_note": "Six planted-foot phases clearly present left palm at waist, question with slight head tilt and recover; distinct from high greeting and chin-touch work. Shared-scale full silhouettes and correct covered eye/rose side, no prop/effects."
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running.md",
+      "retry_prompt_file": "prompts/row-retries/running.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png",
+      "selected_sha256": "a49dc7748851a8e5b1bc2c0adff6ade3690260f5975822ae0e9ebeff757ce847",
+      "completed_at": "2026-11-07T18:33:16.982245+00:00",
+      "qa_note": "Six task-processing poses stay planted: right fingers approach chin, thoughtful touch, restrained considering head turn and hand recovery. No foot-running or new tool. Native full-silhouette source, stable costume/occluded eye/rose side and one shared scale/baseline."
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/review.md",
+      "retry_prompt_file": "prompts/row-retries/review.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/review.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b745-308e-7e51-8d60-33915112b36d/exec-5d4920b3-a005-4dd4-af1d-0326b007245b.png",
+      "selected_sha256": "69173ddc1e82b128ef8194293346cdde76ebb7425ca8483f60c417a5f17be446",
+      "completed_at": "2026-11-07T18:33:17.049301+00:00",
+      "qa_note": "Six low-hand inspection/nod poses differ from palm-up waiting and chin-touch work. Source head height lowers naturally through nod; shared scale preserves anatomy instead of enlarging bowed frames. Clear recovery near rest, full hands/hair/feet and no prop."
+    },
+    {
+      "id": "look-cardinals",
+      "kind": "look-cardinal-strip",
+      "status": "complete",
+      "prompt_file": "prompts/look-cardinals.md",
+      "repair_prompt_files": {
+        "000": "prompts/look-anchor-repairs/000.md",
+        "090": "prompts/look-anchor-repairs/090.md",
+        "180": "prompts/look-anchor-repairs/180.md",
+        "270": "prompts/look-anchor-repairs/270.md"
+      },
+      "input_images": [
+        {
+          "path": "references/look-cardinals-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        }
+      ],
+      "output_path": "decoded/look-cardinals.png",
+      "extracted_output_paths": [
+        "decoded/look-anchors/000.png",
+        "decoded/look-anchors/090.png",
+        "decoded/look-anchors/180.png",
+        "decoded/look-anchors/270.png"
+      ],
+      "approved_strip_path": "decoded/look-anchors-approved.png",
+      "depends_on": [
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "000",
+        "090",
+        "180",
+        "270"
+      ],
+      "packaging_eligible": false,
+      "parallelizable_after": [
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "cardinal directions require grounded pet-specific generation"
+      },
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b74c-0165-75c0-8ab1-ab93e07b2f1d/exec-3722de02-9ea1-456b-89d2-d3af129bec84.png",
+      "selected_sha256": "b3e44a8197f004df0769fd34209ba85b5db5a8e2493062def8300847f602b3fc",
+      "completed_at": "2026-11-07T18:38:25.448395+00:00",
+      "qa_note": "All four extracted anchors pass structural checks and native semantic review: chin/iris up, nose/eye right, tucked chin/crown down, nose/cheek left; fixed feet, natural eye occlusion and real rose/fringe sides preserved."
+    },
+    {
+      "id": "look-row-9",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/look-row-9.md",
+      "retry_prompt_file": "prompts/row-retries/look-row-9.md",
+      "input_images": [
+        {
+          "path": "references/look-row-9-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+        }
+      ],
+      "output_path": "decoded/look-row-9.png",
+      "depends_on": [
+        "look-cardinals"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "parallelizable_after": [
+        "look-cardinals"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "look directions require grounded pet-specific generation"
+      },
+      "coherent_synthesis_required": true,
+      "individual_cell_packaging_allowed": false,
+      "packaging_eligible": true,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b74e-52e5-7e50-a23f-466e9d1d5553/exec-9b50e823-df97-496c-95e9-8a3f3f5aa8f6.png",
+      "selected_sha256": "a7ca0c880c89941ebeeaa4b48b1f667653c239309241ccf75d8beabee07c8248",
+      "completed_at": "2026-11-07T18:42:15.839528+00:00",
+      "qa_note": "Shared-scale registration and final-cell edges pass; source-hash-bound labeled native row gate confirms all eight intended directions, stable y200 lower-body baseline and coherent arc, with only subtle near-axis components recorded as warnings."
+    },
+    {
+      "id": "look-row-10",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/look-row-10.md",
+      "retry_prompt_file": "prompts/row-retries/look-row-10.md",
+      "input_images": [
+        {
+          "path": "references/look-row-10-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+        },
+        {
+          "path": "decoded/look-row-9.png",
+          "role": "completed first half of the clockwise look loop for row 10 continuity"
+        }
+      ],
+      "output_path": "decoded/look-row-10.png",
+      "depends_on": [
+        "look-cardinals",
+        "look-row-9"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png"
+      ],
+      "look_mechanics_file": "qa/look-mechanics.md",
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "parallelizable_after": [
+        "look-cardinals",
+        "look-row-9"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "look directions require grounded pet-specific generation"
+      },
+      "coherent_synthesis_required": true,
+      "individual_cell_packaging_allowed": false,
+      "packaging_eligible": true,
+      "source_path": "/home/ubuntu23/.codex/generated_images/01a1b751-c98d-7f11-900e-a191ca54ef4c/exec-ee23053b-57f6-442b-977c-c438bab48665.png",
+      "selected_sha256": "2500db7088e12945d1569db1a8ff395183a2e119d9db0ba61782c919267b5ee1",
+      "completed_at": "2026-11-07T18:48:57.961601+00:00",
+      "qa_note": "Coherent source row registers to approved row9 scale and exact idle y200 baseline; final atlas and source reconstruction pass. Labeled native full loop confirms intended left/down/up progression, with only subtle 292.5 upward cue and localized 337.5-to000 metric outlier retained as minor warnings. Hard cardinal blind gates all pass."
+    }
+  ]
+}

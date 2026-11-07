@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "reviewed_by": "parent native-size ordered frames and source silhouettes",
+  "motion_preview_basis": "Pre-despill source-table GIF timing only; final previews use version-qualified client holds",
+  "rows": [
+    {
+      "state": "idle",
+      "source_sha256": "03ae57c5b5e52139291e7c196cf617bd6dce7258ab33295ebc3d7f2be63a963e",
+      "method": "reviewed-layout",
+      "review_note": "Six quiet poses with visible eye open and intentional left-eye fringe occlusion; source silhouette heights 664-675px are preserved by one canonical scale and shared boot baseline instead of equalizing each frame. Full maid silhouette, small head/hair/breath changes, close first/last seam; native size readable."
+    },
+    {
+      "state": "running-right",
+      "source_sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+      "method": "reviewed-gait-viewport",
+      "review_note": "Independent source/native gait reviewer passed alternating contact, compression, passing and airborne phases; near-similar opposite half cycles remain readable. One shared contact-derived scale and source ground preserve 12.74/20.32px airborne lifts, with empty hands, correct facing/asymmetry and complete silhouette. 220ms last hold gives a slight airborne pause, accepted for source-table contract."
+    },
+    {
+      "state": "running-left",
+      "source_sha256": "b9cb9dba0142e1bdfe2563ace9028603984025176874025ff66fef56b8a97eff",
+      "method": "reviewed-gait-viewport",
+      "review_note": "Independent generated leftward family preserves anatomical rose/fringe sides through natural profile occlusion instead of mirroring. Eight complete phases show alternating contacts, passing and airborne poses; source final shoe ends at x2169 within width2172, complete contour and no canvas clipping. Shared source-ground scale preserves 11.30/13.69px flight and full silhouette."
+    },
+    {
+      "state": "waving",
+      "source_sha256": "a172e2d47c2333c4a578daeefb19642ceeeb97d3d6fd96edc90d0bd05ce10512",
+      "method": "reviewed-layout",
+      "review_note": "Four complete maid poses lift anatomical right hand to shoulder, small wrist greeting and lower toward rest; empty glove, covered-eye and rose sides preserved, planted feet and shared canonical scale/baseline. Native ordered-frame greeting and return are readable."
+    },
+    {
+      "state": "jumping",
+      "source_sha256": "973585d8e3ff2a19f557934a70161194ef42039ca2afb58d632a62b41b0bebcc",
+      "method": "reviewed-jump-arc",
+      "review_note": "Five full source poses show shallow preparation, lift, modest peak, descent and near-upright landing. Shared scale preserves skull and torso rather than per-pose fitting; original 26.28px peak foot clearance fits without arc compression. Full headband/hair/skirt/shoes and readable loop/idle return."
+    },
+    {
+      "state": "failed",
+      "source_sha256": "ba9eb14d4c2424af139cb268d9f3f19dcf5264cbb23b194616790b514ca132bd",
+      "method": "reviewed-layout",
+      "review_note": "Eight standing phases preserve identity and shared baseline/scale: concern and shoulder/head droop deepen then recover near neutral, no collapse, prop, symbols or detached effects. Native visible eye and mouth convey reaction; proper hair occlusion retained."
+    },
+    {
+      "state": "waiting",
+      "source_sha256": "d5efebcbaee63e2976d1fa942f63d5eae69c72d832a9c15ec03abac9204e04f6",
+      "method": "reviewed-layout",
+      "review_note": "Six planted-foot phases clearly present left palm at waist, question with slight head tilt and recover; distinct from high greeting and chin-touch work. Shared-scale full silhouettes and correct covered eye/rose side, no prop/effects."
+    },
+    {
+      "state": "running",
+      "source_sha256": "a49dc7748851a8e5b1bc2c0adff6ade3690260f5975822ae0e9ebeff757ce847",
+      "method": "reviewed-layout",
+      "review_note": "Six task-processing poses stay planted: right fingers approach chin, thoughtful touch, restrained considering head turn and hand recovery. No foot-running or new tool. Native full-silhouette source, stable costume/occluded eye/rose side and one shared scale/baseline."
+    },
+    {
+      "state": "review",
+      "source_sha256": "69173ddc1e82b128ef8194293346cdde76ebb7425ca8483f60c417a5f17be446",
+      "method": "reviewed-layout",
+      "review_note": "Six low-hand inspection/nod poses differ from palm-up waiting and chin-touch work. Source head height lowers naturally through nod; shared scale preserves anatomy instead of enlarging bowed frames. Clear recovery near rest, full hands/hair/feet and no prop."
+    }
+  ],
+  "atlas_sha256": "023d9462bd4b39a6b8668eceab04177f79c358393e73bb347e47ecb6612b9a67",
+  "extraction_warnings": "Shared grounded/jump registration and stable gait viewport deliberately reviewed to preserve anatomy and movement; no structural errors."
+}

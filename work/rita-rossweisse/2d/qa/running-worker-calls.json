@@ -1,0 +1,36 @@
+{
+  "state": "running",
+  "job": "rita-rossweisse/2d/running",
+  "status": "generated_and_visually_inspected_selected",
+  "tool_calls": [
+    {
+      "call_number": 1,
+      "tool": "image_gen.imagegen",
+      "prompt_verbatim": { "same_as_root_field": "prompt" },
+      "referenced_image_paths": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/running.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png"
+      ],
+      "transparent_background": false,
+      "status": "success",
+      "output": {
+        "image_url": "Omitted: tool returned a PNG data URL; binary/base64 payload is not metadata.",
+        "output_hint_verbatim": "Generated images are saved to /home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f as /home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "selected_source": "/home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png"
+      },
+      "request_id": "unknown: not exposed in returned tool metadata",
+      "timestamp": "unknown: not recorded"
+    }
+  ],
+  "actual_calls": 1,
+  "tool": "image_gen.imagegen",
+  "prompt": "Use case: identity-preserve.\nAsset: one horizontal 2D animation sprite strip, state running meaning TASK WORK / active thought, never locomotion.\nInput images: reference-01.png is identity context only (ignore weapons and backgrounds); layout-guides/running.png is INVISIBLE composition guide only; canonical-base.png is the EXACT approved character design and proportions, highest priority.\nCreate exactly SIX separated complete full-body poses in one single left-to-right row, six equal invisible slots, evenly spaced and centered, no overlap or cropping. Wide canvas about 1152:208 aspect ratio. Flat opaque pure #00FF00 background everywhere outside character silhouettes. No grid, borders, labels, text, markings, shadows, effects or extra objects.\nCharacter: Rita Rossweisse, preserve canonical-base exactly: polished clean 2D anime chibi, ash-brown bob, fringe covering anatomical LEFT eye (screen-right), naturally visible wine-red RIGHT eye (screen-left), wine-red rose at anatomical RIGHT temple (screen-left), white frilled maid headband with black side bows, black neck bow and pale diamond ornament, white puff shoulders, black fitted detailed bodice, white waist apron and short white-frilled black skirt, dark long gloves, dark thigh-high stockings, black low-heel shoes, burgundy bow at anatomical left hip (screen-right). Keep exact asymmetries, costume pieces, skull and torso size, camera, palette and proportions of canonical-base. Do not mirror or invent a second eye. Restrained flat cel shading and crisp opaque outlines, no 3D gloss.\nTemporal plan precisely from left to right:\n1 focused rest, both hands low and feet firmly planted;\n2 anatomical RIGHT gloved fingers (screen-left hand) rise toward chin, elbow bends modestly;\n3 RIGHT gloved fingertips lightly touch chin, clearly thoughtful active-task concentration;\n4 fingertips remain at chin while head turns a SMALL considering amount, visible right eye still visible and left eye still fully hair-covered;\n5 right hand lowers toward torso/waist;\n6 hand returns low and head returns toward focused near-rest, creating a smooth seam back to 1.\nKeep feet planted in same place in each slot, stable common baseline, no stepping, bouncing or running; head and torso retain constant scale across frames. Only small anatomically coherent arm/head changes. Thoughtful focused eye/brow expression, naturally open visible eye throughout. This must be distinct from waving (no raised greeting hand), palm-up waiting (no open presentation gesture), or hands-low nodding review. Hands empty. Absolutely NO phone, screen, paper, tool, weapon, scythe, tea item, flowers, detached marks, motion trails or floor shadow. One character per slot, six total; safe padding on all sides. Do not render any aspect of the layout guide.",
+  "inputs": [
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/running.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png"
+  ],
+  "selected_source": "/home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png",
+  "qa_note": "Six separated full-body planted-foot poses show right-hand chin thinking and recovery with correct covered-left-eye and right-temple rose identity."
+}

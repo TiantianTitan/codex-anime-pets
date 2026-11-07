@@ -1,0 +1,49 @@
+{
+  "job": "Rita Rossweisse waving row",
+  "path_attribution_audit": {
+    "method": "Both successful output paths were inferred from a recent generated_images folder listing and then visually inspected; neither path was captured directly from the corresponding imagegen tool response.",
+    "six_frame_output": "Attribution is uncertain. The path exec-87b86169-42b1-43f6-bbad-1e4bb81bc100.png is also attributed by idle-worker-calls.json to an idle call. Do not treat this path as confirmed output of the first waving call; the earlier association below is preserved as historical but unverified.",
+    "four_frame_output": "The selected four-frame waving source remains the confirmed final selection for this job per parent task audit; its actual generated file path is recorded in the successful call entry below."
+  },
+  "references": [
+    {
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+      "role": "Identity reference board; classic short-haired maid only, exclude weapons and other outfits"
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/waving.png",
+      "role": "Invisible four-slot layout and spacing guide only"
+    },
+    {
+      "path": "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png",
+      "role": "Canonical identity and costume base"
+    }
+  ],
+  "calls": [
+    {
+      "status": "success",
+      "output": "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-87b86169-42b1-43f6-bbad-1e4bb81bc100.png",
+      "observed_frame_count": 6,
+      "selected": false,
+      "decision": "Rejected because the generated strip contains six poses rather than the required four.",
+      "prompt": "Use case: illustration-story\nAsset type: single four-frame horizontal sprite strip for a Codex pet animation, state waving\nInput images: Image 1 is identity reference board; use only the classic short-haired black-and-white maid outfit, ignore every weapon and all other outfit variants. Image 2 is an invisible layout-only guide for exactly four equal slots and spacing; do not reproduce its boxes, borders, or lines. Image 3 is the canonical exact identity and costume base; preserve its chibi design and key-color background treatment.\nScene/backdrop: flat perfectly uniform pure #00FF00 background.\nSubject: Rita Rossweisse, one full-body pose in each of exactly four evenly spaced, separated slots in one horizontal strip.\nStyle/medium: polished 2D anime chibi sticker, restrained cel shading and crisp dark outlines, about 2.6 heads tall; consistent identical apparent scale and baseline in every slot.\nComposition/framing: four invisible equal-width cells, one complete centered pose per cell, comfortable margins all around; do not clip any part. Include complete frilled headband, hair, gloves, skirt, stockings, and shoes.\nIdentity and costume lock: gray-brown short bob with side-swept fringe naturally covering anatomical LEFT eye (screen-right); only the anatomical RIGHT eye is visibly open in wine-red (screen-left), never invent a second eye. White frilled maid headband with black bows, small wine-red rose on anatomical RIGHT temple (screen-left); black-and-white classic combat maid dress with white puff sleeves, fitted black bodice, white apron and frilled short skirt, long dark gloves, dark thigh-high stockings, black low-heel shoes. Preserve the canonical face, body proportions, costume, palette, materials, and attached decorations; do not mirror the design.\nAnimation left-to-right: (1) calm relaxed rest, both hands down; (2) anatomical RIGHT empty gloved hand lifts, open palm beside shoulder; (3) same raised hand makes a small graceful wrist wave, restrained; (4) hand lowers close to relaxed rest. Friendly small smile. Keep pose changes subtle and coherent.\nConstraints: both hands empty. No scythe or any weapon, cup, flowers in hands, tools, scenery, floor shadow, aura, effects, wave marks, arcs, motion lines, sparkles, icons, text, borders, boxes, or visible guide lines. Exactly four poses, no extra frames. Opaque crisp edges and safe padding. No chroma green inside the character."
+    },
+    {
+      "status": "success",
+      "output": "/home/ubuntu23/.codex/generated_images/01a1b73f-ea66-7ea3-a09a-973672bc3719/exec-e9c08f89-4e63-4558-840d-73c2221cae14.png",
+      "observed_frame_count": 4,
+      "selected": true,
+      "decision": "Selected because quick visual inspection confirmed exactly four complete poses, the expected identity/asymmetry, uniform green background, and screen-left empty-hand greeting; no visible weapons or effects.",
+      "prompt": "Create a single horizontal strip of exactly four full-body poses of Rita Rossweisse, using input image 1 only for the classic short-haired black-and-white maid identity (never use its weapons), input image 2 only as an invisible four-slot spacing/layout guide (do not draw boxes or lines), and input image 3 as the exact canonical identity and costume. Flat pure #00FF00 background. Polished 2D anime chibi sticker with restrained cel shading, consistent scale/baseline, fully visible headband, hair, gloves, skirt, stockings, shoes, comfortable margin. Preserve gray-brown short bob, side-swept fringe naturally covering anatomical LEFT eye (screen-right), one visible open wine-red anatomical RIGHT eye (screen-left), white frilled headband, black bows, small rose on anatomical RIGHT temple (screen-left), black-and-white classic maid costume. Do not mirror. Left to right: relaxed rest; anatomical RIGHT empty gloved hand lifting; open palm beside shoulder; restrained wrist wave then lower near rest. Keep small friendly smile. No weapons, object, cup, hand-held flowers, tools, scenery, shadows, aura, wave marks, effects, text, boxes, borders, or guide lines. Exactly four complete separated poses. Crisp edges; no green in character."
+    },
+    {
+      "status": "failure",
+      "output": null,
+      "observed_frame_count": null,
+      "selected": false,
+      "decision": "Empty-prompt validation failure only; not a transport error. No image output was generated.",
+      "prompt": "",
+      "error": "Invalid 'prompt': empty string; HTTP 400 Bad Request."
+    }
+  ]
+}

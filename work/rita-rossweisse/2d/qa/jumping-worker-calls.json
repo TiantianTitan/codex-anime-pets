@@ -1,0 +1,16 @@
+{
+  "job": "jumping",
+  "references": [
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/jumping.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png"
+  ],
+  "calls": [
+    {
+      "prompt": "Use case: stylized-concept. Create one horizontal animation sprite strip for Codex pet Rita Rossweisse, state jumping. Input 1 is original identity reference only, input 2 is INVISIBLE five-slot spacing guide only (do not reproduce its lines or marks), input 3 is the exact approved canonical look: match its face, costume, asymmetry, rendering, proportions and attached decorations.\nOutput exactly FIVE separate full-body poses in ONE horizontal row, evenly centered in five invisible equal slots, on perfectly flat pure opaque #00FF00 background. No overlap, no clipping, no extra frames. Wide strip aspect ratio approximately 960:208. Every headband, hair tip, glove, skirt hem and shoe must remain complete with safe padding.\nLeft-to-right temporal plan: 1 shallow knee-bend anticipation, 2 both shoes lift a little, 3 modest airborne apex with knees softly bent, 4 descent with legs extending, 5 comfortable grounded near-upright soft landing. SMALL hop, not a deep squat or oversized arc. Ground endpoints share baseline, airborne shoes visibly rise. SAME SKULL AND TORSO SIZE IN ALL FIVE FRAMES: never enlarge crouch and never shrink airborne body. Move body vertically within slot, retain canonical scale, leave modest headroom. Arms respond subtly, empty hands, clothing follows restrained motion. Clear coherent animation, not five copied stills.\nRita is mature poised refined 2D anime chibi, compact ~2.6 heads tall. Ash-brown bob, side-swept fringe always covering anatomical LEFT eye at front screen-right; only wine-red anatomical RIGHT eye visible at screen-left. White frilled maid headband, black bows, wine-red rose at anatomical RIGHT temple front screen-left. Preserve this true asymmetry, never mirror. Match canonical black-white maid combat dress with white puff shoulders, fitted black bodice, white waist apron, white frilled short skirt, dark long gloves, dark thigh-high stockings, black low-heel shoes, wine-red bow at screen-right waist, neck bow and small light ornament. No alternate costumes. Match canonical flat 2D anime clean crisp linework and restrained cel shading; no pixel art, no 3D toy. Simplify lace to readable white trim. Full character silhouette should be approximately 178-182 high in eventual 192x208 cells with modest hop room.\nAbsolutely no weapon, scythe, cup, tool, extra objects, text, labels, border, guide graphics, scenery, shadow of any sort, floor oval, contact/drop shadow, dust, motion marks, blur, aura, glow, speed lines, detached effects, checkerboard or stray pixels. Background outside silhouette perfectly uniform #00FF00. No green inside character. Preserve approved canonical identity and consistent anatomical dimensions throughout.",
+      "output": "/home/ubuntu23/.codex/generated_images/01a1b743-3fb2-7e62-a3e9-b7ce1c5febfb/exec-31298f72-9363-4927-a14d-e7db401ff211.png",
+      "selected": true,
+      "status": "success"
+    }
+  ]
+}

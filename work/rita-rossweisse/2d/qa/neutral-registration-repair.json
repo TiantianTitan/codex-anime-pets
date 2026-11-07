@@ -1,0 +1,7 @@
+{
+  "failure_class": "deterministic registration",
+  "observed": "Passing an already registered idle cell via --neutral-cell applies the assembler external-cell fit, recentering its feet from y200 to y192.",
+  "correction": "Use the exact neutral/idle fallback already in the standard atlas, omit external neutral-cell refitting for both look registration and final assembly.",
+  "protected": "All nine approved standard states remain unchanged; original coherent look source retained and registered once against the correct anchor.",
+  "result": "All registered row9 cells stand at y200, same as approved idle. Row10 uses the identical neutral source and persisted shared scale. No new imagery or sprite warping."
+}

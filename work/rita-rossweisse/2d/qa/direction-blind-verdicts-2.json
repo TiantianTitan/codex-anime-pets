@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's exposed cheek and nose project right; B's exposed facial contour projects left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose lies right of the head center; B's visible nose and cheek lie left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's pale facial profile projects left beneath the fringe; B's nose and exposed cheek project right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a rightward nose contour; B has a leftward nose contour beneath the hair."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible cheek and nose are left of center; B's exposed facial contour is right of center."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face protrudes left beneath the fringe; B's nose and cheek protrude right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's visible lower facial contour extends left; B's visible lower facial contour extends right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A shows a raised chin and open facial plane; B's lowered face is tucked beneath the fringe toward the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's chin drops toward the collar with eyes obscured; B's chin is lifted with a more exposed face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's face points toward the collar under the fringe; B shows an elevated nose and chin."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A's small visible profile does not establish vertical pitch clearly; B's chin is lowered and facial features sit beneath the fringe."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A's nose and chin tip upward with the face exposed; B's face is lowered toward the neckline."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A's fringe obscures the eyes and the visible cheek does not clearly establish upward pitch; B's chin is tucked toward the collar."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A's visible side profile does not provide clear upward pitch evidence; B's face and chin point downward beneath the fringe."
+    }
+  ]
+}

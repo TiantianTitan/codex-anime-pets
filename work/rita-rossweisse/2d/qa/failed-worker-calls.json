@@ -1,0 +1,30 @@
+{
+  "job": "rita-rossweisse/2d/failed",
+  "reference_paths": [
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/failed.png",
+    "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png"
+  ],
+  "calls": [
+    {
+      "tool": "image_gen.imagegen",
+      "transparent_background": false,
+      "referenced_image_paths": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/reference-01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/layout-guides/failed.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/rita-rossweisse/2d/references/canonical-base.png"
+      ],
+      "prompt": "Use case: identity-preserve. Create ONE horizontal sprite animation strip, EXACTLY EIGHT complete separate full-body poses in ONE left-to-right row, on flat pure opaque #00FF00 background. Wide aspect ratio about 1536:208. Eight invisible equal-width cells, one centered complete figure per cell, even gaps and comfortable padding; no clipping, no overlap, no borders or visible guides. Reference 1 is Rita Rossweisse maid identity; reference 2 is ONLY invisible spacing/cell count guidance, DO NOT RENDER ANY GUIDE; reference 3 is the exact approved canonical character, costume, silhouette and rendering style to preserve. Preserve the canonical base's face, skull size, torso size, body proportions and exact black-and-white maid costume throughout all frames; do not redesign or further infantilize. Ash-brown bob with same side-swept bangs hiding her anatomical LEFT eye (screen-right). Only visible anatomical RIGHT eye at screen-left, natural wine-red iris. White frilled maid headband, black side bows, wine-red rose fixed on anatomical RIGHT temple/screen-left. Preserve neck bow with pale diamond, white puff sleeves, fitted black bodice, small white apron, layered black/white frilled skirt, wine-red hip bow in same place, long dark gloves, thigh-high dark stockings, black low-heel shoes. Hands remain empty. Clean polished flat 2D anime chibi sticker linework, restrained cel shading and crisp opaque edges, no 3D gloss. Failed/blocked reaction AND recovery: frame 1 calm poised upright near-neutral; frame 2 slight surprise with small brow lift; frame 3 mild concern; frame 4 shoulders softly droop; frame 5 brief rueful lowered head and downward gaze; frame 6 head recovering upward; frame 7 small reserved reassuring smile; frame 8 recovered almost identical to upright neutral start for a comfortable loop seam. All eight are restrained STANDING responses, feet grounded at constant baseline, stable pelvis and full constant skull/torso size during small inclination; no crouch, collapse or deep bow. Natural eye may soften with concern but never reveal the hidden left eye. Motion is understated but eight real distinct temporal poses, not copied stills; reaction peaks in middle and clearly recovers. Full headband, bob, both hands, full skirt, and both shoes present in EVERY cell. Solid opaque pure green background only. No green in costume. No text, labels, symbols, red X, tears, smoke, stars, weapons, tools, cups, flowers held in hands, scenery, shadows, glows, motion effects, guide marks, grids, checkerboard or detached objects.",
+      "output": {
+        "path": "/home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png",
+        "output_hint": "Generated images are saved to /home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc as /home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+        "image_url": "unknown: complete verbatim base64 output unavailable after result-store reset; PNG is preserved at output.path"
+      },
+      "selected": true,
+      "status": "completed",
+      "qa_note": "Eight complete separated standing poses preserve Rita’s identity and empty hands, showing restrained concern and lowered-head reaction followed by reassuring near-neutral recovery on opaque green."
+    }
+  ],
+  "selected_source": "/home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png",
+  "status": "selected; exactly one image_gen call, no retry"
+}

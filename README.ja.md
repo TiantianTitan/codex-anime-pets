@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>50 キャラクター</code>
-  <code>51 エディション</code>
+  <code>51 キャラクター</code>
+  <code>52 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=50" width="100%" alt="鏡流、アルベド、ハルマサの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=51" width="100%" alt="アルベド、ハルマサ、リタの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip"><kbd>鏡流</kbd></a>
   <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><kbd>アルベド</kbd></a>
   <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><kbd>ハルマサ</kbd></a>
+  <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><kbd>リタ</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=50" width="100%" alt="50キャラクター、51エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=51" width="100%" alt="51キャラクター、52エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 13</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 9</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 11</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 50キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 51キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -196,7 +196,14 @@
       <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="ハルマサの待機アニメーション"></a><br>
       <b>「 ハルマサ 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%">
+      <sub>51</sub><br>
+      <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><img src="assets/readme/idle/rita-rossweisse.webp" width="155" alt="リタの待機アニメーション"></a><br>
+      <b>「 リタ 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -259,7 +266,7 @@
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>崩壊3rd</b> · 9キャラクター / 10エディション　<kbd>開く</kbd></summary>
+<summary><b>崩壊3rd</b> · 10キャラクター / 11エディション　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -273,6 +280,7 @@
 | ゼーレ | 2D | `seele-vollerei` | [ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | テレサ | 2D | `theresa` | [ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | カレン | 2D | `kallen-kaslana` | [ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
+| リタ | 2D | `rita-rossweisse` | [ZIP](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -334,7 +342,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 └── README.md
 ```
 
-全 51 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
+全 52 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
 
 デスクトップアプリの **Settings → Pets** で **Refresh** を押し、キャラクターを選んで `/pet` を入力すると表示できます。見つからない場合は、フォルダーの階層と両方のファイルがコピーされているかを確認してください。
 

@@ -1,0 +1,529 @@
+{
+  "mode": "built-in image_gen",
+  "selected_jobs": 13,
+  "distinct_generated_output_files": 15,
+  "reported_output_attributions": 16,
+  "output_attribution_note": "One discarded six-pose image path is listed by both idle and waving worker histories; it was inferred from a directory listing, not reliably bound to both calls. Raw records retain uncertainty. Count distinct verified output files, not a falsely exact successful-call count. All thirteen selected output paths are unique and directly verified.",
+  "non_image_validation_errors": "See waving-worker-calls.json: one empty-prompt HTTP 400, not a transport error and not a generated image.",
+  "jobs": [
+    {
+      "job": "base",
+      "kind": "base-pet",
+      "selected_source": "decoded/base.png",
+      "source_sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f",
+      "prompt_file": "prompts/base-pet.md",
+      "prompt_sha256": "ac7f4a057300968ff61c9e645e40e839110664f5c5c971898c8dba1a725e3970",
+      "actual_worker_calls": "qa/base-worker-calls.json",
+      "actual_worker_calls_sha256": "99d45c4611f64708a31421adf7e2d74c51cae991117f62806f90cb2b44647a0c",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b73e-190a-7193-a865-2599c8ad55fd/exec-3f4a116f-761c-4888-a681-c42826188f61.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        }
+      ],
+      "completed_at": "2026-11-07T18:22:28.972207+00:00",
+      "qa_note": "Independent base worker confirms one complete short ash-brown maid, correct covered eye and visible wine-red eye/rose sides, clean flat green key and no weapon/effects.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "idle",
+      "kind": "row-strip",
+      "selected_source": "decoded/idle.png",
+      "source_sha256": "03ae57c5b5e52139291e7c196cf617bd6dce7258ab33295ebc3d7f2be63a963e",
+      "prompt_file": "prompts/rows/idle.md",
+      "prompt_sha256": "168c5e8fcb54c64b7d8ffba1edbc583be69fbe007c0fdec3f64aa4e1d6fa55ad",
+      "actual_worker_calls": "qa/idle-worker-calls.json",
+      "actual_worker_calls_sha256": "24646fc40db93174422c606a43922c3f53e58b50b07d56e391454260d642644e",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-5323fee9-69fe-474c-8972-2b3a86efcd92.png",
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-5cb744df-5cd1-40a9-8426-db2ef12ca050.png",
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-87b86169-42b1-43f6-bbad-1e4bb81bc100.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:28:57.675770+00:00",
+      "qa_note": "Six quiet poses with visible eye open and intentional left-eye fringe occlusion; source silhouette heights 664-675px are preserved by one canonical scale and shared boot baseline instead of equalizing each frame. Full maid silhouette, small head/hair/breath changes, close first/last seam; native size readable.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "running-right",
+      "kind": "row-strip",
+      "selected_source": "decoded/running-right.png",
+      "source_sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+      "prompt_file": "prompts/rows/running-right.md",
+      "prompt_sha256": "20fc5acb281da61cfeeaef82d949b79ae4b4c542136a8579d3be32245f40956d",
+      "actual_worker_calls": "qa/running-right-worker-calls.json",
+      "actual_worker_calls_sha256": "f78a1a5a023a6e23e9d6fc60c58d6058b09dced6dd3cb3c1944a0a23ab256f55",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-c1a7-75f2-a2d5-e0835c4f2244/exec-e52db34a-bea3-433b-8dfb-31ed3d682bf2.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:32:05.363030+00:00",
+      "qa_note": "Independent source/native gait reviewer passed alternating contact, compression, passing and airborne phases; near-similar opposite half cycles remain readable. One shared contact-derived scale and source ground preserve 12.74/20.32px airborne lifts, with empty hands, correct facing/asymmetry and complete silhouette. 220ms last hold gives a slight airborne pause, accepted for source-table contract.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "running-left",
+      "kind": "row-strip",
+      "selected_source": "decoded/running-left.png",
+      "source_sha256": "b9cb9dba0142e1bdfe2563ace9028603984025176874025ff66fef56b8a97eff",
+      "prompt_file": "prompts/rows/running-left.md",
+      "prompt_sha256": "d915d144d23b6ca9bd84c57328a7e8b343b6753008326fa4b1f3c3fecb96e94c",
+      "actual_worker_calls": "qa/running-left-worker-calls.json",
+      "actual_worker_calls_sha256": "357bdfade34e94825408177769f96622015e0c549b1c62398eba694554e42214",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b748-6a4e-7690-80be-3043ffde1014/exec-7a675bc0-c4dd-4a3f-9743-7afadb79f182.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "rightward gait reference for leftward row decision",
+          "sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43"
+        }
+      ],
+      "completed_at": "2026-11-07T18:35:18.535430+00:00",
+      "qa_note": "Independent generated leftward family preserves anatomical rose/fringe sides through natural profile occlusion instead of mirroring. Eight complete phases show alternating contacts, passing and airborne poses; source final shoe ends at x2169 within width2172, complete contour and no canvas clipping. Shared source-ground scale preserves 11.30/13.69px flight and full silhouette.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "waving",
+      "kind": "row-strip",
+      "selected_source": "decoded/waving.png",
+      "source_sha256": "a172e2d47c2333c4a578daeefb19642ceeeb97d3d6fd96edc90d0bd05ce10512",
+      "prompt_file": "prompts/rows/waving.md",
+      "prompt_sha256": "e38b2222621f6efa5a4b9cbe6d35a4877d00bfea68c32d5b9df5bb0700faa48b",
+      "actual_worker_calls": "qa/waving-worker-calls.json",
+      "actual_worker_calls_sha256": "edb751af8bd7e96845366364f112ac9239e834c259393b2030e4fe32fce75ce1",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-87b86169-42b1-43f6-bbad-1e4bb81bc100.png",
+        "/home/ubuntu23/.codex/generated_images/01a1b73f-ea66-7ea3-a09a-973672bc3719/exec-e9c08f89-4e63-4558-840d-73c2221cae14.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "8fd0ae240e1b02fc16a36417a368d699609bec7c9c1f8a85aabe69ecc62389d9"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:30:17.411427+00:00",
+      "qa_note": "Four complete maid poses lift anatomical right hand to shoulder, small wrist greeting and lower toward rest; empty glove, covered-eye and rose sides preserved, planted feet and shared canonical scale/baseline. Native ordered-frame greeting and return are readable.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "jumping",
+      "kind": "row-strip",
+      "selected_source": "decoded/jumping.png",
+      "source_sha256": "973585d8e3ff2a19f557934a70161194ef42039ca2afb58d632a62b41b0bebcc",
+      "prompt_file": "prompts/rows/jumping.md",
+      "prompt_sha256": "ea43705de03b2aad10fb06b198c4ba5f105ed9c42863d3b563f02f461deb1ac5",
+      "actual_worker_calls": "qa/jumping-worker-calls.json",
+      "actual_worker_calls_sha256": "eb8d55f665ebcc3e65bb43e7144f43ff0668952969c878d721eea05eeca0cc5f",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b743-3fb2-7e62-a3e9-b7ce1c5febfb/exec-31298f72-9363-4927-a14d-e7db401ff211.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "eb1843262b696ce780da5a993a2404e7929f557186b4f1dc35809d879c5e7641"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:32:05.429966+00:00",
+      "qa_note": "Five full source poses show shallow preparation, lift, modest peak, descent and near-upright landing. Shared scale preserves skull and torso rather than per-pose fitting; original 26.28px peak foot clearance fits without arc compression. Full headband/hair/skirt/shoes and readable loop/idle return.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "failed",
+      "kind": "row-strip",
+      "selected_source": "decoded/failed.png",
+      "source_sha256": "ba9eb14d4c2424af139cb268d9f3f19dcf5264cbb23b194616790b514ca132bd",
+      "prompt_file": "prompts/rows/failed.md",
+      "prompt_sha256": "b0dbeb24cd73143df53716d11cbb81d6e99d35d8bbc43c0b5dcb2aa3a8cf1d0f",
+      "actual_worker_calls": "qa/failed-worker-calls.json",
+      "actual_worker_calls_sha256": "1b552c7908f294d277226f9db942b48e3a189166c7b0771739eaf0976e1f92dc",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "7dc2a128f6de3b539b1fdd23eb5370e44a1d0b10cdf38d6b92f7eadbf24fd02d"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:32:05.498597+00:00",
+      "qa_note": "Eight standing phases preserve identity and shared baseline/scale: concern and shoulder/head droop deepen then recover near neutral, no collapse, prop, symbols or detached effects. Native visible eye and mouth convey reaction; proper hair occlusion retained.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "waiting",
+      "kind": "row-strip",
+      "selected_source": "decoded/waiting.png",
+      "source_sha256": "d5efebcbaee63e2976d1fa942f63d5eae69c72d832a9c15ec03abac9204e04f6",
+      "prompt_file": "prompts/rows/waiting.md",
+      "prompt_sha256": "7fadc8dae639f60b30e785bf6d55249774bf969c0baec6e3c6e20b944f2b0713",
+      "actual_worker_calls": "qa/waiting-worker-calls.json",
+      "actual_worker_calls_sha256": "fc1e11a2a2b6d33f5dcdab5f0e5779b7c08f86e29f580dbc3a4288a71cb07940",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b743-b749-7992-acb0-b0352d504cad/exec-ffdf7bf2-93c5-4b86-b557-ac37b1be3585.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:32:05.563821+00:00",
+      "qa_note": "Six planted-foot phases clearly present left palm at waist, question with slight head tilt and recover; distinct from high greeting and chin-touch work. Shared-scale full silhouettes and correct covered eye/rose side, no prop/effects.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "running",
+      "kind": "row-strip",
+      "selected_source": "decoded/running.png",
+      "source_sha256": "a49dc7748851a8e5b1bc2c0adff6ade3690260f5975822ae0e9ebeff757ce847",
+      "prompt_file": "prompts/rows/running.md",
+      "prompt_sha256": "79a6db16f331a0ea951a4792b40586d87f511f39f77a7e43246779e1ac9474cd",
+      "actual_worker_calls": "qa/running-worker-calls.json",
+      "actual_worker_calls_sha256": "94956b75e4d3234867ab9b6c4845337e8258ef622eb8dd3ae0bbc0135b34bf96",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:33:16.982245+00:00",
+      "qa_note": "Six task-processing poses stay planted: right fingers approach chin, thoughtful touch, restrained considering head turn and hand recovery. No foot-running or new tool. Native full-silhouette source, stable costume/occluded eye/rose side and one shared scale/baseline.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "review",
+      "kind": "row-strip",
+      "selected_source": "decoded/review.png",
+      "source_sha256": "69173ddc1e82b128ef8194293346cdde76ebb7425ca8483f60c417a5f17be446",
+      "prompt_file": "prompts/rows/review.md",
+      "prompt_sha256": "363bf052108bce25de161c365d1e6b87fd7eb85dc80db7a02cd0eeb48e313592",
+      "actual_worker_calls": "qa/review-worker-calls.json",
+      "actual_worker_calls_sha256": "a0b0f3684b2f83dbfe7a79f51ab89afb44f222870fbdb175e6d60f5e9b8a7705",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b745-308e-7e51-8d60-33915112b36d/exec-5d4920b3-a005-4dd4-af1d-0326b007245b.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/reference-01.png",
+          "role": "pet reference",
+          "sha256": "0d9e66cc0d243744dd7b9f0a474c7edf2a1e4a8d1c2d6755d6ed89da763781e5"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines",
+          "sha256": "1cb104c40fd445c7f68da45d6d1a50f7c14c5f94934ef37b7492ae53556a04d8"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        }
+      ],
+      "completed_at": "2026-11-07T18:33:17.049301+00:00",
+      "qa_note": "Six low-hand inspection/nod poses differ from palm-up waiting and chin-touch work. Source head height lowers naturally through nod; shared scale preserves anatomy instead of enlarging bowed frames. Clear recovery near rest, full hands/hair/feet and no prop.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "look-cardinals",
+      "kind": "look-cardinal-strip",
+      "selected_source": "decoded/look-cardinals.png",
+      "source_sha256": "b3e44a8197f004df0769fd34209ba85b5db5a8e2493062def8300847f602b3fc",
+      "prompt_file": "prompts/look-cardinals.md",
+      "prompt_sha256": "c48d9158f67bd555b1cd1f6a87af685c09af134818c9da984fb981ab3c1f0f45",
+      "actual_worker_calls": "qa/look-cardinals-worker-calls.json",
+      "actual_worker_calls_sha256": "71db95975bc9d91dc6e5d020862ca3bccc8ef5c8bc2b3189081be32f3aadd22b",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b74c-0165-75c0-8ab1-ab93e07b2f1d/exec-3722de02-9ea1-456b-89d2-d3af129bec84.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/look-cardinals-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics",
+          "sha256": "a0f97999c36e147c2a4afa80be58a1217f73732869d28f37c48a544a1d369f0d"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference",
+          "sha256": "fffa97afbeac363db25f41753bbaf0622f36635047511307295676cdf8f912e2"
+        }
+      ],
+      "completed_at": "2026-11-07T18:38:25.448395+00:00",
+      "qa_note": "All four extracted anchors pass structural checks and native semantic review: chin/iris up, nose/eye right, tucked chin/crown down, nose/cheek left; fixed feet, natural eye occlusion and real rose/fringe sides preserved.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "look-row-9",
+      "kind": "look-row-strip",
+      "selected_source": "decoded/look-row-9.png",
+      "source_sha256": "a7ca0c880c89941ebeeaa4b48b1f667653c239309241ccf75d8beabee07c8248",
+      "prompt_file": "prompts/rows/look-row-9.md",
+      "prompt_sha256": "059e95a5ac903ebadbcfe5a8da4127956c3f8d0371be8cb69c13af238aae0261",
+      "actual_worker_calls": "qa/look-row-9-worker-calls.json",
+      "actual_worker_calls_sha256": "dfa357f7ba4fa487d0afddcbfb64fa8df9ee7053c0454dc51056ae6be7cdd9a3",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b74e-52e5-7e50-a23f-466e9d1d5553/exec-9b50e823-df97-496c-95e9-8a3f3f5aa8f6.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/look-row-9-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics",
+          "sha256": "bf45e617b49a68573d68d00fb634237b92015a3d4ca65415ca1c1c3ccd8a1638"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference",
+          "sha256": "fffa97afbeac363db25f41753bbaf0622f36635047511307295676cdf8f912e2"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly",
+          "sha256": "f1ea48389fbb07ae7100e8aa9eaab3d2b61ac3c0df31bab168285a7ffacc1cb8"
+        }
+      ],
+      "completed_at": "2026-11-07T18:42:15.839528+00:00",
+      "qa_note": "Shared-scale registration and final-cell edges pass; source-hash-bound labeled native row gate confirms all eight intended directions, stable y200 lower-body baseline and coherent arc, with only subtle near-axis components recorded as warnings.",
+      "rejected_attempts": []
+    },
+    {
+      "job": "look-row-10",
+      "kind": "look-row-strip",
+      "selected_source": "decoded/look-row-10.png",
+      "source_sha256": "2500db7088e12945d1569db1a8ff395183a2e119d9db0ba61782c919267b5ee1",
+      "prompt_file": "prompts/rows/look-row-10.md",
+      "prompt_sha256": "de67bffccaa46d485290c8dd71a5c0ead7b953a3e6aa4933afb79e7633dbf368",
+      "actual_worker_calls": "qa/look-row-10-worker-calls.json",
+      "actual_worker_calls_sha256": "31335ae5504b17143363510174b3c60c50d13004f717270f724b808ed8321894",
+      "generated_outputs": [
+        "/home/ubuntu23/.codex/generated_images/01a1b751-c98d-7f11-900e-a191ca54ef4c/exec-ee23053b-57f6-442b-977c-c438bab48665.png"
+      ],
+      "input_images": [
+        {
+          "path": "references/look-row-10-identity-layout.png",
+          "role": "top: classic maid outfit/front/face/chibi identity references (NO WEAPON); bottom: matching invisible layout only, NEVER copy its graphics",
+          "sha256": "bf45e617b49a68573d68d00fb634237b92015a3d4ca65415ca1c1c3ccd8a1638"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference",
+          "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f"
+        },
+        {
+          "path": "qa/contact-sheet.png",
+          "role": "approved standard-row identity, scale, and baseline reference",
+          "sha256": "fffa97afbeac363db25f41753bbaf0622f36635047511307295676cdf8f912e2"
+        },
+        {
+          "path": "decoded/look-anchors-approved.png",
+          "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly",
+          "sha256": "f1ea48389fbb07ae7100e8aa9eaab3d2b61ac3c0df31bab168285a7ffacc1cb8"
+        },
+        {
+          "path": "decoded/look-row-9.png",
+          "role": "completed first half of the clockwise look loop for row 10 continuity",
+          "sha256": "a7ca0c880c89941ebeeaa4b48b1f667653c239309241ccf75d8beabee07c8248"
+        }
+      ],
+      "completed_at": "2026-11-07T18:48:57.961601+00:00",
+      "qa_note": "Coherent source row registers to approved row9 scale and exact idle y200 baseline; final atlas and source reconstruction pass. Labeled native full loop confirms intended left/down/up progression, with only subtle 292.5 upward cue and localized 337.5-to000 metric outlier retained as minor warnings. Hard cardinal blind gates all pass.",
+      "rejected_attempts": []
+    }
+  ],
+  "generated_outputs": [
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73e-190a-7193-a865-2599c8ad55fd/exec-3f4a116f-761c-4888-a681-c42826188f61.png",
+      "sha256": "1cc6d30de7a30af265d0d6eaf4a35b45099a2d0316cfcf6fb88a3f822ce3102f",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-5323fee9-69fe-474c-8972-2b3a86efcd92.png",
+      "sha256": "03ae57c5b5e52139291e7c196cf617bd6dce7258ab33295ebc3d7f2be63a963e",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-5cb744df-5cd1-40a9-8426-db2ef12ca050.png",
+      "sha256": "eec1c503c2a4f3abcf069c29897b9970faac0d214d2ea17b08c1a5941160317d",
+      "selected": false
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73f-972e-77c1-9dc7-73676169217a/exec-87b86169-42b1-43f6-bbad-1e4bb81bc100.png",
+      "sha256": "8dfd5a368669f11f5e8a4518e15320a4de86c8c1af855efa067424e01dd59a26",
+      "selected": false
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73f-c1a7-75f2-a2d5-e0835c4f2244/exec-e52db34a-bea3-433b-8dfb-31ed3d682bf2.png",
+      "sha256": "93ac27af820501c3e767f341058186976b0052d6a1621aa94a968d6bbc8cff43",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b73f-ea66-7ea3-a09a-973672bc3719/exec-e9c08f89-4e63-4558-840d-73c2221cae14.png",
+      "sha256": "a172e2d47c2333c4a578daeefb19642ceeeb97d3d6fd96edc90d0bd05ce10512",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b743-3fb2-7e62-a3e9-b7ce1c5febfb/exec-31298f72-9363-4927-a14d-e7db401ff211.png",
+      "sha256": "973585d8e3ff2a19f557934a70161194ef42039ca2afb58d632a62b41b0bebcc",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b743-8a37-7e80-868a-468105a991cc/exec-4a4ed286-1709-4478-878e-c21e9e5a5631.png",
+      "sha256": "ba9eb14d4c2424af139cb268d9f3f19dcf5264cbb23b194616790b514ca132bd",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b743-b749-7992-acb0-b0352d504cad/exec-ffdf7bf2-93c5-4b86-b557-ac37b1be3585.png",
+      "sha256": "d5efebcbaee63e2976d1fa942f63d5eae69c72d832a9c15ec03abac9204e04f6",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b745-04c9-7a31-a70b-74186786d71f/exec-9f72d222-0c66-4fe3-88d8-b9d058d23645.png",
+      "sha256": "a49dc7748851a8e5b1bc2c0adff6ade3690260f5975822ae0e9ebeff757ce847",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b745-308e-7e51-8d60-33915112b36d/exec-5d4920b3-a005-4dd4-af1d-0326b007245b.png",
+      "sha256": "69173ddc1e82b128ef8194293346cdde76ebb7425ca8483f60c417a5f17be446",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b748-6a4e-7690-80be-3043ffde1014/exec-7a675bc0-c4dd-4a3f-9743-7afadb79f182.png",
+      "sha256": "b9cb9dba0142e1bdfe2563ace9028603984025176874025ff66fef56b8a97eff",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b74c-0165-75c0-8ab1-ab93e07b2f1d/exec-3722de02-9ea1-456b-89d2-d3af129bec84.png",
+      "sha256": "b3e44a8197f004df0769fd34209ba85b5db5a8e2493062def8300847f602b3fc",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b74e-52e5-7e50-a23f-466e9d1d5553/exec-9b50e823-df97-496c-95e9-8a3f3f5aa8f6.png",
+      "sha256": "a7ca0c880c89941ebeeaa4b48b1f667653c239309241ccf75d8beabee07c8248",
+      "selected": true
+    },
+    {
+      "path": "/home/ubuntu23/.codex/generated_images/01a1b751-c98d-7f11-900e-a191ca54ef4c/exec-ee23053b-57f6-442b-977c-c438bab48665.png",
+      "sha256": "2500db7088e12945d1569db1a8ff395183a2e119d9db0ba61782c919267b5ee1",
+      "selected": true
+    }
+  ]
+}

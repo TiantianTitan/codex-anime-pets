@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>50 CHARACTERS</code>
-  <code>51 EDITIONS</code>
+  <code>51 CHARACTERS</code>
+  <code>52 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=50" width="100%" alt="Animated new arrivals showcase with Jingliu, Albedo, and Harumasa">
+  <img src="assets/readme/new-arrivals-stage.webp?v=51" width="100%" alt="Animated new arrivals showcase with Albedo, Harumasa, and Rita">
 </p>
 
 <p align="center">
-  <a href="#character-48-jingliu"><kbd>Jingliu</kbd></a>
   <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
+  <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=50" width="100%" alt="Complete Codex Anime Pets collection wall with 50 characters and 51 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=51" width="100%" alt="Complete Codex Anime Pets collection wall with 51 characters and 52 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,13 +82,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 50 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 51 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -382,7 +382,14 @@
       <a href="#character-50-asaba-harumasa"><img src="assets/readme/idle/asaba-harumasa.webp" width="155" alt="Harumasa idle animation"></a><br>
       <b>「&nbsp;Harumasa&nbsp;」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>51</sub><br>
+      <a href="#character-51-rita-rossweisse"><img src="assets/readme/idle/rita-rossweisse.webp" width="155" alt="Rita idle animation"></a><br>
+      <b>「 Rita 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1514,6 +1521,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-51-rita-rossweisse" name="character-51-rita-rossweisse"></a>
+<details>
+<summary><b>51 · Rita</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/rita-rossweisse.webp" width="190" alt="Rita idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> an ash-brown bob, a wine-red eye, a rose-trimmed maid headband, and a black-and-white frilled dress<br>
+      <b>Mood:</b> Soft-spoken and composed, with a watchful eye.<br><br>
+      <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
+      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1569,7 +1598,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 9 characters / 10 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 10 characters / 11 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1583,6 +1612,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Seele Vollerei | 2D | `seele-vollerei` | [Download ZIP](honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip) |
 | Theresa | 2D | `theresa` | [Download ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | Kallen | 2D | `kallen-kaslana` | [Download ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
+| Rita | 2D | `rita-rossweisse` | [Download ZIP](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1646,7 +1676,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 51 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 52 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 
