@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>48 PERSONNAGES</code>
-  <code>49 ÉDITIONS</code>
+  <code>49 PERSONNAGES</code>
+  <code>50 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=48" width="100%" alt="Présentation animée des nouveautés Nomade, Kallen et Jingliu">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=49" width="100%" alt="Présentation animée des nouveautés Kallen, Jingliu et Albedo">
 </p>
 
 <p align="center">
-  <a href="#character-46-wanderer"><kbd>Nomade</kbd></a>
   <a href="#character-47-kallen-kaslana"><kbd>Kallen</kbd></a>
   <a href="#character-48-jingliu"><kbd>Jingliu</kbd></a>
+  <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=48" width="100%" alt="Collection complète de 48 personnages et 49 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=49" width="100%" alt="Collection complète de 49 personnages et 50 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 13</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 9</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 10</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>Collection complète · 48 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 49 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -370,7 +370,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>49</sub><br>
+      <a href="#character-49-albedo"><img src="assets/readme/idle/albedo.webp" width="155" alt="Animation d'attente d'Albedo"></a><br>
+      <b>「 Albedo 」</b><br>
+    </td>
+    <td align="center" valign="middle" colspan="2">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence et faites éclore un compagnon</sub>
@@ -1458,6 +1463,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-49-albedo" name="character-49-albedo"></a>
+<details>
+<summary><b>49 · Albedo</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/albedo.webp" width="190" alt="Animation d'attente d'Albedo"></td>
+    <td>
+      <b>Style :</b> Autocollant anime 2D<br>
+      <b>Détails distinctifs :</b> des cheveux blond pâle, des yeux turquoise, une petite étoile dorée au cou et un manteau blanc et bleu marine aux bordures dorées<br>
+      <b>Tempérament :</b> Discret et curieux, attentif aux petits détails.<br><br>
+      <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
+      <a href="work/albedo/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="work/albedo/2d/qa/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1468,7 +1495,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 13 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Genshin Impact</b> · 14 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1485,6 +1512,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Venti | 2D | `venti` | [Télécharger](genshin-impact/Venti/venti-2d-codex-pet-v2.zip) |
 | Shogun Raiden | 2D | `raiden-shogun` | [Télécharger](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 | Nomade | 2D | `wanderer` | [Télécharger](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
+| Albedo | 2D | `albedo` | [Télécharger](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1588,7 +1616,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 49 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 50 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 

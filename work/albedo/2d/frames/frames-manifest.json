@@ -1,0 +1,497 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/05.png"
+      ],
+      "method": "stable-slots",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/idle.png",
+      "source_sha256": "d6c382739d481e2f4cc6392a4659c0e93d9073d36e28a40c945a3fa41e640ad8",
+      "review_note": "Reviewed complete source groups; components normalized every height separately, removing breathing/bob. Shared viewport stable-slots preserves original pose scale, vertical motion and silhouette; no clipping, identity drift or visible seam. Source order unchanged."
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-right/07.png"
+      ],
+      "method": "stable-slots",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/running-right.png",
+      "source_sha256": "7fc9165f7abff04578f006084b1fd980211af964ba8e9d5d00187d887d5af54e",
+      "review_note": "Reviewed complete source groups; components normalized every height separately, removing breathing/bob. Shared viewport stable-slots preserves original pose scale, vertical motion and silhouette; no clipping, identity drift or visible seam. Source order unchanged."
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/jumping/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/jumping/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/jumping/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/jumping/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/jumping/04.png"
+      ],
+      "method": "stable-slots",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/jumping.png",
+      "source_sha256": "d9b1b5b1d62f914d5561a7d7782cb44e83d896e6626bf124e8b360f1032abae0",
+      "review_note": "Default component fitting erased jump arc and enlarged crouches. Stable shared viewport restores original five poses and modest airborne clearance; head/torso size matches idle, full hair and boots, grounded anticipation/landing; final crouch is intentional settling."
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waving/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waving/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waving/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waving/03.png"
+      ],
+      "method": "reviewed-layout",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/waving.png",
+      "source_sha256": "5a471d5ecfa42c868e955e6d16334706c6652c753f8380453916c3983ad7b862",
+      "extraction": {
+        "cuts": [
+          0,
+          554,
+          1078,
+          1597,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            302.5627988524068,
+            683
+          ],
+          [
+            818.4078274760384,
+            683
+          ],
+          [
+            1336.292807129217,
+            683
+          ],
+          [
+            1859.108078082844,
+            683
+          ]
+        ],
+        "shared_scale": 0.2972972972972973,
+        "target_anchor": [
+          96.87676056338029,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "reference_sha256": "9ec995c417368f86ac77848669614731cf2152f0e5038c73f3a934d9ac817295"
+      },
+      "review_note": "Complete source poses independently drawn, correct state/identity, no clipping. Recovered from reviewed safe cuts with one scale and fixed measured boot anchors matching idle; prevents bbox-center lateral foot wobble during hand/head gestures. Source order retained."
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/waiting/05.png"
+      ],
+      "method": "reviewed-layout",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/waiting.png",
+      "source_sha256": "5dd70216590980cf65f94b3b6d367e74256c8620b98be6a186711f0022d677fe",
+      "extraction": {
+        "cuts": [
+          0,
+          382,
+          735,
+          1090,
+          1451,
+          1815,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            203.24420767799762,
+            677
+          ],
+          [
+            565.1444879877322,
+            677
+          ],
+          [
+            927.103372309778,
+            677
+          ],
+          [
+            1288.7151093776497,
+            677
+          ],
+          [
+            1643.8004104669062,
+            677
+          ],
+          [
+            1996.9408173647616,
+            677
+          ]
+        ],
+        "shared_scale": 0.30275229357798167,
+        "target_anchor": [
+          96.87676056338029,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "reference_sha256": "9ec995c417368f86ac77848669614731cf2152f0e5038c73f3a934d9ac817295"
+      },
+      "review_note": "Complete source poses independently drawn, correct state/identity, no clipping. Recovered from reviewed safe cuts with one scale and fixed measured boot anchors matching idle; prevents bbox-center lateral foot wobble during hand/head gestures. Source order retained."
+    },
+    {
+      "state": "running",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running/05.png"
+      ],
+      "method": "reviewed-layout",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/running.png",
+      "source_sha256": "770ed3b7b97db6b2fab1784e02fff1b0b851abca6a245ac6eebc5bfda8ef8e0f",
+      "extraction": {
+        "cuts": [
+          0,
+          366,
+          726,
+          1083,
+          1450,
+          1812,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            187.61707746478874,
+            702
+          ],
+          [
+            549.3241572206683,
+            702
+          ],
+          [
+            910.5945310202882,
+            702
+          ],
+          [
+            1271.645232166398,
+            702
+          ],
+          [
+            1634.9531227038942,
+            702
+          ],
+          [
+            1996.7383328441445,
+            702
+          ]
+        ],
+        "shared_scale": 0.28905109489051095,
+        "target_anchor": [
+          96.87676056338029,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "reference_sha256": "9ec995c417368f86ac77848669614731cf2152f0e5038c73f3a934d9ac817295"
+      },
+      "review_note": "Complete source poses independently drawn, correct state/identity, no clipping. Recovered from reviewed safe cuts with one scale and fixed measured boot anchors matching idle; prevents bbox-center lateral foot wobble during hand/head gestures. Source order retained."
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/failed/07.png"
+      ],
+      "method": "reviewed-layout",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/failed.png",
+      "source_sha256": "589cf6b13b7234d6699b60cc09756bdac76a46b8a2eeb80707a652919abd7d27",
+      "extraction": {
+        "cuts": [
+          0,
+          288,
+          558,
+          824,
+          1093,
+          1362,
+          1628,
+          1896,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            156.48747624805665,
+            672
+          ],
+          [
+            426.9334949774853,
+            672
+          ],
+          [
+            696.145818935729,
+            672
+          ],
+          [
+            963.6664947567475,
+            672
+          ],
+          [
+            1231.2829403606102,
+            672
+          ],
+          [
+            1498.4734927234927,
+            672
+          ],
+          [
+            1766.638664141849,
+            672
+          ],
+          [
+            2034.6582037996545,
+            672
+          ]
+        ],
+        "shared_scale": 0.31181102362204727,
+        "target_anchor": [
+          96.87676056338029,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "reference_sha256": "9ec995c417368f86ac77848669614731cf2152f0e5038c73f3a934d9ac817295"
+      },
+      "review_note": "Complete source poses independently drawn, correct state/identity, no clipping. Recovered from reviewed safe cuts with one scale and fixed measured boot anchors matching idle; prevents bbox-center lateral foot wobble during hand/head gestures. Source order retained."
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/05.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/06.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/running-left/07.png"
+      ],
+      "method": "stable-slots",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/running-left.png",
+      "source_sha256": "fa56dd2d2b687bbd368c6a7b61e54fa6be971f087528abedc5ecceaa519f97c1",
+      "review_note": "Independently generated leftward gait preserves costume asymmetry; eight alternating contact/compress/pass/lift poses fully inside cells. Reviewed stable source viewport preserves grounded/air phases and avoids per-frame rescaling."
+    },
+    {
+      "state": "review",
+      "frames": [
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/00.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/01.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/02.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/03.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/04.png",
+        "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/review/05.png"
+      ],
+      "method": "reviewed-layout",
+      "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/review.png",
+      "source_sha256": "575efa7d89134cccd13d7eb0f92366cac0fed36928f2acfe5103cfea16d3f567",
+      "extraction": {
+        "cuts": [
+          0,
+          368,
+          724,
+          1084,
+          1444,
+          1800,
+          2172
+        ],
+        "foot_anchors": [
+          [
+            194.3384124734231,
+            684
+          ],
+          [
+            553.0140170333569,
+            684
+          ],
+          [
+            910.9962304792676,
+            684
+          ],
+          [
+            1268.2958924027625,
+            684
+          ],
+          [
+            1625.5459516669607,
+            684
+          ],
+          [
+            1984.689313517339,
+            684
+          ]
+        ],
+        "shared_scale": 0.30414746543778803,
+        "target_anchor": [
+          96.87676056338029,
+          203
+        ],
+        "cut_foreground_pixels": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "removed_neighbor_components": [
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale.",
+        "neighbor_cleanup_note": "",
+        "source_frame_mapping": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reference_cell": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/frames/idle/00.png",
+        "reference_sha256": "9ec995c417368f86ac77848669614731cf2152f0e5038c73f3a934d9ac817295"
+      },
+      "review_note": "Six complete inspection/approving nod/recovery poses. Reviewed foot registration and shared scale retain actual lowered head and avoid per-frame enlargement of bowed pose. Face and costume match canonical."
+    }
+  ]
+}

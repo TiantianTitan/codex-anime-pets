@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "errors": [],
+  "readmes": [
+    {
+      "file": "README.md",
+      "checked_local_links": 379,
+      "characters": 49,
+      "editions": 50,
+      "archive_entries": 49,
+      "genshin_packages": 14,
+      "gallery_three_column_grid": true,
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.fr.md",
+      "checked_local_links": 379,
+      "characters": 49,
+      "editions": 50,
+      "archive_entries": 49,
+      "genshin_packages": 14,
+      "gallery_three_column_grid": true,
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.zh-CN.md",
+      "checked_local_links": 379,
+      "characters": 49,
+      "editions": 50,
+      "archive_entries": 49,
+      "genshin_packages": 14,
+      "gallery_three_column_grid": true,
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    },
+    {
+      "file": "README.ja.md",
+      "checked_local_links": 148,
+      "characters": 49,
+      "editions": 50,
+      "archive_entries": 0,
+      "genshin_packages": 14,
+      "gallery_three_column_grid": true,
+      "next_entry_retained": true,
+      "historical_batch_unchanged": true
+    }
+  ],
+  "assets": [
+    {
+      "locale": "en",
+      "arrival_names": [
+        "KALLEN",
+        "JINGLIU",
+        "ALBEDO"
+      ],
+      "arrivals_sha256": "c0a347f03fd3fecf2eeff1a03ebfcc01e7833a6d4a88cbabd3239557e0b6cebc",
+      "wall_sha256": "b83bef45ed22a36c210b2a27b04a9d5cfe0fc44b3a53bf22e5f4825eff760a18",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "fr",
+      "arrival_names": [
+        "KALLEN",
+        "JINGLIU",
+        "ALBEDO"
+      ],
+      "arrivals_sha256": "365ab7b8217b9c1f34e2405687962b2e16f6f74174a7fb76089c8ffb21fc47ac",
+      "wall_sha256": "593688fd85464894f301b53ca9014afee3c7c86a154349a239607623c4fd373b",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "zh-CN",
+      "arrival_names": [
+        "卡莲",
+        "镜流",
+        "阿贝多"
+      ],
+      "arrivals_sha256": "0f76e0413816e753b21c6c0aca52ae03ae8abf53c79f10a2373866afdb87d235",
+      "wall_sha256": "2205d573642e8152938a73ceb65d9ec56628e88572b2441ea2d62e3c47401efa",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    },
+    {
+      "locale": "ja",
+      "arrival_names": [
+        "カレン",
+        "鏡流",
+        "アルベド"
+      ],
+      "arrivals_sha256": "3732a64c799aa4da8e115403114d63a38c3c6df40c4958d05d089bfd420b8a41",
+      "wall_sha256": "67bffb15796465f65a282e09d7011fce73be2d4c9a75f8e555b68ec25a66cdfa",
+      "arrival_duration_ms": 6600,
+      "arrival_frames": 17,
+      "wall_size": [
+        1200,
+        1975
+      ]
+    }
+  ],
+  "total_checked_local_links": 1285,
+  "protected_existing_assets_unchanged": 121,
+  "idle_final_atlas_pixel_check": true,
+  "archive_card_size": [
+    220,
+    240
+  ],
+  "silhouette_height": 198,
+  "baseline": 220,
+  "product_and_zip_unchanged": true,
+  "background_only": true,
+  "browser_scope": "Separate headless local Markdown approximation, not a live GitHub render"
+}

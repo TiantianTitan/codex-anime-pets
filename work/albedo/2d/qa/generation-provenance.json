@@ -1,0 +1,394 @@
+[
+  {
+    "job": "base",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/base.png",
+    "selected_sha256": "531b5f4e54a787f0cab65523cbe8ac4032bf391b9527a5a09ba4b291b1414ff8",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1f8-e3ae-7cf0-9732-96881c9dd54c/exec-40422b7f-1a65-487f-a175-98d432c1a0fa.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "7059d639d7147c7094217aef611cb047a1617365b7fbfb4a2d6d46c0c157fbc2",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      }
+    ]
+  },
+  {
+    "job": "idle",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/idle.png",
+    "selected_sha256": "d6c382739d481e2f4cc6392a4659c0e93d9073d36e28a40c945a3fa41e640ad8",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fa-d0f4-7df1-a687-9ffc3c52bf3c/exec-b0461b22-6489-4c0a-9700-f08161fe9c90.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "f08f70678846cb3d6e1cbf6780f790590882ff5dd1ba7d733707813a6da02c3c",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/idle.png",
+        "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "running-right",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/running-right.png",
+    "selected_sha256": "7fc9165f7abff04578f006084b1fd980211af964ba8e9d5d00187d887d5af54e",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fa-fb2e-7262-b724-f90e3dbad491/exec-e1d3eec4-7f85-4a8e-8d19-197a79bbd831.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "17e117356f658d1a392c49d9fcdb35d72611e239ab2ed19ee52f20ed9b9f8ba5",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/running-right.png",
+        "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "running-left",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/running-left.png",
+    "selected_sha256": "fa56dd2d2b687bbd368c6a7b61e54fa6be971f087528abedc5ecceaa519f97c1",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fe-5e4f-7d50-8b75-61fa0ff38e39/exec-48cc039b-8046-4760-92e8-991a7f6854b6.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "70b61246378d1b89be2c0d6f7d1f523845039e5255d3cda5cfcbae07c7758ae1",
+    "actual_inputs": [
+      {
+        "path": "references/identity-board.png",
+        "role": "all three original identity references; costume/face/chibi proportions"
+      },
+      {
+        "path": "references/layout-guides/running-left.png",
+        "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      },
+      {
+        "path": "decoded/running-right.png",
+        "role": "rightward gait reference for leftward row decision"
+      }
+    ]
+  },
+  {
+    "job": "waving",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/waving.png",
+    "selected_sha256": "5a471d5ecfa42c868e955e6d16334706c6652c753f8380453916c3983ad7b862",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fb-20d6-7bf0-b426-d26e5f09e5da/exec-8fcab070-c374-4f72-87b2-4ebf83e2c66b.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "b4eb6609d5f3d92fa01da13f375d2ae91b71bd1c73a683555999acdf06b5437f",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/waving.png",
+        "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "jumping",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/jumping.png",
+    "selected_sha256": "d9b1b5b1d62f914d5561a7d7782cb44e83d896e6626bf124e8b360f1032abae0",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fd-0341-7310-85f4-8d8cf4c618a3/exec-f2db688e-6a6a-4d99-b1e5-de7dd7e8f9aa.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "64df5b13a417c805aa871aa48134dec5ccfcb868f69ca1387718aad0c2371262",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/jumping.png",
+        "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "failed",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/failed.png",
+    "selected_sha256": "589cf6b13b7234d6699b60cc09756bdac76a46b8a2eeb80707a652919abd7d27",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fd-348f-73e3-8754-8c54310f1914/exec-f33230bb-4789-4813-8204-b566df3e9e1e.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "557f83bf72277fb0f609b02f6a236743d166c20f6c8cb111476a8e4455f857d0",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/failed.png",
+        "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "waiting",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/waiting.png",
+    "selected_sha256": "5dd70216590980cf65f94b3b6d367e74256c8620b98be6a186711f0022d677fe",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fe-c1de-7c11-a68d-b8b280435980/exec-6ff11b8a-e59a-4c8c-b99e-fcb780759866.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "972b7244d2d4f777a3b346a9bd171396ad51ba68d05f1a1e470ff9b8627d587b",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/waiting.png",
+        "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "running",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/running.png",
+    "selected_sha256": "770ed3b7b97db6b2fab1784e02fff1b0b851abca6a245ac6eebc5bfda8ef8e0f",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b1fe-edb5-7bf2-9b6e-0ec29f66af23/exec-660dd4bc-ad6c-4580-9331-a71f441d0595.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "91565dc26b34e8610c385feca5412261ded245fda5c75327c1a35d4a44e24726",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/running.png",
+        "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "review",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/review.png",
+    "selected_sha256": "575efa7d89134cccd13d7eb0f92366cac0fed36928f2acfe5103cfea16d3f567",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b200-35dc-7481-8bc6-e484a4bb7bc2/exec-329821e1-de23-400e-9337-98cb7305013f.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "40c9d4d36f01036a68a88f464779ec30d556b9bd8cc430d24fb1978c84918dba",
+    "actual_inputs": [
+      {
+        "path": "references/reference-01.png",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-02.jpg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/reference-03.jpeg",
+        "role": "pet reference"
+      },
+      {
+        "path": "references/layout-guides/review.png",
+        "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      }
+    ]
+  },
+  {
+    "job": "look-cardinals",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/look-cardinals.png",
+    "selected_sha256": "3833f99c4f3d0653f062f6a9903d133897fe1b0bb84bce22a9421e52dd5723e6",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b203-7fd6-7ef2-a5c8-d14e73018c5f/exec-44b3fe32-fecb-466a-bf8d-c4155e84cc4a.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "20948469a73377ffb4221bd7ab282c3e11d8e1c5ff6d63244bb4f7132b3de802",
+    "actual_inputs": [
+      {
+        "path": "references/look-cardinals-identity-layout.png",
+        "role": "top: three identity references; bottom: matching invisible layout guide (never copy guide graphics)"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      },
+      {
+        "path": "qa/contact-sheet.png",
+        "role": "approved standard-row identity, scale, and baseline reference"
+      }
+    ]
+  },
+  {
+    "job": "look-row-9",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/look-row-9.png",
+    "selected_sha256": "c7be07fdbf910ff69cc1cbfc3b994b91d5f7d7d79be2806c3d017f746917711b",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b206-0694-7a51-8bab-f1dfcef3caa7/exec-79d7b02d-a680-442c-9255-f69d73c70112.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "e8ed10413f54d2d9051ad4f60b9cd56a643bed78094bdcb8b0d90e0a158fe32c",
+    "actual_inputs": [
+      {
+        "path": "references/look-row-9-identity-layout.png",
+        "role": "top: three identity references; bottom: matching invisible layout guide (never copy guide graphics)"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      },
+      {
+        "path": "qa/contact-sheet.png",
+        "role": "approved standard-row identity, scale, and baseline reference"
+      },
+      {
+        "path": "decoded/look-anchors-approved.png",
+        "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+      }
+    ]
+  },
+  {
+    "job": "look-row-10",
+    "generation_method": "built-in image_gen via isolated worker",
+    "selected_source": "decoded/look-row-10.png",
+    "selected_sha256": "19b676e51bbffd312e9f4123ed27d8b197bf460979e3bcca74940c41fc54dd33",
+    "original_generated_path": "/home/ubuntu23/.codex/generated_images/01a1b208-7fe6-7b31-9acc-c58371c9c38b/exec-65621566-62b0-416c-9698-422a42cd610f.png",
+    "exact_copy_verified": true,
+    "prompt_archive": "qa/generation-prompts.md",
+    "prompt_sha256": "5bc19d763222bd89c4719b8cb5676b696dde7d69637569ccf44a5d5cfcd58a1c",
+    "actual_inputs": [
+      {
+        "path": "references/look-row-10-identity-layout.png",
+        "role": "top: three identity references; bottom: matching invisible layout guide (never copy guide graphics)"
+      },
+      {
+        "path": "references/canonical-base.png",
+        "role": "canonical identity reference"
+      },
+      {
+        "path": "qa/contact-sheet.png",
+        "role": "approved standard-row identity, scale, and baseline reference"
+      },
+      {
+        "path": "decoded/look-anchors-approved.png",
+        "role": "approved cardinal reference strip in order 000 up, 090 screen-right, 180 down, 270 screen-left; interpolate intermediate directions evenly"
+      },
+      {
+        "path": "decoded/look-row-9.png",
+        "role": "completed first half of the clockwise look loop for row 10 continuity"
+      }
+    ]
+  }
+]

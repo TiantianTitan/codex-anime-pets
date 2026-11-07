@@ -1,0 +1,119 @@
+{
+  "ok": true,
+  "atlas_sha256": "590421dbef7d966819fc5c6cebf8466eb46d7c68e80e097e76bf324d77e7d02d",
+  "client_version": "26.1007.21434",
+  "timing_evidence": "docs/pet-compatibility-2026-11-06.md; docs/pet-motion-refinement-2026-11-06.md",
+  "mode": "background-only exact encoded timeline and native ordered-frame/seam inspection",
+  "live_installed_client_test": false,
+  "action_schedule": "idle cycle -> 3 action cycles -> idle cycle; version-qualified local client evidence",
+  "rows": [
+    {
+      "state": "running-right",
+      "path": "qa/transitions-final/running-right-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 16380,
+        "encoded_frames": 36,
+        "interval_samples": 36,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "running-left",
+      "path": "qa/transitions-final/running-left-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 16380,
+        "encoded_frames": 36,
+        "interval_samples": 36,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "waving",
+      "path": "qa/transitions-final/waving-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 15300,
+        "encoded_frames": 24,
+        "interval_samples": 24,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "jumping",
+      "path": "qa/transitions-final/jumping-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 15720,
+        "encoded_frames": 27,
+        "interval_samples": 27,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "failed",
+      "path": "qa/transitions-final/failed-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 16860,
+        "encoded_frames": 36,
+        "interval_samples": 36,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "waiting",
+      "path": "qa/transitions-final/waiting-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 16230,
+        "encoded_frames": 30,
+        "interval_samples": 30,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "running",
+      "path": "qa/transitions-final/running-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 15660,
+        "encoded_frames": 30,
+        "interval_samples": 30,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    },
+    {
+      "state": "review",
+      "path": "qa/transitions-final/review-to-idle.webp",
+      "validation": {
+        "ok": true,
+        "total_duration_ms": 16290,
+        "encoded_frames": 30,
+        "interval_samples": 30,
+        "complete_alpha_exact": true,
+        "visible_rgba_exact": true
+      }
+    }
+  ],
+  "look_loop": {
+    "purpose": "QA-only clockwise sweep; not client scheduling",
+    "duration_per_pose_ms": 200,
+    "validation": {
+      "ok": true,
+      "total_duration_ms": 3200,
+      "encoded_frames": 16,
+      "interval_samples": 16,
+      "complete_alpha_exact": true,
+      "visible_rgba_exact": true
+    }
+  }
+}

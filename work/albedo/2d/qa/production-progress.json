@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-06T17:48:38.185983+00:00",
+  "stage": "complete",
+  "completed_jobs": [
+    "base",
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review",
+    "look-cardinals",
+    "look-row-9",
+    "look-row-10"
+  ],
+  "failures": [],
+  "scope": "2D only; no root README/install/git publication",
+  "updated_at": "2026-11-06T18:06:19.868406+00:00",
+  "pending_jobs": [],
+  "completed_at": "2026-11-06T18:14:12.889699+00:00",
+  "atlas_sha256": "590421dbef7d966819fc5c6cebf8466eb46d7c68e80e097e76bf324d77e7d02d"
+}

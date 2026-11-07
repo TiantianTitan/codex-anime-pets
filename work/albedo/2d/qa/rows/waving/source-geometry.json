@@ -1,0 +1,47 @@
+{
+  "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/waving.png",
+  "sha256": "5a471d5ecfa42c868e955e6d16334706c6652c753f8380453916c3983ad7b862",
+  "source_size": [
+    2172,
+    724
+  ],
+  "state": "waving",
+  "boxes": [
+    [
+      166,
+      17,
+      427,
+      683
+    ],
+    [
+      681,
+      18,
+      957,
+      683
+    ],
+    [
+      1199,
+      18,
+      1478,
+      683
+    ],
+    [
+      1716,
+      17,
+      1984,
+      683
+    ]
+  ],
+  "heights": [
+    666,
+    665,
+    665,
+    666
+  ],
+  "widths": [
+    261,
+    276,
+    279,
+    268
+  ]
+}

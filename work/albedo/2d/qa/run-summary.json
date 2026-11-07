@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "pet_id": "albedo",
+  "edition": "2d",
+  "spriteVersionNumber": 2,
+  "atlas_dimensions": [
+    1536,
+    2288
+  ],
+  "cell_dimensions": [
+    192,
+    208
+  ],
+  "standard_frames": 57,
+  "look_directions": 16,
+  "neutral_cells": 1,
+  "used_cells": 74,
+  "generation_jobs": 13,
+  "selected_sources_reconstruct_exactly": true,
+  "source_originals_retained_local": 7,
+  "atlas_sha256": "590421dbef7d966819fc5c6cebf8466eb46d7c68e80e097e76bf324d77e7d02d",
+  "zip_sha256": "b73d8352d2fa4f81fa0c330b25f1bfd7d640ec580d65b6601cc5884ba4d3b2f0",
+  "product_dir": "/home/ubuntu23/Bureau/codex-anime-pets/genshin-impact/Albedo/albedo-2d",
+  "zip": "/home/ubuntu23/Bureau/codex-anime-pets/genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip",
+  "release_validation": "qa/release-validation.json",
+  "visual_review": "qa/final-visual-qa.json",
+  "blind_validation": "qa/direction-blind-validation.json",
+  "warnings": [
+    "Near-horizontal vertical cues are subtle at 067.5, 112.5, and 292.5.",
+    "337.5→000 has a localized head-yaw/forelock step, with planted lower body and no visible scale jump, holes, or clipping."
+  ],
+  "background_checks_only": true,
+  "live_client_installed_test": false,
+  "installed": false,
+  "root_readmes_modified": false,
+  "committed": false,
+  "pushed": false,
+  "completed_at": "2026-11-06T18:14:12.889699+00:00",
+  "elapsed_from_prepare_minutes": 27.1
+}

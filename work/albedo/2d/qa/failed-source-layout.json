@@ -1,0 +1,52 @@
+{
+  "failed": {
+    "source_sha256": "589cf6b13b7234d6699b60cc09756bdac76a46b8a2eeb80707a652919abd7d27",
+    "cuts": [
+      0,
+      288,
+      558,
+      824,
+      1093,
+      1362,
+      1628,
+      1896,
+      2172
+    ],
+    "foot_anchors": [
+      [
+        156.48747624805665,
+        672
+      ],
+      [
+        426.9334949774853,
+        672
+      ],
+      [
+        696.145818935729,
+        672
+      ],
+      [
+        963.6664947567475,
+        672
+      ],
+      [
+        1231.2829403606102,
+        672
+      ],
+      [
+        1498.4734927234927,
+        672
+      ],
+      [
+        1766.638664141849,
+        672
+      ],
+      [
+        2034.6582037996545,
+        672
+      ]
+    ],
+    "reference_cell": "../frames/idle/00.png",
+    "review_note": "Native full-pose review confirmed isolated complete figures and clear inter-figure cuts. Per-bbox recentering made planted boots shift during upper-body gestures; one shared scale and measured lower-boot anchors recover grounded placement. No component deletion, repaint, or per-frame rescale."
+  }
+}

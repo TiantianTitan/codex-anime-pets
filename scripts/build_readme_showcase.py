@@ -225,6 +225,7 @@ ARCHIVE_SOURCES = [
     ("wanderer", "assets/readme/idle/wanderer.webp"),
     ("kallen-kaslana", "assets/readme/idle/kallen-kaslana.webp"),
     ("jingliu", "assets/readme/idle/jingliu.webp"),
+    ("albedo", "assets/readme/idle/albedo.webp"),
 ]
 
 
@@ -232,7 +233,7 @@ UNIVERSE_SLUGS = {
     "genshin": {
         "xiao", "zhongli", "yae-miko", "furina", "hu-tao", "kaeya",
         "kamisato-ayaka", "kaedehara-kazuha", "ganyu", "tartaglia", "venti",
-        "raiden-shogun", "wanderer",
+        "raiden-shogun", "wanderer", "albedo",
     },
     "star-rail": {
         "dan-heng-imbibitor-lunae", "jing-yuan", "acheron", "robin", "firefly",
@@ -300,7 +301,7 @@ LOCALES = {
         "arrival_kicker": "COLLECTION UPDATE",
         "arrival_lines": ("NEW", "ARRIVALS"),
         "arrival_available": "NOW AVAILABLE",
-        "arrival_names": ("WANDERER", "KALLEN", "JINGLIU"),
+        "arrival_names": ("KALLEN", "JINGLIU", "ALBEDO"),
         "collection_title": "COMPANION COLLECTION",
         "collection_count": "{characters} CHARACTERS / {editions} EDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "OTHERS"),
@@ -321,7 +322,7 @@ LOCALES = {
         "arrival_kicker": "MISE À JOUR DE LA COLLECTION",
         "arrival_lines": ("NOUVEAUX", "PERSONNAGES"),
         "arrival_available": "DISPONIBLES",
-        "arrival_names": ("NOMADE", "KALLEN", "JINGLIU"),
+        "arrival_names": ("KALLEN", "JINGLIU", "ALBEDO"),
         "collection_title": "COLLECTION DE COMPAGNONS",
         "collection_count": "{characters} PERSONNAGES / {editions} ÉDITIONS",
         "universe_labels": ("GENSHIN", "STAR RAIL", "HONKAI 3RD", "ZENLESS", "AUTRES"),
@@ -342,7 +343,7 @@ LOCALES = {
         "arrival_kicker": "收藏更新",
         "arrival_lines": ("新角色", "现已加入"),
         "arrival_available": "现已开放下载",
-        "arrival_names": ("流浪者", "卡莲", "镜流"),
+        "arrival_names": ("卡莲", "镜流", "阿贝多"),
         "collection_title": "角色收藏",
         "collection_count": "{characters} 个角色 / {editions} 个版本",
         "universe_labels": ("原神", "星穹铁道", "崩坏3", "绝区零", "其他"),
@@ -363,7 +364,7 @@ LOCALES = {
         "arrival_kicker": "コレクション更新",
         "arrival_lines": ("新着", "キャラクター"),
         "arrival_available": "配布中",
-        "arrival_names": ("放浪者", "カレン", "鏡流"),
+        "arrival_names": ("カレン", "鏡流", "アルベド"),
         "collection_title": "キャラクターコレクション",
         "collection_count": "{characters}キャラクター / {editions}エディション",
         "universe_labels": ("原神", "スターレイル", "崩壊3rd", "ゼンレス", "その他"),

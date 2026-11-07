@@ -1,0 +1,155 @@
+{
+  "ok": true,
+  "source_sha256": "c7be07fdbf910ff69cc1cbfc3b994b91d5f7d7d79be2806c3d017f746917711b",
+  "registered_row_sha256": "59a2699c4a59bfadba723f7ca826aeb597ab60b6933a52725d85ea4b2cd8f6c6",
+  "reviewed_by": "parent",
+  "registration_and_edges_passed": true,
+  "native_size": [
+    192,
+    208
+  ],
+  "next_row_authorized": true,
+  "continuity": [
+    {
+      "from": "000",
+      "to": "022.5",
+      "firstPixels": 10709,
+      "secondPixels": 10334,
+      "diffPixels": 1418,
+      "centerDelta": 1.0,
+      "areaRatio": 1.0362879814205535
+    },
+    {
+      "from": "022.5",
+      "to": "045",
+      "firstPixels": 10334,
+      "secondPixels": 10270,
+      "diffPixels": 1183,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0062317429406038
+    },
+    {
+      "from": "045",
+      "to": "067.5",
+      "firstPixels": 10270,
+      "secondPixels": 10061,
+      "diffPixels": 1438,
+      "centerDelta": 0.5,
+      "areaRatio": 1.0207732829738594
+    },
+    {
+      "from": "067.5",
+      "to": "090",
+      "firstPixels": 10061,
+      "secondPixels": 10063,
+      "diffPixels": 1149,
+      "centerDelta": 1.0,
+      "areaRatio": 1.000198787396879
+    },
+    {
+      "from": "090",
+      "to": "112.5",
+      "firstPixels": 10063,
+      "secondPixels": 10153,
+      "diffPixels": 1078,
+      "centerDelta": 1.118033988749895,
+      "areaRatio": 1.008943654973666
+    },
+    {
+      "from": "112.5",
+      "to": "135",
+      "firstPixels": 10153,
+      "secondPixels": 10070,
+      "diffPixels": 1311,
+      "centerDelta": 0.7071067811865476,
+      "areaRatio": 1.0082423038728898
+    },
+    {
+      "from": "135",
+      "to": "157.5",
+      "firstPixels": 10070,
+      "secondPixels": 10050,
+      "diffPixels": 1819,
+      "centerDelta": 2.0615528128088303,
+      "areaRatio": 1.0019900497512437
+    }
+  ],
+  "semantics": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": "Centered face, raised chin and visibly upward turquoise pupils.",
+      "reason": "Centered face, raised chin and visibly upward turquoise pupils.",
+      "horizontal_evidence": "centered",
+      "vertical_evidence": "chin and gaze raised"
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": "Chin stays lifted as face and pupils begin a slight rightward turn.",
+      "reason": "Chin stays lifted as face and pupils begin a slight rightward turn.",
+      "horizontal_evidence": "subtle rightward bias near vertical",
+      "vertical_evidence": "chin/gaze remain up"
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": "Rightward nose and eyes with raised chin, smooth quarter turn.",
+      "reason": "Rightward nose and eyes with raised chin, smooth quarter turn.",
+      "horizontal_evidence": "nose and gaze right",
+      "vertical_evidence": "eyes/chin raised"
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": "Rightward yaw dominates, eye line and chin still slightly elevated.",
+      "reason": "Rightward yaw dominates, eye line and chin still slightly elevated.",
+      "horizontal_evidence": "clear rightward face",
+      "vertical_evidence": "small upward component near horizontal"
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": "Nose and pupils point distinctly to screen-right with level chin.",
+      "reason": "Nose and pupils point distinctly to screen-right with level chin.",
+      "horizontal_evidence": "clear screen-right yaw",
+      "vertical_evidence": "level"
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Head remains rightward while chin and turquoise gaze begin lowering.",
+      "reason": "Head remains rightward while chin and turquoise gaze begin lowering.",
+      "horizontal_evidence": "screen-right yaw",
+      "vertical_evidence": "chin and eyes lower"
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "observed": "Forehead becomes more visible; eyes lowered with persistent rightward face.",
+      "reason": "Forehead becomes more visible; eyes lowered with persistent rightward face.",
+      "horizontal_evidence": "rightward nose/face",
+      "vertical_evidence": "clear downward chin/gaze"
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": "Deeper lowered chin and gaze, still rightward; exact near-down yaw is not numerically ideal.",
+      "reason": "Deeper lowered chin and gaze, still rightward; exact near-down yaw is not numerically ideal.",
+      "horizontal_evidence": "residual rightward quarter turn",
+      "vertical_evidence": "strong downward attention"
+    }
+  ],
+  "notes": [
+    "All poses are complete, identity-preserving and grounded. No native-visible reversal, broken attachment or wrong quadrant.",
+    "Near-cardinal cues and residual yaw are minor review candidates, not waived cardinal failures. Final row boundary, three blind reviews and independent final review remain required."
+  ]
+}

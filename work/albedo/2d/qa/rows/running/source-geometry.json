@@ -1,0 +1,63 @@
+{
+  "source": "/home/ubuntu23/Bureau/codex-anime-pets/work/albedo/2d/decoded/running.png",
+  "sha256": "770ed3b7b97db6b2fab1784e02fff1b0b851abca6a245ac6eebc5bfda8ef8e0f",
+  "source_size": [
+    2172,
+    724
+  ],
+  "state": "running",
+  "boxes": [
+    [
+      53,
+      17,
+      316,
+      702
+    ],
+    [
+      417,
+      17,
+      676,
+      702
+    ],
+    [
+      777,
+      17,
+      1037,
+      702
+    ],
+    [
+      1129,
+      17,
+      1399,
+      702
+    ],
+    [
+      1502,
+      17,
+      1762,
+      702
+    ],
+    [
+      1863,
+      17,
+      2124,
+      702
+    ]
+  ],
+  "heights": [
+    685,
+    685,
+    685,
+    685,
+    685,
+    685
+  ],
+  "widths": [
+    263,
+    259,
+    260,
+    270,
+    260,
+    261
+  ]
+}
