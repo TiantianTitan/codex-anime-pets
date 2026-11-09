@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>52 CHARACTERS</code>
-  <code>53 EDITIONS</code>
+  <code>53 CHARACTERS</code>
+  <code>54 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=52" width="100%" alt="Animated new arrivals showcase with Harumasa, Rita, and Silver Wolf">
+  <img src="assets/readme/new-arrivals-stage.webp?v=53" width="100%" alt="Animated new arrivals showcase with Rita, Silver Wolf, and Diluc">
 </p>
 
 <p align="center">
-  <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
   <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
   <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
+  <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=52" width="100%" alt="Complete Codex Anime Pets collection wall with 52 characters and 53 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=53" width="100%" alt="Complete Codex Anime Pets collection wall with 53 characters and 54 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,7 +80,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
@@ -88,7 +88,7 @@
 </p>
 
 <details>
-<summary><b>Full roster · 52 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 53 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -389,11 +389,15 @@
     </td>
   </tr>
   <tr>
-    <td width="33%"></td>
     <td align="center" valign="top" width="33%">
       <sub>52</sub><br>
       <a href="#character-52-silver-wolf"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="Silver Wolf idle animation"></a><br>
       <b>「&nbsp;Silver&nbsp;Wolf&nbsp;」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>53</sub><br>
+      <a href="#character-53-diluc"><img src="assets/readme/idle/diluc.webp" width="155" alt="Diluc idle animation"></a><br>
+      <b>「 Diluc 」</b><br>
     </td>
     <td width="33%"></td>
   </tr>
@@ -1574,6 +1578,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-53-diluc" name="character-53-diluc"></a>
+<details>
+<summary><b>53 · Diluc</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/diluc.webp" width="190" alt="Diluc idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> crimson hair in a low ponytail, red eyes, a black fur-collared coat and an off-white waistcoat<br>
+      <b>Mood:</b> Reserved, watchful, and steady.<br><br>
+      <a href="genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/diluc/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/diluc/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1586,7 +1612,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 14 companions　<kbd>Open</kbd></summary>
+<summary><b>Genshin Impact</b> · 15 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1604,6 +1630,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Raiden Shogun | 2D | `raiden-shogun` | [Download ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 | Wanderer | 2D | `wanderer` | [Download ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | Albedo | 2D | `albedo` | [Download ZIP](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
+| Diluc | 2D | `diluc` | [Download ZIP](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1710,7 +1737,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 53 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 54 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 

@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>52 个角色</code>
-  <code>53 个版本</code>
+  <code>53 个角色</code>
+  <code>54 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=52" width="100%" alt="浅羽悠真、丽塔和银狼的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=53" width="100%" alt="丽塔、银狼和迪卢克的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-50-asaba-harumasa"><kbd>浅羽悠真</kbd></a>
   <a href="#character-51-rita-rossweisse"><kbd>丽塔</kbd></a>
   <a href="#character-52-silver-wolf"><kbd>银狼</kbd></a>
+  <a href="#character-53-diluc"><kbd>迪卢克</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=52" width="100%" alt="包含五十二位角色、五十三个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=53" width="100%" alt="包含五十三位角色、五十四个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 11</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>完整收藏 · 52 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 53 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -387,11 +387,15 @@
     </td>
   </tr>
   <tr>
-    <td width="33%"></td>
     <td align="center" valign="top" width="33%">
       <sub>52</sub><br>
       <a href="#character-52-silver-wolf"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="银狼的待机动画"></a><br>
       <b>「 银狼 」</b><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub>53</sub><br>
+      <a href="#character-53-diluc"><img src="assets/readme/idle/diluc.webp" width="155" alt="迪卢克的待机动画"></a><br>
+      <b>「 迪卢克 」</b><br>
     </td>
     <td width="33%"></td>
   </tr>
@@ -1572,6 +1576,28 @@
 
 </details>
 
+<a id="character-53-diluc" name="character-53-diluc"></a>
+<details>
+<summary><b>53 · 迪卢克</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/diluc.webp" width="190" alt="迪卢克的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>外观：</b> 赤红长发束成低马尾，红瞳、黑色毛领长外套，内搭米白马甲<br>
+      <b>神态：</b> 寡言沉稳，始终留意着周围。<br><br>
+      <a href="genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip"><b>下载 2D 版本</b></a> ·
+      <a href="assets/readme/qa/diluc/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/diluc/2d/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1584,7 +1610,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 14 位角色　<kbd>展开</kbd></summary>
+<summary><b>原神</b> · 15 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1602,6 +1628,7 @@
 | 雷电将军 | 2D | `raiden-shogun` | [下载 ZIP](genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip) |
 | 流浪者 | 2D | `wanderer` | [下载 ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | 阿贝多 | 2D | `albedo` | [下载 ZIP](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
+| 迪卢克 | 2D | `diluc` | [下载 ZIP](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1708,7 +1735,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 53 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 54 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 
