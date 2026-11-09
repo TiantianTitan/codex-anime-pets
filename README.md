@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>51 CHARACTERS</code>
-  <code>52 EDITIONS</code>
+  <code>52 CHARACTERS</code>
+  <code>53 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -34,22 +34,22 @@
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.webp" width="100%" alt="Burnice White surrounded by all 16 validated look directions"></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><img src="assets/readme/direction-orbit.webp" width="100%" alt="Burnice White surrounded by all 16 validated look directions"></a>
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>Open the full direction QA</kbd></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><kbd>Open the full direction QA</kbd></a>
 </p>
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=51" width="100%" alt="Animated new arrivals showcase with Albedo, Harumasa, and Rita">
+  <img src="assets/readme/new-arrivals-stage.webp?v=52" width="100%" alt="Animated new arrivals showcase with Harumasa, Rita, and Silver Wolf">
 </p>
 
 <p align="center">
-  <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
   <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
+  <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=51" width="100%" alt="Complete Codex Anime Pets collection wall with 51 characters and 52 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=52" width="100%" alt="Complete Codex Anime Pets collection wall with 52 characters and 53 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,14 +81,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 51 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 52 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -389,6 +389,15 @@
     </td>
   </tr>
   <tr>
+    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>52</sub><br>
+      <a href="#character-52-silver-wolf"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="Silver Wolf idle animation"></a><br>
+      <b>「&nbsp;Silver&nbsp;Wolf&nbsp;」</b><br>
+    </td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
@@ -422,8 +431,8 @@
       <b>Signature details:</b> golden eyes, purple forehead mark, teal-tipped hair, adeptal tattoo, jade ornaments, and Yaksha mask<br>
       <b>Mood:</b> vigilant and restrained, with a softer presence at desktop scale<br><br>
       <a href="genshin-impact/xiao/xiao-2d.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/xiao/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/xiao/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/xiao/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/xiao/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -444,8 +453,8 @@
       <b>Signature details:</b> cyan dragon horns, pointed ears, long dark hair, white draped sleeves, and jade-gold ornaments<br>
       <b>Mood:</b> cool, composed, and quietly elegant<br><br>
       <a href="honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -466,8 +475,8 @@
       <b>Signature details:</b> long silver hair, golden eyes, red ribbon, and a black-white-red-gold uniform<br>
       <b>Mood:</b> unhurried, observant, and confidently at ease<br><br>
       <a href="honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/jing-yuan/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/jing-yuan/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/jing-yuan/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -488,8 +497,8 @@
       <b>Signature details:</b> amber eyes, formal long coat, and a warm brown-and-gold palette<br>
       <b>Mood:</b> steady, reassuring, and effortlessly dignified<br><br>
       <a href="genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/zhongli/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/zhongli/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/zhongli/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/zhongli/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -516,13 +525,13 @@ One character, two distinct visual editions:
   <tr>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D</b></a><br>
-      <a href="work/raiden-mei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/raiden-mei/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/raiden-mei/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/raiden-mei/2d/look-directions.png">16 look directions</a>
     </td>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Download 3D style</b></a><br>
-      <a href="work/raiden-mei/3d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/raiden-mei/3d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/raiden-mei/3d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/raiden-mei/3d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -545,8 +554,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> heterochromia, striped haori, and Kaburamaru curled close by<br>
       <b>Mood:</b> reserved, watchful, and sharply attentive<br><br>
       <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/obanai/2d/qa/contact-sheet.png">Animation sheet</a> ·
-      <a href="work/obanai/2d/qa/direction-qa.png">16 look directions</a>
+      <a href="assets/readme/qa/obanai/2d/contact-sheet.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/obanai/2d/direction-qa.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -567,8 +576,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> flowing sakura-pink hair, violet eyes, golden crown ornaments, gemstone earrings, and a red-white-black-purple shrine-maiden outfit<br>
       <b>Mood:</b> poised, playful, and quietly mischievous<br><br>
       <a href="genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/yae-miko/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/yae-miko/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/yae-miko/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -589,8 +598,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> white bob with pale-cyan accents, teardrop-blue eyes, a crown-like navy hat, white ruffles, blue gems, and gold-trimmed Fontaine attire<br>
       <b>Mood:</b> poised and theatrical, with an irrepressibly playful spark<br><br>
       <a href="genshin-impact/furina/furina-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/furina/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/furina/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/furina/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/furina/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -611,8 +620,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> deep indigo-violet hair, an asymmetrical fringe veiling one eye, a violet-magenta gaze, a white-lilac-black outfit with flame motifs, and a katana kept close at her side<br>
       <b>Mood:</b> quiet and enigmatic, carrying the stillness of a distant storm<br><br>
       <a href="honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/acheron/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/acheron/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/acheron/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/acheron/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -633,8 +642,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> charcoal-black bob with red inner layers, sleepy red eyes, a spiked maid headdress, monochrome industrial maidwear, and her unmistakable attached shark tail<br>
       <b>Mood:</b> laid-back and cool, with a quick, mischievous edge when the work starts moving<br><br>
       <a href="zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/ellen-joe/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/ellen-joe/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/ellen-joe/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -655,8 +664,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> flower-shaped crimson eyes, a tall dark hat with its talisman plaque and plum-blossom branch, long dark-brown hair fading toward muted red, and a deep brown-black-red-gold uniform<br>
       <b>Mood:</b> bright, teasing, and fearless, with a playful spark even in the quietest moments<br><br>
       <a href="genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/hu-tao/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/hu-tao/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/hu-tao/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -677,8 +686,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> silver-blue hair and a rear rosette bun, turquoise-to-violet eyes, a gold flower-tip halo, white feathered ear-wings, and a layered white, deep-indigo, lilac, and gold stage dress<br>
       <b>Mood:</b> serene and graceful, with the poised warmth of a singer ready to brighten the room<br><br>
       <a href="honkai-star-rail/robin/robin-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/robin/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/robin/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/robin/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/robin/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -699,8 +708,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> swept navy hair with a cool blue streak, warm tan skin, a pale-lilac visible eye, black eyepatch, white fur mantle, blue-violet split cape, and a dark cavalry uniform finished with gold details<br>
       <b>Mood:</b> relaxed and self-assured, with a playful edge that never loses sight of the room<br><br>
       <a href="genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kaeya/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kaeya/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kaeya/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -721,8 +730,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> long pearly-silver hair with cool gray ends, pink-to-aqua eyes, a black headband, pale mint leaf ornament and navy bow, charcoal-and-gold cropped cape, orange-gold chest bow, mint layered dress, and white boots with teal accents<br>
       <b>Mood:</b> gentle and hopeful, with quiet courage beneath every small gesture<br><br>
       <a href="honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/firefly/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/firefly/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/firefly/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/firefly/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -743,8 +752,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> tousled white hair, icy-blue eyes, a high-collar black-and-white combat coat with gold piping and buckles, cyan chest and belt accents, and an asymmetric armored sleeve<br>
       <b>Mood:</b> calm and formidable, carrying immense strength with an almost motionless sense of control<br><br>
       <a href="honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -765,8 +774,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> pale icy-blue high ponytail and straight bangs, black-and-gold crown ornament, pink side ribbons, clear blue eyes, navy kimono dress with pale-blue layers, gold trim, sakura motifs, magenta waist cord, armored skirt panels, and an elegant folding fan<br>
       <b>Mood:</b> poised and gracious, carrying frost-blue refinement with a gentle warmth in every small gesture<br><br>
       <a href="genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kamisato-ayaka/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kamisato-ayaka/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -787,8 +796,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> deep navy hair fading into violet-red tips, a single crimson eye beneath the fringe, a long black coat with gold fastenings and red lining, silver armor accents, bandaged hands, and a dark sword carried at his side<br>
       <b>Mood:</b> quiet and dangerous, with every restrained movement hinting at a will that refuses to break<br><br>
       <a href="honkai-star-rail/blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/blade/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/blade/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/blade/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/blade/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -809,8 +818,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> deep brown hair, turquoise eyes, a gold-and-pearl floral ornament, white shoulder drape, teal-and-navy dress with fine gold filigree, pink waist flower, long gloves, and an ornate blue ruan lute<br>
       <b>Mood:</b> serene and observant, carrying the quiet confidence of a scholar and the measured grace of a musician<br><br>
       <a href="honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/ruan-mei/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/ruan-mei/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/ruan-mei/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -831,8 +840,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> ivory-white hair with a vivid red streak, red-orange eyes, a compact scarf, an asymmetric black-red-cream samurai outfit, dark red hakama shorts, sandals, and a sheathed sword secured at his side<br>
       <b>Mood:</b> calm and attentive, carrying the quiet ease of a traveler and the steady resolve of a swordsman who listens to the wind<br><br>
       <a href="genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kazuha-chibi/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kazuha-chibi/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -853,8 +862,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> tall dark fox ears, navy-black hair, red eyes, a teal-white-black uniform, an asymmetric mechanical arm wrapped with a red cord, and a sheathed katana kept close at the hip<br>
       <b>Mood:</b> still and sharply attentive, with the contained presence of a swordmaster who never needs to hurry<br><br>
       <a href="zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/miyabi/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/miyabi/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/miyabi/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -875,8 +884,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> sandy-blond layered hair, magenta-to-cyan eyes, a teal teardrop earring, white fur collar, black-teal-gold tailored coat, white trousers, black gloves, violet bracelet, waist ornament, and attached blue tassels<br>
       <b>Mood:</b> poised and playfully self-assured, watching every turn with the calm of someone who already knows the odds<br><br>
       <a href="honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/aventurine/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/aventurine/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/aventurine/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/aventurine/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -897,8 +906,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> pale icy-blue layered hair with a curled forelock and long ponytail, black-red qilin horns, violet-pink eyes, a gold throat bell, dark-brown bodice, asymmetrical white-and-gold front panel, white-to-cobalt sleeves, blue back panels, and a red braided waist cord with twin tassels<br>
       <b>Mood:</b> gentle and quietly attentive, with the composed patience of an adeptal secretary who notices every small detail<br><br>
       <a href="genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/ganyu/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/ganyu/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/ganyu/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -919,8 +928,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered pale blue-gray hair, luminous golden eyes, feather-like ornaments beside the head, a rigid gold halo with diamond-shaped points, an asymmetric white, cobalt, navy, and gold long coat, dark gloves, fitted trousers, and tall boots<br>
       <b>Mood:</b> serene and impeccably composed, carrying the quiet presence of a conductor who can guide a room without ever raising his voice<br><br>
       <a href="honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/sunday/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/sunday/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/sunday/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/sunday/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -941,8 +950,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> thick twin braids fading from pink to lime green, vivid green eyes, a white haori over her dark uniform, green striped socks, and sandals<br>
       <b>Mood:</b> warm, candid, and full of bright energy, with an affection that feels every bit as strong as her resolve<br><br>
       <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -963,8 +972,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered wine-purple hair with long side locks, sunglasses resting on her crown, mauve-pink eyes, a white high-collar blouse, an asymmetric black-violet coat with web accents, dark tights with magenta thigh straps, wine-purple gloves, and black ankle boots<br>
       <b>Mood:</b> poised and enigmatic, with the unhurried confidence of someone who already knows how the scene will end<br><br>
       <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kafka/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kafka/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kafka/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kafka/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -985,8 +994,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered pale-gold hair tied into a low side ponytail, green eyes, a navy-violet long coat with gold piping and shoulder capelet, a white ruffled shirt, rose cravat, lavender waistcoat, white gloves, charcoal trousers, and brown knee-high boots<br>
       <b>Mood:</b> polished and composed, with the quiet authority of someone already considering the next several moves<br><br>
       <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/otto-apocalypse/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/otto-apocalypse/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/otto-apocalypse/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/otto-apocalypse/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1007,8 +1016,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> pink twin-tails, black bow roots, lime-green eyes, cropped black-and-white streetwear, orange accents, mismatched stockings, heavy boots, a green Bangboo pouch, and an attached black case<br>
       <b>Mood:</b> sharp, charismatic, and streetwise, with the easy confidence of someone who can turn chaos into a deal<br><br>
       <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/nicole-demara/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/nicole-demara/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/nicole-demara/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1029,8 +1038,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> short black bob with wine-red rear hair, pink rat ears, narrow green eyes, cream fur collar, blue-gray cropped jacket, tactical shorts, asymmetrical stockings and boots, red accents, and one long attached charcoal tail<br>
       <b>Mood:</b> poised, observant, and quietly dangerous, with a knowing expression that always seems one step ahead<br><br>
       <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/jane-doe/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/jane-doe/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/jane-doe/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1051,8 +1060,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> short silver bob, black headband, amber eyes, lime-and-black tactical jacket, pleated skirt, asymmetrical stockings, sneakers, mechanical backpack rig, and an attached sheathed sword<br>
       <b>Mood:</b> calm, disciplined, and focused, with understated warmth behind her reserved expression<br><br>
       <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/anby-demara/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/anby-demara/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/anby-demara/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1073,8 +1082,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> bright blue eyes, long white twin braids, star hair clip, white-and-black Valkyrie combat suit with orange accents, and a matched pair of compact pistols<br>
       <b>Mood:</b> bright, brave, and full of forward momentum, with the unmistakable confidence of a Valkyrie who never stops reaching for tomorrow<br><br>
       <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kiana-kaslana/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kiana-kaslana/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1095,8 +1104,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> orange hair, vivid blue eyes, red hair ornament and earring, gray-and-white uniform, red scarf, asymmetric shoulder armor, dark gloves and boots, and Hydro Vision<br>
       <b>Mood:</b> confident, playful, and always ready for the next challenge, with a calm smile that keeps his competitive edge close at hand<br><br>
       <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/tartaglia/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/tartaglia/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/tartaglia/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1117,8 +1126,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> blonde twin ponytails, red-orange eyes, red-and-black goggles, flame-accented cropped biker jacket, red scarf, pleated skirt, asymmetric boots, gold fittings, and an attached compact fuel backpack<br>
       <b>Mood:</b> lively, fearless, and warmly exuberant, with an irrepressible grin and the energy to turn every quiet moment into a celebration<br><br>
       <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/burnice-white/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/burnice-white/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/burnice-white/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/burnice-white/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1139,8 +1148,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> dark twin tails, crimson bows, vivid magenta eyes, cheek beauty marks, a tilted fox mask, bell choker, and an ornate red-black-white stage outfit with gold cords and patterned sash ends<br>
       <b>Mood:</b> playful and theatrical, with a sly smile that makes every desktop moment feel like part of the performance<br><br>
       <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/sparkle/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/sparkle/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/sparkle/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/sparkle/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1161,8 +1170,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> teal eyes, navy hair with teal-tipped braids, green bard cap with cream flower and feather, green-and-cream cape, white ruffled shirt, green shorts, white tights, brown shoes, and an attached wooden lyre<br>
       <b>Mood:</b> bright and easygoing, with the playful charm of a bard who always seems to bring a little breeze with him<br><br>
       <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/venti/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/venti/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/venti/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/venti/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1183,8 +1192,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> cyan eyes, red rectangular glasses, slate blue-violet hair, a low side ponytail with a red bead, blue-and-white Accipiter combat tunic, dark fitted trousers, and brown lace-up boots<br>
       <b>Mood:</b> calm and disciplined, with the measured confidence of a martial artist who never wastes a movement<br><br>
       <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/fu-hua/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/fu-hua/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/fu-hua/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/fu-hua/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1205,8 +1214,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> tousled dark teal hair, dark sunglasses, a long red scarf, charcoal biker jacket, dark green trousers, gold hardware, armored boots, and an oversized gold mechanical gauntlet<br>
       <b>Mood:</b> coolheaded, self-assured, and quietly competitive<br><br>
       <a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/lighter/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/lighter/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/lighter/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/lighter/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1227,8 +1236,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> violet eyes, long braided purple hair, violet flower hairpiece with gold ornaments, red neck ribbon, layered white-and-violet Inazuman robes, braided obi cords, and purple-gold trim<br>
       <b>Mood:</b> serene and authoritative, with a calm gaze and an unmistakable Electro presence<br><br>
       <a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/raiden-shogun/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/raiden-shogun/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/raiden-shogun/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/raiden-shogun/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1249,8 +1258,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> silver-gray drill twin-tails, large navy bows, gray eyes, a deep-blue military jacket and pleated skirt, red accents, gold shoulder braid, white mechanical gauntlets, and white-red armored boots<br>
       <b>Mood:</b> calm, exacting, and quietly resolute<br><br>
       <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/bronya-zaychik/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/bronya-zaychik/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1271,8 +1280,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> amber-red eyes, charcoal-black high ponytail with an orange-red streak, a cropped blue Public Security jacket, silver shoulder armor, black combat uniform, lime accents, armored boots, holster, and sidearm<br>
       <b>Mood:</b> disciplined, alert, and quietly dependable<br><br>
       <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/zhu-yuan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/zhu-yuan/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/zhu-yuan/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/zhu-yuan/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1293,8 +1302,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> short blue-black bob with cobalt-violet tips, bright blue eyes, white short sleeves, a deep-cobalt fitted vest dress, layered navy-violet butterfly skirt, white thigh-highs, and dark Mary Jane shoes<br>
       <b>Mood:</b> gentle and soft-spoken, with quiet courage beneath her calm gaze<br><br>
       <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/seele-vollerei/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/seele-vollerei/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/seele-vollerei/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/seele-vollerei/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1315,8 +1324,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> long lavender hair, violet eyes, a black-and-lilac gothic dress, layered ruffles, dark stockings, flower accents, and her lilac parasol<br>
       <b>Mood:</b> poised and elegant, with a quietly mischievous charm<br><br>
       <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/vivian-banshee/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/vivian-banshee/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1337,8 +1346,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> broad white fedora with a black band, narrow crimson eyes, short wavy black hair with curled cheek locks, fitted black tailoring, loose white trousers, and black dress shoes<br>
       <b>Mood:</b> immaculate composure edged with quiet menace<br><br>
       <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1359,8 +1368,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> layered silver-white hair with long curled side locks, vivid cyan-blue eyes, a fitted dark bodice, black gloves, gold cross trim, a tiered white ruffled skirt, pale stockings, and dark ankle boots with gold accents<br>
       <b>Mood:</b> small but resolute, with the calm bearing of a tiny commander<br><br>
       <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/theresa/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/theresa/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/theresa/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/theresa/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1381,8 +1390,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> swept white hair, pointed ears, a large silver-white tail, red eyes, black formalwear, a crimson tie, armored gloves, and mechanical boots<br>
       <b>Mood:</b> impeccably composed, precise, and quietly considerate<br><br>
       <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/von-lycaon/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/von-lycaon/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/von-lycaon/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/von-lycaon/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1403,8 +1412,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> pale lavender-white hair, half-lidded amber-magenta eyes, a butterfly-trimmed violet veil, an ornate purple-black bodysuit, long gloves, patterned sheer stockings, and pointed black boots<br>
       <b>Mood:</b> poised and enigmatic, with the calm gaze of someone who already knows how the story ends<br><br>
       <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/black-swan/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/black-swan/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/black-swan/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1425,8 +1434,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> a broad indigo-and-gold kasa with turquoise ribbons, violet eyes, an indigo bob, layered navy-and-white robes, and a turquoise chest ornament<br>
       <b>Mood:</b> sharp-eyed and self-possessed, with a light step and a guarded smile<br><br>
       <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/wanderer/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/wanderer/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/wanderer/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/wanderer/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1447,8 +1456,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> a silver-white braid, blue eyes, cross-shaped hair clips, a white pleated dress and a black jacket with red trim<br>
       <b>Mood:</b> Calm and quick to smile.<br><br>
       <a href="honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/kallen-kaslana/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/kallen-kaslana/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/kallen-kaslana/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/kallen-kaslana/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1469,8 +1478,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> silver-white hair, red eyes, a navy-and-white dress, a red hip ribbon and an ice-blue sword<br>
       <b>Mood:</b> Quiet and watchful, with an unhurried gaze.<br><br>
       <a href="honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/jingliu/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/jingliu/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/jingliu/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/jingliu/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1491,8 +1500,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> pale-gold hair, turquoise eyes, a small gold star at his neck, and a white-and-navy coat with gold trim<br>
       <b>Mood:</b> Quietly curious, always noticing the little things.<br><br>
       <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/albedo/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/albedo/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/albedo/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/albedo/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1513,8 +1522,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> tousled navy hair, golden eyes, a yellow headband, asymmetric tactical sleeves, and teal waist layers<br>
       <b>Mood:</b> Easygoing, with a watchful glint beneath the fringe.<br><br>
       <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/asaba-harumasa/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/asaba-harumasa/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/asaba-harumasa/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/asaba-harumasa/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1535,8 +1544,30 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
       <b>Signature details:</b> an ash-brown bob, a wine-red eye, a rose-trimmed maid headband, and a black-and-white frilled dress<br>
       <b>Mood:</b> Soft-spoken and composed, with a watchful eye.<br><br>
       <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ Download 2D edition</b></a> ·
-      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">Animation sheet</a> ·
-      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 look directions</a>
+      <a href="assets/readme/qa/rita-rossweisse/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/rita-rossweisse/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-52-silver-wolf" name="character-52-silver-wolf"></a>
+<details>
+<summary><b>52 · Silver Wolf</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/silver-wolf.webp" width="190" alt="Silver Wolf idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> silver-gray hair, a blue-tipped ponytail, violet goggles and a fur-collared cropped jacket<br>
+      <b>Mood:</b> Relaxed, with a competitive streak.<br><br>
+      <a href="honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/look-directions.png">16 look directions</a>
     </td>
   </tr>
 </table>
@@ -1546,6 +1577,8 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
+
+<a id="downloads"></a>
 
 ## Downloads
 
@@ -1576,7 +1609,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai: Star Rail</b> · 13 companions　<kbd>Open</kbd></summary>
+<summary><b>Honkai: Star Rail</b> · 14 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1593,6 +1626,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Sparkle | 2D | `sparkle` | [Download ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 | Black Swan | 2D | `black-swan` | [Download ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | Jingliu | 2D | `jingliu` | [Download ZIP](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
+| Silver Wolf | 2D | `silver-wolf` | [Download ZIP](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1676,7 +1710,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 52 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 53 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 
@@ -1700,31 +1734,11 @@ A good desktop companion reads clearly at a glance, moves smoothly, and carries 
 
 The technical checks support the part that matters most: every animation should still feel like the same character.
 
-## Production
-
-The collection follows a reusable production flow:
-
-```text
-Character references
-        ↓
-Identity and style study
-        ↓
-Nine character animation states
-        ↓
-Four anchors and a 16-direction look loop
-        ↓
-Assembly and visual review
-        ↓
-A downloadable Codex v2 pet
-```
-
-To build your own collection, begin with the [Codex Pet Dual Style production guide](codex-pet-dual-style/SKILL.md). It covers paired 2D/3D styles, identity consistency, motion design, direction review, packaging, and batch production.
-
 <a id="contribute-a-character"></a>
 
 ## Contributing
 
-New pets, animation repairs, presentation improvements, and workflow refinements are welcome. A distributable pet begins with:
+Character suggestions, animation fixes, and gallery improvements are welcome. Shared pet packages should contain:
 
 ```text
 <pet-id>/
@@ -1758,7 +1772,7 @@ If this collection made you smile, leave a Star, make a Fork, or bring the next 
 
 <p align="center">
   <a href="#contribute-a-character"><kbd>Request a character</kbd></a>
-  <a href="codex-pet-dual-style/SKILL.md"><kbd>Build your own pet</kbd></a>
+  <a href="#downloads"><kbd>Browse packages</kbd></a>
 </p>
 
 [Fixed-frame motion update: coverage and before/after preview](docs/pet-motion-refinement-2026-11-06.md).

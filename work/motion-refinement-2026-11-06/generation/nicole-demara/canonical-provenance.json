@@ -1,8 +1,0 @@
-{
-  "source_atlas": "/home/ubuntu23/Bureau/codex-anime-pets/zenless-zone-zero/nicole-demara/nicole-demara-2d/spritesheet.webp",
-  "source_atlas_sha256": "dbb950b6686060611cfb92d12d15848027fa0c3e2c0e031f09fdcaab790e79ea",
-  "cell": "row0col6",
-  "reference_path": "/home/ubuntu23/Bureau/codex-anime-pets/work/motion-refinement-2026-11-06/generation/nicole-demara/references/source-originals/canonical-neutral.png",
-  "reference_sha256": "b6cbd0cbc6a238b58d2b5ab79d3d3d7e986594835f0e8664d0f45e17edcc1c4c",
-  "scope": "failed-row generation only; other prepared jobs are unused"
-}

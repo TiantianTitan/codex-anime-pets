@@ -98,8 +98,8 @@
 | Venti | 跳跃 |
 | Xiao 魈 | 跳跃 |
 
-## 复现与来源
+## 播放依据
 
 基线提交：`c72f04ddea89ff4a403803b2c4e39de237ee3ad5`。时序依据本机客户端 `26.1007.21434` 的实际固定状态表：非待机动作通常执行三轮后返回待机。HTML 复现该时序，不提供素材无法控制的 FPS 配置。
 
-执行记录在 `work/motion-refinement-2026-11-06/`：`inventory.json`、`candidates.json`、`technical-validation.json`、两份 `qa-independent-*.json`、原始选定源与逐行提取/配准参数。7 行重绘均使用内置 image_gen，对应最终提示词保存在 `generation/*/prompts/`。
+原始执行记录、源素材及生成参数保留在本地工作区，不随展示仓库发布。

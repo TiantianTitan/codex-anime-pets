@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>51 个角色</code>
-  <code>52 个版本</code>
+  <code>52 个角色</code>
+  <code>53 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -33,21 +33,21 @@
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.zh-CN.webp" width="100%" alt="柏妮思与经过检查的十六个观察方向"></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><img src="assets/readme/direction-orbit.zh-CN.webp" width="100%" alt="柏妮思与经过检查的十六个观察方向"></a>
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>打开完整方向检查图</kbd></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><kbd>打开完整方向检查图</kbd></a>
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=51" width="100%" alt="阿贝多、浅羽悠真和丽塔的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=52" width="100%" alt="浅羽悠真、丽塔和银狼的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-49-albedo"><kbd>阿贝多</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>浅羽悠真</kbd></a>
   <a href="#character-51-rita-rossweisse"><kbd>丽塔</kbd></a>
+  <a href="#character-52-silver-wolf"><kbd>银狼</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=51" width="100%" alt="包含五十一位角色、五十二个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=52" width="100%" alt="包含五十二位角色、五十三个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 13</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 11</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 51 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 52 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -387,6 +387,15 @@
     </td>
   </tr>
   <tr>
+    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>52</sub><br>
+      <a href="#character-52-silver-wolf"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="银狼的待机动画"></a><br>
+      <b>「 银狼 」</b><br>
+    </td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
@@ -420,8 +429,8 @@
       <b>标志细节：</b>金色眼睛、额心紫菱、青色发梢、仙人纹身、玉饰与夜叉面具<br>
       <b>气质：</b>警觉而克制，缩小到桌面尺寸后又多了一点柔和<br><br>
       <a href="genshin-impact/xiao/xiao-2d.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/xiao/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/xiao/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/xiao/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/xiao/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -442,8 +451,8 @@
       <b>标志细节：</b>青色龙角、尖耳、青黑长发、白色披袖与玉金饰件<br>
       <b>气质：</b>清冷、克制，带着不张扬的优雅<br><br>
       <a href="honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -464,8 +473,8 @@
       <b>标志细节：</b>银白长发、金色眼睛、红色发带与黑白红金制服<br>
       <b>气质：</b>从容、敏锐，总有一种游刃有余的松弛感<br><br>
       <a href="honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/jing-yuan/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/jing-yuan/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/jing-yuan/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -486,8 +495,8 @@
       <b>标志细节：</b>琥珀色眼睛、古典长衣与温暖的棕金配色<br>
       <b>气质：</b>沉稳、可靠，自然而然带着端庄感<br><br>
       <a href="genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/zhongli/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/zhongli/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/zhongli/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/zhongli/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -514,13 +523,13 @@
   <tr>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D</b></a><br>
-      <a href="work/raiden-mei/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/raiden-mei/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/raiden-mei/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/raiden-mei/2d/look-directions.png">16 向视线</a>
     </td>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ 下载 3D 风格</b></a><br>
-      <a href="work/raiden-mei/3d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/raiden-mei/3d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/raiden-mei/3d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/raiden-mei/3d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -543,8 +552,8 @@
       <b>标志细节：</b>异色瞳、黑白条纹羽织，以及依偎在身旁的镝丸<br>
       <b>气质：</b>安静、警觉，注意力始终很集中<br><br>
       <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/obanai/2d/qa/contact-sheet.png">完整动作表</a> ·
-      <a href="work/obanai/2d/qa/direction-qa.png">16 向视线</a>
+      <a href="assets/readme/qa/obanai/2d/contact-sheet.png">完整动作表</a> ·
+      <a href="assets/readme/qa/obanai/2d/direction-qa.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -565,8 +574,8 @@
       <b>标志细节：</b>樱粉色长发、紫色眼眸、金色发冠与宝石耳饰，以及红白黑紫相间的巫女服<br>
       <b>气质：</b>从容优雅、灵动狡黠，总像藏着一点小心思<br><br>
       <a href="genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/yae-miko/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/yae-miko/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/yae-miko/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -587,8 +596,8 @@
       <b>标志特征：</b>泛着浅青色的白色短发、水滴般的蓝眼睛、冠冕造型的深蓝礼帽、白色荷叶边、蓝宝石与金边枫丹礼服<br>
       <b>气质：</b>从容而富有舞台感，神态里始终闪着灵动俏皮的光<br><br>
       <a href="genshin-impact/furina/furina-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/furina/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/furina/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/furina/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/furina/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -609,8 +618,8 @@
       <b>标志特征：</b>深靛紫色长发、遮住一只眼睛的不对称刘海、紫红色眼眸、白紫黑火焰纹服饰，以及贴身携带的长刀<br>
       <b>气质：</b>沉静难测，像一场尚在远方的风暴<br><br>
       <a href="honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/acheron/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/acheron/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/acheron/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/acheron/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -631,8 +640,8 @@
       <b>标志特征：</b>带红色内层的炭黑短发、略显困倦的红色眼眸、带金属尖饰的女仆头饰、黑白工业风制服，以及极具辨识度的鲨鱼尾巴<br>
       <b>气质：</b>平时懒洋洋又很从容，真正开工时却利落得让人措手不及<br><br>
       <a href="zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/ellen-joe/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/ellen-joe/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/ellen-joe/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -653,8 +662,8 @@
       <b>标志特征：</b>梅花形赤色眼眸、带符纹与梅枝装饰的深色高帽、由深棕渐向暗红的长发，以及棕黑、赤红与金色交织的制服<br>
       <b>气质：</b>灵动、爱逗人又无所畏惧，安静下来时也藏不住眼里的小小火花<br><br>
       <a href="genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/hu-tao/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/hu-tao/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/hu-tao/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -675,8 +684,8 @@
       <b>标志特征：</b>银蓝长发与后方玫瑰发髻、青绿渐紫的眼眸、花枝状金色光环、耳侧白色羽翼，以及白色、深靛紫、浅紫与金色交叠的舞台礼服<br>
       <b>气质：</b>宁静优雅，带着歌者从容而温暖的舞台光芒<br><br>
       <a href="honkai-star-rail/robin/robin-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/robin/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/robin/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/robin/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/robin/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -697,8 +706,8 @@
       <b>标志特征：</b>带冷蓝挑染的深海军蓝短发、暖棕肤色、浅紫色眼眸与黑色眼罩、白色毛领、蓝紫双色披风，以及带金色细节的深色骑兵制服<br>
       <b>气质：</b>松弛而自信，谈笑间带着一点狡黠，也始终留意着周围的动静<br><br>
       <a href="genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kaeya/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kaeya/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kaeya/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -719,8 +728,8 @@
       <b>标志特征：</b>末端泛着冷灰的珍珠银长发、粉青渐变眼睛、黑色发带、薄荷色叶形发饰与深蓝蝴蝶结、黑金短披肩、橙金胸饰、薄荷渐变短裙，以及带青色点缀的白色短靴<br>
       <b>气质：</b>温柔而明亮，安静的勇气藏在每个小动作里，也始终向往能够选择自己的道路<br><br>
       <a href="honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/firefly/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/firefly/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/firefly/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/firefly/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -741,8 +750,8 @@
       <b>标志特征：</b>凌乱白色短发、冰蓝眼眸、带金色滚边与扣件的黑白高领长战斗服、胸口与腰间的青色光点，以及不对称的黑色装甲袖<br>
       <b>气质：</b>沉静而极具压迫感，仿佛庞大的力量始终被收束在近乎静止的从容之中<br><br>
       <a href="honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -763,8 +772,8 @@
       <b>标志特征：</b>冰蓝色高马尾与齐刘海、黑金冠形发饰、粉色侧结、清澈蓝眸、深蓝与浅蓝叠成的和服裙装、金色滚边与樱花纹样、品红腰绳、裙侧甲片，以及动作间自然收展的折扇<br>
       <b>气质：</b>端庄而从容，霜蓝色的清雅里始终带着温柔亲近的暖意<br><br>
       <a href="genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kamisato-ayaka/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kamisato-ayaka/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -785,8 +794,8 @@
       <b>标志特征：</b>深蓝长发与紫红发梢、刘海下的赤色眼眸、带金色扣饰与暗红内衬的黑色长衣、银色甲片、缠着绷带的双手，以及始终随身的暗色长剑<br>
       <b>气质：</b>寡言而危险，克制的每一次呼吸与动作里，都藏着不肯折断的执念<br><br>
       <a href="honkai-star-rail/blade/blade-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/blade/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/blade/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/blade/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/blade/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -807,8 +816,8 @@
       <b>标志特征：</b>深棕长发与青色眼眸、金珠花形发饰、白色披帛、带精细金纹的青蓝与深蓝礼服、腰间粉花、深色长手套，以及纹饰华美的蓝色阮琴<br>
       <b>气质：</b>安静而敏锐，既有学者洞察万物的从容，也有乐者收放有度的清雅<br><br>
       <a href="honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/ruan-mei/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/ruan-mei/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/ruan-mei/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -829,8 +838,8 @@
       <b>标志特征：</b>象牙白短发与鲜明红色挑染、赤橙色眼眸、短围巾、黑红米白相间的不对称武士装束、暗红袴裤、草履，以及稳固系在腰侧的入鞘佩刀<br>
       <b>气质：</b>安静而敏锐，既有旅人随风而行的从容，也有剑士不动声色的坚定<br><br>
       <a href="genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kazuha-chibi/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kazuha-chibi/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -851,8 +860,8 @@
       <b>标志细节：</b>高挑的深色狐耳、藏青黑长发、赤红双眼、青绿白黑制服、缠有红绳的非对称机械臂，以及贴近腰侧收好的佩刀<br>
       <b>气质：</b>安静而专注，有种无需急着出手也足以让人屏息的剑士锋芒<br><br>
       <a href="zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/miyabi/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/miyabi/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/miyabi/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -873,8 +882,8 @@
       <b>标志细节：</b>层次分明的浅金短发、洋红到青蓝渐变的眼睛、青色水滴耳饰、白色毛领、黑青金修身外套、白色长裤、黑手套、紫色手链、腰侧饰件与连在衣摆上的蓝色流苏<br>
       <b>气质：</b>从容又带一点玩味，像是早已看清筹码与胜算，仍愿意微笑着等待下一局<br><br>
       <a href="honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/aventurine/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/aventurine/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/aventurine/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/aventurine/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -895,8 +904,8 @@
       <b>标志细节：</b>淡霜蓝色层次长发与翘起发梢、黑红相间的麒麟角、紫粉色双眼、颈前金铃、深棕色上衣、不对称白金前片、白蓝渐变袖套、蓝色后摆，以及带双流苏的红色编绳腰饰<br>
       <b>气质：</b>温柔而专注，带着仙家秘书特有的沉静耐心，也总能留意到那些容易被忽略的小细节<br><br>
       <a href="genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/ganyu/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/ganyu/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/ganyu/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -917,8 +926,8 @@
       <b>标志细节：</b>层次分明的浅蓝灰色头发、金色双眼、耳侧羽翼状饰件、带菱形尖角的金色日轮，以及白色、钴蓝、深蓝与金色交织的不对称长外套，配以深色手套、修身长裤和长靴<br>
       <b>气质：</b>平静而一丝不乱，不必提高声音，也能像指挥家一样让周围的节奏自然落入他的掌控<br><br>
       <a href="honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/sunday/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/sunday/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/sunday/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/sunday/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -939,8 +948,8 @@
       <b>标志细节：</b>由粉色渐变至草绿色的粗双辫、明亮绿眸、深色队服外的白色羽织、绿色条纹长袜与草履<br>
       <b>气质：</b>真诚热烈、活力十足；她表达喜欢时毫不扭捏，温柔与坚定也同样坦荡<br><br>
       <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -961,8 +970,8 @@
       <b>标志细节：</b>酒紫色层次短发与修长鬓发、稳稳架在头顶的墨镜、紫粉色双眼、白色高领上衣、带蛛网纹样的黑紫色不对称外套、深色丝袜与洋红色腿带、酒紫色手套和黑色短靴<br>
       <b>气质：</b>优雅而神秘，总是不疾不徐，仿佛故事的结局早已在她掌握之中<br><br>
       <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kafka/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kafka/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kafka/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kafka/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -983,8 +992,8 @@
       <b>标志细节：</b>束成低侧马尾的浅金色层次长发、绿色双眼、带金色滚边与肩饰的深蓝紫长外套、白色荷叶边衬衫、玫瑰色领结、淡紫马甲、白手套、深灰长裤和棕色长靴<br>
       <b>气质：</b>举止优雅而沉着，安静的目光里总像已经想好了接下来的几步<br><br>
       <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/otto-apocalypse/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/otto-apocalypse/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/otto-apocalypse/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/otto-apocalypse/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1005,8 +1014,8 @@
       <b>标志细节：</b>粉色双马尾、黑色蝴蝶结、青绿色双眼、黑白短款街头服饰、橙色点缀、不对称长袜、厚底靴、绿色邦布挂包与随身黑色提箱<br>
       <b>气质：</b>机敏、爽朗又很有生意头脑，再乱的场面也能被她谈成一笔委托<br><br>
       <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/nicole-demara/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/nicole-demara/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/nicole-demara/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1027,8 +1036,8 @@
       <b>标志细节：</b>黑色短发与酒红色后发、粉色鼠耳、狭长绿眸、米白毛领、蓝灰短夹克、战术短裤、不对称长袜与靴子、红色点缀和一条修长的深灰鼠尾<br>
       <b>气质：</b>从容、敏锐又暗藏危险，轻快的姿态里始终保留着观察局势与随时脱身的余裕<br><br>
       <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/jane-doe/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/jane-doe/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/jane-doe/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1049,8 +1058,8 @@
       <b>标志细节：</b>银灰色短发、黑色发箍、琥珀色双眼、荧光绿色与黑色的战术短夹克、百褶裙、不对称长袜、运动鞋、机械背包组件和随身佩剑<br>
       <b>气质：</b>冷静自律、专注可靠，克制的神情里保留着一点不动声色的温柔<br><br>
       <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/anby-demara/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/anby-demara/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/anby-demara/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1071,8 +1080,8 @@
       <b>标志细节：</b>明亮蓝眸、白色双辫、星形发饰、白黑配色并带橙色点缀的女武神战斗服，以及一对造型统一的紧凑双枪<br>
       <b>气质：</b>明朗勇敢、充满向前的力量，始终保留着女武神奔向明日的坚定与自信<br><br>
       <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kiana-kaslana/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kiana-kaslana/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1093,8 +1102,8 @@
       <b>标志细节：</b>橙色短发、明亮蓝眸、红色发饰与耳饰、灰白制服、红围巾、不对称肩甲、深色手套与长靴，以及水元素神之眼<br>
       <b>气质：</b>自信从容又带着好胜心，平静笑意下始终藏着迎接下一场挑战的锋芒<br><br>
       <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/tartaglia/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/tartaglia/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/tartaglia/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1115,8 +1124,8 @@
       <b>标志细节：</b>金色双马尾、橙红色双眼、红黑护目镜、带火焰装饰的短款机车夹克、红围巾、百褶裙、不对称长靴、金色配件与贴身的小型燃料背包<br>
       <b>气质：</b>热烈、无畏又充满感染力，明亮笑意里仿佛随时都能把安静片刻点燃成一场庆祝<br><br>
       <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/burnice-white/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/burnice-white/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/burnice-white/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/burnice-white/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1137,8 +1146,8 @@
       <b>标志细节：</b>深色双马尾、绯红蝴蝶结、粉紫色眼睛、面颊小痣、斜戴狐面、铃铛颈饰，以及带有金色绳结与纹样飘带的红黑白舞台服装<br>
       <b>神态：</b>俏皮、戏剧感十足，狡黠的笑容让桌面上的每个瞬间都像一场即兴演出<br><br>
       <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/sparkle/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/sparkle/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/sparkle/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/sparkle/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1159,8 +1168,8 @@
       <b>标志细节：</b>青绿色眼睛、带青色发梢的深蓝双辫、饰有米白花朵与羽毛的绿色吟游诗人帽、绿白披风、荷叶领白衫、绿色短裤、白色长袜、棕色鞋子与固定在身侧的木制竖琴<br>
       <b>神态：</b>明快又自在，像一阵随时会带来歌声的蒙德清风<br><br>
       <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/venti/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/venti/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/venti/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/venti/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1181,8 +1190,8 @@
       <b>标志细节：</b>青蓝色眼睛、红色矩形眼镜、蓝紫色短发、带红珠的低侧马尾、蓝白色女武神·迅羽作战服、深色长裤与棕色系带长靴<br>
       <b>神态：</b>沉静而自律，举手投足都带着习武者精准从容的气质<br><br>
       <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/fu-hua/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/fu-hua/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/fu-hua/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/fu-hua/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1203,8 +1212,8 @@
       <b>标志细节：</b>墨绿色凌乱短发、深色墨镜、长款红围巾、炭黑机车夹克、深绿色长裤、金色铆钉与配件、装甲长靴，以及标志性的金色机械拳套<br>
       <b>神态：</b>冷静、自信，带着冠军拳手从容而锋利的气场<br><br>
       <a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/lighter/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/lighter/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/lighter/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/lighter/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1225,8 +1234,8 @@
       <b>标志细节：</b>紫色眼睛、紫色长发与粗辫、紫花金饰、颈间红绳、层叠的白紫稻妻服饰、编织腰绳，以及紫金色纹样<br>
       <b>神态：</b>沉静而威严，平和目光中带着鲜明的雷元素气息<br><br>
       <a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/raiden-shogun/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/raiden-shogun/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/raiden-shogun/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/raiden-shogun/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1247,8 +1256,8 @@
       <b>标志细节：</b>银灰色钻头双马尾、深蓝色大蝴蝶结、灰色眼睛、深蓝军装短外套与百褶裙、红色饰边、金色肩绳、白色机械护臂，以及白红配色的装甲长靴<br>
       <b>神态：</b>沉着、精准，安静中带着坚定<br><br>
       <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/bronya-zaychik/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/bronya-zaychik/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1269,8 +1278,8 @@
       <b>标志细节：</b>琥珀红眼睛、带橙红挑染的炭黑高马尾、蓝色短款治安局外套、银色肩甲、黑色战斗服、荧光绿点缀、装甲靴、枪套与配枪<br>
       <b>神态：</b>沉着警觉，可靠而不张扬<br><br>
       <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/zhu-yuan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/zhu-yuan/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/zhu-yuan/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/zhu-yuan/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1291,8 +1300,8 @@
       <b>标志细节：</b>蓝黑短发与钴紫渐变发梢、明亮蓝瞳、白色短袖、深钴蓝修身背心裙、带蝴蝶纹样的藏蓝紫色叠裙、白色过膝袜和深蓝玛丽珍鞋<br>
       <b>神态：</b>温柔安静，柔和目光里藏着坚定<br><br>
       <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/seele-vollerei/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/seele-vollerei/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/seele-vollerei/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/seele-vollerei/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1313,8 +1322,8 @@
       <b>标志细节：</b>薰衣草色长发、紫色眼睛、黑紫配色的哥特连衣裙、层叠荷叶边、深色长袜、花朵饰物与淡紫色阳伞<br>
       <b>神态：</b>优雅从容，安静中带着一丝俏皮<br><br>
       <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/vivian-banshee/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/vivian-banshee/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1335,8 +1344,8 @@
       <b>标志细节：</b>黑色帽带的宽檐白礼帽、狭长的猩红眼睛、带两缕卷曲鬓发的黑色短发、修身黑色西装、宽松白色长裤与黑色礼鞋<br>
       <b>神态：</b>举止无可挑剔，平静里藏着不动声色的压迫感<br><br>
       <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1357,8 +1366,8 @@
       <b>标志细节：</b>银白色层次短发、两束长卷侧发、明亮青蓝瞳、深色修身上衣、黑色手套、金色十字饰边、白色层叠荷叶裙、浅色长袜与带金色细节的深色短靴<br>
       <b>神态：</b>身形小巧却坚定，带着小小指挥官的从容<br><br>
       <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/theresa/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/theresa/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/theresa/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/theresa/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1379,8 +1388,8 @@
       <b>标志细节：</b>后梳白发、尖耳、银白大尾、红瞳、黑色礼服、绯红领带、装甲手套与机械长靴<br>
       <b>气质：</b>礼数周全、沉着精准，也藏着不动声色的体贴<br><br>
       <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/von-lycaon/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/von-lycaon/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/von-lycaon/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/von-lycaon/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1401,8 +1410,8 @@
       <b>标志细节：</b>淡紫白色长发、半垂的琥珀紫眼、蝴蝶饰边的深紫头纱、紫黑色礼服式战衣、长手套、纹样丝袜与尖头短靴<br>
       <b>气质：</b>优雅、从容而神秘，仿佛早已知晓故事的结局<br><br>
       <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/black-swan/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/black-swan/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/black-swan/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1423,8 +1432,8 @@
       <b>标志细节：</b>宽大的蓝金斗笠、青色垂带、靛蓝短发、紫色眼睛、黑白青蓝相间的衣装与金青胸饰<br>
       <b>气质：</b>目光锐利、步伐轻盈，偶尔露出一点不服输的笑意<br><br>
       <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/wanderer/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/wanderer/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/wanderer/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/wanderer/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1445,8 +1454,8 @@
       <b>标志细节：</b> 银白长辫、蓝眼睛和十字发饰，搭配白色百褶裙与黑红外套<br>
       <b>性格：</b> 神情温和，打招呼时会轻轻挥手。<br><br>
       <a href="honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/kallen-kaslana/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/kallen-kaslana/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/kallen-kaslana/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/kallen-kaslana/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1467,8 +1476,8 @@
       <b>标志细节：</b> 银白长发、红色眼睛、蓝白衣裙、腰间红绳与冰蓝长剑<br>
       <b>性格：</b> 神情清冷，目光沉静，长剑始终握在手边。<br><br>
       <a href="honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/jingliu/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/jingliu/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/jingliu/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/jingliu/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1489,8 +1498,8 @@
       <b>标志细节：</b> 浅金发、青绿色眼睛、颈间金色星印，以及带金色饰边的白色与藏蓝外衣<br>
       <b>性格：</b> 安静而好奇，总能留意到细微之处。<br><br>
       <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/albedo/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/albedo/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/albedo/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/albedo/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1511,8 +1520,8 @@
       <b>标志细节：</b> 蓬松的藏蓝短发、金色眼睛、黄色头带、不对称战术衣袖，以及腰间的青绿色衣摆<br>
       <b>性格：</b> 神情松弛，眼里却藏着几分机敏。<br><br>
       <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/asaba-harumasa/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/asaba-harumasa/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/asaba-harumasa/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/asaba-harumasa/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1533,8 +1542,30 @@
       <b>外观：</b> 灰棕色短发、酒红色眼睛、玫瑰女仆头饰，搭配黑白荷叶边裙装<br>
       <b>神态：</b> 温和从容，举止间自有分寸。<br><br>
       <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ 下载 2D 版本</b></a> ·
-      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">完整动作表</a> ·
-      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 向视线</a>
+      <a href="assets/readme/qa/rita-rossweisse/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/rita-rossweisse/2d/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-52-silver-wolf" name="character-52-silver-wolf"></a>
+<details>
+<summary><b>52 · 银狼</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/silver-wolf.webp" width="190" alt="银狼的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>外观：</b> 银灰发色、蓝紫渐变马尾和额上护目镜，搭配白毛领短外套与机能靴<br>
+      <b>神态：</b> 悠闲，带点不服输的得意。<br><br>
+      <a href="honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip"><b>下载 2D 版本</b></a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/look-directions.png">16 向视线</a>
     </td>
   </tr>
 </table>
@@ -1544,6 +1575,8 @@
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
+
+<a id="downloads"></a>
 
 ## 成品下载
 
@@ -1574,7 +1607,7 @@
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>崩坏：星穹铁道</b> · 13 位角色　<kbd>展开</kbd></summary>
+<summary><b>崩坏：星穹铁道</b> · 14 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1591,6 +1624,7 @@
 | 花火 | 2D | `sparkle` | [下载 ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 | 黑天鹅 | 2D | `black-swan` | [下载 ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | 镜流 | 2D | `jingliu` | [下载 ZIP](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
+| 银狼 | 2D | `silver-wolf` | [下载 ZIP](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1674,7 +1708,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 52 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 53 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 
@@ -1698,31 +1732,11 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 这些技术检查最终只服务于一件事：每一段动画看起来都还是同一个角色。
 
-## 制作流程
-
-这个系列使用一套可以复用的制作流程：
-
-```text
-角色参考图
-    ↓
-理解身份与视觉风格
-    ↓
-九组角色动画
-    ↓
-四个方向基准与 16 向视线循环
-    ↓
-图集组装与视觉复核
-    ↓
-可下载的 Codex v2 宠物
-```
-
-如果你也想制作自己的角色系列，可以从 [Codex Pet Dual Style 制作指南](codex-pet-dual-style/SKILL.md) 开始。里面整理了 2D/3D 配对风格、角色一致性、动作设计、方向检查、打包方式和批量生产思路。
-
 <a id="contribute-a-character"></a>
 
 ## 参与贡献
 
-欢迎提交新宠物、动画修复、展示优化和流程改进。一个可以分发的宠物，最基本的内容是：
+欢迎提议新角色、反馈动画问题，或改进展示。分享宠物成品时，请包含：
 
 ```text
 <pet-id>/
@@ -1756,7 +1770,7 @@ Codex 也许住在输入框里，但陪伴它的角色可以呼吸、等待，�
 
 <p align="center">
   <a href="#contribute-a-character"><kbd>提议新角色</kbd></a>
-  <a href="codex-pet-dual-style/SKILL.md"><kbd>制作自己的宠物</kbd></a>
+  <a href="#downloads"><kbd>查看成品</kbd></a>
 </p>
 
 [固定帧数动作更新：全量覆盖与前后对比](docs/pet-motion-refinement-2026-11-06.md)。

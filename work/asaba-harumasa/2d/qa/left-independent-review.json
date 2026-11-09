@@ -1,9 +1,0 @@
-{
-  "visual_qa": "pass",
-  "source_sha256": "1dbaf92d8f90c2dc7c3e0a96797d420a1bf6e846d8a11f6f0be550ee41297828",
-  "reviewed_by": "isolated harumasa_left_check worker, fresh inspection of fourth source",
-  "scope": "Native-size ordered extracted frames and complete raw source; not timed playback",
-  "observed": "Exactly two hands: yellow fist on white-right sleeve forward and black fist on dark-left sleeve rear. Complete hair/boots/quiver. Extended stride, compression, raised passing knee and lift vary with body bob. Similar opposite-contact silhouettes in identical trousers do not establish stuck or non-alternating gait. Compatible last-to-first positioning.",
-  "minor_warnings": ["Held arms are intentionally less energetic than the rightward cycle.", "Leg identity in matching dark trousers is subtle; no clear native-size motion defect."],
-  "final_timed_review_required": true
-}

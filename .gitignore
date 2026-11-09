@@ -1,3 +1,17 @@
 # Move character source images out of public IP folders and into work/.../references.
 # Keep these files on the workstation; never publish them with the repository.
 /work/**/reference*
+
+# Private production layer. Public previews belong in assets/, releases in IP folders.
+/work/
+/scripts/
+/codex-pet-dual-style/
+/skills/
+/AGENTS.md
+/.codex/
+/.codegraph/
+/.playwright-cli/
+/output/
+**/SKILL.md
+**/__pycache__/
+*.py[cod]

@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>51 キャラクター</code>
-  <code>52 エディション</code>
+  <code>52 キャラクター</code>
+  <code>53 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -33,21 +33,21 @@
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.ja.webp" width="100%" alt="バーニスと検証済みの16方向ビュー"></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><img src="assets/readme/direction-orbit.ja.webp" width="100%" alt="バーニスと検証済みの16方向ビュー"></a>
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>方向チェックを開く</kbd></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><kbd>方向チェックを開く</kbd></a>
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=51" width="100%" alt="アルベド、ハルマサ、リタの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=52" width="100%" alt="ハルマサ、リタ、銀狼の新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><kbd>アルベド</kbd></a>
   <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><kbd>ハルマサ</kbd></a>
   <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><kbd>リタ</kbd></a>
+  <a href="honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip"><kbd>銀狼</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=51" width="100%" alt="51キャラクター、52エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=52" width="100%" alt="52キャラクター、53エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>原神 · 14</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 13</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 11</kbd></a>
   <a href="#downloads-others"><kbd>その他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>全コレクション · 51キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 52キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -203,6 +203,15 @@
     </td>
   </tr>
   <tr>
+    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>52</sub><br>
+      <a href="honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="銀狼の待機アニメーション"></a><br>
+      <b>「 銀狼 」</b><br>
+    </td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" colspan="3"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
@@ -214,6 +223,8 @@
 </p>
 
 <a id="character-list"></a>
+
+<a id="downloads"></a>
 
 ## キャラクター一覧とダウンロード
 
@@ -244,7 +255,7 @@
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>崩壊：スターレイル</b> · 13キャラクター　<kbd>開く</kbd></summary>
+<summary><b>崩壊：スターレイル</b> · 14キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -261,6 +272,7 @@
 | 花火 | 2D | `sparkle` | [ZIP](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 | ブラックスワン | 2D | `black-swan` | [ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | 鏡流 | 2D | `jingliu` | [ZIP](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
+| 銀狼 | 2D | `silver-wolf` | [ZIP](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -342,7 +354,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 └── README.md
 ```
 
-全 52 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
+全 53 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
 
 デスクトップアプリの **Settings → Pets** で **Refresh** を押し、キャラクターを選んで `/pet` を入力すると表示できます。見つからない場合は、フォルダーの階層と両方のファイルがコピーされているかを確認してください。
 
@@ -361,13 +373,11 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 | 透過 | 未使用セルを整理した RGBA WebP |
 | バージョン | `spriteVersionNumber: 2` |
 
-制作方法の詳細は [Codex Pet Dual Style 制作ガイド](codex-pet-dual-style/SKILL.md) を参照してください。
-
 <a id="contribute-a-character"></a>
 
 ## コントリビューション
 
-新しいペット、アニメーションの修正、表示の改善、制作フローの改良を歓迎します。配布可能なペットには、少なくとも次のファイルが必要です。
+キャラクターの提案、不具合の報告、ギャラリーの改善を歓迎します。ペットの配布パッケージには、少なくとも次のファイルが必要です。
 
 ```text
 <pet-id>/
@@ -395,7 +405,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 <p align="center">
   <a href="#contribute-a-character"><kbd>キャラクターを提案する</kbd></a>
-  <a href="codex-pet-dual-style/SKILL.md"><kbd>自分のペットを作る</kbd></a>
+  <a href="#downloads"><kbd>パッケージ一覧</kbd></a>
 </p>
 
 [フレーム数を維持した動作更新：対象一覧と前後比較](docs/pet-motion-refinement-2026-11-06.md)。

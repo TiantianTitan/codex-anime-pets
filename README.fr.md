@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>51 PERSONNAGES</code>
-  <code>52 ÉDITIONS</code>
+  <code>52 PERSONNAGES</code>
+  <code>53 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -33,21 +33,21 @@
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><img src="assets/readme/direction-orbit.fr.webp" width="100%" alt="Burnice White entourée des seize directions de regard validées"></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><img src="assets/readme/direction-orbit.fr.webp" width="100%" alt="Burnice White entourée des seize directions de regard validées"></a>
 </p>
 
 <p align="center">
-  <a href="work/burnice-white/2d/qa/look-directions.png"><kbd>Ouvrir le contrôle complet des directions</kbd></a>
+  <a href="assets/readme/qa/burnice-white/2d/look-directions.png"><kbd>Ouvrir le contrôle complet des directions</kbd></a>
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=51" width="100%" alt="Présentation animée des nouveautés Albedo, Harumasa et Rita">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=52" width="100%" alt="Présentation animée des nouveautés Harumasa, Rita et Silver Wolf">
 </p>
 
 <p align="center">
-  <a href="#character-49-albedo"><kbd>Albedo</kbd></a>
   <a href="#character-50-asaba-harumasa"><kbd>Harumasa</kbd></a>
   <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
+  <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=51" width="100%" alt="Collection complète de 51 personnages et 52 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=52" width="100%" alt="Collection complète de 52 personnages et 53 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 14</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 13</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 14</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 51 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 52 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -387,6 +387,15 @@
     </td>
   </tr>
   <tr>
+    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>52</sub><br>
+      <a href="#character-52-silver-wolf"><img src="assets/readme/idle/silver-wolf.webp" width="155" alt="Animation d'attente de Silver Wolf"></a><br>
+      <b>「&nbsp;Silver&nbsp;Wolf&nbsp;」</b><br>
+    </td>
+    <td width="33%"></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
@@ -420,8 +429,8 @@
       <b>Détails emblématiques :</b> yeux dorés, marque violette sur le front, cheveux aux pointes turquoise, tatouage d’adepte, ornements de jade et masque Yaksha<br>
       <b>Tempérament :</b> vigilant et contenu, avec une présence plus douce à l’échelle du bureau<br><br>
       <a href="genshin-impact/xiao/xiao-2d.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/xiao/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/xiao/2d/qa/look-directions.png">16 directions du regard</a>
+      <a href="assets/readme/qa/xiao/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/xiao/2d/look-directions.png">16 directions du regard</a>
     </td>
   </tr>
 </table>
@@ -442,8 +451,8 @@
       <b>Détails emblématiques :</b> cornes de dragon cyan, oreilles pointues, longue chevelure sombre, manches blanches et ornements de jade et d’or<br>
       <b>Tempérament :</b> froid, posé et d’une élégance discrète<br><br>
       <a href="honkai-star-rail/dan-heng-imbibitor-lunae/dan-heng-imbibitor-lunae-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/dan-heng-imbibitor-lunae/2d/qa/look-directions.png">16 directions du regard</a>
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/dan-heng-imbibitor-lunae/2d/look-directions.png">16 directions du regard</a>
     </td>
   </tr>
 </table>
@@ -464,8 +473,8 @@
       <b>Détails emblématiques :</b> longue chevelure argentée, yeux dorés, ruban rouge et uniforme noir, blanc, rouge et or<br>
       <b>Tempérament :</b> détendu, observateur et sûr de lui<br><br>
       <a href="honkai-star-rail/jing-yuan/jing-yuan-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/jing-yuan/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/jing-yuan/2d/qa/look-directions.png">16 directions du regard</a>
+      <a href="assets/readme/qa/jing-yuan/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/jing-yuan/2d/look-directions.png">16 directions du regard</a>
     </td>
   </tr>
 </table>
@@ -486,8 +495,8 @@
       <b>Détails emblématiques :</b> yeux ambrés, long manteau raffiné et palette chaleureuse de brun et d’or<br>
       <b>Tempérament :</b> stable, rassurant et naturellement digne<br><br>
       <a href="genshin-impact/zhongli/zhongli-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/zhongli/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/zhongli/2d/qa/look-directions.png">16 directions du regard</a>
+      <a href="assets/readme/qa/zhongli/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/zhongli/2d/look-directions.png">16 directions du regard</a>
     </td>
   </tr>
 </table>
@@ -514,13 +523,13 @@ Un même personnage, deux interprétations visuelles :
   <tr>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-2d-codex-pet-v2.zip"><b>⬇️ Télécharger la 2D</b></a><br>
-      <a href="work/raiden-mei/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/raiden-mei/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/raiden-mei/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/raiden-mei/2d/look-directions.png">16 directions</a>
     </td>
     <td align="center">
       <a href="honkai-impact-3rd/raiden-mei/raiden-mei-3d-codex-pet-v2.zip"><b>⬇️ Télécharger le style 3D</b></a><br>
-      <a href="work/raiden-mei/3d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/raiden-mei/3d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/raiden-mei/3d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/raiden-mei/3d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -543,8 +552,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux vairons, haori rayé et Kaburamaru blotti contre lui<br>
       <b>Tempérament :</b> réservé, vigilant et d’une attention tranchante<br><br>
       <a href="others/obanai-iguro/obanai-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/obanai/2d/qa/contact-sheet.png">Planche d’animations</a> ·
-      <a href="work/obanai/2d/qa/direction-qa.png">16 directions du regard</a>
+      <a href="assets/readme/qa/obanai/2d/contact-sheet.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/obanai/2d/direction-qa.png">16 directions du regard</a>
     </td>
   </tr>
 </table>
@@ -565,8 +574,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure rose sakura, yeux violets, ornements dorés, boucles serties et tenue de prêtresse rouge, blanche, noire et violette<br>
       <b>Tempérament :</b> élégante, joueuse et discrètement malicieuse<br><br>
       <a href="genshin-impact/yae-miko/yae-miko-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/yae-miko/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/yae-miko/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/yae-miko/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/yae-miko/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -587,8 +596,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> carré blanc aux reflets cyan, yeux bleus en forme de goutte, chapeau bleu nuit en forme de couronne, volants blancs, gemmes bleues et tenue de Fontaine rehaussée d'or<br>
       <b>Tempérament :</b> une présence gracieuse et théâtrale, toujours traversée d'une étincelle espiègle<br><br>
       <a href="genshin-impact/furina/furina-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/furina/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/furina/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/furina/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/furina/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -609,8 +618,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> chevelure indigo-violet profond, mèche asymétrique voilant un œil, regard violet-magenta, tenue blanche, lilas et noire aux motifs de flamme, et katana gardé près du corps<br>
       <b>Tempérament :</b> silencieuse et insaisissable, comme un orage encore lointain<br><br>
       <a href="honkai-star-rail/acheron/acheron-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/acheron/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/acheron/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/acheron/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/acheron/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -631,8 +640,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> carré noir anthracite aux mèches intérieures rouges, regard rouge assoupi, coiffe de domestique ornée de pointes, uniforme industriel noir et blanc, et imposante queue de requin attachée au corps<br>
       <b>Tempérament :</b> détendue et imperturbable, avec une malice fulgurante dès que le travail s'anime<br><br>
       <a href="zenless-zone-zero/ellen-joe/ellen-joe-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/ellen-joe/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/ellen-joe/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/ellen-joe/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/ellen-joe/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -653,8 +662,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux cramoisis en forme de fleur, grand chapeau sombre orné d'un talisman et d'une branche de prunier, longue chevelure brun foncé aux pointes rouge assourdi, et uniforme brun-noir, rouge et or<br>
       <b>Tempérament :</b> vive, taquine et intrépide, avec une étincelle malicieuse jusque dans les instants calmes<br><br>
       <a href="genshin-impact/hu-tao/hu-tao-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/hu-tao/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/hu-tao/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/hu-tao/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/hu-tao/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -675,8 +684,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> chevelure bleu argent et chignon en rosette, yeux turquoise dégradés de violet, auréole dorée aux pointes florales, petites ailes blanches aux oreilles, et robe de scène superposant blanc, indigo profond, lilas et or<br>
       <b>Tempérament :</b> sereine et gracieuse, avec la chaleur maîtrisée d'une chanteuse prête à illuminer la pièce<br><br>
       <a href="honkai-star-rail/robin/robin-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/robin/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/robin/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/robin/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/robin/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -697,8 +706,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> chevelure bleu nuit balayée d'une mèche froide, peau hâlée, œil visible lilas pâle, cache-œil noir, mantelet de fourrure blanche, cape fendue bleu-violet et uniforme sombre rehaussé d'or<br>
       <b>Tempérament :</b> détendu et sûr de lui, avec une malice légère et un regard qui ne perd rien de ce qui l'entoure<br><br>
       <a href="genshin-impact/kaeya/kaeya-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kaeya/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kaeya/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kaeya/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kaeya/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -719,8 +728,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure argent nacré aux pointes gris froid, yeux roses et turquoise, serre-tête noir, ornement en feuille menthe et nœud bleu nuit, courte cape charbon et or, nœud de poitrine orange doré, robe menthe à plusieurs pans et bottines blanches aux accents turquoise<br>
       <b>Tempérament :</b> douce et lumineuse, portée par un courage tranquille et l'espoir de tracer sa propre voie<br><br>
       <a href="honkai-star-rail/firefly/firefly-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/firefly/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/firefly/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/firefly/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/firefly/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -741,8 +750,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux blancs ébouriffés, yeux bleu glace, long manteau de combat noir et blanc à col haut souligné d'or et de boucles, accents cyan au torse et à la ceinture, et manche blindée asymétrique<br>
       <b>Tempérament :</b> calme et redoutable, une puissance immense contenue dans une maîtrise presque immobile<br><br>
       <a href="honkai-impact-3rd/kevin-kaslana/kevin-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kevin-kaslana/2d-repair-v3/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kevin-kaslana/2d-repair-v3/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -763,8 +772,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> haute queue-de-cheval bleu glace et frange droite, ornement noir et or en forme de couronne, rubans roses, yeux bleu clair, robe-kimono bleu nuit aux pans bleu pâle, bordures dorées, motifs de sakura, cordon magenta, panneaux d'armure sur la jupe et éventail pliant élégant<br>
       <b>Tempérament :</b> digne et gracieuse, une élégance givrée adoucie par une chaleur discrète dans chaque geste<br><br>
       <a href="genshin-impact/kamisato-ayaka/kamisato-ayaka-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kamisato-ayaka/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kamisato-ayaka/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kamisato-ayaka/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kamisato-ayaka/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -785,8 +794,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure bleu nuit aux pointes violet-rouge, œil cramoisi sous la frange, manteau noir à attaches dorées et doublure rouge, accents d'armure argentés, mains bandées et lame sombre portée au côté<br>
       <b>Tempérament :</b> silencieux et dangereux, chaque geste contenu laissant deviner une volonté qui refuse de céder<br><br>
       <a href="honkai-star-rail/blade/blade-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/blade/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/blade/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/blade/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/blade/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -807,8 +816,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure brun profond, yeux turquoise, ornement floral d'or et de perles, étole blanche, robe bleu sarcelle et bleu nuit aux fins motifs dorés, fleur rose à la taille, longs gants et ruan bleu richement décoré<br>
       <b>Tempérament :</b> sereine et attentive, avec l'assurance paisible d'une chercheuse et la grâce mesurée d'une musicienne<br><br>
       <a href="honkai-star-rail/ruan-mei/ruan-mei-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/ruan-mei/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/ruan-mei/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/ruan-mei/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/ruan-mei/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -829,8 +838,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> chevelure blanc ivoire traversée d'une mèche rouge, yeux rouge-orangé, écharpe courte, tenue de samouraï asymétrique noire, rouge et crème, hakama court bordeaux, sandales et sabre rengainé solidement attaché au côté<br>
       <b>Tempérament :</b> calme et attentif, avec la légèreté d'un voyageur et la résolution tranquille d'un bretteur à l'écoute du vent<br><br>
       <a href="genshin-impact/kaedehara-kazuha/kazuha-chibi-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kazuha-chibi/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kazuha-chibi/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kazuha-chibi/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kazuha-chibi/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -851,8 +860,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> de hautes oreilles de renard sombres, des cheveux bleu nuit, des yeux rouges, un uniforme vert sarcelle, blanc et noir, un bras mécanique asymétrique entouré d'un cordon rouge et un katana rengainé près de la hanche<br>
       <b>Présence :</b> immobile et parfaitement attentive, avec l'assurance contenue d'une bretteuse qui n'a jamais besoin de se presser<br><br>
       <a href="zenless-zone-zero/hoshimi-miyabi/miyabi-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/miyabi/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/miyabi/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/miyabi/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/miyabi/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -873,8 +882,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux blond sable dégradés, yeux passant du magenta au cyan, boucle d'oreille turquoise en goutte, col de fourrure blanc, veste ajustée noire, turquoise et or, pantalon blanc, gants noirs, bracelet violet, ornements de taille et pompons bleus attachés au manteau<br>
       <b>Présence :</b> posée et malicieusement assurée, avec le calme de quelqu'un qui semble déjà connaître les probabilités avant de miser<br><br>
       <a href="honkai-star-rail/aventurine/aventurine-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/aventurine/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/aventurine/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/aventurine/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/aventurine/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -895,8 +904,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure bleu givre aux mèches superposées, houppe recourbée et longue queue-de-cheval, cornes de qilin noires et rouges, yeux violet rosé, clochette dorée au cou, corsage brun sombre, pan asymétrique blanc et or, manches dégradées du blanc au cobalt, pans arrière bleus et cordon rouge tressé terminé par deux pompons<br>
       <b>Présence :</b> douce et discrètement attentive, avec la patience posée d'une secrétaire adeptale qui remarque les moindres détails<br><br>
       <a href="genshin-impact/ganyu/ganyu-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/ganyu/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/ganyu/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/ganyu/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/ganyu/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -917,8 +926,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux bleu-gris pâle en mèches superposées, yeux dorés lumineux, ornements en forme de plumes près des oreilles, halo doré rigide aux pointes losangées, long manteau asymétrique blanc, cobalt, bleu nuit et or, gants sombres, pantalon ajusté et hautes bottes<br>
       <b>Présence :</b> sereine et parfaitement maîtrisée, avec l'autorité feutrée d'un chef d'orchestre capable de guider toute une salle sans hausser la voix<br><br>
       <a href="honkai-star-rail/sunday/sunday-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/sunday/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/sunday/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/sunday/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/sunday/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -939,8 +948,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> deux épaisses tresses passant du rose au vert citron, des yeux vert vif, un haori blanc sur son uniforme sombre, des chaussettes rayées vertes et des sandales<br>
       <b>Présence :</b> chaleureuse, spontanée et pleine d'élan, avec une tendresse aussi franche et solide que sa détermination<br><br>
       <a href="others/mitsuri-kanroji/mitsuri-kanroji-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/mitsuri-kanroji/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/mitsuri-kanroji/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -961,8 +970,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux lie-de-vin en mèches superposées avec de longues mèches latérales, lunettes posées sur le sommet du crâne, yeux rose mauve, blouse blanche à col montant, manteau asymétrique noir et violet orné de motifs de toile, collants sombres aux attaches magenta, gants lie-de-vin et bottines noires<br>
       <b>Présence :</b> élégante et énigmatique, avec le calme de celle qui semble déjà connaître la fin de la scène<br><br>
       <a href="honkai-star-rail/Kafka/kafka-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kafka/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kafka/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kafka/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kafka/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -983,8 +992,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux blond pâle en mèches superposées noués en queue-de-cheval basse sur le côté, yeux verts, long manteau bleu-violet à liserés dorés et capelet d'épaule, chemise blanche à jabot, cravate rose, gilet lavande, gants blancs, pantalon anthracite et hautes bottes brunes<br>
       <b>Présence :</b> raffinée et maîtresse d'elle-même, avec l'autorité tranquille de celui qui réfléchit déjà aux prochains coups<br><br>
       <a href="honkai-impact-3rd/Otto-Apocalypse/otto-apocalypse-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/otto-apocalypse/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/otto-apocalypse/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/otto-apocalypse/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/otto-apocalypse/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1005,8 +1014,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> couettes roses, nœuds noirs, yeux vert citron, tenue urbaine courte noire et blanche, touches orange, bas dépareillés, bottes épaisses, pochette Bangbou verte et mallette noire attachée<br>
       <b>Présence :</b> vive, charismatique et débrouillarde, avec l'assurance de celle qui sait transformer le chaos en bonne affaire<br><br>
       <a href="zenless-zone-zero/nicole-demara/nicole-demara-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/nicole-demara/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/nicole-demara/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/nicole-demara/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/nicole-demara/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1027,8 +1036,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> carré noir court prolongé d'une chevelure arrière lie-de-vin, oreilles de rat roses, yeux verts effilés, col de fourrure crème, veste courte bleu-gris, short tactique, bas et bottes asymétriques, accents rouges et longue queue anthracite attachée<br>
       <b>Présence :</b> posée, observatrice et discrètement dangereuse, avec l'assurance souple d'une spécialiste qui garde toujours une issue en vue<br><br>
       <a href="zenless-zone-zero/jane-doe/jane-doe-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/jane-doe/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/jane-doe/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/jane-doe/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/jane-doe/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1049,8 +1058,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> carré argenté, bandeau noir, yeux ambrés, veste tactique vert acide et noire, jupe plissée, bas asymétriques, baskets, module dorsal mécanique et épée au fourreau attachée<br>
       <b>Présence :</b> calme, disciplinée et concentrée, avec une douceur discrète derrière son expression réservée<br><br>
       <a href="zenless-zone-zero/anby-demara/anby-demara-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/anby-demara/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/anby-demara/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/anby-demara/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/anby-demara/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1071,8 +1080,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux bleu vif, longues tresses blanches, barrette étoilée, combinaison de Valkyrie blanche et noire aux accents orange, et paire de pistolets compacts assortis<br>
       <b>Présence :</b> lumineuse, courageuse et toujours en mouvement, avec l'assurance d'une Valkyrie qui continue d'avancer vers demain<br><br>
       <a href="honkai-impact-3rd/Kiana%20Kaslana/kiana-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kiana-kaslana/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kiana-kaslana/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kiana-kaslana/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kiana-kaslana/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1093,8 +1102,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux orange, yeux bleu vif, ornement et boucle d'oreille rouges, uniforme gris et blanc, écharpe rouge, épaulière asymétrique, gants et bottes sombres, et Œil divin Hydro<br>
       <b>Présence :</b> sûr de lui, joueur et toujours prêt à relever un nouveau défi, avec un sourire calme qui laisse deviner son esprit de compétition<br><br>
       <a href="genshin-impact/Tartaglia/tartaglia-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/tartaglia/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/tartaglia/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/tartaglia/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/tartaglia/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1115,8 +1124,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> couettes blondes, yeux rouge orangé, lunettes rouges et noires, blouson court de motarde aux motifs de flammes, écharpe rouge, jupe plissée, bottes asymétriques, détails dorés et petit réservoir dorsal attaché<br>
       <b>Présence :</b> vive, intrépide et chaleureusement exubérante, avec un sourire irrésistible capable de transformer le moindre instant calme en fête<br><br>
       <a href="zenless-zone-zero/Burnice%20White/burnice-white-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/burnice-white/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/burnice-white/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/burnice-white/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/burnice-white/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1137,8 +1146,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longues couettes sombres, grands nœuds cramoisis, yeux magenta, grains de beauté sur les joues, masque de renard incliné, grelot au cou et tenue de scène rouge, noire et blanche ornée de cordons dorés<br>
       <b>Présence :</b> joueuse et théâtrale, avec un sourire malicieux qui transforme chaque instant sur le bureau en petite représentation<br><br>
       <a href="honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/sparkle/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/sparkle/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/sparkle/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/sparkle/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1159,8 +1168,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux turquoise, cheveux bleu nuit aux tresses teintées de turquoise, béret de barde vert orné d’une fleur crème et d’une plume, cape verte et crème, chemise blanche à jabot, short vert, collants blancs, chaussures brunes et lyre en bois attachée<br>
       <b>Présence :</b> lumineuse et insouciante, avec le charme joueur d’un barde qui semble toujours apporter un peu de vent avec lui<br><br>
       <a href="genshin-impact/Venti/venti-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/venti/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/venti/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/venti/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/venti/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1181,8 +1190,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux cyan, lunettes rectangulaires rouges, cheveux bleu-violet ardoise, queue-de-cheval basse ornée d'une perle rouge, tunique de combat Accipiter bleue et blanche, pantalon sombre ajusté et bottes brunes lacées<br>
       <b>Présence :</b> calme et disciplinée, avec l’assurance mesurée d’une artiste martiale qui ne gaspille aucun mouvement<br><br>
       <a href="honkai-impact-3rd/Fu%20Hua/fu-hua-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/fu-hua/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/fu-hua/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/fu-hua/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/fu-hua/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1203,8 +1212,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux bleu pétrole ébouriffés, lunettes de soleil sombres, longue écharpe rouge, blouson de motard anthracite, pantalon vert sombre, éléments dorés, bottes blindées et imposant gantelet mécanique doré<br>
       <b>Présence :</b> calme, sûr de lui et discrètement compétitif<br><br>
       <a href="zenless-zone-zero/Lighter/lighter-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/lighter/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/lighter/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/lighter/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/lighter/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1225,8 +1234,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux violets, longue chevelure pourpre tressée, fleur violette et ornements dorés, ruban rouge au cou, tenue d’Inazuma blanche et violette à plusieurs épaisseurs, cordons d’obi tressés et finitions pourpre et or<br>
       <b>Présence :</b> sereine et souveraine, avec un regard calme et une aura Électro immédiatement reconnaissable<br><br>
       <a href="genshin-impact/raiden-shogun/raiden-shogun-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/raiden-shogun/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/raiden-shogun/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/raiden-shogun/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/raiden-shogun/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1247,8 +1256,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> couettes tire-bouchonnées gris argent, grands nœuds bleu marine, yeux gris, veste militaire bleu nuit et jupe plissée, touches rouges, cordon d'épaule doré, gantelets mécaniques blancs et bottes renforcées blanches et rouges<br>
       <b>Présence :</b> calme, précise et résolue sans ostentation<br><br>
       <a href="honkai-impact-3rd/Bronya%20Zaychik/bronya-zaychik-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/bronya-zaychik/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/bronya-zaychik/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/bronya-zaychik/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/bronya-zaychik/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1269,8 +1278,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> yeux ambrés tirant sur le rouge, haute queue-de-cheval noire aux reflets charbon avec une mèche rouge orangé, veste courte bleue de la Sécurité publique, épaulière argentée, tenue de combat noire, touches vert citron, bottes renforcées, étui et arme de service<br>
       <b>Présence :</b> disciplinée, attentive et discrètement fiable<br><br>
       <a href="zenless-zone-zero/Zhu%20Yuan/zhu-yuan-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/zhu-yuan/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/zhu-yuan/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/zhu-yuan/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/zhu-yuan/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1291,8 +1300,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> carré court bleu-noir aux pointes cobalt et violettes, yeux bleu vif, manches courtes blanches, robe-gilet cobalt, jupe superposée bleu nuit et violette aux motifs papillon, bas blancs montant aux cuisses et babies bleu nuit<br>
       <b>Présence :</b> douce et réservée, avec un courage discret derrière son regard paisible<br><br>
       <a href="honkai-impact-3rd/Seele%20Vollerei/seele-vollerei-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/seele-vollerei/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/seele-vollerei/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/seele-vollerei/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/seele-vollerei/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1313,8 +1322,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure lavande, yeux violets, robe gothique noire et lilas, volants superposés, bas sombres, ornements floraux et ombrelle lilas<br>
       <b>Présence :</b> posée et élégante, avec une malice discrète<br><br>
       <a href="zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/vivian-banshee/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/vivian-banshee/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/vivian-banshee/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/vivian-banshee/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1335,8 +1344,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> large fedora blanc à ruban noir, yeux cramoisis effilés, cheveux noirs courts et ondulés avec deux mèches recourbées, costume noir ajusté, pantalon blanc ample et chaussures de ville noires<br>
       <b>Présence :</b> une élégance impeccable traversée d'une menace silencieuse<br><br>
       <a href="others/Kibutsuji%20Muzan/kibutsuji-muzan-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/kibutsuji-muzan/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/kibutsuji-muzan/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1357,8 +1366,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> cheveux blanc argenté dégradés avec de longues mèches latérales bouclées, yeux cyan vif, corsage sombre ajusté, gants noirs, bordures dorées en croix, jupe blanche à volants, bas clairs et bottines sombres rehaussées d'or<br>
       <b>Présence :</b> petite et résolue, avec l'assurance calme d'une cheffe<br><br>
       <a href="honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/theresa/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/theresa/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/theresa/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/theresa/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1379,8 +1388,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails distinctifs :</b> cheveux blancs coiffés vers l’arrière, oreilles pointues, grande queue blanc argenté, yeux rouges, tenue noire élégante, cravate cramoisie, gants renforcés et bottes mécaniques<br>
       <b>Caractère :</b> une élégance irréprochable, précise et discrètement attentionnée<br><br>
       <a href="zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l'édition 2D</b></a> ·
-      <a href="work/von-lycaon/2d/qa/contact-sheet-extended.png">Planche d'animations</a> ·
-      <a href="work/von-lycaon/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/von-lycaon/2d/contact-sheet-extended.png">Planche d'animations</a> ·
+      <a href="assets/readme/qa/von-lycaon/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1401,8 +1410,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> longue chevelure blanc lavande, yeux ambre et magenta à demi clos, voile violet bordé de papillons, tenue ouvragée violet-noir, longs gants, bas transparents à motifs et bottines noires pointues<br>
       <b>Présence :</b> élégante et énigmatique, avec le calme de celle qui connaît déjà la fin de l’histoire<br><br>
       <a href="honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/black-swan/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/black-swan/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/black-swan/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/black-swan/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1423,8 +1432,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails emblématiques :</b> large chapeau indigo et or aux rubans turquoise, cheveux courts indigo, yeux violets, tenue bleu nuit et blanche, et ornement turquoise sur la poitrine<br>
       <b>Présence :</b> un regard vif, une allure légère et une distance qu’il garde avec soin<br><br>
       <a href="genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/wanderer/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/wanderer/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/wanderer/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/wanderer/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1445,8 +1454,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails distinctifs :</b> une longue tresse argentée, des yeux bleus, des barrettes en croix, une robe blanche plissée et une veste noire bordée de rouge<br>
       <b>Tempérament :</b> Une présence calme, avec un sourire facile.<br><br>
       <a href="honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/kallen-kaslana/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/kallen-kaslana/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/kallen-kaslana/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/kallen-kaslana/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1467,8 +1476,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails distinctifs :</b> de longs cheveux argentés, des yeux rouges, une robe bleu marine et blanche, un ruban rouge à la hanche et une épée bleu glacier<br>
       <b>Tempérament :</b> Calme et attentive, le regard posé.<br><br>
       <a href="honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/jingliu/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/jingliu/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/jingliu/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/jingliu/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1489,8 +1498,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails distinctifs :</b> des cheveux blond pâle, des yeux turquoise, une petite étoile dorée au cou et un manteau blanc et bleu marine aux bordures dorées<br>
       <b>Tempérament :</b> Discret et curieux, attentif aux petits détails.<br><br>
       <a href="genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/albedo/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/albedo/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/albedo/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/albedo/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1511,8 +1520,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Détails distinctifs :</b> des cheveux bleu nuit ébouriffés, des yeux dorés, un bandeau jaune, des manches tactiques asymétriques et des pans bleu-vert à la taille<br>
       <b>Tempérament :</b> Décontracté, mais le regard toujours aux aguets sous sa frange.<br><br>
       <a href="zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/asaba-harumasa/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/asaba-harumasa/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/asaba-harumasa/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/asaba-harumasa/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1533,8 +1542,30 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
       <b>Traits distinctifs :</b> un carré brun cendré, un œil rouge lie-de-vin, une coiffe ornée d’une rose et une robe de soubrette noire et blanche à volants<br>
       <b>Allure :</b> Douce et posée, toujours attentive.<br><br>
       <a href="honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip"><b>⬇️ Télécharger l’édition 2D</b></a> ·
-      <a href="work/rita-rossweisse/2d/qa/contact-sheet-extended.png">Planche d’animations</a> ·
-      <a href="work/rita-rossweisse/2d/qa/look-directions.png">16 directions</a>
+      <a href="assets/readme/qa/rita-rossweisse/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/rita-rossweisse/2d/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<a id="character-52-silver-wolf" name="character-52-silver-wolf"></a>
+<details>
+<summary><b>52 · Silver Wolf</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/silver-wolf.webp" width="190" alt="Animation d'attente de Silver Wolf"></td>
+    <td>
+      <b>Style :</b> Autocollant animé 2D<br>
+      <b>Traits distinctifs :</b> des cheveux gris argenté, une queue-de-cheval aux pointes bleues, des lunettes violettes et une veste courte à col de fourrure<br>
+      <b>Allure :</b> Décontractée, l’esprit de compétition jamais loin.<br><br>
+      <a href="honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip"><b>Télécharger l’édition 2D</b></a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/silver-wolf/2d/look-directions.png">16 directions</a>
     </td>
   </tr>
 </table>
@@ -1544,6 +1575,8 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
+
+<a id="downloads"></a>
 
 ## Téléchargements
 
@@ -1574,7 +1607,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai : Star Rail</b> · 13 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai : Star Rail</b> · 14 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1591,6 +1624,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Sparkle | 2D | `sparkle` | [Télécharger](honkai-star-rail/Sparkle/sparkle-2d-codex-pet-v2.zip) |
 | Black Swan | 2D | `black-swan` | [Télécharger](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | Jingliu | 2D | `jingliu` | [Télécharger](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
+| Silver Wolf | 2D | `silver-wolf` | [Télécharger](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1674,7 +1708,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 52 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 53 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 
@@ -1698,31 +1732,11 @@ Un bon compagnon de bureau reste lisible au premier coup d’œil, bouge avec fl
 
 La technique reste au service d’une idée simple : chaque mouvement doit encore ressembler au même personnage.
 
-## Production
-
-La collection suit un processus réutilisable :
-
-```text
-Références du personnage
-          ↓
-Étude de l’identité et du style
-          ↓
-Neuf animations de caractère
-          ↓
-Quatre repères et une boucle de regard à 16 directions
-          ↓
-Assemblage et examen visuel
-          ↓
-Un compagnon Codex v2 à télécharger
-```
-
-Pour créer votre propre collection, consultez le [guide de production Codex Pet Dual Style](codex-pet-dual-style/SKILL.md). Il aborde les styles 2D/3D associés, la cohérence visuelle, la conception du mouvement, l’examen des directions, le packaging et la production en série.
-
 <a id="contribute-a-character"></a>
 
 ## Contribution
 
-Les nouveaux compagnons, corrections d’animation, améliorations de présentation et perfectionnements du processus sont les bienvenus. Une édition distribuable commence par :
+Les suggestions de personnages, corrections d’animation et améliorations de la galerie sont les bienvenues. Un pack partagé doit contenir :
 
 ```text
 <pet-id>/
@@ -1756,7 +1770,7 @@ Si cette collection vous a plu, laissez une Star, créez un Fork ou proposez le 
 
 <p align="center">
   <a href="#contribute-a-character"><kbd>Proposer un personnage</kbd></a>
-  <a href="codex-pet-dual-style/SKILL.md"><kbd>Créer votre propre compagnon</kbd></a>
+  <a href="#downloads"><kbd>Voir les packs</kbd></a>
 </p>
 
 [Mise à jour des animations à nombre de frames constant : couverture et comparaison](docs/pet-motion-refinement-2026-11-06.md).
