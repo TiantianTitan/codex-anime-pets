@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>53 CHARACTERS</code>
-  <code>54 EDITIONS</code>
+  <code>54 CHARACTERS</code>
+  <code>55 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=53" width="100%" alt="Animated new arrivals showcase with Rita, Silver Wolf, and Diluc">
+  <img src="assets/readme/new-arrivals-stage.webp?v=54" width="100%" alt="Animated new arrivals showcase with Silver Wolf, Diluc, and March 7th">
 </p>
 
 <p align="center">
-  <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
   <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
   <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
+  <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=53" width="100%" alt="Complete Codex Anime Pets collection wall with 53 characters and 54 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=54" width="100%" alt="Complete Codex Anime Pets collection wall with 54 characters and 55 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,14 +81,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 14</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 53 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 54 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -399,7 +399,11 @@
       <a href="#character-53-diluc"><img src="assets/readme/idle/diluc.webp" width="155" alt="Diluc idle animation"></a><br>
       <b>「 Diluc 」</b><br>
     </td>
-    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>54</sub><br>
+      <a href="#character-54-march-7th"><img src="assets/readme/idle/march-7th.webp" width="155" alt="March 7th idle animation"></a><br>
+      <b>「&nbsp;March&nbsp;7th&nbsp;」</b><br>
+    </td>
   </tr>
   <tr>
     <td align="center" valign="middle" colspan="3">
@@ -1600,6 +1604,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-54-march-7th" name="character-54-march-7th"></a>
+<details>
+<summary><b>54 · March 7th</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/march-7th.webp" width="190" alt="March 7th idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> pink hair, pink-and-blue eyes, a blue-and-white outfit, and a turquoise camera at her hip<br>
+      <b>Mood:</b> cheerful and curious, always spotting something worth a photo<br><br>
+      <a href="honkai-star-rail/March%207th/march-7th-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/march-7th/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/march-7th/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1636,7 +1662,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai: Star Rail</b> · 14 companions　<kbd>Open</kbd></summary>
+<summary><b>Honkai: Star Rail</b> · 15 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1654,6 +1680,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Black Swan | 2D | `black-swan` | [Download ZIP](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | Jingliu | 2D | `jingliu` | [Download ZIP](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
 | Silver Wolf | 2D | `silver-wolf` | [Download ZIP](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
+| March 7th | 2D | `march-7th` | [Download ZIP](honkai-star-rail/March%207th/march-7th-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1737,7 +1764,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 54 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 55 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 

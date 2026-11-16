@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>53 PERSONNAGES</code>
-  <code>54 ÉDITIONS</code>
+  <code>54 PERSONNAGES</code>
+  <code>55 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=53" width="100%" alt="Présentation animée des nouveautés Rita, Silver Wolf et Diluc">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=54" width="100%" alt="Présentation animée des nouveautés Silver Wolf, Diluc et March 7th">
 </p>
 
 <p align="center">
-  <a href="#character-51-rita-rossweisse"><kbd>Rita</kbd></a>
   <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
   <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
+  <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=53" width="100%" alt="Collection complète de 53 personnages et 54 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=54" width="100%" alt="Collection complète de 54 personnages et 55 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -79,14 +79,14 @@
 
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
-  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 14</kbd></a>
+  <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 53 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 54 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -397,7 +397,11 @@
       <a href="#character-53-diluc"><img src="assets/readme/idle/diluc.webp" width="155" alt="Animation d'attente de Diluc"></a><br>
       <b>「 Diluc 」</b><br>
     </td>
-    <td width="33%"></td>
+    <td align="center" valign="top" width="33%">
+      <sub>54</sub><br>
+      <a href="#character-54-march-7th"><img src="assets/readme/idle/march-7th.webp" width="155" alt="Animation d’attente de March 7th"></a><br>
+      <b>「&nbsp;March&nbsp;7th&nbsp;」</b><br>
+    </td>
   </tr>
   <tr>
     <td align="center" valign="middle" colspan="3">
@@ -1598,6 +1602,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-54-march-7th" name="character-54-march-7th"></a>
+<details>
+<summary><b>54 · March 7th</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/march-7th.webp" width="190" alt="Animation d’attente de March 7th"></td>
+    <td>
+      <b>Style :</b> Sticker animé 2D<br>
+      <b>Détails distinctifs :</b> cheveux roses, yeux roses et bleus, tenue bleue et blanche et appareil photo turquoise à la hanche<br>
+      <b>Caractère :</b> joyeuse et curieuse, toujours à l’affût d’un instant à photographier<br><br>
+      <a href="honkai-star-rail/March%207th/march-7th-2d-codex-pet-v2.zip"><b>Télécharger l’édition 2D</b></a> ·
+      <a href="assets/readme/qa/march-7th/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/march-7th/2d/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1634,7 +1660,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-star-rail"></a>
 <details>
-<summary><b>Honkai : Star Rail</b> · 14 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai : Star Rail</b> · 15 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1652,6 +1678,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Black Swan | 2D | `black-swan` | [Télécharger](honkai-star-rail/Black%20Swan/black-swan-2d-codex-pet-v2.zip) |
 | Jingliu | 2D | `jingliu` | [Télécharger](honkai-star-rail/Jingliu/jingliu-2d-codex-pet-v2.zip) |
 | Silver Wolf | 2D | `silver-wolf` | [Télécharger](honkai-star-rail/Silver%20Wolf/silver-wolf-2d-codex-pet-v2.zip) |
+| March 7th | 2D | `march-7th` | [Télécharger](honkai-star-rail/March%207th/march-7th-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1735,7 +1762,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 54 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 55 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 
