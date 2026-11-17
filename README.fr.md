@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>55 PERSONNAGES</code>
-  <code>56 ÉDITIONS</code>
+  <code>56 PERSONNAGES</code>
+  <code>57 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=55" width="100%" alt="Présentation animée des nouveautés Diluc, March 7th et Caesar">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=56" width="100%" alt="Présentation animée des nouveautés March 7th, Caesar et Durandal">
 </p>
 
 <p align="center">
-  <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
   <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
   <a href="#character-55-caesar-king"><kbd>Caesar</kbd></a>
+  <a href="#character-56-durandal"><kbd>Durandal</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=55" width="100%" alt="Collection complète de 55 personnages et 56 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=56" width="100%" alt="Collection complète de 56 personnages et 57 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,13 +80,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 12</kbd></a>
   <a href="#downloads-others"><kbd>Autres · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Collection complète · 55 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 56 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -409,7 +409,12 @@
       <a href="#character-55-caesar-king"><img src="assets/readme/idle/caesar-king.webp" width="155" alt="Animation d’attente de Caesar"></a><br>
       <b>「 Caesar 」</b><br>
     </td>
-    <td align="center" valign="middle" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>56</sub><br>
+      <a href="#character-56-durandal"><img src="assets/readme/idle/durandal.webp" width="155" alt="Animation d’attente de Durandal"></a><br>
+      <b>「 Durandal 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence et faites éclore un compagnon</sub>
@@ -1651,6 +1656,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-56-durandal" name="character-56-durandal"></a>
+<details>
+<summary><b>56 · Durandal</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/durandal.webp" width="190" alt="Animation d’attente de Durandal"></td>
+    <td>
+      <b>Style :</b> Sticker animé 2D<br>
+      <b>Détails distinctifs :</b> de longs cheveux blonds aux pointes pêche, des yeux bleus, des lunettes orange et une tenue d’été bleue et blanche<br>
+      <b>Expression :</b> Calme, le sourire léger.<br><br>
+      <a href="honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip"><b>Télécharger l’édition 2D</b></a> ·
+      <a href="assets/readme/qa/durandal/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/durandal/2d/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1711,7 +1738,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 10 personnages / 11 éditions　<kbd>Ouvrir</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 11 personnages / 12 éditions　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1726,6 +1753,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Theresa | 2D | `theresa` | [Télécharger](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | Kallen | 2D | `kallen-kaslana` | [Télécharger](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
 | Rita | 2D | `rita-rossweisse` | [Télécharger](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
+| Durandal | 2D | `durandal` | [Télécharger le ZIP](honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1790,7 +1818,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 56 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 57 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 

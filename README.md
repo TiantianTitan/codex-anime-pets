@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>55 CHARACTERS</code>
-  <code>56 EDITIONS</code>
+  <code>56 CHARACTERS</code>
+  <code>57 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=55" width="100%" alt="Animated new arrivals showcase with Diluc, March 7th, and Caesar">
+  <img src="assets/readme/new-arrivals-stage.webp?v=56" width="100%" alt="Animated new arrivals showcase with March 7th, Caesar, and Durandal">
 </p>
 
 <p align="center">
-  <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
   <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
   <a href="#character-55-caesar-king"><kbd>Caesar</kbd></a>
+  <a href="#character-56-durandal"><kbd>Durandal</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=55" width="100%" alt="Complete Codex Anime Pets collection wall with 55 characters and 56 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=56" width="100%" alt="Complete Codex Anime Pets collection wall with 56 characters and 57 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -82,13 +82,13 @@
 <p align="center">
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
-  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
+  <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 12</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 55 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 56 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -411,7 +411,12 @@
       <a href="#character-55-caesar-king"><img src="assets/readme/idle/caesar-king.webp" width="155" alt="Caesar idle animation"></a><br>
       <b>「 Caesar 」</b><br>
     </td>
-    <td align="center" valign="middle" colspan="2">
+    <td align="center" valign="top" width="33%">
+      <sub>56</sub><br>
+      <a href="#character-56-durandal"><img src="assets/readme/idle/durandal.webp" width="155" alt="Durandal idle animation"></a><br>
+      <b>「 Durandal 」</b><br>
+    </td>
+    <td align="center" valign="middle" width="33%">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1653,6 +1658,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-56-durandal" name="character-56-durandal"></a>
+<details>
+<summary><b>56 · Durandal</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/durandal.webp" width="190" alt="Durandal idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> long blonde hair with peach-pink tips, blue eyes, orange sunglasses, a blue summer top and white shorts<br>
+      <b>Mood:</b> Calm, with an easy smile.<br><br>
+      <a href="honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/durandal/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/durandal/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1713,7 +1740,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-honkai-impact-3rd"></a>
 <details>
-<summary><b>Honkai Impact 3rd</b> · 10 characters / 11 editions　<kbd>Open</kbd></summary>
+<summary><b>Honkai Impact 3rd</b> · 11 characters / 12 editions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1728,6 +1755,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Theresa | 2D | `theresa` | [Download ZIP](honkai-impact-3rd/Theresa/theresa-2d-codex-pet-v2.zip) |
 | Kallen | 2D | `kallen-kaslana` | [Download ZIP](honkai-impact-3rd/Kallen%20Kaslana/kallen-kaslana-2d-codex-pet-v2.zip) |
 | Rita | 2D | `rita-rossweisse` | [Download ZIP](honkai-impact-3rd/Rita%20Rossweisse/rita-rossweisse-2d-codex-pet-v2.zip) |
+| Durandal | 2D | `durandal` | [Download ZIP](honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1792,7 +1820,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 56 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 57 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 
