@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>54 个角色</code>
-  <code>55 个版本</code>
+  <code>55 个角色</code>
+  <code>56 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=54" width="100%" alt="银狼、迪卢克和三月七的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=55" width="100%" alt="迪卢克、三月七和凯撒的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-52-silver-wolf"><kbd>银狼</kbd></a>
   <a href="#character-53-diluc"><kbd>迪卢克</kbd></a>
   <a href="#character-54-march-7th"><kbd>三月七</kbd></a>
+  <a href="#character-55-caesar-king"><kbd>凯撒</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=54" width="100%" alt="包含五十四位角色、五十五个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=55" width="100%" alt="包含五十五位角色、五十六个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -81,12 +81,12 @@
   <a href="#downloads-genshin-impact"><kbd>原神 · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 10</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 11</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 12</kbd></a>
   <a href="#downloads-others"><kbd>其他 · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>完整收藏 · 54 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 55 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -404,7 +404,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>55</sub><br>
+      <a href="#character-55-caesar-king"><img src="assets/readme/idle/caesar-king.webp" width="155" alt="凯撒的待机动画"></a><br>
+      <b>「 凯撒 」</b><br>
+    </td>
+    <td align="center" valign="middle" colspan="2">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图，孵化新的伙伴</sub>
@@ -1624,6 +1629,28 @@
 
 </details>
 
+<a id="character-55-caesar-king" name="character-55-caesar-king"></a>
+<details>
+<summary><b>55 · 凯撒</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/caesar-king.webp" width="190" alt="凯撒的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>外观：</b> 灰绿色头发、琥珀色眼睛，黑红毛领机车装、机械左臂、金色星形腰带和浅色短靴<br>
+      <b>神态：</b> 爽朗自信。<br><br>
+      <a href="zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip"><b>下载 2D 版本</b></a> ·
+      <a href="assets/readme/qa/caesar-king/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/caesar-king/2d/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1704,7 +1731,7 @@
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>绝区零</b> · 11 位角色　<kbd>展开</kbd></summary>
+<summary><b>绝区零</b> · 12 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1719,6 +1746,7 @@
 | 薇薇安 | 2D | `vivian-banshee` | [下载 ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 | 莱卡恩 | 2D | `von-lycaon` | [下载 ZIP](zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip) |
 | 浅羽悠真 | 2D | `asaba-harumasa` | [下载 ZIP](zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip) |
+| 凯撒 | 2D | `caesar-king` | [下载 ZIP](zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1762,7 +1790,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 55 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 56 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 

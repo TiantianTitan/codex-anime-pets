@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>54 CHARACTERS</code>
-  <code>55 EDITIONS</code>
+  <code>55 CHARACTERS</code>
+  <code>56 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=54" width="100%" alt="Animated new arrivals showcase with Silver Wolf, Diluc, and March 7th">
+  <img src="assets/readme/new-arrivals-stage.webp?v=55" width="100%" alt="Animated new arrivals showcase with Diluc, March 7th, and Caesar">
 </p>
 
 <p align="center">
-  <a href="#character-52-silver-wolf"><kbd>Silver Wolf</kbd></a>
   <a href="#character-53-diluc"><kbd>Diluc</kbd></a>
   <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
+  <a href="#character-55-caesar-king"><kbd>Caesar</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=54" width="100%" alt="Complete Codex Anime Pets collection wall with 54 characters and 55 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=55" width="100%" alt="Complete Codex Anime Pets collection wall with 55 characters and 56 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -83,12 +83,12 @@
   <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 10</kbd></a>
-  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 11</kbd></a>
+  <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 12</kbd></a>
   <a href="#downloads-others"><kbd>Others · 3</kbd></a>
 </p>
 
 <details>
-<summary><b>Full roster · 54 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 55 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -406,7 +406,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="3">
+    <td align="center" valign="top" width="33%">
+      <sub>55</sub><br>
+      <a href="#character-55-caesar-king"><img src="assets/readme/idle/caesar-king.webp" width="155" alt="Caesar idle animation"></a><br>
+      <b>「 Caesar 」</b><br>
+    </td>
+    <td align="center" valign="middle" colspan="2">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1626,6 +1631,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-55-caesar-king" name="character-55-caesar-king"></a>
+<details>
+<summary><b>55 · Caesar</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/caesar-king.webp" width="190" alt="Caesar idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> sage-green hair, amber eyes, a black-and-red fur-collared biker outfit, a mechanical left arm, a gold-star belt, and pale ankle boots<br>
+      <b>Mood:</b> Warm and confident.<br><br>
+      <a href="zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/caesar-king/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/caesar-king/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1706,7 +1733,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-zenless-zone-zero"></a>
 <details>
-<summary><b>Zenless Zone Zero</b> · 11 companions　<kbd>Open</kbd></summary>
+<summary><b>Zenless Zone Zero</b> · 12 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1721,6 +1748,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Vivian Banshee | 2D | `vivian-banshee` | [Download ZIP](zenless-zone-zero/Vivian%20Banshee/vivian-banshee-2d-codex-pet-v2.zip) |
 | Von Lycaon | 2D | `von-lycaon` | [Download ZIP](zenless-zone-zero/Von%20Lycaon/von-lycaon-2d-codex-pet-v2.zip) |
 | Harumasa | 2D | `asaba-harumasa` | [Download ZIP](zenless-zone-zero/Asaba%20Harumasa/asaba-harumasa-2d-codex-pet-v2.zip) |
+| Caesar | 2D | `caesar-king` | [Download ZIP](zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1764,7 +1792,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 55 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 56 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 
