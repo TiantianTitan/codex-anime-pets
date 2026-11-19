@@ -12,8 +12,8 @@
 <p><b>Vos personnages préférés deviennent de petits compagnons animés pour Codex.</b></p>
 
 <p>
-  <code>56 PERSONNAGES</code>
-  <code>57 ÉDITIONS</code>
+  <code>57 PERSONNAGES</code>
+  <code>58 ÉDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 DIRECTIONS</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.fr.webp?v=56" width="100%" alt="Présentation animée des nouveautés March 7th, Caesar et Durandal">
+  <img src="assets/readme/new-arrivals-stage.fr.webp?v=57" width="100%" alt="Présentation animée des nouveautés Caesar, Durandal et Arlecchino">
 </p>
 
 <p align="center">
-  <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
   <a href="#character-55-caesar-king"><kbd>Caesar</kbd></a>
   <a href="#character-56-durandal"><kbd>Durandal</kbd></a>
+  <a href="#character-57-arlecchino"><kbd>Arlecchino</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=56" width="100%" alt="Collection complète de 56 personnages et 57 éditions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.fr.webp?v=57" width="100%" alt="Collection complète de 57 personnages et 58 éditions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 16</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 12</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>Collection complète · 56 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
+<summary><b>Collection complète · 57 personnages</b>　<kbd>Ouvrir la galerie</kbd></summary>
 
 <br>
 
@@ -414,7 +414,14 @@
       <a href="#character-56-durandal"><img src="assets/readme/idle/durandal.webp" width="155" alt="Animation d’attente de Durandal"></a><br>
       <b>「 Durandal 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>57</sub><br>
+      <a href="#character-57-arlecchino"><img src="assets/readme/idle/arlecchino.webp" width="155" alt="Animation d’attente d’Arlecchino"></a><br>
+      <b>「Arlecchino」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Portail animé du prochain compagnon mystère"></a><br>
       <b>Qui nous rejoindra ?</b><br>
       <sub>Apportez une référence et faites éclore un compagnon</sub>
@@ -1678,6 +1685,28 @@ L’édition 3D désigne son rendu visuel. Elle reste, comme les autres, une pla
 
 </details>
 
+<a id="character-57-arlecchino" name="character-57-arlecchino"></a>
+<details>
+<summary><b>57 · Arlecchino</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/arlecchino.webp" width="190" alt="Animation d’attente d’Arlecchino"></td>
+    <td>
+      <b>Style :</b> Sticker animé 2D<br>
+      <b>Détails distinctifs :</b> des cheveux argentés à mèche noire, des pupilles rouges en croix et un manteau blanc doublé de rouge, avec un pantalon sombre et des bottes pointues<br>
+      <b>Expression :</b> Calme, le regard assuré.<br><br>
+      <a href="genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip"><b>Télécharger l’édition 2D</b></a> ·
+      <a href="assets/readme/qa/arlecchino/2d/contact-sheet-extended.png">Planche d’animations</a> ·
+      <a href="assets/readme/qa/arlecchino/2d/look-directions.png">16 directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Cinq compagnons animés bondissent de gauche à droite sous un ciel crépusculaire">
 </p>
@@ -1690,7 +1719,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 15 compagnons　<kbd>Ouvrir</kbd></summary>
+<summary><b>Genshin Impact</b> · 16 compagnons　<kbd>Ouvrir</kbd></summary>
 
 | Personnage | Édition | Pet ID | Archive |
 | --- | --- | --- | --- |
@@ -1709,6 +1738,7 @@ Les packs sont classés par série. Ouvrez un groupe pour afficher ses personnag
 | Nomade | 2D | `wanderer` | [Télécharger](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | Albedo | 2D | `albedo` | [Télécharger](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
 | Diluc | 2D | `diluc` | [Télécharger](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
+| Arlecchino | 2D | `arlecchino` | [Télécharger le ZIP](genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1818,7 +1848,7 @@ Vous obtiendrez :
 
 Pour conserver les deux éditions de Raiden Mei, installez-les dans `raiden-mei/` et `raiden-mei-3d/`. Leurs identifiants sont distincts.
 
-Les ZIP des 57 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
+Les ZIP des 58 éditions utilisent désormais la structure sans dossier englobant ci-dessus et se décompressent directement dans le dossier du personnage. Le manifeste doit se trouver dans `~/.codex/pets/<pet-id>/pet.json`. Avec une ancienne archive, supprimez tout niveau supplémentaire. Sous Windows, utilisez `%USERPROFILE%\.codex\pets\<pet-id>\` ; si `CODEX_HOME` est défini, utilisez son sous-dossier `pets/`.
 
 Dans l’application de bureau, ouvrez **Settings → Pets**, cliquez sur **Refresh**, sélectionnez le personnage, puis saisissez `/pet`. S’il n’apparaît pas, vérifiez le niveau du dossier et la présence des deux fichiers.
 

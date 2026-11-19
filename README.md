@@ -12,8 +12,8 @@
 <p><b>Your favorite characters, reimagined as lively companions for Codex.</b></p>
 
 <p>
-  <code>56 CHARACTERS</code>
-  <code>57 EDITIONS</code>
+  <code>57 CHARACTERS</code>
+  <code>58 EDITIONS</code>
   <code>9 ANIMATIONS</code>
   <code>16 LOOK DIRECTIONS</code>
 </p>
@@ -43,13 +43,13 @@
 
 <a id="new-arrivals"></a>
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.webp?v=56" width="100%" alt="Animated new arrivals showcase with March 7th, Caesar, and Durandal">
+  <img src="assets/readme/new-arrivals-stage.webp?v=57" width="100%" alt="Animated new arrivals showcase with Caesar, Durandal, and Arlecchino">
 </p>
 
 <p align="center">
-  <a href="#character-54-march-7th"><kbd>March 7th</kbd></a>
   <a href="#character-55-caesar-king"><kbd>Caesar</kbd></a>
   <a href="#character-56-durandal"><kbd>Durandal</kbd></a>
+  <a href="#character-57-arlecchino"><kbd>Arlecchino</kbd></a>
 </p>
 
 <div align="center">
@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=56" width="100%" alt="Complete Codex Anime Pets collection wall with 56 characters and 57 editions"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.webp?v=57" width="100%" alt="Complete Codex Anime Pets collection wall with 57 characters and 58 editions"></a>
 </p>
 
 <table align="center" width="100%">
@@ -80,7 +80,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 15</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>Genshin Impact · 16</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>Honkai: Star Rail · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>Honkai Impact 3rd · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>Zenless Zone Zero · 12</kbd></a>
@@ -88,7 +88,7 @@
 </p>
 
 <details>
-<summary><b>Full roster · 56 characters</b>　<kbd>Open character gallery</kbd></summary>
+<summary><b>Full roster · 57 characters</b>　<kbd>Open character gallery</kbd></summary>
 
 <br>
 
@@ -416,7 +416,14 @@
       <a href="#character-56-durandal"><img src="assets/readme/idle/durandal.webp" width="155" alt="Durandal idle animation"></a><br>
       <b>「 Durandal 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>57</sub><br>
+      <a href="#character-57-arlecchino"><img src="assets/readme/idle/arlecchino.webp" width="155" alt="Arlecchino idle animation"></a><br>
+      <b>「Arlecchino」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="Animated mystery companion portal"></a><br>
       <b>Who joins next?</b><br>
       <sub>Bring a reference and hatch a companion</sub>
@@ -1680,6 +1687,28 @@ The 3D edition describes the rendered look. Like every pet here, it is delivered
 
 </details>
 
+<a id="character-57-arlecchino" name="character-57-arlecchino"></a>
+<details>
+<summary><b>57 · Arlecchino</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/arlecchino.webp" width="190" alt="Arlecchino idle animation"></td>
+    <td>
+      <b>Style:</b> 2D anime sticker<br>
+      <b>Signature details:</b> silver hair with a black fringe, red cross-shaped pupils, a white formal coat with crimson lining, dark trousers and pointed boots<br>
+      <b>Mood:</b> Composed, with a measured gaze.<br><br>
+      <a href="genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip"><b>Download 2D edition</b></a> ·
+      <a href="assets/readme/qa/arlecchino/2d/contact-sheet-extended.png">Animation sheet</a> ·
+      <a href="assets/readme/qa/arlecchino/2d/look-directions.png">16 look directions</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="Five animated companions hopping from left to right beneath a twilight sky">
 </p>
@@ -1692,7 +1721,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>Genshin Impact</b> · 15 companions　<kbd>Open</kbd></summary>
+<summary><b>Genshin Impact</b> · 16 companions　<kbd>Open</kbd></summary>
 
 | Character | Edition | Pet ID | Package |
 | --- | --- | --- | --- |
@@ -1711,6 +1740,7 @@ The packages are grouped by series. Open a group to see its characters and downl
 | Wanderer | 2D | `wanderer` | [Download ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | Albedo | 2D | `albedo` | [Download ZIP](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
 | Diluc | 2D | `diluc` | [Download ZIP](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
+| Arlecchino | 2D | `arlecchino` | [Download ZIP](genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1820,7 +1850,7 @@ The resulting folder should look like this:
 
 To keep both Raiden Mei editions, install them in `raiden-mei/` and `raiden-mei-3d/`. Their IDs are separate.
 
-All 57 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
+All 58 edition ZIPs now use the flat layout above and can be extracted directly into the character's directory. The manifest must be at `~/.codex/pets/<pet-id>/pet.json`. Remove any extra wrapping folder when using an older archive. On Windows, use `%USERPROFILE%\.codex\pets\<pet-id>\`; if you set `CODEX_HOME`, use its `pets/` directory.
 
 In the desktop app, open **Settings → Pets**, click **Refresh**, select the character, and enter `/pet` to show it. If it is missing, check the folder depth and that both package files were copied.
 

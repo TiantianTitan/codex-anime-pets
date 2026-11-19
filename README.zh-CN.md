@@ -12,8 +12,8 @@
 <p><b>把喜欢的角色，变成陪在 Codex 身边的动画伙伴。</b></p>
 
 <p>
-  <code>56 个角色</code>
-  <code>57 个版本</code>
+  <code>57 个角色</code>
+  <code>58 个版本</code>
   <code>9 组动画</code>
   <code>16 向视线</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=56" width="100%" alt="三月七、凯撒和幽兰黛尔的新角色动态展示">
+  <img src="assets/readme/new-arrivals-stage.zh-CN.webp?v=57" width="100%" alt="凯撒、幽兰黛尔和阿蕾奇诺的新角色动态展示">
 </p>
 
 <p align="center">
-  <a href="#character-54-march-7th"><kbd>三月七</kbd></a>
   <a href="#character-55-caesar-king"><kbd>凯撒</kbd></a>
   <a href="#character-56-durandal"><kbd>幽兰黛尔</kbd></a>
+  <a href="#character-57-arlecchino"><kbd>阿蕾奇诺</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=56" width="100%" alt="包含五十六位角色、五十七个版本的完整角色收藏墙"></a>
+  <a href="#character-archive"><img src="assets/readme/character-collection-wall.zh-CN.webp?v=57" width="100%" alt="包含五十七位角色、五十八个版本的完整角色收藏墙"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 15</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 16</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩坏：星穹铁道 · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩坏3 · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>绝区零 · 12</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>完整收藏 · 56 位角色</b>　<kbd>展开角色画廊</kbd></summary>
+<summary><b>完整收藏 · 57 位角色</b>　<kbd>展开角色画廊</kbd></summary>
 
 <br>
 
@@ -414,7 +414,14 @@
       <a href="#character-56-durandal"><img src="assets/readme/idle/durandal.webp" width="155" alt="幽兰黛尔的待机动画"></a><br>
       <b>「 幽兰黛尔 」</b><br>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
+      <sub>57</sub><br>
+      <a href="#character-57-arlecchino"><img src="assets/readme/idle/arlecchino.webp" width="155" alt="阿蕾奇诺的待机动画"></a><br>
+      <b>「 阿蕾奇诺 」</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3">
       <a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="下一位神秘伙伴的动态召唤门"></a><br>
       <b>下一位会是谁？</b><br>
       <sub>带来参考图，孵化新的伙伴</sub>
@@ -1678,6 +1685,28 @@
 
 </details>
 
+<a id="character-57-arlecchino" name="character-57-arlecchino"></a>
+<details>
+<summary><b>57 · 阿蕾奇诺</b></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="220"><img src="assets/readme/archive-previews/arlecchino.webp" width="190" alt="阿蕾奇诺的待机动画"></td>
+    <td>
+      <b>风格：</b> 2D 动漫贴纸<br>
+      <b>外观：</b> 带黑色挑染的银发、红色十字瞳，白色礼服长外套配深红内衬、深色长裤与尖头短靴<br>
+      <b>神态：</b> 从容克制，目光沉静。<br><br>
+      <a href="genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip"><b>下载 2D 版本</b></a> ·
+      <a href="assets/readme/qa/arlecchino/2d/contact-sheet-extended.png">完整动作表</a> ·
+      <a href="assets/readme/qa/arlecchino/2d/look-directions.png">16 向视线</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 <p align="center">
   <img src="assets/readme/companion-hop-parade.gif" width="100%" alt="五位动画角色在暮色下排成队列从左向右跳跃">
 </p>
@@ -1690,7 +1719,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 15 位角色　<kbd>展开</kbd></summary>
+<summary><b>原神</b> · 16 位角色　<kbd>展开</kbd></summary>
 
 | 角色 | 版本 | Pet ID | 成品包 |
 | --- | --- | --- | --- |
@@ -1709,6 +1738,7 @@
 | 流浪者 | 2D | `wanderer` | [下载 ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | 阿贝多 | 2D | `albedo` | [下载 ZIP](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
 | 迪卢克 | 2D | `diluc` | [下载 ZIP](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
+| 阿蕾奇诺 | 2D | `arlecchino` | [下载 ZIP](genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -1818,7 +1848,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 
 如果想同时保留雷电芽衣的两个版本，请分别安装到 `raiden-mei/` 和 `raiden-mei-3d/`；它们使用不同的 ID。
 
-全部 57 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
+全部 58 个版本的 ZIP 均已统一为上述结构，可直接解压到对应角色目录。确认文件位于 `~/.codex/pets/<角色ID>/pet.json`；若使用旧版压缩包，请移除多余的外层文件夹。Windows 用户使用 `%USERPROFILE%\.codex\pets\<角色ID>\`；设置过 `CODEX_HOME` 的用户以该目录下的 `pets/` 为准。
 
 复制完成后，在桌面应用的 **设置 → Pets（宠物）** 中点击 **Refresh（刷新）**，选择角色，再输入 `/pet` 显示。未出现时，先检查目录层级和图集是否一起复制。
 

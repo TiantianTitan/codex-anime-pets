@@ -12,8 +12,8 @@
 <p><b>お気に入りのキャラクターを、Codex と一緒に過ごす動くペットに。</b></p>
 
 <p>
-  <code>56 キャラクター</code>
-  <code>57 エディション</code>
+  <code>57 キャラクター</code>
+  <code>58 エディション</code>
   <code>9 アニメーション</code>
   <code>16 視線方向</code>
 </p>
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/new-arrivals-stage.ja.webp?v=56" width="100%" alt="三月なのか、シーザー、デュランダルの新着アニメーション展示">
+  <img src="assets/readme/new-arrivals-stage.ja.webp?v=57" width="100%" alt="シーザー、デュランダル、アルレッキーノの新着アニメーション展示">
 </p>
 
 <p align="center">
-  <a href="honkai-star-rail/March%207th/march-7th-2d-codex-pet-v2.zip"><kbd>三月なのか</kbd></a>
   <a href="zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip"><kbd>シーザー</kbd></a>
   <a href="honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip"><kbd>デュランダル</kbd></a>
+  <a href="genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip"><kbd>アルレッキーノ</kbd></a>
 </p>
 
 <div align="center">
@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=56" width="100%" alt="56キャラクター、57エディションのコレクション一覧"></a>
+  <a href="#character-list"><img src="assets/readme/character-collection-wall.ja.webp?v=57" width="100%" alt="57キャラクター、58エディションのコレクション一覧"></a>
 </p>
 
 <table align="center" width="100%">
@@ -78,7 +78,7 @@
 </table>
 
 <p align="center">
-  <a href="#downloads-genshin-impact"><kbd>原神 · 15</kbd></a>
+  <a href="#downloads-genshin-impact"><kbd>原神 · 16</kbd></a>
   <a href="#downloads-honkai-star-rail"><kbd>崩壊：スターレイル · 15</kbd></a>
   <a href="#downloads-honkai-impact-3rd"><kbd>崩壊3rd · 11</kbd></a>
   <a href="#downloads-zenless-zone-zero"><kbd>ゼンレスゾーンゼロ · 12</kbd></a>
@@ -86,7 +86,7 @@
 </p>
 
 <details>
-<summary><b>全コレクション · 56キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
+<summary><b>全コレクション · 57キャラクター</b>　<kbd>ギャラリーを開く</kbd></summary>
 
 <br>
 
@@ -223,14 +223,21 @@
     <td align="center" valign="top" width="33%">
       <sub>55</sub><br>
       <a href="zenless-zone-zero/Caesar%20King/caesar-king-2d-codex-pet-v2.zip"><img src="assets/readme/idle/caesar-king.webp" width="155" alt="シーザーの待機アニメーション"></a><br>
-      <b>「 シーザー 」</b><br>
+      <b>「シーザー」</b><br>
     </td>
     <td align="center" valign="top" width="33%">
       <sub>56</sub><br>
       <a href="honkai-impact-3rd/Durandal/durandal-2d-codex-pet-v2.zip"><img src="assets/readme/idle/durandal.webp" width="155" alt="デュランダルの待機アニメーション"></a><br>
       <b>デュランダル</b><br>
     </td>
-    <td align="center" valign="middle" width="33%"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
+    <td align="center" valign="top" width="33%">
+      <sub>57</sub><br>
+      <a href="genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip"><img src="assets/readme/idle/arlecchino.webp" width="155" alt="アルレッキーノの待機アニメーション"></a><br>
+      <b>ア&#8288;ル&#8288;レ&#8288;ッ&#8288;キ&#8288;ー&#8288;ノ</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3"><a href="#contribute-a-character"><img src="assets/readme/next-companion.svg" width="70" alt="次のキャラクター"></a><br><b>次は誰？</b><br><sub>参考画像から、新しい仲間を孵化させよう</sub></td>
   </tr>
 </table>
 
@@ -250,7 +257,7 @@
 
 <a id="downloads-genshin-impact"></a>
 <details>
-<summary><b>原神</b> · 15キャラクター　<kbd>開く</kbd></summary>
+<summary><b>原神</b> · 16キャラクター　<kbd>開く</kbd></summary>
 
 | キャラクター | 形式 | ID | ダウンロード |
 | --- | --- | --- | --- |
@@ -269,6 +276,7 @@
 | 放浪者 | 2D | `wanderer` | [ZIP](genshin-impact/Wanderer/wanderer-2d-codex-pet-v2.zip) |
 | アルベド | 2D | `albedo` | [ZIP](genshin-impact/Albedo/albedo-2d-codex-pet-v2.zip) |
 | ディルック | 2D | `diluc` | [ZIP](genshin-impact/Diluc/diluc-2d-codex-pet-v2.zip) |
+| アルレッキーノ | 2D | `arlecchino` | [ZIP をダウンロード](genshin-impact/Arlecchino/arlecchino-2d-codex-pet-v2.zip) |
 
 </details>
 
@@ -376,7 +384,7 @@ unzip genshin-impact/xiao/xiao-2d.zip -d ~/.codex/pets/xiao
 └── README.md
 ```
 
-全 57 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
+全 58 バージョンの ZIP は上記の構成に統一され、キャラクターのディレクトリへ直接展開できます。`pet.json` は `~/.codex/pets/<pet-id>/pet.json` に配置してください。旧版 ZIP を使う場合は余分な外側のフォルダーを取り除きます。Windows では `%USERPROFILE%\.codex\pets\<pet-id>\`、`CODEX_HOME` を設定している場合はその中の `pets/` を使います。
 
 デスクトップアプリの **Settings → Pets** で **Refresh** を押し、キャラクターを選んで `/pet` を入力すると表示できます。見つからない場合は、フォルダーの階層と両方のファイルがコピーされているかを確認してください。
 
